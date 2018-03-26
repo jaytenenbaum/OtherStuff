@@ -1,0 +1,133 @@
+ 
+ 
+  
+{{Infobox company
+| name = Google Inc.
+| logo =  
+| type = Public
+| traded_as =   NASDAQ-100|NASDAQ-100 Component S&P 500|S&P 500 Component
+| industry = Internet Computer software Telecoms equipment Menlo Park, California, United States ( )   
+| founder =  
+| location_city =  , California
+| location_country = United States
+| area_served = Worldwide Executive Chairman) Larry Page (Co-founder & CEO) Sergey Brin (Co-founder)
+| products = See list of Google products.
+| revenue =   US$ 50.18&nbsp;billion (2012)   
+| operating_income =   US$ 12.76&nbsp;billion (2012) 
+| net_income =   US$ 10.74&nbsp;billion (2012) 
+| assets =   US$ 93.80&nbsp;billion (2012) 
+| equity =   US$ 71.72&nbsp;billion (2012) 
+| num_employees = 53,891  (Q1 2013)  {{cite web| url= http://investor.google.com/financial/tables.html |title=Googles Income Statement Information 
+ | publisher = Google}} 
+| subsid =  
+| homepage =  
+| intl = yes
+| footnotes =   
+}}
+Google Inc. is an American  .  Most of its profits derive from AdWords.     
+
+ Google was founded by Larry Page and Sergey Brin while they were Doctor of Philosophy|Ph.D. students at Stanford University. Together they own about 16&nbsp;percent of its stake. They incorporated Google as a privately held company on September&nbsp;4, 1998. An initial public offering followed on August&nbsp;19, 2004. Its mission statement from the outset was "to organize the worlds information and make it universally accessible and useful",    and its unofficial slogan was "Dont be evil".   In 2006 Google moved to headquarters in Mountain View, California.
+ Kansas City to facilitate a Google Fiber broadband service.   
+
+ The corporation has been estimated to run more than one million servers in data centers around the world  and to process over one billion search requests  and about twenty-four petabytes of user-generated data each day.     Alexa listed criticism over issues including copyright, censorship, and privacy.    
+
+== History ==
+ 
+ , the markup language for designing web pages. |alt=Googles homepage in 1998]] Google began in January 1996 as a research project by Larry Page and Sergey Brin when they were both PhD students at Stanford University in Stanford, California.   
+ relevance by the number of pages, and the importance of those pages, that linked back to the original site.  
+
+A small search engine called "RankDex" from IDD Information Services designed by Robin Li was, since 1996, already exploring a similar strategy for site-scoring and page ranking.  The technology in RankDex would be patented  and used later when Li founded Baidu in China.  
+
+Page and Brin originally nicknamed their new search engine "BackRub", because the system checked backlinks to estimate the importance of a site.    Eventually, they changed the name to Google, originating from a misspelling of the word "googol",    the number one followed by one hundred zeros, which was picked to signify that the search engine was intended to provide large quantities of information.  Originally, Google ran under Stanford Universitys website, with the domains google.stanford.edu and z.stanford.edu.  
+ Menlo Park, California. Craig Silverstein, a fellow PhD student at Stanford, was hired as the first employee.   
+
+In May 2011, the number of monthly unique visitors to Google surpassed one billion for the first time, an 8.4&nbsp;percent increase from May 2010 (931&nbsp;million).  In January 2013, Google announced it had earned $50&nbsp;billion in annual revenue for the year of 2012. This marked the first time the company had reached this feat, topping their 2011 total of $38&nbsp;billion. 
+
+=== Financing and initial public offering ===
+ 
+
+The first funding for Google was an August 1998 contribution of   from Andy Bechtolsheim, co-founder of Sun Microsystems, given before Google was even incorporated.    Early in 1999, while graduate students, Brin and Page decided that the search engine they had developed was taking up too much of their time from academic pursuits. They went to Excite CEO George Bell and offered to sell it to him for $1&nbsp;million. He rejected the offer and later criticized Vinod Khosla, one of Excites venture capitalists, after he negotiated Brin and Page down to $750,000. On June 7, 1999, a $25&nbsp;million round of funding was announced,  with major investors including the venture capital firms Kleiner Perkins Caufield & Byers and Sequoia Capital. 
+
+Googles initial public offering (IPO) took place five years later on August 19, 2004. At that time Larry Page, Sergey Brin, and Eric Schmidt agreed to work together at Google for 20 years, until the year 2024.  The company offered 19,605,052 shares at a price of $85 per share.     Shares were sold in a unique online auction format using a system built by Morgan Stanley and Credit Suisse, underwriters for the deal.   The sale of $1.67&nbsp;billion gave Google a market capitalization of more than $23&nbsp;billion.    The vast majority of the 271&nbsp;million shares remained under the control of Google, and many Google employees became instant paper millionaires. Yahoo!, a competitor of Google, also benefited because it owned 8.4&nbsp;million shares of Google before the IPO took place.   
+
+Some people speculated that Googles IPO would inevitably lead to changes in company culture. Reasons ranged from shareholder pressure for employee benefit reductions to the fact that many company executives would become instant paper millionaires.  As a reply to this concern, co-founders Sergey Brin and Larry Page promised in a report to potential investors that the IPO would not change the companys culture.  In 2005, however, articles in   and ageism from former employees.  
+
+The stock performed well after the IPO, with shares hitting $700 for the first time on October 31, 2007,  primarily because of strong sales and earnings in the online advertising market.    The surge in stock price was fueled mainly by individual investors, as opposed to large institutional investors and mutual funds.  The company is listed on the NASDAQ stock exchange under the ticker symbol GOOG and on the Frankfurt Stock Exchange under the ticker symbol GGQ1.
+
+=== Growth ===
+ Bill Gross.       When the company changed names to Overture Services, it sued Google over alleged infringements of the companys pay-per-click and bidding patents. Overture Services would later be bought by Yahoo! and renamed Yahoo! Search Marketing. The case was then settled out of court; Google agreed to issue shares of common stock to Yahoo! in exchange for a perpetual license. 
+
+In 2001, Google received a patent for its PageRank mechanism.    The patent was officially assigned to Stanford University and lists Lawrence Page as the inventor. In 2003, after outgrowing two other locations, the company leased an office complex from Silicon Graphics at 1600 Amphitheatre Parkway in Mountain View, California.    The complex became known as the Googleplex, a play on the word googolplex, the number one followed by a googol zeroes. The Googleplex interiors were designed by Clive Wilkinson Architects. Three years later, Google bought the property from SGI for $319&nbsp;million.    By that time, the name "Google" had found its way into everyday language, causing the verb "google (verb)|google" to be added to the Merriam-Webster Collegiate Dictionary and the Oxford English Dictionary, denoted as "to use the Google search engine to obtain information on the Internet."  
+
+=== Acquisitions and partnerships ===
+ 
+  and Sergey Brin in 2003]] not material" in a regulatory filing.     In June 2008, a Forbes magazine article projected the 2008 YouTube revenue at US$200&nbsp;million, noting progress in advertising sales.    On April 13, 2007, Google reached an agreement to acquire DoubleClick for $3.1&nbsp;billion, giving Google valuable relationships that DoubleClick had with Web publishers and advertising agencies.    Later that same year, Google purchased GrandCentral for $50&nbsp;million.  The site would later be changed over to Google Voice. On August 5, 2009, Google bought out its first public company, purchasing video software maker On2 Technologies for $106.5&nbsp;million.  Google also acquired Aardvark (search engine)|Aardvark, a social network search engine, for $50&nbsp;million, and commented on its internal blog, "were looking forward to collaborating to see where we can take it".  In April 2010, Google announced it had acquired a hardware startup, Agnilux. 
+ Fox Interactive Media of News Corporation entered into a $900&nbsp;million agreement to provide search and advertising on the then-popular social networking site MySpace.   
+
+In 2007, Google began sponsoring NORAD Tracks Santa, displacing former sponsor AOL. NORAD Tracks Santa purports to follow Santa Claus progress on Christmas Eve,    using Google Earth to "track Santa" in 3-D for the first time.    Google-owned YouTube gave NORAD Tracks Santa its own channel.   
+ Life Magazines photographs. Some of the images in the archive were never published in the magazine.  The photos were watermarked and originally had copyright notices posted on all photos, regardless of public domain status. 
+
+In 2010, Google Energy made its first investment in a renewable energy project, putting $38.8&nbsp;million into two wind farms in North Dakota. The company announced the two locations will generate 169.5&nbsp;megawatts of power, enough to supply 55,000 homes. The farms, which were developed by NextEra Energy Resources, will reduce fossil fuel use in the region and return profits. NextEra Energy Resources sold Google a twenty-percent stake in the project to get funding for its development.  Also in 2010, Google purchased Global IP Solutions, a Norway-based company that provides web-based teleconferencing and other related services. This acquisition enabled Google to add telephone-style services to its list of products.  On May 27, 2010, Google announced it had also closed the acquisition of the mobile ad network AdMob. This occurred days after the Federal Trade Commission closed its investigation into the purchase.  Google acquired the company for an undisclosed amount.  In July 2010, Google signed an agreement with an Iowa wind farm to buy 114 megawatts of energy for 20 years.   
+
+On April 4, 2011, The Globe and Mail reported that Google bid $900&nbsp;million for six thousand Nortel Networks patents. 
+
+On August 15, 2011, Google made its largest-ever acquisition to-date when announced that it would acquire Motorola Mobility for $12.5&nbsp;billion   subject to approval from regulators in the United States and Europe. In a post on Googles blog, Google Chief Executive and co-founder Larry Page revealed that the acquisition was a strategic move to strengthen Googles patent portfolio. The companys Android operating system has come under fire in an industry-wide patent battle, as Apple and Microsoft have sued Android device makers such as HTC, Samsung, and Motorola.    The merger was completed on the May 22, 2012, after the approval of Peoples Republic of China. 
+ Apple and Microsoft  and to allow it to continue to freely offer Android (operating system)|Android.    After the acquisition closed, Google began to restructure the Motorola business to fit Googles strategy.  On August 13, 2012, Google announced plans to layoff 4000 Motorola Mobility employees.  On December 10, 2012, Google sold the manufacturing operations of Motorola Mobility to Flextronics for $75&nbsp;million.  As a part of the agreement, Flextronics will manufacture undisclosed Android and other mobile devices.   On December 19, 2012, Google sold the Motorola Home business division of Motorola Mobility to Arris Group for $2.35&nbsp;billion in a cash-and-stock transaction.  As a part of this deal, Google acquired a 15.7% stake in Arris Group valued at $300&nbsp;million. 
+
+On June 5, 2012, Google announced it acquired Quickoffice, a company widely known for their mobile productivity suite for both iOS and Android. Google plans to integrate Quickoffices technology into its own product suite. 
+
+On February 6, 2013, Google announced it has acquired Channel Intelligence for $125&nbsp;million. Channel Intelligence, a technology company that helps customers buy products online, is active globally in 31 different countries and works with over 850 retailers. Google will use this technology to enhance its e-commerce business. 
+
+=== Google data centers ===
+ data centers across the U.S., plus one in Finland and another in Belgium. On September 28, 2011, the company announced plans to build three data centers at a cost of more than $200&nbsp;million in Asia (Singapore, Hong Kong and Taiwan) and purchased the land for them. Google said they will be operational within two years.  
+
+== Products and services ==
+ 
+
+=== Advertising ===
+
+For the 2006 fiscal year, the company reported $10.492&nbsp;billion in total advertising revenues and only $112&nbsp;million in licensing and other revenues.    In 2011, 96% of Googles revenue was derived from its advertising programs.    Google has implemented various innovations in the online advertising market that helped make it one of the biggest brokers in the market. Using technology from the company DoubleClick, Google can determine user interests and target advertisements so they are relevant to their context and the user that is viewing them.   Google Analytics allows website owners to track where and how people use their website, for example by examining click rates for all the links on a page.  Google advertisements can be placed on third-party websites in a two-part program. Googles AdWords allows advertisers to display their advertisements in the Google content network, through either a cost-per-click or cost-per-view scheme. The sister service, Google AdSense, allows website owners to display these advertisements on their website and earn money every time ads are clicked.   
+
+One of the disadvantages and criticisms of this program is Googles inability to combat click fraud, when a person or automated script "clicks" on advertisements without being interested in the product, causing that advertiser to pay money to Google unduly. Industry reports in 2006 claim that approximately 14 to 20&nbsp;percent of clicks were fraudulent or invalid.  Furthermore, there has been controversy over Googles "search within a search", where a secondary search box enables the user to find what they are looking for within a particular website. It was soon reported that when performing a search within a search for a specific company, advertisements from competing and rival companies often showed up along with those results, drawing users away from the site they were originally searching. 
+ antitrust concerns by the United States Department of Justice|U.S. Department of Justice. As a result, Google pulled out of the deal in November 2008.  
+ technology demos Google Products.  Each week, two teams compete at putting Googles technology into new contexts. Search Engine Journal said Demo Slam is "a place where creative and tech-savvy people can create videos to help the rest of the world understand all the newest and greatest technology out there." 
+
+=== Search engine ===
+ 
+ 
+
+Google Search, a web search engine, is the companys most popular service. According to market research published by comScore in November 2009, Google is the dominant search engine in the United States market, with a market share of 65.6%.    Google indexes billions  of web pages, so that users can search for the information they desire through the use of keywords and operators.
+
+Despite its popularity, it has received criticism from a number of organizations. In 2003,   has compiled a list of words that the web giants new  , a desktop search application used to search for files local to ones computer, but discontinued it in 2011. Googles most recent development in search is its partnership with the United States Patent and Trademark Office to create Google Patents, which enables free access to information about patents and trademarks.
+
+One of the more controversial search services Google hosts is Google Books. The company began scanning books and uploading limited previews, and full books where allowed, into its new book search engine. The Authors Guild, a group that represents 8,000 U.S. authors, filed a class action suit in a New York City federal court against Google in 2005 over this service. Google replied that it is in compliance with all existing and historical applications of copyright laws regarding books.  Google eventually reached a revised settlement in 2009 to limit its scans to books from the U.S., the UK, Australia, and Canada.  Furthermore, the Paris Civil Court ruled against Google in late 2009, asking it to remove the works of La Martinière (Éditions du Seuil) from its database.    In competition with Amazon.com, Google sells digital versions of new books. 
+
+On July 21, 2010, in response to newcomer Bing, Google updated its image search to display a streaming sequence of thumbnails that enlarge when pointed at. Though web searches still appear in a batch per page format, on July 23, 2010, dictionary definitions for certain English words began appearing above the linked results for web searches.  Googles algorithm was changed in March 2011, giving more weight to high-quality content  possibly by the use of n-grams to remove spun content. 
+
+During the Google I/O conference in May 2013, Googles Amit Singhal presented on the future of search, explaining that a search engines three primary functions will need to evolve and that search will need to: 1. Answer, 2. Converse, and 3. Anticipate. As part of his keynote talk, Singhal stated, "A computer you can talk to? And it will answer everything you ask it? Little did I know, I would grow up to become the person responsible for building my dream for the entire world." Conversational search technology was then featured and Singhal introduced the term "hot-wording" to describe search without the need for an interface, whereby the user simply prompts the Google search engine by stating, "Ok Google." The I/O audience was then shown a demonstration in which a user asked a question and the search engine answered back in "conversation," in addition to the presentation of results for the query. 
+
+=== Productivity tools ===
+ beta program on April 1, 2004,  and became available to the general public on February 7, 2007.  The service was upgraded from beta status on July 7, 2009,    at which time it had 146&nbsp;million users monthly.  The service was the first online email service with one gigabyte of storage. It was also the first to keep emails from the same conversation together in one thread, similar to an Internet forum.    The service offers over 7600 MB of free storage with additional storage ranging from 20 GB to 16 TB available for   per 1 GB per year.  Furthermore, software developers know Gmail for its pioneering use of Ajax (programming)|AJAX, a programming technique that allows web pages to be interactive without refreshing the browser.  One criticism of Gmail has been the potential for data disclosure, a risk associated with many online web applications. Steve Ballmer (Microsofts CEO),  Liz Figueroa,  Mark Rasch,  and the editors of Google Watch  believe the processing of email message content goes beyond proper use, but Google claims that mail sent to or from Gmail is never read by a human being beyond the account holder and is only used to improve relevance of advertisements. 
+
+Google Docs, another part of Googles productivity suite, allows users to create, edit, and collaborate on documents in an online environment, similar to Microsoft Word. The service was originally called Writely, but was obtained by Google on March 9, 2006, and was released as an invitation-only preview.  On June 6 after the acquisition, Google created an experimental spreadsheet editing program,  which was combined with Google Docs on October 10.  A program to edit presentations completed the set on September 17, 2007,  before all three services were taken out of beta along with Gmail, Google Calendar, and all products from the Google Apps Suite on July 7, 2009. 
+
+=== Enterprise products ===
+ |alt=Googles search appliance]]
+ Mini three years later, which was targeted at smaller organizations. Late in 2006, Google began to sell Custom Search Business Edition, providing customers with an advertising-free window into Google.coms index. The service was renamed Google Site Search in 2008.   
+
+   and proceeded to integrate the companys security technologies into Google Apps  under the name Google Postini Services. 
+
+Additional Google enterprise offerings include geospatial solutions (e.g., Google Earth and Google Maps); security and archival solutions (e.g., Postini); and Chromebooks for business and education (i.e., personal computing run on browser-centric operating systems).
+
+=== Other products === Google phone"]]
+Google Translate is a server-side machine translation service, which can translate between 35 different languages. Browser extensions allow for easy access to Google Translate from the browser. The software uses corpus linguistics techniques, where the program "learns" from professionally translated documents, specifically UN and European Parliament proceedings.  Furthermore, a "suggest a better translation" feature accompanies the translated text, allowing users to indicate where the current translation is incorrect or otherwise inferior to another translation.
+
+Google launched its Google News service in 2002. The company announced the creation of a "highly unusual" site that "offers a news service compiled solely by computer algorithms without human intervention. Google employs no editors, managing editors, or executive editors."  The site hosts less licensed news content than Yahoo! News. Instead, it presents topically selected links to news and opinion pieces along with reproductions of their headlines, story leads, and photographs.  The photographs are typically reduced to thumbnail size and placed next to headlines from other news sources on the same topic to minimize copyright infringement claims. Nevertheless, Agence France Presse (AFP) sued Google for copyright infringement in federal court in the District of Columbia, a case which Google settled for an undisclosed amount in a pact that included a license of the full text of AFP articles for use on Google News. 
+
+In 2006, Google made a bid to offer free wireless broadband access throughout the city of San Francisco along with Internet service provider EarthLink. Large telecommunications companies such as Comcast and Verizon opposed such efforts, claiming it was "unfair competition" and that cities would be violating their commitments to offer local monopolies to these companies. In his testimony before Congress on network neutrality in 2006, Googles Chief Internet Evangelist Vint Cerf blamed such tactics on the fact that nearly half of all consumers lack meaningful choice in broadband providers.  Google currently offers free wi-fi access in its hometown of Mountain View, California. 
+
+In 2010, Google announced the Google Fiber project with plans to build an ultra-high-speed broadband network for 50,000 to 500,000 customers in one or more American cities.    On March 30, 2011, Google announced that Kansas City, Kansas would be the first community where the new network would be deployed.  In July 2012, Google completed the construction of a fiber-optic broadband internet network infrastructure in Kansas City, and after building an infrastructure, Google announced pricing for Google Fiber. The service will offer three options including a free broadband internet option, a 1Gbit/s internet option for $70 per month, and a version that includes television service for $120 per month. 
+ Apache 2.0 license.  Google provides a software development kit for developers so applications can be created to be run on Android-based phones. In September 2008, T-Mobile released the T-Mobile G1|G1, the first Android-based phone.  On January 5, 2010, Google released an Android phone under its own company name called the Nexus One. 
+ open source web browser,  which was then released on September 2, 2008. On July 7, 2009, Google announced Google Chrome OS, an open source Linux|Linux-based operating system that includes only a web browser and is designed to log users into their Google account.  
+
+Google Goggles is a mobile application available on Android and iOS used for image recogni

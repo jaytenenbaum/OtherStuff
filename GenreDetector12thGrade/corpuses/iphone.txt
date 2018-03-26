@@ -1,0 +1,216 @@
+
+iPhone
+From Wikipedia, the free encyclopedia
+  (Redirected from Iphone)
+This article is about the line of smartphones by Apple. For other uses, see iPhone (disambiguation).
+
+iPhone
+
+The iPhone 5, the newest type of iPhone, as it appears in advertisements.
+Developer	Apple Inc.
+Manufacturer	Foxconn (on contract)
+Type	smartphone
+Release date	1st gen: June 29, 2007
+3G: July 11, 2008
+3GS: June 19, 2009
+4: June 24, 2010
+4S: October 14, 2011
+5: September 21, 2012
+Units sold	250 million[1]
+Operating system	iOS[2]
+Power	Built-in rechargeable Li-Po battery
+1st gen: 3.7 V 5.18 Wh (1400 mAh)
+3G: 3.7 V 4.12 Wh (1150 mAh)
+3GS 3.7 V 4.51 Wh (1219 mAh)
+4: 3.7 V 5.25 Wh (1420 mAh)
+4S: 3.7 V 5.3 Wh (1432 mAh)
+5: 3.8 V 5.45 Wh (1440 mAh)
+System-on-chip used	1st gen:
+3G:
+3GS:
+4: Apple A4
+4S: Apple A5
+5: Apple A6
+CPU	1st gen and 3G:
+Samsung 32-bit RISC ARM 1176JZ(F)-S v1.0[3]
+3GS:
+600 MHz ARM Cortex-A8[4]
+4:
+ARM Cortex-A8[5]
+4S:
+800 MHz dual-core ARM Cortex-A9[6]
+5:
+1.3 GHz dual core Apple A6
+Storage capacity	4, 8, 16, 32, or 64 GB flash memory[7]
+Memory	1st gen and 3G:
+128 MB LPDDR DRAM (137 MHz)
+3GS:
+256 MB LPDDR DRAM (200 MHz)
+4:
+512 MB LPDDR2 DRAM (200 MHz)
+4S:
+512 MB LPDDR2 DRAM
+5:
+1 GB LPDDR2 DRAM
+Display	1st gen and 3G:
+3.5 in (89 mm)
+3:2 aspect ratio, scratch-resistant[8] glossy glass covered screen, 262,144-color (18-bit) TN LCD, 480  320 px (HVGA) at 163 ppi, 200:1 contrast ratio
+3GS:
+In addition to prior, features a fingerprint-resistant oleophobic coating,[9] and 262,144-color (18-bit) TN LCD with hardware spatial dithering[10]
+4 and 4S:
+3.5 in (89 mm), 3:2 aspect ratio, aluminosilicate glass covered 16,777,216-color (24-bit) IPS LCD screen, 960  640 px at 326 ppi, 800:1 contrast ratio, 500 cdm max brightness
+5:
+4.0 in (100 mm);16:9 aspect ratio;1136 x 640 px screen resolution at 326 ppi
+Graphics	1st gen and 3G:
+PowerVR MBX Lite 3D GPU[11] (103 MHz)
+3GS:
+PowerVR SGX535 GPU
+(150 MHz)[12][13]
+4:
+PowerVR SGX535 GPU
+(200 MHz)[12][13]
+4S:
+PowerVR SGX543MP2 (2-core) GPU[14]
+5:
+PowerVR SGX543MP3 (3-core) GPU
+Connectivity	
+Wi-Fi 802.11 a/b/g/n
+1st gen and 3G:
+Bluetooth 2.1 + EDR
+GSM models also include UMTS / HSDPA 850, 1900, 2100 MHz  GSM / EDGE 850, 900, 1800, 1900 MHz)
+CDMA model also includes CDMA/EV-DO Rev. A 800, 1900 MHz
+3GS:
+Bluetooth 4.0 technology
+GSM models also include LTE 700, 2100 MHz  UMTS / HSDPA/HSPA+ / DC-HSDPA 850, 900, 1900, 2100 MHz GSM / EDGE 850, 900, 1800, 1900 MHz
+CDMA model also includes LTE 700 MHz CDMA/EV-DO Rev. A 800, 1900 MHz  UMTS / HSDPA/HSPA+/DC-HSDPA 850, 900, 1900, 2100 MHz GSM / EDGE 850, 900, 1800, 1900 MHz
+Online services	iTunes Store, App Store, iCloud, iBooks, Passbook
+Dimensions	1st gen:
+115 mm (4.5 in) H
+61 mm (2.4 in) W
+11.6 mm (0.46 in) D
+3G and 3GS:
+115.5 mm (4.55 in) H
+62.1 mm (2.44 in) W
+12.3 mm (0.48 in) D
+4 and 4S:
+115.2 mm (4.54 in) H
+58.6 mm (2.31 in) W
+9.3 mm (0.37 in) D
+5:
+123.8 mm (4.87 in) H
+58.6 mm (2.31 in) W
+7.6 mm (0.30 in) D
+Weight	1st gen and 3GS:
+135 g (4.8 oz)
+3G:
+133 g (4.7 oz)
+4:
+137 g (4.8 oz)
+4S:
+140 g (4.9 oz)
+5:
+112 g (4.0 oz)
+Related articles	iPad, iPod Touch (Comparison)
+Website	www.apple.com/iphone
+This article is part of a series on the
+iPhone
+iPhone (1st generation)
+iPhone 3G
+iPhone 3GS
+iPhone 4
+iPhone 4S
+iPhone 5
+List of iPhone models
+v t e
+The iPhone (pron.: /afon/ eye-fohn) is a line of smartphones designed and marketed by Apple Inc. It runs Apple's iOS mobile operating system, known as the "iPhone OS" until June 2010, with the release of iOS 4.[15] The first generation iPhone was released on June 29, 2007;[16] the most recent iPhone, the sixth-generation iPhone 5, on September 21, 2012.[17] The user interface is built around the device's multi-touch screen, including a virtual keyboard. The iPhone has Wi-Fi and cellular connectivity (2G, 3G, 4G, and LTE).
+An iPhone can shoot video (though this was not a standard feature until the iPhone 3GS), take photos, play music, send and receive email, browse the web, send texts, and receive visual voicemail. Other functionsgames, reference, GPS navigation, social networking, etc.can be enabled by downloading apps; as of 2012, the App Store offered more than 775,000 apps by Apple and third parties.[18]
+There are six generations of iPhone models, each accompanied by one of the six major releases of iOS. The original 1st generation iPhone was a GSM phone, and established design precedents, such as a button placement that has persisted through all models and a screen size maintained until the launch of the iPhone 5 in 2012. The iPhone 3G added 3G cellular network capabilities and A-GPS location. The iPhone 3GS added a faster processor and a higher-resolution camera that could record video at 480p. The iPhone 4 featured a higher-resolution 960  640 "retina display", a VGA front-facing camera for video calling and other apps, and a 5-megapixel rear-facing camera with 720p video capture.[19] The iPhone 4S upgrades to an 8-megapixel camera with 1080p video recording, a dual-core processor, and a natural language voice control system called Siri.[20][21][22] iPhone 5 features the new A6 processor, increases the size of the Retina display to 4 inches, and replaces the 30-pin connector with an all-digital Lightning connector.
+The resounding sales of the iPhone have been credited with reshaping the smartphone industry and helping make Apple one of the world's most valuable publicly trading companies in 201112.[23] However, there has been criticism of the company's outsourcing and move of jobs from the US to China.[24][25][26][27] Apple and its manufacturing contractor Foxconn have received criticism due to poor working conditions at the assembly plant in China.[28][29][30][31][32][33]
+Contents
+1 History and availability
+1.1 Sales and profits
+2 Hardware
+2.1 Screen and input
+2.2 Sensors
+2.2.1 Proximity sensor
+2.2.2 Ambient light sensor
+2.2.3 Accelerometer
+2.2.4 Magnetometer
+2.2.5 Gyroscopic sensor
+2.3 Audio and output
+2.4 Battery
+2.5 Camera
+2.6 Storage and SIM
+2.7 Liquid contact indicators
+2.8 Included items
+3 Software
+3.1 Interface
+3.2 Phone
+3.3 Multimedia
+3.4 Internet connectivity
+3.5 Text input
+3.6 Email and text messages
+3.7 Third-party applications
+3.8 Accessibility
+3.9 Vulnerability
+4 Model comparison
+5 Intellectual property
+6 Secret tracking
+7 Restrictions
+7.1 Activation
+7.2 Unapproved third-party software and jailbreaking
+7.3 SIM unlocking
+7.3.1 United States
+7.3.2 United Kingdom
+7.3.3 Australia and other countries
+8 Fights over brand name
+8.1 Mexico
+8.2 Brazil
+9 See also
+10 References
+11 External links
+History and availability
+
+
+Main article: History of the iPhone
+See also: List of iOS devices
+Development of what was to become the iPhone began in 2004, when Apple started to gather a team of 1000 employees to work on the highly confidential "Project Purple",[34] including Sir Jonathan Ive, the designer behind the iPhone.[35] Apple CEO Steve Jobs steered the original focus away from a tablet, like the iPad, and towards a phone.[36] Apple created the device during a secretive collaboration with AT&T MobilityCingular Wireless at the timeat an estimated development cost of US$150 million over thirty months.[37]
+Apple rejected the "design by committee" approach that had yielded the Motorola ROKR E1, a largely unsuccessful[38] collaboration with Motorola. Instead, Cingular gave Apple the liberty to develop the iPhone's hardware and software in-house[39][40] and even paid Apple a fraction of its monthly service revenue (until the iPhone 3G),[41] in exchange for four years of exclusive US sales, until 2011.
+Jobs unveiled the iPhone to the public on January 9, 2007, at the Macworld 2007 convention at the Moscone Center in San Francisco. The two initial models, a 4 GB model priced at US$ 499 and a 8 GB model at US$ 599, went on sale in the United States on June 29, 2007, at 6:00 pm local time, while hundreds of customers lined up outside the stores nationwide.[42] The passionate reaction to the launch of the iPhone resulted in sections of the media dubbing it the 'Jesus phone'.[43][44] The 1st generation iPhone was made available in the UK, France, and Germany in November 2007, and Ireland and Austria in the spring of 2008.
+Before the release of the iPhone, handset manufacturers such as Nokia and Motorola were enjoying record sales of cell phones based more on fashion and brand rather than technological innovation.[45] The iPhone however fundamentally changed the industry, with Steve Jobs proclaiming in 2007 that "the phone was not just a communication tool but a way of life".[46] The dominant mobile operating systems at the time such as Symbian, BlackBerry OS, and Windows Mobile were not designed to handle additional tasks beyond communication and basic functions; iPhone OS (renamed iOS in 2010) was designed as a robust OS with capabilities such as multitasking and graphics in order to meet future consumer demands.[47] These operating systems never focused on applications and developers, and due to infighting among manufacturers as well as the complex bureaucracy and bloatness of the OS, they never developed a thriving ecosystem like Apple's App Store or Android's Google Play.[46] Rival manufacturers have been forced to spend more on software and development costs in order to catch up to the iPhone. The iPhone's success has led to a demise in high-end fashion phones and business-oriented smartphones such as Vertu and BlackBerry, respectively.[46][48]
+
+
+Worldwide iPhone availability:
+  iPhone was available since its original release
+  iPhone was available since the release of iPhone 3G
+  Coming soon
+On July 11, 2008, Apple released the iPhone 3G in twenty-two countries, including the original six.[49] Apple released the iPhone 3G in upwards of eighty countries and territories.[50] Apple announced the iPhone 3GS on June 8, 2009, along with plans to release it later in June, July, and August, starting with the US, Canada and major European countries on June 19. Many would-be users objected to the iPhone's cost,[51] and 40% of users have household incomes over US$100,000.[52]
+File:3rareiphoneviews.jpg
+Three generations of iPhone, shown from behind. Left to right: 1st gen, white 3GS, black 4.
+The back of the original 1st generation iPhone was made of aluminum with a black plastic accent. The iPhone 3G and 3GS feature a full plastic back to increase the strength of the GSM signal.[53] The iPhone 3G was available in an 8 GB black model, or a black or white option for the 16 GB model. The iPhone 3GS was available in both colors, regardless of storage capacity.
+The iPhone 4 has an aluminosilicate glass front and back with a stainless steel edge that serves as the antennas. It was at first available in black; the white version was announced, but not released until April 2011, 10 months later.
+The iPhone has garnered positive reviews from such critics as David Pogue[54] and Walt Mossberg.[55][56] The iPhone attracts users of all ages,[52] and besides consumer use, the iPhone has also been adopted for business purposes.[57]
+Users of the iPhone 4 reported dropped/disconnected telephone calls when holding their phones in a certain way. This became known as antennagate.[58]
+On January 11, 2011, Verizon announced during a media event that it had reached an agreement with Apple and would begin selling a CDMA2000 iPhone 4. Verizon said it would be available for pre-order on February 3, with a release set for February 10.[59][60] In February 2011, the Verizon iPhone accounted for 4.5% of all iPhone ad impressions[vague] in the US on Millennial Media's mobile ad network.[61]
+From 2007 to 2011, Apple spent $647 million on advertising for the iPhone in the US.[34]
+On Tuesday, September 27, Apple sent invitations for a press event to be held October 4, 2011, at 10:00 am at the Cupertino Headquarters to announce details of the next generation iPhone, which turned out to be iPhone 4S. Over 1 million 4S models were sold in the first 24 hours after its release in October 2011.[62] Due to large volumes of the iPhone being manufactured and its high selling price, Apple became the largest mobile handset vendor in the world by revenue, in 2011, surpassing long-time leader Nokia.[63] American carrier C Spire Wireless announced that it would be carrying the iPhone 4S on October 19, 2011.[21]
+In January 2012, Apple reported its best quarterly earnings ever, with 53% of its revenue coming from the sale of 37 million iPhones, at an average selling price of nearly $660. The average selling price has remained fairly constant for most of the phones lifespan, hovering between $622 and $660.[64] The production price of the iPhone 4S was estimated by IHS iSuppli, in October 2011, to be $188, $207 and $245, for the 16GB, 32GB and 64GB models, respectively.[65] Labor costs are estimated at between $12.5 and $30 per unit, with workers on the iPhone assembly line making $1.78 an hour.[66]
+In February 2012, ComScore reported that 12.4% of US mobile subscribers use an iPhone.[67] Approximately 6.4 million iPhones are active in the US alone.[52]
+On September 12, 2012, Apple announced the iPhone 5. It has a 4-inch display, up from its predecessors' 3.5-inch screen. The device comes with the same 326 pixels per inch found in the iPhone 4 and 4S. The iPhone 5 has the soc A6 processor, the chip is 22% smaller than the iPhone 4S' A5 and is twice as fast, doubling the graphics performance of its predecessor. The device is 18% thinner than the iPhone 4S, measuring 7.6mm, and is 20% lighter at 112 grams.
+Sales and profits
+Before the release of the iPhone, handset manufacturers such as Nokia and Motorola were enjoying record sales of cell phones based more on fashion and brand rather than technological innovation.[68] However, the iPhone fundamentally changed the industry, with Steve Jobs proclaiming in 2007 that "the phone was not just a communication tool but a way of life".[46] The dominant mobile operating systems at the time such as Symbian, BlackBerry OS, and Windows Mobile were not designed to handle additional tasks beyond communication and basic functions. These operating systems did not emphasis application developers much, and due to infighting among manufacturers as well as the complex bureaucracy and bloatness of the OS, they never developed a thriving ecosystem like Apple's App Store or Android's Google Play.[46] By contrast, iPhone OS (renamed iOS in 2010) was designed as a robust OS with capabilities such as multitasking and graphics in order to meet future consumer demands.[47] Rival manufacturers have been forced to spend more on software and development costs in order to catch up to the iPhone's. The iPhone's success has led to a demise in high-end fashion phones and business-oriented smartphones such as Vertu and BlackBerry, respectively.[46][48] Apple sold 6.1 million 1st generation iPhone units over five quarters.[69] Sales in Q4 2008 surpassed temporarily those of Research In Motion's (RIM) BlackBerry sales of 5.2 million units, which made Apple briefly the third largest mobile phone manufacturer by revenue, after Nokia and Samsung[70] (it must be noted that some of this income is deferred[71]). Recorded sales grew steadily thereafter, and by the end of fiscal year 2010, a total of 73.5 million iPhones were sold.[72]
+By 2010, the iPhone had a market share of barely 4% of all cellphones, however Apple pulled in more than 50% of the total profit that global cellphone sales generate.[73] Apple sold 14.1 million iPhones in Q3 2010, representing a 91% unit growth over the year-ago quarter, which was well ahead of IDCs latest published estimate of 64% growth for the global smartphone market in the September quarter. Apple's sales surpassed that of Research in Motions 12.1 million BlackBerry units sold in their most recent quarter ended August 2010.[24] In the United States market alone for Q3 2010, while there were 9.1 million Android-powered smartphones shipped for 43.6% of the market, Apple iOS was the number two phone operating system with 26.2% but the 5.5 million iPhones sold made it the most popular single device.[74]
+On March 2, 2011, at the iPad 2 launch event, Apple announced that they had sold 100 million iPhones worldwide.[75] As a result of the success of the iPhone sales volume and high selling price, headlined by the iPhone 4S, Apple became the largest mobile handset vendor in the world by revenue in 2011, surpassing long-time leader Nokia.[63] While the Samsung Galaxy S II has proven more popular than the iPhone 4S in parts of Europe, the iPhone 4S is dominant in the United States.[76]
+In January 2012, Apple reported its best quarterly earnings ever, with 53% of its revenue coming from the sale of 37 million iPhones, at an average selling price of nearly $660. The average selling price has remained fairly constant for most of the phones lifespan, hovering between $622 and $660.[64]
+For the eight largest phone manufacturers in Q1 2012, according to Horace Dediu at Asymco, Apple and Samsung combined to take 99% of industry profits (HTC took the remaining 1%, while RIM, LG, Sony Ericsson, Motorola, and Nokia all suffered losses), with Apple earning 73 cents out of every dollar earned by the phone makers. As the industry profits grew from $5.3 billion in Q1, 2010 to $14.4 billion in Q1, 2012 (quadruple the profits in 2007),[77][78] Apple had managed to increase its share of these profits. This is due to increasing carrier subsidies and the high selling prices of the iPhone, which had a negative effect on the wireless carriers (AT&T Mobility, Verizon, and Sprint) who have seen their EBITDA service margins drop as they sold an increasing number of iPhones.[79][80][81] By the quarter ended March 31, 2012, Apple's sales from the iPhone alone (at $22.7 billion) exceeded the total of Microsoft from all of its businesses ($17.4 billion).[82]
+In Q4 2012, the iPhone 5 and iPhone 4S were the best-selling handsets with sales of 27.4 million (13% of smartphones worldwide) and 17.4 million units, respectively, with the Samsung Galaxy S III in third with 15.4 million. According to Strategy Analytics data, this was an an impressive performance, given the iPhone portfolios premium pricing, adding that the Galaxy SIIIs global popularity appears to have peaked (the Galaxy S III was touted as an iPhone-killer by some in the press when it was released[83][84]). While Samsung has led in worldwide sales of smartphones, Apple's iPhone line has still managed to top Samsung's smartphone offerings in the United States,[85] with 21.4% share and 37.8% in that market, respectively. iOS grew 3.5% to a 37.8%, while Android slid 1.3% to fall to 52.3% share.[86]
+The continued top popularity of the iPhone despite growing Android competition was also attributed to Apple being able to deliver iOS updates over the air, while Android updates are frequently impeded by carrier testing requirements and hardware tailoring, forcing consumers to purchase new Android smartphone in order to get the latest version of that OS.[87]
+For additional sales information, see the table of quarterly sales.
+Hardware
+
+Screen and input
+The touchscreen on the first five generations is a 9 cm (3.5 in) liquid crystal display with scratch-resistant glass, while the one on the iPhone 5 is 4 inches.[8] The capacitive touchscreen is designed for a bare finger, or multiple fingers for multi-touch sensing. The screens on the first three generations have a resolution of 320  480 (HVGA) at 163 ppi; those on the iPhone 4 and iPhone 4S have a resolution of 640  960 at 326 ppi, and the iPhone 5, 640  1136 at 326 ppi. The iPhone 5 model's screen results in an aspect ratio of nearly exactly 16:9.
+The touch and gesture features of the iPhone are based on technology originally developed by FingerWorks.[88] Most gloves and styli prevent the necessary electrical conductivity;[89][90][91][92] although capacitive styli can be used with iPhone's finger-touch screen. The iPhone 3GS and later also feature a fingerprint-resistant oleophobic coating.[93]
+
+
+The top and side of an iPhone 3GS, externally identical to the iPhone 3G. From left to right, sides: wake/sleep butt

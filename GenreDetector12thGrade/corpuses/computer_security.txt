@@ -1,0 +1,98 @@
+ 
+ 
+ 
+ 
+Computer security (Also known as IT Security) is information security as applied to computers and networks.
+
+The field covers all the processes and mechanisms by which computer-based equipment, information and services are protected from unintended or unauthorized access, change or destruction. Computer security also includes protection from unplanned events and natural disasters.
+
+== Security by design ==
+ 
+
+One way to think of computer security is to reflect security as one of the main features 
+
+Some of the techniques in this approach include:
+* The principle of least privilege, where each part of the system has only the privileges that are needed for its function. That way even if an attacker gains access to that part, they have only limited access to the whole system.
+* Automated theorem proving to prove the correctness of crucial software subsystems.
+* Code reviews and unit testing are approaches to make modules more secure where formal correctness proofs are not possible. Defense in depth, where the design is such that more than one subsystem needs to be violated to compromise the integrity of the system and the information it holds.
+* Default secure settings, and design to "fail secure" rather than "fail insecure" (see fail-safe for the equivalent in safety engineering). Ideally, a secure system should require a deliberate, conscious, knowledgeable and free decision on the part of legitimate authorities in order to make it insecure.
+* Audit trails tracking system activity, so that when a security breach occurs, the mechanism and extent of the breach can be determined. Storing audit trails remotely, where they can only be appended to, can keep intruders from covering their tracks.  window of vulnerability" is kept as short as possible.
+
+== Security architecture ==
+Security Architecture can be defined as the design artifacts that describe how the security controls (security countermeasures) are positioned, and how they relate to the overall information technology architecture. These controls serve to maintain the systems quality attributes: confidentiality, integrity, availability, accountability and assurance services. 
+
+== Hardware mechanisms that protect computers and data ==
+ 
+While hardware may be a source of insecurity,  hardware based or assisted computer security offers an alternative to software-only computer security. Devices such as dongles, case intrusion detection, drive locks, or disabling USB ports, or CD ROM Drives may be considered more secure due to the physical access required in order to be compromised . This is important to know for data conservation.
+
+== Secure operating systems ==
+ 
+One use of the term computer security refers to technology to implement a secure operating system. Much of this technology is based on science developed in the 1980s and used to produce what may be some of the most impenetrable operating systems ever. Though still valid, the technology is in limited use today, primarily because it imposes some changes to system management and also because it is not widely understood. Such ultra-strong secure operating systems are based on operating system kernel technology that can guarantee that certain security policies are absolutely enforced in an operating environment. An example of such a Computer security policy is the Bell-LaPadula model. The strategy is based on a coupling of special microprocessor hardware features, often involving the memory management unit, to a special correctly implemented operating system kernel. This forms the foundation for a secure operating system which, if certain critical parts are designed and implemented correctly, can ensure the absolute impossibility of penetration by hostile elements. This capability is enabled because the configuration not only imposes a security policy, but in theory completely protects itself from corruption. Ordinary operating systems, on the other hand, lack the features that assure this maximal level of security. The design methodology to produce such secure systems is precise, deterministic and logical.
+ Orange Book A-1) to operate over the range of "Top Secret" to "unclassified" (including Honeywell SCOMP, USAF SACDIN, NSA Blacker and Boeing MLS LAN.) The assurance of security depends not only on the soundness of the design strategy, but also on the assurance of correctness of the implementation, and therefore there are degrees of security strength defined for COMPUSEC. The Common Criteria quantifies security strength of products in terms of two components, security functionality and assurance level (such as EAL levels), and these are specified in a Protection Profile for requirements and a Security Target for product descriptions. None of these ultra-high assurance secure general purpose operating systems have been produced for decades or certified under Common Criteria.
+
+In USA parlance, the term High Assurance usually suggests the system has the right security functions that are implemented robustly enough to protect DoD and DoE classified information. Medium assurance suggests it can protect less valuable information, such as income tax information. Secure operating systems designed to meet medium robustness levels of security functionality and assurance have seen wider use within both government and commercial markets. Medium robust systems may provide the same security functions as high assurance secure operating systems but do so at a lower assurance level (such as Common Criteria levels EAL4 or EAL5). Lower levels mean we can be less certain that the security functions are implemented flawlessly, and therefore less dependable. These systems are found in use on web servers, guards, database servers, and management hosts and are used not only to protect the data stored on these systems but also to provide a high level of protection for network connections and routing services.
+
+== Secure coding ==
+ 
+If the operating environment is based on a secure operating system capable of maintaining a domain for its own execution, and capable of protecting application code from malicious subversion, and capable of protecting the system from subverted code, then high degrees of security are understandably not possible. While such secure operating systems are possible and have been implemented, most commercial systems fall in a low security category because they rely on features not supported by secure operating systems (like portability, and others). In low security operating environments, applications must be relied on to participate in their own protection. There are best effort secure coding practices that can be followed to make an application more resistant to malicious subversion.
+ vulnerabilities result from a few known kinds of coding defects. Common software defects include buffer overflows, format string vulnerabilities, integer overflow, and Code injection|code/command injection. These defects can be used to cause the target system to execute putative data. However, the "data" contain executable instructions, allowing the attacker to gain control of the processor.
+
+Some common languages such as C and C++ are vulnerable to all of these defects (see  ). Other languages, such as Java, are more resistant to some of these defects, but are still prone to code/command injection and other software defects which facilitate subversion.
+
+Recently another bad coding practice has come under scrutiny; dangling pointers. The first known exploit for this particular problem was presented in July 2007. Before this publication the problem was known but considered to be academic and not practically exploitable. 
+
+Unfortunately, there is no theoretical model of "secure coding" practices, nor is one practically achievable, insofar as the code (ideally, read-only) and data (generally read/write) generally tends to have some form of defect.
+
+== Capabilities and access control lists ==
+ 
+Within computer systems, two security models capable of enforcing privilege separation are access control lists (ACLs) and capability-based security. The semantics of ACLs have been proven to be insecure in many situations, for example, the confused deputy problem. It has also been shown that the promise of ACLs of giving access to an object to only one person can never be guaranteed in practice. Both of these problems are resolved by capabilities. This does not mean practical flaws exist in all ACL-based systems, but only that the designers of certain utilities must take responsibility to ensure that they do not introduce flaws. 
+ E language.
+
+The most secure computers are those not connected to the Internet and shielded from any interference. In the real world, the most secure systems are operating systems where security is not an add-on.
+
+== Applications ==
+Computer security is critical in almost any technology-driven industry which operates on computer systems. The issues of computer based systems and addressing their countless vulnerabilities are an integral part of maintaining an operational industry. J. C. Willemssen, "FAA Computer Security". GAO/T-AIMD-00-330. Presented at Committee on Science, House of Representatives, 2000. 
+
+=== Cloud computing security ===
+Security in the cloud is challenging , due to varied degrees of security features and management schemes within the cloud entities. In this connection one logical protocol base needs to evolve so that the entire gamut of components operates synchronously and securely .
+
+=== Aviation ===
+The aviation industry is especially important when analyzing computer security because the involved risks include human life, expensive equipment, cargo, and transportation infrastructure. Security can be compromised by hardware and software malpractice, human error, and faulty operating environments. Threats that exploit computer vulnerabilities can stem from sabotage, espionage, industrial competition, terrorist attack, mechanical malfunction, and human error. P. G. Neumann, "Computer Security in Aviation," presented at International Conference on Aviation Safety and Security in the 21st Century, White House Commission on Safety and Security, 1997. 
+
+The consequences of a successful deliberate or inadvertent misuse of a computer system in the aviation industry range from loss of confidentiality to loss of system integrity, which may lead to more serious concerns such as data theft or loss, network and air traffic control outages, which in turn can lead to airport closures, loss of aircraft, loss of passenger life. Military systems that control munitions can pose an even greater risk.
+
+A proper attack does not need to be very high tech or well funded; for a power outage at an airport alone can cause repercussions worldwide.  One of the easiest and, arguably, the most difficult to trace security vulnerabilities is achievable by transmitting unauthorized communications over specific radio frequencies. These transmissions may spoof air traffic controllers or simply disrupt communications altogether. These incidents are very common, having altered flight courses of commercial aircraft and caused panic and confusion in the past.  Controlling aircraft over oceans is especially dangerous because radar surveillance only extends 175 to 225 miles offshore. Beyond the radars sight controllers must rely on periodic radio communications with a third party.
+
+Lightning, power fluctuations, surges, Brownout (electricity)|brownouts, blown fuses, and various other power outages instantly disable all computer systems, since they are dependent on an electrical source. Other accidental and intentional faults have caused significant disruption of safety critical systems throughout the last few decades and dependence on reliable communication and electrical power only jeopardizes computer safety. 
+
+==== Notable system accidents ==== trojan horses, hackers were able to obtain unrestricted access to Romes networking systems and remove traces of their activities. The intruders were able to obtain classified files, such as air tasking order systems data and furthermore able to penetrate connected networks of National Aeronautics and Space Administrations Goddard Space Flight Center, Wright-Patterson Air Force Base, some Defense contractors, and other private sector organizations, by posing as
+a trusted Rome center user. 
+
+==Cybersecurity breach stories== generative technology leads to in terms of online security breaches is the story of the Internets first Computer worm|worm.
+
+In 1988, 60,000 computers were connected to the Internet, but not all of them were PCs. Most were mainframes, minicomputers and professional workstations. On November 2, 1988, the computers acted strangely. They started to slow down, because they were running a malicious code that demanded processor time and that spread itself to other computers. The purpose of such software was to transmit a copy to the machines and run in parallel with existing software and repeat all over again. It exploited a flaw in a common e-mail transmission program running on a computer by rewriting it to facilitate its entrance or it guessed users password, because, at that time, passwords were simple (e.g. username harry with a password ...harry) or were obviously related to a list of 432 common passwords tested at each computer. Jonathan Zittrain, The Future of The Internet, Penguin Books, 2008 
+
+The software was traced back to 23 year old Cornell University graduate student Robert Tappan Morris, Jr.. When questioned about the motive for his actions, Morris said he wanted to count how many machines were connected to the Internet.  His explanation was verified with his code, but it turned out to be buggy, nevertheless.
+
+==Computer security policy==
+ 
+
+===United States===
+
+====Cybersecurity Act of 2010====
+On April 1, 2009, Senator  ; the bill, co-written with Senators  , the Assistant to the President for Homeland Security and Counterterrorism: "our nation’s security and economic prosperity depend on the security, stability, and integrity of communications and   the right to "order the limitation or shutdown of Internet traffic to and from any compromised Federal Government or United States critical infrastructure information system or network."  The Electronic Frontier Foundation, an international non-profit digital rights advocacy and legal organization based in the United States, characterized the bill as promoting a "potentially dangerous approach that favors the dramatic over the sober response".  , eff.org, April 10, 2009. Retrieved on June 26, 2010. 
+
+====International Cybercrime Reporting and Cooperation Act====
+On March 25, 2010, Representative  ; the bill, co-sponsored by seven other representatives (among whom only one   informed on information infrastructure, cybercrime, and end-user protection worldwide. It also "directs the President to give priority for assistance to improve legal, judicial, and enforcement capabilities with respect to cybercrime to countries with low information and communications technology levels of development or utilization in their critical infrastructure, telecommunications systems, and financial industries"  as well as to develop an action plan and an annual compliance assessment for countries of "cyber concern". 
+
+====Protecting Cyberspace as a National Asset Act of 2010==== Kill switch President emergency powers over the Internet. However, all three co-authors of the bill issued a statement claiming that instead, the bill "  existing broad Presidential authority to take over telecommunications networks".  , informationweek.com, June 24, 2010. Retrieved on June 25, 2010. 
+
+====White House proposes cybersecurity legislation====
+On May 12, 2011, the White House sent Congress a proposed cybersecurity law designed to force companies to do more to fend off cyberattacks, a threat that has been reinforced by recent reports about vulnerabilities in systems used in power and water utilities. 
+
+  Improving Critical Infrastructure Cybersecurity was signed February 12, 2013.
+
+===Germany===
+
+====Berlin starts National Cyber Defense Initiative====
+On June 16, 2011, the German Minister for Home Affairs, officially opened the new German NCAZ (National Center for Cyber Defense)  , which is located in Bonn. The NCAZ closely cooperates with BSI (Federal Office for Information Security)  , BKA (Fe

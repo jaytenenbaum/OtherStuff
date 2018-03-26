@@ -1,0 +1,224 @@
+
+ 
+  ""      ?
+      2 .     .
+[Hide]
+Astrophysics
+From Wikipedia, the free encyclopedia
+For the journal, see The Astrophysical Journal.
+
+
+NGC 4414, a typical spiral galaxy in the constellation Coma Berenices, is about 56,000 light-years in diameter and approximately 60 million light-years distant.
+Physics
+
+Massenergy equivalence
+History of physics
+Branches[show]
+Research fields[show]
+Past experiments[show]
+Current experiments[show]
+Scientists[show]
+v t e
+Astrophysics (Greek: Astro - meaning "star", and Greek: physis   - meaning "nature") is the branch of astronomy that deals with the physics of the universe, including the physical properties of celestial objects, as well as their interactions and behavior.[1] Among the objects studied are galaxies, stars, planets, exoplanets, the interstellar medium and the cosmic microwave background. Their emissions are examined across all parts of the electromagnetic spectrum, and the properties examined include luminosity, density, temperature, and chemical composition. Because astrophysics is a very broad subject, astrophysicists typically apply many disciplines of physics, including mechanics, electromagnetism, statistical mechanics, thermodynamics, quantum mechanics, relativity, nuclear and particle physics, and atomic and molecular physics. In practice, modern astronomical research involves a substantial amount of physics. The name of a university's department ("astrophysics" or "astronomy") often has to do more with the department's history than with the contents of the programs. Astrophysics can be studied at the bachelors, masters, and Ph.D. levels in aerospace engineering, physics, or astronomy departments at many universities.
+Contents  [hide] 
+1 History
+2 Observational astrophysics
+3 Theoretical astrophysics
+4 See also
+5 References
+6 External links
+History [edit]
+
+Although astronomy is as ancient as recorded history itself, it was long separated from the study of physics. In the Aristotelian worldview, the celestial world tended towards perfectionbodies in the sky seemed to be perfect spheres moving in perfectly circular orbitswhile the earthly world seemed destined to imperfection; these two realms were not seen as related.
+Aristarchus of Samos (c. 310250 BC) first put forward the notion that the motions of the celestial bodies could be explained by assuming that the Earth and all the other planets in the Solar System orbited the Sun. Unfortunately, in the geocentric world of the time, Aristarchus' heliocentric theory was deemed outlandish and heretical. For centuries, the apparently common-sense view that the Sun and other planets went round the Earth nearly went unquestioned until the development of Copernican heliocentrism in the 16th century AD. This was due to the dominance of the geocentric model developed by Ptolemy (c. 83-161 AD), a Hellenized astronomer from Roman Egypt, in his Almagest treatise.
+The only known supporter of Aristarchus was Seleucus of Seleucia, a Babylonian astronomer who is said to have proved heliocentrism through reasoning in the 2nd century BC. This may have involved the phenomenon of tides,[2] which he correctly theorized to be caused by attraction to the Moon and notes that the height of the tides depends on the Moon's position relative to the Sun.[3] Alternatively, he may have determined the constants of a geometric model for the heliocentric theory and developed methods to compute planetary positions using this model, possibly using early trigonometric methods that were available in his time, much like Copernicus.[4] B. L. van der Waerden has interpreted the planetary models developed by Aryabhata (476-550), an Indian astronomer, and Abu Ma'shar al-Balkhi (787-886), a Persian astronomer, to be heliocentric models[5] but this view has been strongly disputed by others.[6]
+In the early 11th century, the Arabic Ibn al-Haytham (Alhazen) wrote the Maqala fi daw al-qamar (On the Light of the Moon) some time before 1021. He concluded that it "emits light from those portions of its surface which the sun's light strikes." [7]
+After heliocentrism was revived by Nicolaus Copernicus in the 16th century, Galileo Galilei discovered the four brightest moons of Jupiter in 1610, and documented their orbits about that planet, which contradicted the geocentric doctrine of the Catholic Church of his time, and escaped serious punishment only by maintaining that his astronomy was a work of mathematics, not of natural philosophy (physics), and therefore purely abstract.
+The availability of accurate observational data (mainly from the observatory of Tycho Brahe) led to research into theoretical explanations for the observed behavior. At first, only empirical rules were discovered, such as Kepler's laws of planetary motion, discovered at the start of the 17th century. Later that century, Isaac Newton bridged the gap between Kepler's laws and Galileo's dynamics, discovering that the same laws that rule the dynamics of objects on Earth rule the motion of planets and the moon. Celestial mechanics, the application of Newtonian gravity and Newton's laws to explain Kepler's laws of planetary motion, was the first unification of astronomy and physics.
+After Isaac Newton published his book, Philosophi Naturalis Principia Mathematica, maritime navigation was transformed. Starting around 1670, the entire world was measured using essentially modern latitude instruments and the best available clocks. The needs of navigation provided a drive for progressively more accurate astronomical observations and instruments, providing a background for ever more available data for scientists.
+At the end of the 19th century, it was discovered that, when decomposing the light from the Sun, a multitude of spectral lines were observed (regions where there was less or no light). Experiments with hot gases showed that the same lines could be observed in the spectra of gases, specific lines corresponding to unique chemical elements. In this way it was proved that the chemical elements found in the Sun (chiefly hydrogen) were also found on Earth. Indeed, the element helium was first discovered in the spectrum of the Sun and only later on Earth, hence its name. During the 20th century, spectroscopy (the study of these spectral lines) advanced, particularly as a result of the advent of quantum physics that was necessary to understand the astronomical and experimental observations.[8]
+See also:
+Timeline of knowledge about galaxies, clusters of galaxies, and large-scale structure
+Timeline of white dwarfs, neutron stars, and supernovae
+Timeline of black hole physics
+Timeline of gravitational physics and relativity
+Observational astrophysics [edit]
+
+The majority of astrophysical observations are made using the electromagnetic spectrum.
+Radio astronomy studies radiation with a wavelength greater than a few millimeters. Example areas of study are radio waves, usually emitted by cold objects such as interstellar gas and dust clouds; the cosmic microwave background radiation which is the redshifted light from the Big Bang; Pulsars, which were first detected at microwave frequencies. The study of these waves requires very large radio telescopes.
+Infrared astronomy studies radiation with a wavelength that is too long to be visible to the naked eye but is shorter than radio waves. Infrared observations are usually made with telescopes similar to the familiar optical telescopes. Objects colder than stars (such as planets) are normally studied at infrared frequencies.
+Optical astronomy is the oldest kind of astronomy. Telescopes paired with a charge-coupled device or spectroscopes are the most common instruments used. The Earth's atmosphere interferes somewhat with optical observations, so adaptive optics and space telescopes are used to obtain the highest possible image quality. In this wavelength range, stars are highly visible, and many chemical spectra can be observed to study the chemical composition of stars, galaxies and nebulae.
+Ultraviolet, X-ray and gamma ray astronomy study very energetic processes such as binary pulsars, black holes, magnetars, and many others. These kinds of radiation do not penetrate the Earth's atmosphere well. There are two methods in use to observe this part of the electromagnetic spectrumspace-based telescopes and ground-based imaging air Cherenkov telescopes (IACT). Examples of Observatories of the first type are RXTE, the Chandra X-ray Observatory and the Compton Gamma Ray Observatory. Examples of IACTs are the High Energy Stereoscopic System (H.E.S.S.) and the MAGIC telescope.
+Other than electromagnetic radiation, few things may be observed from the Earth that originate from great distances. A few gravitational wave observatories have been constructed, but gravitational waves are extremely difficult to detect. Neutrino observatories have also been built, primarily to study our Sun. Cosmic rays consisting of very high energy particles can be observed hitting the Earth's atmosphere.
+Observations can also vary in their time scale. Most optical observations take minutes to hours, so phenomena that change faster than this cannot readily be observed. However, historical data on some objects is available, spanning centuries or millennia. On the other hand, radio observations may look at events on a millisecond timescale (millisecond pulsars) or combine years of data (pulsar deceleration studies). The information obtained from these different timescales is very different.
+The study of our very own Sun has a special place in observational astrophysics. Due to the tremendous distance of all other stars, the Sun can be observed in a kind of detail unparalleled by any other star. Our understanding of our own sun serves as a guide to our understanding of other stars.
+The topic of how stars change, or stellar evolution, is often modeled by placing the varieties of star types in their respective positions on the Hertzsprung-Russell diagram, which can be viewed as representing the state of a stellar object, from birth to destruction. The material composition of the astronomical objects can often be examined using:
+Spectroscopy
+Radio astronomy
+Neutrino astronomy (future prospects)
+Theoretical astrophysics [edit]
+
+
+
+The stream lines on this simulation of a supernova show the flow of matter behind the shock wave giving clues as to the origin of pulsars
+Theoretical astrophysicists use a wide variety of tools which include analytical models (for example, polytropes to approximate the behaviors of a star) and computational numerical simulations. Each has some advantages. Analytical models of a process are generally better for giving insight into the heart of what is going on. Numerical models can reveal the existence of phenomena and effects that would otherwise not be seen.[9][10]
+Theorists in astrophysics endeavor to create theoretical models and figure out the observational consequences of those models. This helps allow observers to look for data that can refute a model or help in choosing between several alternate or conflicting models.
+Theorists also try to generate or modify models to take into account new data. In the case of an inconsistency, the general tendency is to try to make minimal modifications to the model to fit the data. In some cases, a large amount of inconsistent data over time may lead to total abandonment of a model.
+Topics studied by theoretical astrophysicists include: stellar dynamics and evolution; galaxy formation; magnetohydrodynamics; large-scale structure of matter in the Universe; origin of cosmic rays; general relativity and physical cosmology, including string cosmology and astroparticle physics. Astrophysical relativity serves as a tool to gauge the properties of large scale structures for which gravitation plays a significant role in physical phenomena investigated and as the basis for black hole (astro)physics and the study of gravitational waves.
+Some widely accepted and studied theories and models in astrophysics, now included in the Lambda-CDM model are the Big Bang, Cosmic inflation, dark matter, dark energy and fundamental theories of physics. Wormholes are examples of hypotheses which are yet to be proven.
+See also [edit]
+
+	Physics portal
+Astronomical observatories
+Important publications in astrophysics
+List of astrophysicists
+Nucleosynthesis
+Particle accelerator
+Astrodynamics
+Stellar physics
+Astrochemistry
+Bremsstrahlung
+References [edit]
+
+^ "astrophysics". Merriam-Webster, Incorporated. Archived from the original on 10 June 2011. Retrieved 2011-05-22.
+^ Lucio Russo, Flussi e riflussi, Feltrinelli, Milano, 2003, ISBN 88-07-10349-4.
+^ Bartel Leendert van der Waerden (1987). "The Heliocentric System in Greek, Persian and Hindu Astronomy", Annals of the New York Academy of Sciences 500 (1), 525545 [527].
+^ Bartel Leendert van der Waerden (1987). "The Heliocentric System in Greek, Persian and Hindu Astronomy", Annals of the New York Academy of Sciences 500 (1), 525545 [527-529].
+^ Bartel Leendert van der Waerden (1987). "The Heliocentric System in Greek, Persian and Hindu Astronomy", Annals of the New York Academy of Sciences 500 (1), 525545 [534-537].
+^ Noel Swerdlow (June 1973), "Review: A Lost Monument of Indian Astronomy" [review of B. L. van der Waerden, Das heliozentrische System in der griechischen, persischen und indischen Astronomie], Isis 64 (2), p. 239243.
+David Pingree (1973), "The Greek Influence on Early Islamic Mathematical Astronomy", Journal of the American Oriental Society 93 (1), p. 32.
+Dennis Duke (2005), "The Equant in India: The Mathematical Basis of Ancient Indian Planetary Models", Archive for History of Exact Sciences 59, p. 563576 [1].
+^ Toomer, G. J. (December 1964), "Review: Ibn al-Haythams Weg zur Physik by Matthias Schramm", Isis 55 (4): 463465 [4634], doi:10.1086/349914
+^ Frontiers of Astrophysics: Workshop Summary, H. Falcke, P. L. Biermann
+^ Roth, H. (1932), "A Slowly Contracting or Expanding Fluid Sphere and its Stability", Physical Review 39 (3): 525529, Bibcode:1932PhRv...39..525R, doi:10.1103/PhysRev.39.525.
+^ Eddington, A. S. (1988) [1926], Internal Constitution of the Stars, New York: Cambridge University Press, ISBN 0-521-33708-9.
+External links [edit]
+
+	Wikibooks has a book on the topic of: Astrophysics
+International Journal of Modern Physics D from World Scientific
+Cosmic Journey: A History of Scientific Cosmology from the American Institute of Physics
+Prof. Sir Harry Kroto, NL, Astrophysical Chemistry Lecture Series. 8 Freeview Lectures provided by the Vega Science Trust.
+Stanford Linear Accelerator Center, Stanford, California
+Institute for Space Astrophysics and Cosmic Physics
+Astrophysical Journal
+Astronomy and Astrophysics, a European Journal
+List and directory of peer-reviewed Astronomy / Astrophysics Journals
+Master of Science in Astronomy and Astrophysics
+Ned Wright's Cosmology Tutorial, UCLA
+Philippe Stee's homepage: Hot and Active Stars Research
+[show] v t e
+Branches of physics
+[show] v t e
+Major subfields of astronomy and astrophysics
+Categories: AstrophysicsApplied and interdisciplinary physics
+Navigation menu
+Create accountLog inArticleTalkReadEditView history
+
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact Wikipedia
+Toolbox
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Cite this page
+Print/export
+Languages
+Afrikaans
+
+
+Azrbaycanca
+
+Basa Banyumasan
+
+
+Bosanski
+Catal
+
+esky
+Cymraeg
+Dansk
+Deutsch
+Eesti
+
+Espaol
+Esperanto
+Euskara
+
+Franais
+Galego
+
+
+Hrvatski
+Ido
+Bahasa Indonesia
+Interlingua
+slenska
+Italiano
+
+Basa Jawa
+
+
+Kurd
+
+Latvieu
+Ltzebuergesch
+Lietuvi
+Ligure
+Magyar
+
+Bahasa Melayu
+Nederlands
+
+Norsk bokml
+Norsk nynorsk
+Novial
+Occitan
+Ozbekcha
+
+Polski
+Portugus
+Romn
+
+Seeltersk
+Shqip
+Sicilianu
+
+Simple English
+Slovenina
+Slovenina
+
+ / srpski
+Srpskohrvatski / 
+Basa Sunda
+Suomi
+Svenska
+Tagalog
+
+
+
+Trke
+
+
+Ting Vit
+Winaray
+
+Zazaki
+
+Edit links
+This page was last modified on 23 May 2013 at 15:04.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaMobile view 

@@ -1,0 +1,65 @@
+ 
+ 
+ 
+ 
+  surface plot, described by the elementary algebraic trigonometrical equations   x=v \times \cos(u) ,  y=v \times \sin(u) ,  z=2 \times \sin(u)   ]]
+Algebra is one of the broad parts of mathematics, together with number theory, geometry and mathematical analysis|analysis. 
+
+For historical reasons, the word "algebra" has several related meanings in mathematics, as a single word or with qualifiers. 
+* As a single word without article, "algebra" names a broad part of mathematics.
+* As a single word with article or in plural, "algebra" denote a specific mathematical structure. See algebra (ring theory) and algebra over a field.
+* With a qualifier, there is the same distinction: primary and secondary education), or abstract algebra (the study of the algebraic structures for themselves).
+** With an article, it means an instance of some abstract structure, like a Lie algebra or an associative algebra. commutative algebras over the integers. limits and limit (mathematics)|convergence.
+<!-- 
+The following paragraph is misplaced here. I have kept in comment, because "fundamental theorem of algebra" should be 
+* Use of letters and symbols to represent values and their relations, especially for solving equations. This is also called "elementary algebra". Historically, this was the meaning in pure mathematics too, like seen in "fundamental theorem of algebra", but not now.-->
+
+The adjective "algebraic" usually means relation to algebra, as in "algebraic structure". For historical reasons, it may also mean relation with the roots of polynomial equations, like in algebraic number, algebraic extension or algebraic expression.
+
+==Algebra as a branch of mathematics==
+ variables that either represented numbers that were not yet known (unknowns) or represented an unspecified number (indeterminate or parameter), allowing one to state and prove properties that are true no matter which numbers are substituted for the indeterminates. For example, in the quadratic equation
+: ax^2+bx+c=0, 
+ a, b, c  are indeterminates and  x  is the unknown. Solving this equation amounts to computing with the variables to express the unknowns in terms of the indeterminates. Then, substituting any numbers for the indeterminates, gives the solution of a particular equation after a simple arithmetic computation.
+ matrices or fields and algebra (ring theory)|algebras.
+
+Before the 16th century, mathematics was divided into only two subfields, arithmetic and geometry. Even though some methods, which had been developed much earlier, may be considered nowadays as algebra, the emergence of algebra and, soon thereafter, of infinitesimal calculus as subfields of mathematics only dates from 16th or 17th century. From the second half of 19th century on, many new fields of mathematics appeared, some of them included in algebra, either totally or partially. 
+
+It follows that algebra, instead of being a true branch of mathematics, appears nowadays, to be a collection of branches sharing common methods. This is clearly seen in the Mathematics Subject Classification
+  Field theory Linear and Associative rings and algebras, 17-Nonassociative rings and Non-associative algebra|algebras, 18-Category theory; homological algebra, 19-K-theory and 20-Group theory. Some other first level areas may be considered to belong partially to algebra, like 11-Number theory (mainly for algebraic number theory) and 14-Algebraic geometry.
+
+Elementary algebra is the part of algebra that is usually taught in elementary courses of mathematics.
+
+Abstract algebra is a name usually given to the study of the algebraic structures themselves.
+
+== History ==
+ 
+
+The start of algebra as an area of mathematics may be dated to the end of 16th century, with Franois Vites work. Nevertheless some earlier works may be considered as algebra and constitute the prehistory of algebra.
+
+=== Prehistory of algebra ===
+
+ s The Compendious Book on Calculation by Completion and Balancing|al-Kitb al-mutaar f isb al-abr wa-l-muqbala]]
+ indeterminate linear Egyptians of Greek and mathematics developed in medieval Islam. 
+ Greeks created Greek mathematician and the author of a series of books called Arithmetica. These texts deal with solving algebraic equations. 
+
+The word algebra comes from the Arabic language (    "restoration") and much of its methods from Islamic mathematics|Arabic/Islamic mathematics. Earlier traditions discussed above had a direct influence on Muhammad ibn Ms al-Khwrizm (c. 780850). He later wrote The Compendious Book on Calculation by Completion and Balancing, which established algebra as a mathematical discipline that is independent of geometry and arithmetic. 
+ Hellenistic mathematicians Indian mathematicians such as Brahmagupta continued the traditions of Egypt and Babylon, though Diophantus Arithmetica and Brahmaguptas Brahmasphutasiddhanta are on a higher level.  For example, the first complete arithmetic solution (including zero and negative solutions) to quadratic equations was described by Brahmagupta in his book Brahmasphutasiddhanta.  Later, Arabic and Muslim mathematicians developed algebraic methods to a much higher degree of sophistication.  Although Diophantus and the Babylonians used mostly special ad hoc methods to solve equations, Al-Khwarizmi contribution was fundamental. He solved linear and quadratic equations without algebraic symbolism, negative numbers or zero, thus he has to distinguish several types of equations.   
+ Greek mathematician exposition which starts with primitive terms in which the combinations must give all possible prototypes for equations, which henceforward explicitly constitute the true object of study". He also studied an equation for its own sake and "in a generic manner, insofar as it does not simply emerge in the course of solving a problem, but is specifically called on to define an infinite class of problems".  }} 
+ Mahavira and quintic and higher-order polynomial equations using numerical methods. In the 13th century, the solution of a cubic equation by Fibonacci is representative of the beginning of a revival in European algebra. As the Islamic world was declining, the European world was ascending. And it is here that algebra was further developed.
+
+=== History of algebra === Ars magna cubic and quartic equations.]]
+ Japanese mathematician Lagrange resolvents. Paolo Ruffini was the first person to develop the theory of permutation groups, and like his predecessors, also in the context of solving algebraic equations.
+ constructibility issues. modern algebra" has deep nineteenth-century roots in the work, for example, of Richard Dedekind and Leopold Kronecker and profound interconnections with other branches of mathematics such as algebraic number theory and algebraic geometry.  George Peacock was the founder of axiomatic thinking in arithmetic and algebra. Augustus De Morgan discovered relation algebra in his Syllabus of a Proposed System of Logic. Josiah Willard Gibbs developed an algebra of vectors in three-dimensional space, and Arthur Cayley developed an algebra of matrices (this is a noncommutative algebra). 
+
+== Topics containing the word "algebra" ==
+Areas of mathematics:
+* Elementary algebra, the part of algebra that is usually taught in elementary courses of mathematics. rings and fields are axiomatically defined and investigated. matrices are studied.
+* Commutative algebra, the study of commutative rings
+* Computer algebra, the implementation of algebraic methods as algorithms and computer programs.
+* Homological algebra, the study of algebraic structures that are fundamental to study topological spaces.
+* Universal algebra, in which properties common to all algebraic structures are studied.
+* Algebraic number theory, in which the properties of numbers are studied from an algebraic point of view.
+* Algebraic geometry, a branch of geometry, in its primitive form specifying curves and surfaces by solutions of polynomials equations.
+* Algebraic combinatorics, in which algebraic methods are used to study combinatorial questions.
+
+Many mathematical structures are called algebras. algebra over a ring. Many classes of algebras over

@@ -1,0 +1,116 @@
+ 
+ 
+  synthetic or organic solids that are Molding (process)|moldable. Plastics are typically organic polymers of high molecular mass, but they often contain other substances. They are usually synthetic, most commonly derived from petrochemicals, but many are partially natural. 
+
+==Composition== organic polymers. The vast majority of these polymers are based on chains of carbon atoms alone or with oxygen, sulfur, or nitrogen as well.   The backbone is that part of the chain on the main "path" linking a large number of repeat units together. To customize the properties of a plastic, different molecular groups "hang" from the backbone (usually they are "hung" as part of the monomers before the monomers are linked together to form the polymer chain).  The structure of these "side chains" influence the properties of the polymer.  This fine tuning of the properties of the polymer by repeating units molecular structure has allowed plastics to become an indispensable part of the twenty-first century world.
+
+===Additives=== Fillers improve Stabilizing additives Organotin compounds are particularly toxic 
+
+==Classification== halogenated plastics. Plastics can also be classified by the chemical process used in their synthesis, such as condensation reaction|condensation, polyaddition, and cross-linking. 
+
+===Thermoplastics and thermosetting polymers===
+There are two types of plastics: thermoplastics and thermosetting polymers. Thermoplastics are the plastics that do not undergo chemical change in their composition when heated and can be molded again and again.  Examples include polyethylene, polypropylene, polystyrene, polyvinyl chloride, and polytetrafluoroethylene (PTFE).  Common thermoplastics range from 20,000 to 500,000 atomic mass unit|amu, while thermosets are assumed to have infinite molecular weight. These chains are made up of many repeating molecular units, known as repeat units, derived from monomers; each polymer chain will have several thousand repeating units. 
+
+Thermosets can melt and take shape once; after they have solidified, they stay solid.  In the thermosetting process, a chemical reaction occurs that is irreversible.  The vulcanization of rubber is a thermosetting process.  Before heating with sulfur, the polyisoprene is a tacky, slightly runny material, but after vulcanization the product is rigid and non-tacky.
+
+===Other classifications=== electrically conductive. physical properties, such as density, tensile strength, glass transition temperature, and resistance to various chemical products.
+
+====Biodegradability====
+  genetically engineered bacteria that synthesize a completely biodegradable plastic, but this material, such as Biopol, is expensive at present.   Companies have made biodegradable additives to enhance the biodegradation of plastics.
+
+====Natural vs synthetic====
+ 
+Most plastics are produced from petrochemicals.  Motivated by the finiteness of petrochemical reserves and possibility of global warming, bioplastics are being developed. Bioplastics are made substantially from renewable plant materials such as cellulose and starch. 
+
+In comparison to the global consumption of all flexible packaging, estimated at 12.3 million tonnes/year,  estimates put global production capacity at 327,000 tonnes/year for related bio-derived materials. National Non-Food Crops Centre.    
+
+====Crystalline vs amorphous====
+Some plastics are partially crystalline and partially amorphous in molecular structure, giving them both a melting point (the temperature at which the attractive intermolecular forces are overcome) and one or more glass transitions (temperatures above which the extent of localized molecular flexibility is substantially increased). The so-called Crystallization of polymers|semi-crystalline plastics include polyethylene, polypropylene, poly (vinyl chloride), polyamides (nylons), polyesters and some polyurethanes. Many plastics are completely amorphous, such as polystyrene and its copolymers, poly (methyl methacrylate), and all thermosets.
+
+ ]]
+<!--
+===Families of plastics===
+{| class="wikitable"
+|+ Plastics families
+! !! Amorphous!! Crystallization of polymers|Semi-crystalline
+|- HTS || PEEK
+|- High performance PPA
+|-
+| Other polyamides 
+|- PA 6,6, UHMWPE
+|- PVC || LDPE
+|}-->
+
+==History== First World War, improvements in chemical technology led to an explosion in new forms of plastics; mass production began around the 1940s and 1950s.    Polypropylene was found in 1954 by Giulio Natta and began to be manufactured in 1957.  Among the earliest examples in the wave of new polymers were polystyrene (PS), first produced by BASF in the 1930s,  and polyvinyl chloride (PVC), first created in 1872 but commercially produced in the late 1920s.  In 1954, expanded polystyrene (used for building insulation, packaging, and cups) was invented by Dow Chemical.  Polyethylene terephthalate (PET)s discovery is credited to employees of the Calico Printers Association in the UK in 1941; it was licensed to DuPont for the USA and ICI otherwise, and as one of the few plastics appropriate as a replacement for glass in many circumstances, resulting in widespread use for bottles in Europe.  The development of plastics has come from the use of natural plastic materials (e.g., chewing gum, shellac) to the use of chemically modified natural materials (e.g., rubber, nitrocellulose, collagen, galalite) and finally to completely synthetic molecules (e.g., bakelite, epoxy, Polyvinyl chloride).
+
+===Parkesine===
+ 
+The plastic material parkesine was patented by Alexander Parkes, In Birmingham, UK in 1856.   It was unveiled at the 1862 Great International Exhibition in London.  Parkesine won a bronze medal at the 1862 Worlds fair in London. Parkesine was made from cellulose (the major component of plant cell walls) treated with nitric acid as a solvent. The output of the process (commonly known as cellulose nitrate or pyroxilin) could be dissolved in alcohol and hardened into a transparent and elastic material that could be molded when heated.  By incorporating pigments into the product, it could be made to resemble ivory.
+
+===Bakelite===
+ 
+The first so called plastic based on a synthetic polymer was made from phenol and formaldehyde, with the first viable and cheap synthesis methods invented in 1907, by Leo Hendrik Baekeland, a Belgian-American|Belgian-born American living in New York state. Baekeland was looking for an insulating shellac to coat wires in electric motors and generators. He found that combining phenol (C 6 H 5 OH) and formaldehyde (HCOH) formed a sticky mass and later found that the material could be mixed with wood flour, asbestos, or slate dust to create strong and fire resistant "composite" materials. The new material tended to foam during synthesis, requiring that Baekeland build pressure vessels to force out the bubbles and provide a smooth, uniform product, as he announced in 1909, in a meeting of the American Chemical Society.  Bakelite was originally used for electrical and mechanical parts, coming into widespread use in consumer goods and jewelry in the 1920s.  Bakelite was a purely synthetic material, not derived from living matter. It was also an early thermosetting plastic.
+
+==Representative polymers== 
+
+===Polystyrene===
+ 
+
+  and firestops being installed in Ontario. Certain plastic pipes can be used in some non-combustible buildings, provided they are firestopped properly and that the flame spread ratings comply with the local building code.]]
+
+Polystyrene is a rigid, brittle, inexpensive plastic that has been used to make plastic model kits and similar knick-knacks. It would also be the basis for one of the most popular "foamed" plastics, under the name styrene foam or Styrofoam. Foam plastics can be synthesized in an "open cell" form, in which the foam bubbles are interconnected, as in an absorbent sponge, and "closed cell", in which all the bubbles are distinct, like tiny balloons, as in gas-filled foam insulation and flotation devices. In the late 1950s, high impact styrene was introduced, which was not brittle. It finds much current use as the substance of toy figurines and novelties.
+
+ 
+
+===Polyvinyl chloride===
+Polyvinyl chloride (PVC, commonly called "vinyl")  incorporates chlorine atoms.  The C-Cl bonds in the backbone are hydrophobic and resist oxidation (and burning). PVC is stiff, strong, heat and weather resistant, properties that recommend its use in devices for plumbing, gutters, house siding, enclosures for computers and other electronics gear. PVC can also be softened with chemical processing, and in this form it is now used for Shrinkwrap|shrink-wrap, food packaging, and rain gear.
+
+ 
+
+All PVC polymers are degraded by heat and light. When this happens, hydrogen chloride is released into the atmosphere and oxidation of the compound occurs.    Because hydrogen chloride readily combines with water vapor in the air to form hydrochloric acid,  polyvinyl chloride is not recommended for long-term archival storage of silver, photographic film or paper (mylar is preferable). 
+
+===Nylon===
+  DuPont Corporation at the 1939 Worlds Fair in New York City.
+
+In 1927, DuPont had begun a secret development project designated Fiber66, under the direction of Harvard chemist Wallace Carothers and chemistry department director Elmer Keiser Bolton. Carothers had been hired to perform pure research, and he worked to understand the new materials molecular structure and physical properties. He took some of the first steps in the molecular design of the materials.
+
+His work led to the discovery of synthetic nylon fiber, which was very strong but also very flexible. The first application was for bristles for toothbrushes. However, Du Ponts real target was silk, particularly silk stockings. Carothers and his team synthesized a number of different polyamides including polyamide 6.6 and 4.6, as well as polyesters. 
+
+ 
+
+It took DuPont twelve years and US$27 million to refine nylon, and to synthesize and develop the industrial processes for bulk manufacture. With such a major investment, it was no surprise that Du Pont spared little expense to promote nylon after its introduction, creating a public sensation, or "nylon mania".
+ nylon stockings, or just nylons, for American women was taken over to manufacture vast numbers of parachutes for fliers and paratroopers. After the war ended, DuPont went back to selling nylon to the public, engaging in another promotional campaign in 1946 that resulted in an even bigger craze, triggering the so-called nylon riots.
+ condensation polymerization.
+
+Nylons still remain important plastics, and not just for use in fabrics. In its bulk form it is very wear resistant, particularly if oil-impregnated, and so is used to build gears, plain bearings, valve seats, seals and because of good heat-resistance, increasingly for under-the-hood applications in cars, and other mechanical parts.
+
+===Rubber=== colloidal suspension found in specialised vessels in some plants. It is useful directly in this form (indeed, the first appearance of rubber in Europe was cloth waterproofed with unvulcanized latex from Brazil). However, in 1839, Charles Goodyear invented vulcanized rubber; a form of natural rubber heated with sulfur (and a few other chemicals), forming cross-links between polymer chains (vulcanization), improving elasticity and durability.
+
+===Synthetic rubber===
+  Sergei Lebedev in 1910. In World War II, supply blockades of natural rubber from South East Asia caused a boom in development of synthetic rubber, notably Styrene-butadiene|styrene-butadiene rubber. In 1941, annual production of synthetic rubber in the U.S. was only 231 tonnes which increased to 840,000 tonnes in 1945. In the space race and nuclear arms race, Caltech researchers experimented with using synthetic rubbers for solid fuel for rockets. Ultimately, all large military rockets and missiles would use synthetic rubber based solid fuels, and they would also play a significant part in the civilian space effort.
+
+==Properties of plastics==
+The properties of plastics are defined chiefly by the organic chemistry of the polymer such as hardness, density, and resistance to heat, organic solvents, oxidation, and ionizing radiation. In particular, most plastics will melt upon heating to a few hundred degrees celsius.  While plastics can be made electrically conductive, with the conductivity of up to 80 kS/cm in stretch-oriented polyacetylene,  they are still no match for most metals like copper which have conductivities of several hundreds kS/cm.
+
+==Toxicity==
+Due to their insolubility in water and relative chemical inertness, pure plastics generally have low toxicity. Some plastic products contain a variety of additives, some of which can be toxic. For example, plasticizers like adipates and phthalates are often added to brittle plastics like polyvinyl chloride to make them pliable enough for use in food packaging, toys, and many other items. Traces of these compounds can leach out of the product. Owing to concerns over the effects of such leachates, the European Union has restricted the use of DEHP (di-2-ethylhexyl phthalate)and other phthalates in some applications. Some compounds leaching from polystyrene food containers have been proposed to interfere with hormone functions and are suspected human carcinogens.  Other chemicals of potential concern include alkylphenols. 
+
+Whereas the finished plastic may be non-toxic, the monomers used in the manufacture of the parent polymers may be toxic.  In some cases, small amounts of those chemicals can remain trapped in the product unless suitable processing is employed. For example, the World Health Organizations International Agency for Research on Cancer (IARC) has recognized that vinyl chloride, the precursor to PVC, as a human carcinogen.   
+
+===BPA controversy===
+Some polymers may also decompose into the monomers or other toxic substances when heated. In 2011, it was reported that "almost all plastic products" sampled released chemicals with estrogenic activity, although the researchers identified plastics which did not leach chemicals with estrogenic activity. 
+
+The primary building block of polycarbonates, bisphenol A (BPA), is an estrogen-like endocrine disruptor that may leach into food.  Research in Environmental Health Perspectives finds that BPA leached from the lining of tin cans, dental sealants and polycarbonate bottles can increase body weight of lab animals offspring.  A more recent animal study suggests that even low-level exposure to BPA results in insulin resistance, which can lead to inflammation and heart disease. 
+
+As of January 2010, the LA Times newspaper reports that the United States FDA is spending $30 million to investigate indications of BPA being linked to cancer. 
+
+Bis(2-ethylhexyl) adipate, present in plastic wrap based on PVC, is also of concern, as are the volatile organic compounds present in new car smell.
+
+The European Union has a permanent ban on the use of phthalates in toys. In 2009, the United States government banned certain types of phthalates commonly used in plastic. 
+
+==Environmental effects==
+  degrade very slowly; the chemical bonds that make plastic so durable make it equally resistant to natural processes of degradation. Since the 1950s, one billion tons of plastic have been discarded and may persist for hundreds or even thousands of years.  Perhaps the biggest environmental threat from plastic comes from fragmented pieces of plastic called nurdles.  In the 1960s these were observed in the guts of seabirds, and since then have been found in increasing concentration.  In 2009, it was estimated that 10% of modern waste was plastics,  although estimates vary according to region.    Meanwhile, 50-80% of debris in marine areas is plastic. 
+ CFCs in extrusion of polystyrene (and general use, except in life-critical fire suppression systems; see Montreal Protocol), the production of polystyrene contributed to the depletion of the ozone layer; however, non-CFCs are currently used in the extrusion process.
+
+=== Climate change ===
+The effect of plastics on global warming is mixed. Plastics are generally made from petroleum. If the plastic is incinerated, it increases carbon emissions; if it is placed in a landfill, it becomes a carbon sink  although biodegradable plastics have caused methane emission

@@ -1,0 +1,465 @@
+
+Emotion
+From Wikipedia, the free encyclopedia
+For other uses, see Emotion (disambiguation).
+"Emotional" redirects here. For other uses, see Emotional (disambiguation).
+Emotions
+
+Affection Anger Angst Anguish Annoyance Anxiety Apathy Arousal Awe Boredom Confidence Contempt Contentment Courage Curiosity Depression Desire Despair Disappointment Disgust Distrust Dread Ecstasy Embarrassment Envy Euphoria Excitement Fear Frustration Gratitude Grief Guilt Happiness Hatred Hope Horror Hostility Hurt Hysteria Indifference Interest Jealousy Joy Loathing Loneliness Love Lust Outrage Panic Passion Pity Pleasure Pride Rage Regret Relief Remorse Sadness Satisfaction Self-confidence Shame Shock Shyness Sorrow Suffering Surprise Terror Trust Wonder Worry Zeal Zest
+v t e
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (February 2012)
+In psychology, philosophy, and their many subsets, emotion is the generic term for subjective, conscious experience that is characterized primarily by psychophysiological expressions, biological reactions, and mental states. Emotion is often associated and considered reciprocally influential with mood, temperament, personality, disposition, and motivation,[citation needed] as well as influenced by hormones and neurotransmitters such as dopamine, noradrenaline, serotonin, oxytocin, cortisol and GABA. Emotion is often the driving force behind motivation, positive or negative.[1] An alternative definition of emotion is a "positive or negative experience that is associated with a particular pattern of physiological activity."[2]
+The physiology of emotion is closely linked to arousal of the nervous system with various states and strengths of arousal relating, apparently, to particular emotions. Although those acting primarily on emotion may seem as if they are not thinking, cognition is an important aspect of emotion, particularly the interpretation of events. For example, the experience of fear usually occurs in response to a threat. The cognition of danger and subsequent arousal of the nervous system (e.g. rapid heartbeat and breathing, sweating, muscle tension) is an integral component to the subsequent interpretation and labeling of that arousal as an emotional state. Emotion is also linked to behavioral tendency.
+Research on emotion has increased significantly over the past two decades with many fields contributing including psychology, neuroscience, medicine, history, sociology, and even computer science. The numerous theories that attempt to explain the origin, neurobiology, experience, and function of emotions have only fostered more intense research on this topic. The current research that is being conducted about the concept of emotion involves the development of materials that stimulate and elicit emotion. In addition PET scans and fMRI scans help study the affective processes in the brain.[3]
+Contents  [hide] 
+1 Etymology, definitions, and differentiation
+2 Components of emotion
+3 Classification
+3.1 Basic Emotions
+3.2 Multi dimensional Analysis of emotions
+4 Theories on the experience of emotions
+4.1 Ancient Greece and Middle Ages
+4.2 Evolutionary theories
+4.3 Somatic theories
+4.4 Cognitive theories
+4.5 Situated perspective on emotion
+5 The neurocircuitry of emotion
+5.1 Prefrontal cortex
+5.2 Homeostatic/primordial emotion
+6 Disciplinary approaches
+6.1 History
+6.2 Sociology
+6.3 Psychotherapy and regulation of emotion
+6.4 Computer science
+7 Notable theorists
+8 Morality and emotions
+9 See also
+10 References
+11 Further reading
+12 External links
+Etymology, definitions, and differentiation [edit]
+
+The word "emotion" dates back to 1579, when it was adapted from the French word mouvoir, which means "to stir up". However, the earliest precursors of the word likely dates back to the very origins of language.[4]
+Emotions have been described as discrete and consistent responses to internal or external events which have a particular significance for the organism. Emotions are brief in duration and consist of a coordinated set of responses, which may include verbal, physiological, behavioural, and neural mechanisms.[5] Emotions have also been described as biologically given and a result of evolution because they provided good solutions to ancient and recurring problems that faced our ancestors.[6]
+Emotion can be differentiated from a number of similar constructs within the field of affective neuroscience:[5]
+Feelings are best understood as a subjective representation of emotions, private to the individual experiencing them.
+Moods are diffuse affective states that generally last for much longer durations than emotions and are also usually less intense than emotions.
+Affect is an encompassing term, used to describe the topics of emotion, feelings, and moods together, even though it is commonly used interchangeably with emotion.
+Components of emotion [edit]
+
+In Scherer's components processing model of emotion,[7] five crucial elements of emotion are said to exist. From the component processing perspective, emotion experience is said to require that all of these processes become coordinated and synchronized for a short period of time, driven by appraisal processes. Although the inclusion of cognitive appraisal as one of the elements is slightly controversial, since some theorists make the assumption that emotion and cognition are separate but interacting systems, the component processing model provides a sequence of events that effectively describes the coordination involved during an emotional episode.
+Cognitive appraisal: provides an evaluation of events and objects
+Bodily symptoms: the physiological component of emotional experience
+Action tendencies: a motivational component for the preparation and direction of motor responses.
+Expression: facial and vocal expression almost always accompanies an emotional state to communicate reaction and intention of actions
+Feelings: the subjective experience of emotional state once it has occurred
+Classification [edit]
+
+Main article: Emotion classification
+A distinction can be made between emotional episodes and emotional dispositions. Emotional dispositions are also comparable to character traits, where someone may be said to be generally disposed to experience certain emotions. For example, an irritable person is generally disposed to feel irritation more easily or quickly than others do. Finally, some theorists place emotions within a more general category of "affective states" where affective states can also include emotion-related phenomena such as pleasure and pain, motivational states (for example, hunger or curiosity), moods, dispositions and traits.[8]
+The classification of emotions has mainly been researched from two fundamental viewpoints. The first viewpoint is that emotions are discrete and fundamentally different constructs while the second viewpoint asserts that emotions can be characterized on a dimensional basis in groupings.
+Basic Emotions [edit]
+
+
+Examples of basic emotions
+For more than 40 years, Paul Ekman has supported the view that emotions are discrete, measurable, and physiologically distinct. Ekman's most famous work revolved around the finding that certain emotions appeared to be universally recognized, even in cultures that were preliterate and could not have learned associations for facial expressions through media. Another infamous study found that when participants contorted their facial muscles into distinct facial expressions (e.g. disgust), they reported subjective and physiological experiences that matched the distinct facial expressions. His research findings led him to classify six emotions as basic: anger, disgust, fear, happiness, sadness and surprise.[9]
+Robert Plutchik agreed with Ekman's biologically driven perspective but developed the "wheel of emotions", suggesting eight primary emotions grouped on a positive or negative basis: joy versus sadness; anger versus fear; trust versus distrust; and surprise versus anticipation.[9] Some basic emotions can be modified to form complex emotions. The complex emotions could arise from cultural conditioning or association combined with the basic emotions. Alternatively, similar to the way primary colors combine, primary emotions could blend to form the full spectrum of human emotional experience. For example, interpersonal anger and disgust could blend to form contempt. Relationships exist between basic emotions, resulting in positive or negative influences.[10]
+Emotions are controlled by a constellation of interacting brain systems, but the amygdala appears to play a particularly crucial role. According to LeDoux (1996), sensory inputs that can trigger fear (such as seeing a snake while walking) arrive in the thalamus and then are routed along a fast pathway directly to the amygdala and along a slow pathway that allows the cortex time to think about the situation.[11]
+Multi dimensional Analysis of emotions [edit]
+
+
+Two Dimensions of Emotion
+Through the use of multidimensional scaling, psychologists can map out similar emotional experiences, which allows a visual depiction of the "emotional distance" between experiences. A further step can be taken by looking at the map's dimensions of the emotional experiences. The emotional experiences are divided into two dimensions known as valences (how negative or positive the experience was) and arousal (extent of reaction to stimuli). These two dimensions can be depicted on a 2D coordinate map.[12]
+Theories on the experience of emotions [edit]
+
+Ancient Greece and Middle Ages [edit]
+Theories about emotions stretch back to at least as far as the stoics of Ancient Greece and Ancient China. In the latter it was believed that excess emotion caused damage to qi, which in turn, damages the vital organs.[13] The four humours theory made popular by Hippocrates contributed to the study of emotion in the same way that it did for medicine.
+Western philosophy regarded emotion in varying ways. In stoic theories it was seen as a hindrance to reason and therefore a hindrance to virtue. Aristotle believed that emotions were an essential component to virtue.[14] In the Aristotelian view all emotions (called passions) corresponded to an appetite or capacity. During the Middle Ages, the Aristotelian view was adopted and further developed by scholasticism and Thomas Aquinas [15] in particular. There are also theories in the works of philosophers such as Ren Descartes, Niccolo Machiavelli, Baruch Spinoza[16] and David Hume. In the 19th century emotions were considered adaptive and were studied more frequently from an empiricist psychiatric perspective.
+Evolutionary theories [edit]
+Main article: Evolution of emotion
+
+
+Illustration from Charles Darwin's The Expression of the Emotions in Man and Animals.
+19th Century
+Perspectives on emotions from evolutionary theory were initiated in the late 19th century with Charles Darwin's book The Expression of the Emotions in Man and Animals.[17] Darwin argued that emotions actually served a purpose for humans, in communication and also in aiding their survival. Darwin therefore argued that emotions evolved via natural selection and therefore have universal cross-cultural counterparts. Darwin also detailed the virtues of experiencing emotions and the parallel experiences that occur in animals (see emotion in animals). This led the way for animal research on emotions and the eventual determination of the neural underpinnings of emotion.
+Contemporary
+More contemporary views along the evolutionary psychology spectrum posit that both basic emotions and social emotions evolved to motivate (social) behaviors that were adaptive in the ancestral environment.[1] Current research suggests that emotion is an essential part of any human decision-making and planning, and the famous distinction made between reason and emotion is not as clear as it seems. Paul D. MacLean claims that emotion competes with even more instinctive responses, on hand, and the more abstract reasoning, on the other hand. The increased potential in neuroimaging has also allowed investigation into evolutionarily ancient parts of the brain. Important neurological advances were derived from these perspectives in the 1990s by Joseph E. LeDoux and Antnio Damsio.
+Research on social emotion also focuses on the physical displays of emotion including body language of animals and humans (see affect display). For example, spite seems to work against the individual but it can establish an individual's reputation as someone to be feared.[1] Shame and pride can motivate behaviors that help one maintain one's standing in a community, and self-esteem is one's estimate of one's status.[1][18]
+Somatic theories [edit]
+Somatic theories of emotion claim that bodily responses, rather than cognitive interpretations, are essential to emotions. The first modern version of such theories came from William James in the 1880s. The theory lost favor in the 20th century, but has regained popularity more recently due largely to theorists such as John Cacioppo,[19] Antnio Damsio,[20] Joseph E. LeDoux[21] and Robert Zajonc[22] who are able to appeal to neurological evidence.[citation needed]
+JamesLange theory [edit]
+Main article: JamesLange theory
+In his 1884 article[23] William James argued that feelings and emotions were secondary to physiological phenomena. In his theory, James proposed that the perception of what he called an "exciting fact" led directly to a physiological response, known as "emotion." To account for different types of emotional experiences, James proposed that stimuli trigger activity in the autonomic nervous system, which in turn produces an emotional experience in the brain. The Danish psychologist Carl Lange also proposed a similar theory at around the same time, and therefore this theory became known as the JamesLange theory. As James wrote, "the perception of bodily changes, as they occur, is the emotion." James further claims that "we feel sad because we cry, angry because we strike, afraid because we tremble, and neither we cry, strike, nor tremble because we are sorry, angry, or fearful, as the case may be."[23]
+An example of this theory in action would be as follows: An emotion-evoking stimulus (snake) triggers a pattern of physiological response (increased heart rate, faster breathing, etc.), which is interpreted as a particular emotion (fear). This theory is supported by experiments in which by manipulating the bodily state induces a desired emotional state.[24] Some people may believe that emotions give rise to emotion-specific actions: e.g. "I'm crying because I'm sad," or "I ran away because I was scared." The issue with the JamesLange theory is that of causation (bodily states causing emotions and being a priori), not that of the bodily influences on emotional experience (which can be argued is still quite prevalent today in biofeedback studies and embodiment theory).[25]
+Although mostly abandoned in its original form, Tim Dalgleish argues that most contemporary neuroscientists have embraced the components of the James-Lange theory of emotions.[26]
+The JamesLange theory has remained influential. Its main contribution is the emphasis it places on the embodiment of emotions, especially the argument that changes in the bodily concomitants of emotions can alter their experienced intensity. Most contemporary neuroscientists would endorse a modified JamesLange view in which bodily feedback modulates the experience of emotion." (p. 583)
+CannonBard theory [edit]
+Main article: Cannon-Bard theory
+Walter Bradford Cannon agreed that physiological responses played a crucial role in emotions, but did not believe that physiological responses alone could explain subjective emotional experiences. He argued that physiological responses were too slow and often imperceptible and this could not account for the relatively rapid and intense subjective awareness of emotion. He also believed that the richness, variety, and temporal course of emotional experiences could not stem from physiological reactions, that reflected fairly undifferentiated fight or flight responses.[27][28] An example of this theory in action is as follows: An emotion-evoking event (snake) triggers simultaneously both a physiological response and a conscious experience of an emotion.
+Phillip Bard contributed to the theory with his work on animals. Bard found that sensory, motor, and physiological information all had to pass through the diencephalon (particularly the thalamus), before being subjected to any further processing. Therefore, Cannon also argued that is was not anatomically possible for sensory events to trigger a physiological response prior to triggering conscious awareness and emotional stimuli had to trigger both physiological and experiential aspects of emotion simultaneously.[27]
+Two-factor theory [edit]
+Main article: Two-factor theory of emotion
+Stanley Schachter formulated his theory on the earlier work of a Spanish physician, Gregorio Maranon, who injected patients with epinephrine and subsequently asked them how they felt. Interestingly, Maranon found that most of these patients felt something but in the absence of an actual emotion-evoking stimulus, the patients were unable to interpret their physiological arousal as an experienced emotion. Schachter did agree that physiological reactions played a big role in emotions. He suggested that physiological reactions contributed to emotional experience by facilitating a focused cognitive appraisal of a given physiologically arousing event and that this appraisal was what defined the subjective emotional experience. Emotions were thus a result of two stage process: general physiological arousal, and experience of emotion. For example, the physiological arousal, heart pounding, in a response to an evoking stimulus, the sight of a bear in the kitchen. The brain then quickly scans the area, to explain the pounding, and notices the bear. Consequently, the brain interprets the pounding heart as being the result of fearing the bear.[29] With his student, Jerome Singer, Schachter demonstrated that subjects can have different emotional reactions despite being placed into the same physiological state with an injection of epinephrine. Subjects were observed to express either anger or amusement depending on whether another person in the situation (a confederate) displayed that emotion. Hence, the combination of the appraisal of the situation (cognitive) and the participants' reception of adrenaline or a placebo together determined the response. This experiment has been criticized in Jesse Prinz's (2004) Gut Reactions.
+Cognitive theories [edit]
+With the two-factor theory now incorporating cognition, several theories began to argue that cognitive activity in the form of judgments, evaluations, or thoughts was entirely necessary for an emotion to occur. One of the main proponents of this view was Richard Lazarus who argued that emotions must have some cognitive intentionality. The cognitive activity involved in the interpretation of an emotional context may be conscious or unconscious and may or may not take the form of conceptual processing.
+Lazarus' theory is very influential; emotion is a disturbance that occurs in the following order:
+Cognitive appraisalThe individual assesses the event cognitively, which cues the emotion.
+Physiological changesThe cognitive reaction starts biological changes such as increased heart rate or pituitary adrenal response.
+ActionThe individual feels the emotion and chooses how to react.
+For example: Jenny sees a snake.
+Jenny cognitively assesses the snake in her presence. Cognition allows her to understand it as a danger.
+Her brain activates Adrenaline gland which pumps Adrenaline through her blood stream resulting in increased heartbeat.
+Jenny screams and runs away.
+Lazarus stressed that the quality and intensity of emotions are controlled through cognitive processes. These processes underline coping strategies that form the emotional reaction by altering the relationship between the person and the environment.
+George Mandler provided an extensive theoretical and empirical discussion of emotion as influenced by cognition, consciousness, and the autonomic nervous system in two books (Mind and Emotion, 1975, and Mind and Body: Psychology of Emotion and Stress, 1984)
+There are some theories on emotions arguing that cognitive activity in the form of judgements, evaluations, or thoughts is necessary in order for an emotion to occur. A prominent philosophical exponent is Robert C. Solomon (for example, The Passions, Emotions and the Meaning of Life, 1993). Solomon claims that emotions are judgements. He has put forward a more nuanced view which responds to what he has called the standard objection to cognitivism, the idea that a judgement that something is fearsome can occur with or without emotion, so judgement cannot be identified with emotion. The theory proposed by Nico Frijda where appraisal leads to action tendencies is another example.
+It has also been suggested that emotions (affect heuristics, feelings and gut-feeling reactions) are often used as shortcuts to process information and influence behavior.[30] The affect infusion model (AIM) is a theoretical model developed by Joseph Forgas in the early 1990s that attempts to explain how emotion and mood interact with one's ability to process information.
+Perceptual theory
+Theories dealing with perception either use one or multiples perceptions in order to find an emotion (Goldie, 2007).A recent hybrid of the somatic and cognitive theories of emotion is the perceptual theory. This theory is neo-Jamesian in arguing that bodily responses are central to emotions, yet it emphasizes the meaningfulness of emotions or the idea that emotions are about something, as is recognized by cognitive theories. The novel claim of this theory is that conceptually-based cognition is unnecessary for such meaning. Rather the bodily changes themselves perceive the meaningful content of the emotion because of being causally triggered by certain situations. In this respect, emotions are held to be analogous to faculties such as vision or touch, which provide information about the relation between the subject and the world in various ways. A sophisticated defense of this view is found in philosopher Jesse Prinz's book Gut Reactions and psychologist James Laird's book Feelings.
+Affective events theory
+This is a communication-based theory developed by Howard M. Weiss and Russell Cropanzano (1996), that looks at the causes, structures, and consequences of emotional experience (especially in work contexts). This theory suggests that emotions are influenced and caused by events which in turn influence attitudes and behaviors. This theoretical frame also emphasizes time in that human beings experience what they call emotion episodes a "series of emotional states extended over time and organized around an underlying theme." This theory has been utilized by numerous researchers to better understand emotion from a communicative lens, and was reviewed further by Howard M. Weiss and Daniel J. Beal in their article, "Reflections on Affective Events Theory" published in Research on Emotion in Organizations in 2005.
+Situated perspective on emotion [edit]
+A situated perspective on emotion, developed by Paul E. Griffiths and Andrea Scarantino , emphasizes the importance of external factors in the development and communication of emotion, drawing upon the situationism approach in psychology.[31] This theory is markedly different from both cognitivist and neo-Jamesian theories of emotion, both of which see emotion as a purely internal process, with the environment only acting as a stimulus to the emotion. In contrast, a situationist perspective on emotion views emotion as the product of an organism investigating its environment, and observing the responses of other organisms. Emotion stimulates the evolution of social relationships, acting as a signal to mediate the behavior of other organisms. In some contexts, the expression of emotion (both voluntary and involuntary) could be seen as strategic moves in the transactions between different organisms. The situated perspective on emotion states that conceptual thought is not an inherent part of emotion, since emotion is an action-oriented form of skillful engagement with the world. Griffiths and Scarantino suggested that this perspective on emotion could be helpful in understanding phobias, as well as the emotions of infants and animals.
+The neurocircuitry of emotion [edit]
+
+Based on discoveries made through neural mapping of the limbic system, the neurobiological explanation of human emotion is that emotion is a pleasant or unpleasant mental state organized in the limbic system of the mammalian brain. If distinguished from reactive responses of reptiles, emotions would then be mammalian elaborations of general vertebrate arousal patterns, in which neurochemicals (for example, dopamine, noradrenaline, and serotonin) step-up or step-down the brain's activity level, as visible in body movements, gestures, and postures.
+For example, the emotion of love is proposed to be the expression of paleocircuits of the mammalian brain (specifically, modules of the cingulate gyrus) which facilitate the care, feeding, and grooming of offspring. Paleocircuits are neural platforms for bodily expression configured before the advent of cortical circuits for speech. They consist of pre-configured pathways or networks of nerve cells in the forebrain, brain stem and spinal cord.
+The motor centers of reptiles react to sensory cues of vision, sound, touch, chemical, gravity, and motion with pre-set body movements and programmed postures. With the arrival of night-active mammals, smell replaced vision as the dominant sense, and a different way of responding arose from the olfactory sense, which is proposed to have developed into mammalian emotion and emotional memory. The mammalian brain invested heavily in olfaction to succeed at night as reptiles sleptone explanation for why olfactory lobes in mammalian brains are proportionally larger than in the reptiles. These odor pathways gradually formed the neural blueprint for what was later to become our limbic brain.
+Emotions are thought to be related to certain activities in brain areas that direct our attention, motivate our behavior, and determine the significance of what is going on around us. Pioneering work by Broca (1878), Papez (1937), and MacLean (1952) suggested that emotion is related to a group of structures in the center of the brain called the limbic system, which includes the hypothalamus, cingulate cortex, hippocampi, and other structures. More recent research has shown that some of these limbic structures are not as directly related to emotion as others are, while some non-limbic structures have been found to be of greater emotional relevance.
+In 2011, Lvheim proposed a direct relation between specific combinations of the levels of the signal substances dopamine, noradrenaline and serotonin and eight basic emotions. A model was presented where the signal substances form the axes of a coordinate system, and the eight basic emotions according to Silvan Tomkins are placed in the eight corners. Anger is, according to the model, for example produced by the combination of low serotonin, high dopamine and high noradrenaline.[32]
+
+
+Lvheim cube of emotion
+Prefrontal cortex [edit]
+There is ample evidence that the left prefrontal cortex is activated by stimuli that cause positive approach.[33] If attractive stimuli can selectively activate a region of the brain, then logically the converse should hold, that selective activation of that region of the brain should cause a stimulus to be judged more positively. This was demonstrated for moderately attractive visual stimuli[34] and replicated and extended to include negative stimuli.[35]
+Two neurobiological models of emotion in the prefrontal cortex made opposing predictions. The Valence Model predicted that anger, a negative emotion, would activate the right prefrontal cortex. The Direction Model predicted that anger, an approach emotion, would activate the left prefrontal cortex. The second model was supported.[36]
+This still left open the question of whether the opposite of approach in the prefrontal cortex is better described as moving away (Direction Model), as unmoving but with strength and resistance (Movement Model), or as unmoving with passive yielding (Action Tendency Model). Support for the Action Tendency Model (passivity related to right prefrontal activity) comes from research on shyness[37] and research on behavioral inhibition.[38] Research that tested the competing hypotheses generated by all four models also supported the Action Tendency Model.[39][40]
+Homeostatic/primordial emotion [edit]
+Another neurological approach distinguishes two classes of emotion: "classical" emotions such as love, anger and fear that are evoked by environmental stimuli via distance receptors in the eyes, nose and ears;[41] and "homeostatic"[42] (or "primordial"[43]) emotions  imperious (attention-demanding) feelings such as pain, hunger and fatigue, evoked by internal body states communicated to the central nervous system by interoceptors,[43] that motivate behavior aimed at maintaining the body's internal milieu at its ideal state.[44]
+Derek Denton defines the latter as "the subjective element of the instincts, which are the genetically programmed behaviour patterns which contrive homeostasis. They include thirst, hunger for air, hunger for food, pain and hunger for specific minerals etc. There are two constituents of a primordial emotion--the specific sensation which when severe may be imperious, and the compelling intention for gratification by a consummatory act."[45]
+Disciplinary approaches [edit]
+
+Many different disciplines have produced work on the emotions. Human sciences study the role of emotions in mental processes, disorders, and neural mechanisms. In psychiatry, emotions are examined as part of the discipline's study and treatment of mental disorders in humans. Nursing studies emotions as part of its approach to the provision of holistic health care to humans. Psychology examines emotions from a scientific perspective by treating them as mental processes and behavior and they explore the underlying physiological and neurological processes. In neuroscience sub-fields such as social neuroscience and affective neuroscience, scientists study the neural mechanisms of emotion by combining neuroscience with the psychological study of personality, emotion, and mood. In linguistics, the expression of emotion may change to the meaning of sounds. In education, the role of emotions in relation to learning is examined.
+Social sciences often examine emotion for the role that it plays in human culture and social interactions. In sociology, emotions are examined for the role they play in human society, social patterns and interactions, and culture. In anthropology, the study of humanity, scholars use ethnography to undertake contextual analyses and cross-cultural comparisons of a range of human activities. Some anthropology studies examine the role of emotions in human activities. In the field of communication sciences, critical organizational scholars have examined the role of emotions in organizations, from the perspectives of managers, employees, and even customers. A focus on emotions in organizations can be credited to Arlie Russell Hochschild's concept of emotional labor. The University of Queensland hosts EmoNet,[46] an e-mail distribution list representing a network of academics that facilitates scholarly discussion of all matters relating to the study of emotion in organizational settings. The list was established in January 1997 and has over 700 members from across the globe.
+In economics, the social science that studies the production, distribution, and consumption of goods and services, emotions are analyzed in some sub-fields of microeconomics, in order to assess the role of emotions on purchase decision-making and risk perception. In criminology, a social science approach to the study of crime, scholars often draw on behavioral sciences, sociology, and psychology; emotions are examined in criminology issues such as anomie theory and studies of "toughness," aggressive behavior, and hooliganism. In law, which underpins civil obedience, politics, economics and society, evidence about people's emotions is often raised in tort law claims for compensation and in criminal law prosecutions against alleged lawbreakers (as evidence of the defendant's state of mind during trials, sentencing, and parole hearings). In political science, emotions are examined in a number of sub-fields, such as the analysis of voter decision-making.
+In philosophy, emotions are studied in sub-fields such as ethics, the philosophy of art (for example, sensoryemotional values, and matters of taste and sentimentality), and the philosophy of music (see also Music and emotion). In history, scholars examine documents and other sources to interpret and analyze past activities; speculation on the emotional state of the authors of historical documents is one of the tools of interpretation. In literature and film-making, the expression of emotion is the cornerstone of genres such as drama, melodrama, and romance. In communication studies, scholars study the role that emotion plays in the dissemination of ideas and messages. Emotion is also studied in non-human animals in ethology, a branch of zoology which focuses on the scientific study of animal behavior. Ethology is a combination of laboratory and field science, with strong ties to ecology and evolution. Ethologists often study one type of behavior (for example, aggression) in a number of unrelated animals.
+History [edit]
+The history of emotions has become an increasingly popular topic recently, with some scholars arguing that it is an essential category of analysis, not unlike class, race, or gender. Historians, like other social scientists, assume that emotions, feelings and their expressions are regulated in different ways by both different cultures and different historical times, and constructivist school of history claims even that some sentiments and meta-emotions, for example Schadenfreude, are learnt and not only regulated by culture. Historians of emotion trace and analyse the changing norms and rules of feeling, while examining emotional regimes, codes, and lexicons from social, cultural or political history perspectives. Others focus on the history of medicine, science or psychology. What somebody can and may feel (and show) in a given situation, towards certain people or things, depends on social norms and rules. It is thus historically variable and open to change.[47] Several research centers have sprung up in different countries in the past few years in Germany, England, Spain [1], Sweden and Australia.
+Furtherly, research in historical trauma suggests that some traumatic emotions can be passed on from parents to offspring to second and even third generation, presented as examples of transgenerational trauma.
+Sociology [edit]
+Main article: Sociology of emotions
+We try to regulate our emotions to fit in with the norms of the situation, based on many (sometimes conflicting) demands and expectations which originate from various entities. The emotion of anger is in many cultures discouraged in girls and women, while fear is discouraged in boys and men. Expectations attached to social roles, such as "acting as man" and not as a woman, and the accompanying "feeling rules" contribute to the differences in expression of certain emotions. Some cultures encourage or discourage happiness, sadness, or jealousy, and the free expression of the emotion of disgust is considered socially unacceptable in most cultures. Some social institutions are seen as based on certain emotion, such as love in the case of contemporary institution of marriage. In advertising, such as health campaigns and political messages, emotional appeals are commonly found. Recent examples include no-smoking health campaigns and political campaign advertising emphasizing the fear of terrorism.
+Psychotherapy and regulation of emotion [edit]
+Emotion regulation refers to the cognitive and behavioral strategies people use to influence their own emotional experience.[48] For example, a behavioral strategy in which one avoids a situation to avoid unwanted emotions (e.g., trying not to think about the situation, doing distracting activities, etc.).[49] Depending on the particular school's general emphasis on either cognitive components of emotion, physical energy discharging, or on symbolic movement and facial expression components of emotion,[50] different schools of psychotherapy approach the regulation of emotion differently. Cognitively oriented schools approach them via their cognitive components, such as rational emotive behavior therapy. Yet others approach emotions via symbolic movement and facial expression components (like in contemporary Gestalt therapy).[51]
+Computer science [edit]
+Main article: Affective computing
+In the 2000s, research in computer science, engineering, psychology and neuroscience has been aimed at developing devices that recognize human affect display and model emotions.[52] In computer science, affective computing is a branch of the study and development of artificial intelligence that deals with the design of systems and devices that can recognize, interpret, and process human emotions. It is an interdisciplinary field spanning computer sciences, psychology, and cognitive science.[53] While the origins of the field may be traced as far back as to early philosophical enquiries into emotion,[23] the more modern branch of computer science originated with Rosalind Picard's 1995 paper[54] on affective computing.[55][56] Detecting emotional information begins with passive sensors which capture data about the user's physical state or behavior without interpreting the input. The data gathered is analogous to the cues humans use to perceive emotions in others. Another area within affective computing is the design of computational devices proposed to exhibit either innate emotional capabilities or that are capable of convincingly simulating emotions. Emotional speech processing recognizes the user's emotional state by analyzing speech patterns. The detection and processing of facial expression or body gestures is achieved through detectors and sensors.
+Notable theorists [edit]
+
+
+This section does not cite any references or sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (February 2012)
+
+
+William James about the time he wrote on emotions
+In the late 19th century, the most influential theorists were William James (18421910) and Carl Lange (18341900). James was an American psychologist and philosopher who wrote about educational psychology, psychology of religious experience/mysticism, and the philosophy of pragmatism. Lange was a Danish physician and psychologist. Working independently, they developed the JamesLange theory, a hypothesis on the origin and nature of emotions. The theory states that within human beings, as a response to experiences in the world, the autonomic nervous system creates physiological events such as muscular tension, a rise in heart rate, perspiration, and dryness of the mouth. Emotions, then, are feelings which come about as a result of these physiological changes, rather than being their cause.[57]
+Silvan Tomkins (1911  1991) developed the Affect theory and Script theory. The Affect theory introduced the concept of basic emotions, and was based on the idea that the dominance of the emotion , which he called the affect system, was the motivating force in human life.[58]
+Some of the most influential theorists on emotion from the 20th century have died in the last decade. They include Magda B. Arnold (19032002), an American psychologist who developed the appraisal theory of emotions;[59] Richard Lazarus (19222002), an American psychologist who specialized in emotion and stress, especially in relation to cognition; Herbert A. Simon (19162001), who included emotions into decision making and artificial intelligence; Robert Plutchik (19282006), an American psychologist who developed a psychoevolutionary theory of emotion;[60] Robert Zajonc (19232008) a PolishAmerican social psychologist who specialized in social and cognitive processes such as social facilitation. An American philosopher, Robert C. Solomon (19422007), contributed to the theories on the philosophy of emotions with books such as What Is An Emotion?: Classic and Contemporary Readings (Oxford, 2003). Peter Goldie (1946-2011) British philosopher who specializes in ethics, aesthetics, emotion, mood and character
+Influential theorists who are still active include the following psychologists, neurologists, and philosophers:
+Lisa Feldman Barrett  Social philosopher and psychologist specializing in affective science and human emotion.
+John Cacioppo  from the University of Chicago, founding father with Gary Berntson of social neuroscience.
+Antnio Damsio (born 1944)  Portuguese behavioral neurologist and neuroscientist who works in the US
+Richard Davidson (born 1951)  American psychologist and neuroscientist; pioneer in affective neuroscience.
+Paul Ekman (born 1934)  Psychologist specializing in the study of emotions and their relation to facial expressions
+Barbara Fredrickson  Social psychologist who specializes in emotions and positive psychology.
+Nico Frijda (born 1927)  Dutch psychologist who specializes in human emotions, especially facial expressions
+Arlie Russell Hochschild (born 1940)  American sociologist whose central contribution was in forging a link between the subcutaneous flow of emotion in social life and the larger trends set loose by modern capitalism within organizations.
+Joseph E. LeDoux (born 1949)  American neuroscientist who studies the biological underpinnings of memory and emotion, especially the mechanisms of fear
+George Mandler (born 1924) - American psychologist who wrote influential books on cognition and emotion
+Jaak Panksepp (born 1943)  Estonian-born American psychologist, psychobiologist and neuroscientist; pioneer in affective neuroscience.
+Jesse Prinz  American philosopher who specializes in emotion, moral psychology, aesthetics and consciousness
+Klaus Scherer (born 1943)  Swiss psychologist and director of the Swiss Center for Affective Sciences in Geneva; he specializes in the psychology of emotion
+Ronald de Sousa (born 1940)  EnglishCanadian philosopher who specializes in the philosophy of emotions, philosophy of mind and philosophy of biology.
+Morality and emotions [edit]
+
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (December 2012)
+The complexity of emotions and their role in mental life is reflected in the unsettled place they have held in the history of ethics. Often they have been regarded as a dangerous threat to morality and rationality; in the romantic tradition, on the contrary, passions have been placed at the center both of human individuality and of the moral life. This ambivalence is reflected in the close connections between the vocabulary of emotions and that of vices and virtues: envy, spite, jealousy, wrath, and pride are some names of emotions that also refer to common vices. Not coincidentally, some key virtueslove, compassion, benevolence, and sympathyare also names of emotions. (On the other hand, prudence, fortitude and temperance consist largely in the capacity to resist the motivational power of emotions.)
+The view that emotions are irrational was eloquently defended by the Epicureans and Stoics. For this reason, these Hellenistic schools pose a particularly interesting challenge for the rest of the Western tradition. The Stoics adapted and made their own the Socratic hypothesis that virtue is nothing else than knowledge, adding the idea that emotions are essentially irrational beliefs. All vice and all suffering is then irrational, and the good life requires the rooting out of all desires and attachments. (As for the third of the major Hellenistic schools, the Skeptics, their view was that it is beliefs as such that were responsible for pain. Hence they recommend the repudiation of opinions of any sort.) All three schools stressed the overarching value of ataraxia, the absence of disturbance in the soul. Philosophy can then be viewed as therapy, the function of which is to purge emotions from the soul (Nussbaum 1994). In support of this, the Stoics advanced the plausible claim that it is psychologically impossible to keep only nice emotions and give up the nasty ones. For all attachment and all desire, however worthy their objects might seem, entail the capacity for wrenching and destructive negative emotions. Erotic love can bring with it the murderous jealousy of a Medea, and even a commitment to the idea of justice may foster a capacity for destructive anger which is nothing but furor brevis temporary insanity, in Seneca's arresting phrase. Moreover, the usual objects of our attachment are clearly unworthy of a free human being, since they diminish rather than enhance the autonomy of those that endure them.
+The Hellenistic philosophers' observations about nasty emotions are not wholly compelling. Surely it is possible to see at least some emotions as having a positive contribution to make to our moral lives, and indeed we have seen that the verdict of cognitive science is that a capacity for normal emotion appears to be a sine qua non for the rational and moral conduct of life. Outside of this intimate but still somewhat mysterious link between the neurological capacity for emotion and rationality, the exact significance of emotions to the moral life will again depend on one's theory of the emotions. Inasmuch as emotions are partly constituted by desires, as some cognitivist theorists maintain, they will, as David Hume contended, help to motivate decent behavior and cement social life. If emotions are perceptions, and can be more or less epistemically adequate to their objects, then emotions may have a further contribution to make to the moral life, depending on what sort of adequacy and what sort of objects are involved. Max Scheler (1954) was the first to suggest that emotions are in effect perceptions of tertiary qualities that supervene in the (human) world on facts about social relations, pleasure and pain, and natural psychological facts, a suggestion recently elaborated by Tappolet (2000).
+An important amendment to that view, voiced by D'Arms and Jacobson (2000a) is that emotions may have intrinsic criteria of appropriateness that diverge from, and indeed may conflict with, ethical norms. Appropriate emotions are not necessarily moral. Despite that, some emotions, specifically guilt, resentment, shame and anger, may have a special role in the establishment of a range of response-dependent values and norms that lie at the heart of the moral life. (Gibbard 1990, D'Arms and Jacobson 1993). Mulligan (1998) advances a related view: though not direct perceptions of value, emotions can be said to justify axiological judgments. Emotions themselves are justified by perceptions and beliefs, and are said to be appropriate if and only if the axiological judgments they support are correct. If any of those variant views is right, then emotions have a crucial role to play in ethics in revealing to us something like moral facts. A consequence of this view is that art and literature, in educating our emotions, will have a substantial role in our moral development (Nussbaum 2001). On the other hand, there remains something natural about the emotions concerned, so that moral emotions are sometimes precisely those that resist the principles inculcated by so-called moral education. Hence the view that emotions apprehend real moral properties can explain our approval of those, like Huckleberry Finn when he ignored his duty to turn in Jim the slave, whose emotions drive them to act against their own rational conscience (Bennett 1974; McIntyre 1990).
+See also [edit]
+
+Affect measures
+Affective Computing
+Affective forecasting
+Affective neuroscience
+Affective science
+CyberEmotions
+Emotion classification
+Emotion in animals
+Emotions and culture
+Emotion and memory
+Emotional expression
+Emotions in virtual communication
+Feeling
+Fuzzy-trace theory
+Group emotion
+List of emotions
+Sociology of emotions
+Social emotion
+Social neuroscience
+Social sharing of emotions
+Somatic markers hypothesis
+Affective science#Measuring Emotions
+References [edit]
+
+Notes
+^ a b c d Gaulin, Steven J. C. and Donald H. McBurney. Evolutionary Psychology. Prentice Hall. 2003. ISBN 978-0-13-111529-3, Chapter 6, p 121-142.
+^ Schacter, Daniel L. (2011). Psychology Second Edition. 41 Madison Avenue, New York, NY 10010: Worth Publishers. p. 310. ISBN 978-1-4292-3719-2.
+^ Cacioppo, J.T & Gardner, W.L (1999). Emotion. "Annual Review of Psychology", 191.
+^ Merriam-Webster (2004). The Merriam-Webster dictionary (11th ed.). Springfield, MA: Author.
+^ a b Fox 2008, pp. 1617.
+^ Ekman, Paul (1992). "An argument for basic emotions". Cognition & Emotion 6: 169200.
+^ Scherer, K. R. (2005). "What are emotions? And how can they be measured?". Social Science Information 44: 693727.
+^ Schwarz, N. H. (1990). Feelings as information: Informational and motivational functions of affective states. Handbook of motivation and cognition: Foundations of social behavior, 2, 527-561.
+^ a b Handel, Steven. "Classification of Emotions". Retrieved 30 April 2012.
+^ Plutchik , R. (2002). Nature of emotions. American Scientist,89, 349.
+^ Wayne, W. & McCann, D. (2007). Psychology: Themes & Variety 2nd Canadian ed. Nelson Education Ltd: Thompson Wadsworth Publisher. ISBN 978-0-17-647273-3
+^ Schacter, Daniel L. (2011). Psychology Ed. 2. 41 Madison Avenue New York, NY 10010: Worth Publishers. ISBN 1429237198.
+^ Suchy, Yana (2011). Clinical neuropsychology of emotion. New York, NY: Guilford.
+^ Aristotle. Nicomachean Ethics. Book 2. Chapter 6.
+^ Aquinas, Thomas. Summa Theologica. Q.59, Art.2.
+^ See for instance Antonio Damasio (2005) Looking for Spinoza.
+^ Darwin, Charles (1872). The Expression of Emotions in Man and Animals. Note: This book was originally published in 1872, but has been reprinted many times thereafter by different publishers
+^ Wright, Robert. Moral animal.
+^ Cacioppo, J. T. (1998). Somatic responses to psychological stress: The reactivity hypothesis.Advances in psychological science, Vol. 2, pp. 87-114. East Sussex, United Kingdom: Psychology Press
+^ Aziz-Zadeh L, Damasio A. (2008) Embodied semantics for actions: findings from functional brain imaging. J Physiol Paris. Jan-May;102(1-3):35-9
+^ LeDoux J.E. (1996) The Emotional Brain. New York: Simon & Schuster.
+^ McIntosh, D. N., Zajonc, R. B., Vig, P. S., & Emerick, S. W. (1997). Facial movement, breathing, temperature, and affect: Implications of the vascular theory of emotional efference. Cognition & Emotion, 11(2), 171-195.
+^ a b c James, William. 1884. "What Is an Emotion?" Mind. 9, no. 34: 188-205.
+^ Laird, James, Feelings: the Perception of Self, Oxford University Press
+^ Reisenzein, R. (1995). James and the physical basis of emotion: A comment on ellsworth. Psychological review, 102(4), 757-761. doi: 0033-295X
+^ Dalgleish, T. (2004). The emotional brain. Nature: Perspectives, 5, 58289.
+^ a b Cannon, Walter B. (1929). "Organization for Physiological Homeostasis". Physiological Review 9 (3): 399421.
+^ Cannon, Walter B. (1927). "The James-Lange theory of emotion: A critical examination and an alternative theory.". The American Journal of Psychology 39: 106124.
+^ Daniel L. Schacter, Daniel T. Gilbert, Daniel M. Wegner (2011). Psychology. Worth Publishers ).
+^ see the HeuristicSystematic Model, or HSM, (Chaiken, Liberman, & Eagly, 1989) under attitude change. Also see the index entry for "Emotion" in "Beyond Rationality: The Search for Wisdom in a Troubled Time" by Kenneth R. Hammond and in "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets" by Nassim Nicholas Taleb.
+^ Griffiths, Paul Edmund and Scarantino, Andrea (2005) Emotions in the wild: The situated perspective on emotion.
+^ Lvheim H. A new three-dimensional model for emotions and monoamine neurotransmitters. Med Hypotheses (2011), Epub ahead of print. doi:10.1016/j.mehy.2011.11.016 PMID 22153577
+^ Kringelbach, M.L.; O'Doherty, J.O.; Rolls, E.T.; & Andrews, C. (2003). Activation of the human orbitofrontal cortex to a liquid food stimulus is correlated with its subjective pleasantness. Cerebral Cortex, 13, 10641071.
+^ Drake, R.A. (1987). Effects of gaze manipulation on aesthetic judgments: Hemisphere priming of affect. Acta Psychologica, 65, 9199.
+^ Merckelbach, H.; & van Oppen, P. (1989). Effects of gaze manipulation on subjective evaluation of neutral and phobia-relevant stimuli: A comment on Drake's (1987) 'Effects of gaze manipulation on aesthetic judgments: Hemisphere priming of affect.' Acta Psychologica, 70, 147151.
+^ Harmon-Jones, E.; Vaughn-Scott, K.; Mohr, S.; Sigelman, J.; & Harmon-Jones, C. (2004). The effect of manipulated sympathy and anger on left and right frontal cortical activity. Emotion, 4, 95101.
+^ Schmidt, L.A. (1999). Frontal brain electrical activity in shyness and sociability. Psychological Science, 10, 316320.
+^ Garavan, H.; Ross, T.J.; & Stein, E.A. (1999). Right hemispheric dominance of inhibitory control: An event-related functional MRI study. Proceedings of the National Academy of Sciences, 96, 83018306.
+^ Drake, R.A.; & Myers, L.R. (2006). Visual attention, emotion, and action tendency: Feeling active or passive. Cognition and Emotion, 20, 608622.
+^ Wacker, J.; Chavanon, M.-L.; Leue, A.; & Stemmler, G. (2008). Is running away right? The behavioral activationbehavioral inhibition model of anterior asymmetry. Emotion, 8, 232249.
+^ Denton 2006, p. 10.
+^ Craig, A.D. (Bud) (2003). "Interoception: The sense of the physiological condition of the body". Current Opinion in Neurobiology 13 (4): 500505. doi:10.1016/S0959-4388(03)00090-4. PMID 12965300.
+^ a b Derek A. Denton (8 June 2006). The primordial emotions: the dawning of consciousness. Oxford University Press. p. 7. ISBN 978-0-19-920314-7.
+^ Craig, A.D. (Bud) (2008). "Interoception and emotion: A neuroanatomical perspective". In Lewis, M.; Haviland-Jones, J.M.; Feldman Barrett, L. Handbook of Emotion (3 ed.). New York: The Guildford Press. pp. 272288. ISBN 978-1-59385-650-2. Retrieved 6 September 2009.
+^ Denton DA, McKinley MJ, Farrell M, Egan GF (June 2009). "The role of primordial emotions in the evolutionary origin of consciousness". Conscious Cogn 18 (2): 50014. doi:10.1016/j.concog.2008.06.009. PMID 18701321.
+^ EmoNet
+^ http://www.mpib-berlin.mpg.de/en/research/history-of-emotions
+^ Schacter, Daniel. "Psychology". Worth Publishers. 2011. p.316
+^ Schacter, Daniel. "Psychology". Worth Publishers. 2011. p.340
+^ Freitas-Magalhes, A., & Castro, E. (2009). Facial Expression: The effect of the smile in the Treatment of Depression. Empirical Study with Portuguese Subjects. In A. Freitas-Magalhes (Ed.), Emotional Expression: The Brain and The Face (pp. 127140). Porto: University Fernando Pessoa Press. ISBN 978-989-643-034-4
+^ On Emotion  an article from Manchester Gestalt Centre website
+^ Fellous, Armony & LeDoux, 2002
+^ Tao, Jianhua; Tieniu Tan (2005). "LNCS". Affective Computing and Intelligent Interaction 3784. Springer. pp. 981995. doi:10.1007/11573548.
+^ "Affective Computing" MIT Technical Report #321 (Abstract), 1995
+^ Kleine-Cosack, Christian (October 2006). "Recognition and Simulation of Emotions" (PDF). Archived from the original on May 28, 2008. Retrieved May 13, 2008. "The introduction of emotion to computer science was done by Pickard (sic) who created the field of affective computing."
+^ Diamond, David (December 2003). "The Love Machine; Building computers that care.". Wired. Retrieved May 13, 2008. "Rosalind Picard, a genial MIT professor, is the field's godmother; her 1997 book, Affective Computing, triggered an explosion of interest in the emotional side of computers and their users."
+^ Cherry, Kendra. "v". Retrieved 30 April 2012.
+^ The Tomkins Institute. "Applied Studies in Motivation, Emotion, and Cognition". Retrieved 30 April 2012.
+^ Reisenzein , R. (2006). Cognition & emotion. Psychology Press, part of the Taylor & Francis Group ,20(7), 920-951. doi:10.1080/02699930600616445
+^ Plutchik, R. (1982). A psychoevolutionary theory of emotions.Social Science Information, 21, 529. doi:10.1177/053901882021004003
+Bibliography
+Denton, Derek (2006). The Primordial Emotions: The Dawning of Consciousness. Oxford University Press. ISBN 978-0-19-920314-7.
+Fox, Elaine (2008). Emotion Science: An Integration of Cognitive and Neuroscientific Approaches. Palgrave MacMillan. ISBN 978-0-230-00517-4.
+Further reading [edit]
+
+Dana Sugu & Amita Chaterjee "Flashback: Reshuffling Emotions", International Journal on Humanistic Ideology, Vol. 3 No. 1, SpringSummer 2010.
+Cornelius, R. (1996). The science of emotion. New Jersey: Prentice Hall.
+Freitas-Magalhes, A. (Ed.). (2009). Emotional Expression: The Brain and The Face. Porto: University Fernando Pessoa Press. ISBN 978-989-643-034-4.
+Freitas-Magalhes, A. (2007). The Psychology of Emotions: The Allure of Human Face. Oporto: University Fernando Pessoa Press.
+Gonzlez, Ana Marta (2012). The Emotions and Cultural Analysis. Burlington, VT : Ashgate. ISBN 978-1-4094-5317-8
+Ekman, P. (1999). "Basic Emotions". In: T. Dalgleish and M. Power (Eds.). Handbook of Cognition and Emotion. John Wiley & Sons Ltd, Sussex, UK:.
+Frijda, N.H. (1986). The Emotions. Maison des Sciences de l'Homme and Cambridge University Press. [2]
+Hochschild, A.R. (1983). The managed heart: Commercialization of human feelings. Berkeley: University of California Press.
+Hogan, Patrick Colm. (2011). What Literature Teaches Us about Emotion Cambridge: Cambridge University Press.
+Hordern, Joshua. (2013). Political Affections: Civic Participation and Moral Theology. Oxford: Oxford University Press. ISBN 0199646813
+LeDoux, J.E. (1986). The neurobiology of emotion. Chap. 15 in J.E. LeDoux & W. Hirst (Eds.) Mind and Brain: dialogues in cognitive neuroscience. New York: Cambridge.
+Mandler, G. (1984). Mind and Body: Psychology of emotion and stress. New York: Norton.
+Nussbaum, Martha C. (2001) Upheavals of Thought: The Intelligence of Emotions. Cambridge: Cambridge University Press.
+Plutchik, R. (1980). A general psychoevolutionary theory of emotion. In R. Plutchik & H. Kellerman (Eds.), Emotion: Theory, research, and experience: Vol. 1. Theories of emotion (pp. 333). New York: Academic.
+Ridley-Duff, R.J. (2010). Emotion, Seduction and Intimacy: Alternative Perspectives on Human Behaviour (Third Edition), Seattle: Libertary Editions. http://www.libertary.com/book/emotion-seduction-intimacy
+Roberts, Robert. (2003). Emotions: An Essay in Aid of Moral Psychology. Cambridge: Cambridge University Press.
+Scherer, K. (2005). What are emotions and how can they be measured? Social Science Information Vol. 44, No. 4: 695729.
+Solomon, R. (1993). The Passions: Emotions and the Meaning of Life. Indianapolis: Hackett Publishing.
+Zeki, S. & Romaya, J.P. (2008), "Neural correlates of hate", PloS one, vol. 3, no. 10, pp. 3556.
+Wikibook Cognitive psychology and cognitive neuroscience
+Dror Green (2011). "Emotional Training, the art of creating a sense of a safe place in a changing world". Bulgaria: Books, Publishers and the Institute of Emotional Training.
+Goldie, Peter. (2007). "Emotion". Philosophy Compass, vol. 1, issue 6
+External links [edit]
+
+	Wikiversity has learning materials about Emotion
+	Look up emotion in Wiktionary, the free dictionary.
+Online Demo: Emotion recognition from speech, University of Patras, Wire Communication Lab
+Facial Emotion Expression Lab
+CNX.ORG: The Psychology of Emotions, Feelings and Thoughts (free online book)
+Queen Mary Centre for the History of the Emotions
+Humaine Emotion-Research.net: The Humaine Portal: Research on Emotions and Human-Machine Interaction
+PhilosophyofMind.net: Philosophy of Emotions portal
+Swiss Center for Affective Sciences
+The Internet Encyclopedia of Philosophy: Theories of Emotion
+The Stanford Encyclopedia of Philosophy: Emotion
+University of Arizona: Salk Institute:cCC
+Center for the History of Emotions, Max Planck Institute for Human Development, Berlin
+Emotional Culture and Identity
+v t e
+Emotions (list)
+Emotions	
+Adoration Affection Agitation Agony Awe Amusement Anger Anguish Annoyance Anxiety Arousal Attraction Caring Compassion Contempt Contentment Defeat Depression Desire Disappointment Disgust Ecstasy Embarrassment Empathy Enthrallment Enthusiasm Envy Euphoria Excitement Fear Frustration Grief Guilt Happiness Hatred Homesickness Hope Horror Hostility Humiliation Hysteria Infatuation Insecurity Insult Interest Irritation Isolation Jealousy Loneliness Longing Love Lust Melancholy Neglect Nostalgia Optimism Panic Passion Pity Pleasure Pride Rage Regret Rejection Remorse Resentment Sadness Sentimentality Shame Shock Sorrow Spite Suffering Surprise Sympathy Tenseness Wonder Worry
+
+Worldviews	
+Nihilism Optimism Pessimism Reclusion Weltschmerz
+v t e
+Psychology
+History Portal Psychologist
+Basic psychology	
+Abnormal Affective science Affective neuroscience Behaviorism Behavioral neuroscience Cognitive Cognitive neuroscience Comparative Cultural Developmental Differential Evolutionary Experimental Intelligence Mathematical Neuropsychology Personality Psycholinguistics Psychophysics Psychophysiology Social Theoretical
+Applied psychology	
+Anomalistic Applied behavior analysis Assessment Clinical Community psychology Consumer Counseling Educational Feminist Forensic Health Industrial and organizational Legal Media Military Occupational health Pastoral Political Psychometrics School Sport and exercise Suicidology Systems Traffic
+Methodologies	
+Animal testing Archival research Behavior genetics Behavior epigenetics Case study Content analysis Experiments Human subject research Interviews Neuroimaging Observation Qualitative research Quantitative research Self-report inventory Statistical surveys
+Orientations	
+Adlerian Analytical Behaviorism Cognitive behavioral therapy Cognitivism Descriptive Ecological systems theory Existential therapy Family therapy Feminist therapy Gestalt psychology Humanistic Logotherapy Narrative therapy Philosophy Psychoanalysis Psychoanalytic theory Psychodynamic psychotherapy Rational emotive behavior therapy Transpersonal
+Eminent
+psychologists
+Alfred Adler Gordon Allport Albert Bandura Aaron Beck John Bowlby Raymond Cattell Kenneth and Mamie Clark Albert Ellis Erik Erikson Hans Eysenck Leon Festinger Viktor Frankl Sigmund Freud Harry Harlow Donald O. Hebb Clark L. Hull William James Carl Jung Jerome Kagan Kurt Lewin Ivar Lovaas Abraham Maslow David McClelland George A. Miller Neal E. Miller Walter Mischel Ivan Pavlov Jean Piaget Carl Rogers Stanley Schachter B. F. Skinner Edward Thorndike John B. Watson Wilhelm Wundt
+Lists	
+Counseling topics Disciplines Important publications Organizations Outline Psychologists Psychotherapies Research methods Schools of thought Timeline Topics
+Wiktionary definition Wiktionary category Wikisource Wikimedia Commons Wikiquote Wikinews Wikibooks
+Categories: EmotionLimbic systemConceptsMental processes
+Navigation menu
+Create accountLog inArticleTalkReadEditView history
+
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact Wikipedia
+Toolbox
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Cite this page
+Print/export
+Languages
+
+Aragons
+Azrbaycanca
+
+
+ ()
+
+
+Bosanski
+Catal
+esky
+Corsu
+Cymraeg
+Dansk
+Deutsch
+Eesti
+
+Espaol
+Esperanto
+Euskara
+
+Fiji Hindi
+Franais
+Frysk
+Furlan
+Galego
+
+
+
+
+Hrvatski
+Ido
+Ilokano
+Bahasa Indonesia
+Interlingua
+slenska
+Italiano
+
+
+
+
+Kiswahili
+
+Latina
+Latvieu
+Lietuvi
+Magyar
+
+
+
+
+Mirands
+Nederlands
+ 
+
+Norsk bokml
+Norsk nynorsk
+Occitan
+
+
+ 
+Piemontis
+Polski
+Portugus
+Qaraqalpaqsha
+Romn
+
+
+ 
+Shqip
+Sicilianu
+Simple English
+Slovenina
+Slovenina
+ / srpski
+Srpskohrvatski / 
+Suomi
+Svenska
+Tagalog
+
+
+Trke
+
+
+Vahcuengh
+Ting Vit
+Winaray
+
+emaitka
+
+Edit links
+This page was last modified on 21 May 2013 at 16:35.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaMobile view 

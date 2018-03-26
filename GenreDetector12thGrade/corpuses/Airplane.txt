@@ -1,0 +1,75 @@
+ 
+{{Infobox aviation name = Airplane/Aeroplane image = File:Air Berlin B737-700 Dreamliner D-ABBN.jpg caption = Air Berlin Boeing 737-700, showing blended winglets available on the Next Generation 737 models
+}}
+ powered fixed-wing transportation of goods and people, military aviation|military, and research.
+ pilot on remotely or computer-controlled.
+
+==Etymology and usage==
+  English in French aroplane, Greek  plane moving through the air.  In an example of synecdoche, the word for the wing came to refer to the entire aircraft.
+
+In the United States and Canada, the term "airplane" is used for powered fixed-wing aircraft. In the United Kingdom and most of the Commonwealth of Nations|Commonwealth, the term "aeroplane" is usually applied to these aircraft.
+
+==History==
+ 
+===Antecedents=== Greek legend Icarus and Indian epics. 400 BC in Greece, Archytas was reputed to have designed and built the first artificial, self-propelled flying device, a bird-shaped model propelled by a jet of what was probably steam, said to have flown some  .   This machine may have been suspended for its flight.  
+ gliders were those by the 9th-century poet Abbas Ibn Firnas and the 11th-century monk Eilmer of Malmesbury; both experiments injured their pilots.  Leonardo da Vinci researched the wing design of birds and designed a man-powered aircraft in his Codex on the Flight of Birds (1502).
+  and his glider aircraft|glider, Albatros II, photographed by Nadar (photographer)|Nadar, 1868]]
+
+In 1799, Sir George Cayley set forth the concept of the modern airplane as a fixed-wing flying machine with separate systems for lift, propulsion, and control. {{Cite web
+| title = Aviation History
+| url = http://www.aviation-history.com/early/cayley.htm
+| publisher =
+| accessdate =26 July 2009
+| quote = In 1799 he set forth for the first time in history the concept of the modern aeroplane. Cayley had identified the drag vector (parallel to the flow) and the lift vector (perpendicular to the flow).}}  {{Cite web
+| title = Sir George Cayley (British Inventor and Scientist)
+| url = http://www.britannica.com/EBchecked/topic/100795/Sir-George-Cayley-6th-Baronet
+| publisher = Britannica
+| accessdate =26 July 2009 glider in 1853.  In 1856, Frenchman Jean-Marie Le Bris made the first powered flight, by having his glider "LAlbatros artificiel" pulled by a horse on a beach.  Then Alexander F. Mozhaisky also made some innovative designs. In 1883, the American John J. Montgomery made a controlled flight in a glider.  Other aviators who made similar flights at that time were Otto Lilienthal, Percy Pilcher, and Octave Chanute.
+
+Sir Hiram Maxim built a craft that weighed 3.5 tons, with a 110-foot (34-meter) wingspan that was powered by two 360-horsepower (270-kW) steam engines driving two propellers. In 1894, his machine was tested with overhead rails to prevent it from rising. The test showed that it had enough lift to take off. The craft was uncontrollable, which Maxim, it is presumed, realized, because he subsequently abandoned work on it. 
+
+In the 1890s, Lawrence Hargrave conducted research on wing structures and developed a box kite that lifted the weight of a man. His box kite designs were widely adopted and became the prevalent type of aircraft until 1909.  Although he also developed a type of rotary aircraft engine, he did not create and fly a powered fixed-wing aircraft. 
+
+Between 1867 and 1896 the German pioneer of human aviation Otto Lilienthal developed heavier-than-air flight. He was the first person to make well-documented, repeated, successful gliding flights.   in mid-flight, c. 1895]]
+
+===Early powered flights===
+The Wright brothers flights in 1903 are recognized by the Fdration Aronautique Internationale (FAI), the standard setting and record-keeping body for aeronautics, as "the first sustained and controlled heavier-than-air powered flight".  By 1905, the Wright Flyer III was capable of fully controllable, stable flight for substantial periods. The Wright brothers credited Otto Lilienthal as a major inspiration for their decision to pursue manned flight.
+
+In 1906, Alberto Santos Dumont made what was claimed to be the first airplane flight unassisted by catapult  and set the first world record recognized by the Aro-Club de France by flying   in less than 22 seconds.  This flight was also certified by the FAI.   
+
+An early aircraft design that brought together the modern monoplane tractor configuration was the Bleriot VIII design of 1908. It had movable tail surfaces controlling both yaw and pitch, a form of roll control supplied either by wing warping or by ailerons and controlled by its pilot with a joystick and rudder bar. It was an important predecessor of his later Bleriot XI English Channel|Channel-crossing aircraft of the summer of 1909. 
+
+World War I served as a testbed for the use of the airplane as a weapon. Airplanes demonstrated their potential as mobile observation platforms, then proved themselves to be machines of war capable of causing casualties to the enemy. The earliest known aerial victory with a synchronized machine gun-armed fighter aircraft occurred in 1915, by German Luftstreitkrfte Leutnant Kurt Wintgens. Fighter aces appeared; the greatest (by number of air victories) was Manfred von Richthofen.
+
+Following WWI, aircraft technology continued to develop. Alcock and Brown crossed the Atlantic non-stop for the first time in 1919. The first international commercial flights took place between the United States and Canada in 1919.    
+
+Airplanes had a presence in all the major battles of World War II. They were an essential component of the military strategies of the period, such as the German Blitzkrieg or the American and Japanese aircraft carrier campaigns of the Pacific War.
+
+===Development of jet aircraft===
+The first jet aircraft was the German Heinkel He 178, which was tested in 1939. In 1943, the Messerschmitt Me 262, the first jet fighter aircraft, went into service in the German Luftwaffe. In October 1947, the Bell X-1 was the first aircraft to exceed the speed of sound.  
+
+The first jet airliner, the de Havilland Comet, was introduced in 1952. The Boeing 707, the first widely successful commercial jet, was in commercial service for more than 50 years, from 1958 to 2010. The Boeing 747 was the worlds biggest passenger aircraft from 1970 until it was surpassed by the Airbus A380 in 2005.
+
+==Propulsion==
+ 
+
+===Propeller engines===
+  biplane]]
+ propeller to Dash 8 use a jet engine to turn the propeller, primarily because an equivalent piston engine in power output would be much larger and more complex.
+
+===Jet engines===
+  worlds first supersonic transport aircraft]]
+  supersonic transport aircraft]]
+ Supersonic airliners (e.g. Concorde) are no longer in use largely because flight at supersonic speed creates a sonic boom which is prohibited in most heavily populated areas, and because of the much higher consumption of fuel supersonic flight requires.
+ flaps and leading edge devices to control of lift and speed. Many also use thrust reversers to slow down the aircraft upon landing.
+
+===Electric engines===
+An electric aircraft runs on electric motors rather than internal combustion engines, with electricity coming from fuel cells, solar cells, ultracapacitors, power beaming,  or battery (electricity)|batteries. Currently, flying electric aircraft are mostly experimental demonstrators, including manned and unmanned aerial vehicles.
+
+===Rocket engines===
+  in flight, 1947]]
+ Me 163 altitude records SpaceShipOne and the XCOR EZ-Rocket.
+
+===Ramjet and scramjet engines===
+  attached to the underside]]
+A ramjet is a form of jet engine that contains no major moving parts and can be particularly useful in applications requiring a small and simple engine for high-speed use, such as with missiles. Ramjets require forward motion before they can generate thrust and so are often used in conjunction with other forms of propulsion, or with an external means of achieving sufficient speed such as a parent aircraft or catapult. The Lockheed D-21 was a Mach 3+ reconnaissance drone that was powered with a ramjet which was launched from a parent aircraft

@@ -1,0 +1,834 @@
+
+ 
+  ""      ?
+      2 .     .
+[Hide]
+Facebook
+From Wikipedia, the free encyclopedia
+This article is about the website. For the photographic directory, see face book. For the corporation, see Facebook, Inc..
+
+Facebook, Inc.
+
+Type	Public
+Traded as	NASDAQ: FB
+Foundation date	Cambridge, Massachusetts, U.S. (2004)
+Headquarters	Menlo Park, California, U.S.
+Area served	United States (200405)
+Worldwide (2005present)
+Founder(s)	
+Mark Zuckerberg
+Eduardo Saverin
+Andrew McCollum
+Dustin Moskovitz
+Chris Hughes
+Key people	Mark Zuckerberg
+(Chairman and CEO)
+Sheryl Sandberg
+(COO)
+Industry	Internet
+Revenue	 $5.1 billion (2012)[1]
+Operating income	 US$ 538 million (2012)[2]
+Net income	 US$ 53 million (2012)[2]
+Total assets	 US$ 15.10 billion (2012)[2]
+Total equity	 US$ 11.75 billion (2012)[2]
+Employees	4,900 (March,2013)[3]
+Subsidiaries	Instagram
+Website	facebook.com
+Written in	C++ and PHP[4]
+Alexa rank	 2 (May 2013)[5]
+Type of site	Social networking service
+Registration	Required
+Users	1.11 billion (active March 2013)[6]
+Available in	Multilingual (70)
+Launched	February 4, 2004
+Current status	Active
+[show]Screenshot
+Facebook
+History
+Timeline
+Statistics
+Acquisitions
+Criticism
+Features
+
+
+Facebook on the Ad-tech 2010
+Facebook is an online social networking service, whose name stems from the colloquial name for the book given to students at the start of the academic year by some university administrations in the United States to help students get to know each other.[7] It was founded in February 2004 by Mark Zuckerberg with his college roommates and fellow Harvard University students Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes.[8] The website's membership was initially limited by the founders to Harvard students, but was expanded to other colleges in the Boston area, the Ivy League, and Stanford University. It gradually added support for students at various other universities before opening to high school students, and eventually to anyone aged 13 and over. Facebook now allows any users who declare themselves to be at least 13 years old to become registered users of the site.[9]
+Users must register before using the site, after which they may create a personal profile, add other users as friends, and exchange messages, including automatic notifications when they update their profile. Additionally, users may join common-interest user groups, organized by workplace, school or college, or other characteristics, and categorize their friends into lists such as "People From Work" or "Close Friends". As of September 2012, Facebook has over one billion active users,[10] of which 8.7% are fake.[11] According to a May 2011 Consumer Reports survey, there are 7.5 million children under 13 with accounts and 5 million under 10, violating the site's terms of service.[12]
+In May 2005, Accel partners invested $12.7 million in Facebook, and Jim Breyer[13] added $1 million of his own money to the pot. A January 2009 Compete.com study ranked Facebook as the most used social networking service by worldwide monthly active users.[14] Entertainment Weekly included the site on its end-of-the-decade "best-of" list, saying, "How on earth did we stalk our exes, remember our co-workers' birthdays, bug our friends, and play a rousing game of Scrabulous before Facebook?"[15] Facebook eventually filed for an initial public offering on February 1, 2012, and was headquartered in Menlo Park, California.[2] Facebook Inc. began selling stock to the public and trading on the NASDAQ on May 18, 2012.[16] Based on its 2012 income of USD 5.1 Billion, Facebook joined the Fortune 500 list for the first time, being placed at position of 462 on the list published in May of 2013.[17]
+Contents  [hide] 
+1 History
+1.1 Pre-IPO
+1.2 Initial public offering
+1.3 After IPO
+2 Corporate affairs
+2.1 Management
+2.2 Revenue
+2.3 Mergers and acquisitions
+2.4 Offices
+2.5 Open source contributions
+3 Website
+3.1 User profile
+3.2 Comparison with Myspace
+3.3 News feed
+3.4 Facebook Notes
+3.5 Messaging
+3.6 Voice calls
+3.7 Video calling
+3.8 Following
+3.9 Privacy
+3.9.1 FTC settlement
+3.10 Technical aspects
+3.11 Like button
+3.11.1 Lawsuit
+4 Reception
+5 Criticism
+6 Impact
+6.1 Media impact
+6.2 Social impact
+6.3 Political impact
+7 In popular culture
+8 See also
+9 Notes
+10 References
+11 Further reading
+12 External links
+History
+
+Main articles: History of Facebook and Timeline of Facebook
+Pre-IPO
+Mark Zuckerberg wrote Facemash, the predecessor to Facebook, on October 28, 2003, while attending Harvard as a sophomore. According to The Harvard Crimson, the site was comparable to Hot or Not, and "used photos compiled from the online facebooks of nine houses, placing two next to each other at a time and asking users to choose the 'hotter' person"[18][19]
+
+
+Mark Zuckerberg co-created Facebook in his Harvard dorm room.
+To accomplish this, Zuckerberg hacked into the protected areas of Harvard's computer network and copied the houses' private dormitory ID images. Harvard at that time did not have a student "facebook" (a directory with photos and basic information), though individual houses had been issuing their own paper facebooks since the mid-1980s. Facemash attracted 450 visitors and 22,000 photo-views in its first four hours online.[18][20]
+The site was quickly forwarded to several campus group list-servers, but was shut down a few days later by the Harvard administration. Zuckerberg faced expulsion and was charged by the administration with breach of security, violating copyrights, and violating individual privacy. Ultimately, the charges were dropped.[21] Zuckerberg expanded on this initial project that semester by creating a social study tool ahead of an art history final, by uploading 500 Augustan images to a website, with one image per page along with a comment section.[20] He opened the site up to his classmates, and people started sharing their notes.
+The following semester, Zuckerberg began writing code for a new website in January 2004. He was inspired, he said, by an editorial in The Harvard Crimson about the Facemash incident.[22] On February 4, 2004, Zuckerberg launched "Thefacebook", originally located at thefacebook.com.[23]
+Six days after the site launched, three Harvard seniors, Cameron Winklevoss, Tyler Winklevoss, and Divya Narendra, accused Zuckerberg of intentionally misleading them into believing he would help them build a social network called HarvardConnection.com, while he was instead using their ideas to build a competing product.[24] The three complained to the Harvard Crimson, and the newspaper began an investigation. The three later filed a lawsuit against Zuckerberg, subsequently settling.[25] The agreed settlement was for 1.2m shares which were worth $300m at Facebook's IPO.[26]
+Membership was initially restricted to students of Harvard College, and within the first month, more than half the undergraduate population at Harvard was registered on the service.[27] Eduardo Saverin (business aspects), Dustin Moskovitz (programmer), Andrew McCollum (graphic artist), and Chris Hughes soon joined Zuckerberg to help promote the website. In March 2004, Facebook expanded to Stanford, Columbia, and Yale.[28] It soon opened to the other Ivy League schools, Boston University, New York University, MIT, and gradually most universities in Canada and the United States.[29][30]
+In mid-2004, entrepreneur Sean Parker, who had been informally advising Zuckerberg, became the company's president.[31] In June 2004, Facebook moved its base of operations to Palo Alto, California.[28] It received its first investment later that month from PayPal co-founder Peter Thiel.[32] The company dropped The from its name after purchasing the domain name facebook.com in 2005 for $200,000.[33]
+Total active users[N 1]
+Date	Users
+(in millions)	Days later	Monthly growth[N 2]
+August 26, 2008	100[34]	1,665	178.38%
+April 8, 2009	200[35]	225	13.33%
+September 15, 2009	300[36]	160	9.38%
+February 5, 2010	400[37]	143	6.99%
+July 21, 2010	500[38]	166	4.52%
+January 5, 2011	600[39][N 3]	168	3.57%
+May 30, 2011	700[40]	145	3.45%
+September 22, 2011	800[41]	115	3.73%
+April 24, 2012	900[42]	215	1.74%
+October 4, 2012	1,000[43]	163	2.04%
+March 31, 2013	1,110[6]	178	1.67%
+Facebook launched a high-school version in September 2005, which Zuckerberg called the next logical step.[44] At that time, high-school networks required an invitation to join.[45] Facebook later expanded membership eligibility to employees of several companies, including Apple Inc. and Microsoft.[46] Facebook was then opened on September 26, 2006, to everyone of age 13 and older with a valid email address.[47][48]
+Late in 2007, Facebook had 100,000 business pages, allowing companies to attract potential customers and tell about themselves. These started as group pages, but a new concept called company pages was planned.[49]
+On October 24, 2007, Microsoft announced that it had purchased a 1.6% share of Facebook for $240 million, giving Facebook a total implied value of around $15 billion.[50] Microsoft's purchase included rights to place international ads on Facebook.[51] In October 2008, Facebook announced that it would set up its international headquarters in Dublin, Ireland.[52] In September 2009, Facebook said that it had turned cash-flow positive for the first time.[53] In November 2010, based on SecondMarket Inc., an exchange for shares of privately held companies, Facebook's value was $41 billion (slightly surpassing eBay's) and it became the third largest U.S. Web company after Google and Amazon.[54]
+Traffic to Facebook increased steadily after 2009. More people visited Facebook than Google for the week ending March 13, 2010.[55]
+In March 2011, it was reported that Facebook removes approximately 20,000 profiles from the site every day for various infractions, including spam, inappropriate content and underage use, as part of its efforts to boost cyber security.[56]
+In early 2011, Facebook announced plans to move to its new headquarters, the former Sun Microsystems campus in Menlo Park, California.[57][58]
+Release of statistics by DoubleClick showed that Facebook reached one trillion page views in the month of June 2011, making it the most visited website of those tracked by DoubleClick.[59]
+According to the Nielsen Media Research study, released in December 2011, Facebook is the second most accessed website in the US (behind Google).[60]
+In March 2012, Facebook announced App Center, an online mobile store which sells applications that connect to Facebook. The store will be available to iPhone, Android and mobile web users.[61]
+Facebook, Inc. held an initial public offering on May 17, 2012, negotiating a share price of $38 apiece, valuing the company at $104 billion, the largest valuation to date for a newly listed public company.[62]
+Initial public offering
+Main article: Facebook IPO
+
+
+An electronic billboard on the Thomson Reuters building welcomes Facebook to the Nasdaq.
+Facebook filed their S1 document with the Securities and Exchange Commission (SEC) on February 1, 2012. The company filed for a US$5 billion initial public offering (IPO), making it one of the biggest in tech history and the biggest in Internet history.[63] Facebook valued its stock at $38 a share, pricing the company at $104 billion, the largest valuation to date for a newly public company.[64] The IPO raised $16 billion, making it the third largest in U.S. history.[65][66] The shares began to be traded on May 18, and though the stock struggled to stay above the IPO price for most of the day, it set a new record for trading volume of an IPO, 460 million shares.[67] The first day of trading was marred by numerous technical glitches that prevented orders from going through.[68] Only the aforementioned technical glitches and artificial support from underwriters prevented the stock price from falling below the IPO price on the first day of trading.[69]
+Later, it was revealed that Facebook's lead underwriters, Morgan Stanley (MS), JP Morgan (JPM), and Goldman Sachs (GS) all cut their earnings forecasts for the company in the middle of the IPO roadshow.[70] The stock continued its freefall in subsequent days, closing at 34.03 on May 21 and 31.00 on May 22. A 'circuit breaker' was used in an attempt to slow down the decline in the stock price.[71] Securities and Exchange Commission Chairman Mary Schapiro and Financial Industry Regulatory Authority (FINRA) Chairman Rick Ketchum called for a review of the circumstances surrounding its troubled initial public offering.[72]
+Facebooks' IPO is now under investigation and has been compared to pump and dump schemes.[68][70][72][73] In the meantime, a class-action lawsuit is in the works due to the trading glitches, which led to botched orders.[74][75] Apparently, the glitches prevented a number of investors from selling the stock during the first day of trading while the stock price was falling - forcing them to incur bigger losses when their trades finally went through.
+Additional lawsuits have been filed due to allegations that an underwriter for Morgan Stanley selectively revealed adjusted earnings estimates to preferred clients. The remaining underwriters (MS, JPM, GS) and Facebook's CEO and board are also facing litigation.[76] It is believed that adjustments to earnings estimates were communicated to the underwriters by a Facebook financial officer, who in turn used the information to cash out on their positions while leaving the general public with overpriced shares.[77]
+By the end of May 2012, the stock lost over a quarter of its starting value, which led to the Wall Street Journal calling the IPO a "fiasco."[78]
+After IPO
+On July 2012, Facebook added a gay marriage icon to its timeline feature.[79]
+On August 23, 2012, Facebook released the much anticipated update to its iOS app, version 5.0. The app, which did not receive positive sentiments from its users, was rebuilt from the ground up; the app no longer uses page views which made it slow in the past but now utilizes code that uses native elements of iOS.[80]
+On January 15, 2013, Facebook announced their new product Graph Search, which provides users with a precise answer rather than a link to an answer by leveraging the data already present on its site.[81] Facebook emphasized that the feature would be "privacy-aware," returning only results from content already shared with the user.[82]
+The company is subject of a lawsuit by Rembrandt Social Media which is also suing AddThis for the use of patents belonging to deceased Dutch Programmer Joannes Jozef Everardus van Der Meer which involve the "Like" button.[83]
+On April 3, 2013, Facebook unveiled Home, a user interface layer for Android devices offering heavy integration with the service, for an initial release on April 12, 2013. HTC also announced a new smartphone with Home pre-loaded, the HTC First.[84]
+On April 15, 2013 Facebook teamed up the Attorneys General, announcing it's alliance with the National Association of Attorneys General to help provide teens and parents more information on tools that can help manage profiles on Facebook. The partnership between Facebook and the Attorneys General will take place in 19 states.[85]
+On April 19, 2013 Facebook officially updated their logo. Facebook's new logo no longer includes the faint blue line at the bottom of their "F" icon. The letter is also pulled closer to the edge of the box.[86]
+Corporate affairs
+
+Management
+The ownership percentages of the company, As of 2012 are: Mark Zuckerberg: 28%,[87] Accel Partners: 10%, Digital Sky Technologies: 10%,[88] Dustin Moskovitz: 6%, Eduardo Saverin: 5%, Sean Parker: 4%, Peter Thiel: 3%, Greylock Partners and Meritech Capital Partners: between 1 to 2% each, Microsoft: 1.3%, Li Ka-shing: 0.8%, the Interpublic Group: less than 0.5%. A small group of current and former employees and celebrities own less than 1% each, including Matt Cohler, Jeff Rothschild, Adam D'Angelo, Chris Hughes, and Owen Van Natta, while Reid Hoffman and Mark Pincus have sizable holdings of the company. The remaining 30% or so are owned by employees, an undisclosed number of celebrities, and outside investors.[89] Adam D'Angelo, former chief technology officer and friend of Zuckerberg, resigned in May 2008. Reports claimed that he and Zuckerberg began quarreling, and that he was no longer interested in partial ownership of the company.[90]
+Key management personnel comprise Chris Cox (VP of Product), Sheryl Sandberg (COO), and Mark Zuckerberg (Chairman and CEO). As of April 2011, Facebook has over 2,000 employees, and offices in 15 countries.[91] Other managers include chief financial officer David Ebersman and public relations head Elliot Schrage.[92]
+Revenue
+Most of Facebook's revenue comes from advertising.[93][94]
+Revenues
+(estimated, in millions US$)
+Year	Revenue	Growth
+2006	$52[95]	
+2007	$150[96]	188%
+2008	$280[97]	87%
+2009	$775[98]	177%
+2010	$2,000[99]	158%
+2011	$4,270[100]	114%
+Facebook generally has a lower clickthrough rate (CTR) for advertisements than most major Web sites. According to BusinessWeek.com, banner advertisements on Facebook have generally received one-fifth the number of clicks compared to those on the Web as a whole,[101] although specific comparisons can reveal a much larger disparity. For example, while Google users click on the first advertisement for search results an average of 8% of the time (80,000 clicks for every one million searches),[102] Facebook's users click on advertisements an average of 0.04% of the time (400 clicks for every one million pages).[103]
+Sarah Smith, who was Facebook's Online Sales Operations Manager, reports that successful advertising campaigns on the site can have clickthrough rates as low as 0.05% to 0.04%, and that CTR for ads tend to fall within two weeks.[104] By comparison, the CTR for competing social network MySpace is about 0.1%, about 2.5 times better than Facebook's rate but still low compared to many other Web sites. The cause of Facebook's low CTR has been attributed to younger users enabling ad blocking software and being better at ignoring advertising messages, as well as the site being used more for the purpose of social communication as opposed to viewing content.[105]
+On pages for brands and products, however, some companies have reported CTR as high as 6.49% for Wall posts.[106] A study found that, for video advertisements on Facebook, over 40% of users who viewed the videos viewed the entire video, while the industry average was 25% for in-banner video ads.[107]
+Mergers and acquisitions
+Main article: List of acquisitions by Facebook
+On November 15, 2010, Facebook announced it had acquired the domain name fb.com from the American Farm Bureau Federation for an undisclosed amount. On January 11, 2011, the Farm Bureau disclosed $8.5 million in "domain sales income", making the acquisition of FB.com one of the ten highest domain sales in history.[108]
+Offices
+
+
+Entrance to Facebook headquarters complex in Menlo Park, California
+
+
+Entrance to Facebook's previous headquarters in the Stanford Research Park, Palo Alto, California
+In early 2011, Facebook announced plans to move to its new headquarters, the former Sun Microsystems campus in Menlo Park, California.
+All users outside of the US and Canada have a contract with Facebook's Irish subsidiary "Facebook Ireland Limited". This allows Facebook to avoid US taxes for all users in Europe, Asia, Australia, Africa and South America. Facebook is making use of the Double Irish arrangement which allows it to pay just about 2-3% corporation tax on all international revenue.[109]
+In 2010, Facebook opened its fourth office, in Hyderabad[110][111][112] and the first in Asia.[113]
+Facebook, which in 2010 had more than 750 million active users globally including over 23 million in India, announced that its Hyderabad centre would house online advertising and developer support teams and provide round-the-clock, multi-lingual support to the social networking site's users and advertisers globally.[114] With this, Facebook joins other giants like Google, Microsoft, Oracle, Dell, IBM and Computer Associates that have already set up shop.[115] In Hyderabad, it is registered as 'Facebook India Online Services Pvt Ltd'.[116][117][118]
+Though Facebook did not specify its India investment or hiring figures, it said recruitment had already begun for a director of operations and other key positions at Hyderabad,[119] which would supplement its operations in California, Dublin in Ireland as well as at Austin, Texas.
+A custom-built data center with substantially reduced ("38% less") power consumption compared to existing Facebook data centers opened in April 2011 in Prineville, Oregon.[120]
+In April 2012 Facebook opened a second data center in Forest City, North Carolina.
+On October 1, 2012, CEO Zuckerberg visited Moscow to stimulate social media innovation in Russia and to boost Facebooks position in the Russian market.[121] Russia's communications minister tweeted that Prime Minister Dmitry Medvedev urged the social media giant's founder to abandon plans to lure away Russian programmers and instead consider opening a research center in Moscow. Facebook has roughly 9 million users in Russia, while domestic clone VK has around 34 million.[122]
+Open source contributions
+Facebook is both a consumer of and contributor to free and open source software.[123] Facebook's contributions include: HipHop for PHP,[124] Fair scheduler in Apache Hadoop,[125] Apache Hive, Apache Cassandra,[126] and the Open Compute Project.[127]
+Facebook also contributes to other opensource projects such as Oracle's MySQL database engine.[128][129]
+Website
+
+Main articles: Facebook features and Facebook Platform
+
+
+Profile shown on Thefacebook in 2005
+User profile
+Users can create profiles with photos, lists of personal interests, contact information, and other personal information. Users can communicate with friends and other users through private or public messages and a chat feature. They can also create and join interest groups and "like pages" (called "fan pages" until April 19, 2010), some of which are maintained by organizations as a means of advertising.[130] Facebook has been prompted to add a "third gender", "other", or "intersex" tab in the gender option which contains only male and female.[131] Facebook refused and said that individuals can "opt out of showing their sex on their profile".[132] A 2012 Pew Internet and American Life study identified that between 2030% of Facebook users are "power users" who frequently link, poke, post and tag themselves and others.[133] The user page is set up in a minimal fashion with blue as the main color. This was done because Zuckerberg is red-green colorblind.[134]
+On June 13, 2009, Facebook introduced a "Usernames" feature, whereby pages can be linked with simpler URLs such as http://www.facebook.com/facebook instead of http://www.facebook.com/profile.php?id=20531316728.[135] Many new smartphones offer access to Facebook services through either their Web browsers or applications. An official Facebook application is available for the operating systems Android, iOS, and webOS. Nokia and Research In Motion both provide Facebook applications for their own mobile devices. More than 425 million active users access Facebook through mobile devices across 200 mobile operators in 60 countries.[136]
+Comparison with Myspace
+The media often compares Facebook to Myspace, but one significant difference between the two Web sites is the level of customization.[137] Another difference is Facebook's requirement that users give their true identity, a demand that MySpace does not make.[138] MySpace allows users to decorate their profiles using HTML and Cascading Style Sheets (CSS), while Facebook allows only plain text.[139] Facebook has a number of features with which users may interact. They include the Wall, a space on every user's profile page that allows friends to post messages for the user to see;[140] Pokes, which allows users to send a virtual "poke" to each other (a notification then tells a user that they have been poked);[141] Photos, where users can upload albums and photos;[142] and Status, which allows users to inform their friends of their whereabouts and actions.[143] Depending on privacy settings, anyone who can see a user's profile can also view that user's Wall. In July 2007, Facebook began allowing users to post attachments to the Wall, whereas the Wall was previously limited to textual content only.[140]
+News feed
+On September 6, 2006, a News feed was announced, which appears on every user's homepage and highlights information including profile changes, upcoming events, and birthdays of the user's friends.[144] This enabled spammers and other users to manipulate these features by creating illegitimate events or posting fake birthdays to attract attention to their profile or cause.[145] Initially, the News Feed caused dissatisfaction among Facebook users; some complained it was too cluttered and full of undesired information, others were concerned that it made it too easy for others to track individual activities (such as relationship status changes, events, and conversations with other users).[146]
+In response, Zuckerberg issued an apology for the site's failure to include appropriate customizable privacy features. Since then, users have been able to control what types of information are shared automatically with friends. Users are now able to prevent user-set categories of friends from seeing updates about certain types of activities, including profile changes, Wall posts, and newly added friends.[147]
+On February 23, 2010, Facebook was granted a patent[148] on certain aspects of its News Feed. The patent covers News Feeds in which links are provided so that one user can participate in the same activity of another user.[149] The patent may encourage Facebook to pursue action against websites that violate its patent, which may potentially include websites such as Twitter.[150]
+One of the most popular applications on Facebook is the Photos application, where users can upload albums and photos.[151] Facebook allows users to upload an unlimited number of photos, compared with other image hosting services such as Photobucket and Flickr, which apply limits to the number of photos that a user is allowed to upload. During the first years, Facebook users were limited to 60 photos per album. As of May 2009, this limit has been increased to 200 photos per album.[152][153][154][155]
+Privacy settings can be set for individual albums, limiting the groups of users that can see an album. For example, the privacy of an album can be set so that only the user's friends can see the album, while the privacy of another album can be set so that all Facebook users can see it. Another feature of the Photos application is the ability to "tag", or label, users in a photo. For instance, if a photo contains a user's friend, then the user can tag the friend in the photo. This sends a notification to the friend that they have been tagged, and provides them a link to see the photo.[156]
+On 7 June 2012, Facebook launched its App Center to its users. It will help the users in finding games and other applications with ease.[157] Since the launch of the App Center, Facebook has seen 150M monthly users with 2.4 times the installation of apps.[158]
+The sorting and display of stories in a user's News Feed is governed by the algorithm EdgeRank.[159]
+Facebook Notes
+Facebook Notes was introduced on August 22, 2006, a blogging feature that allowed tags and embeddable images. Users were later able to import blogs from Xanga, LiveJournal, Blogger, and other blogging services.[47] During the week of April 7, 2008, Facebook released a Comet-based[160] instant messaging application called "Chat" to several networks,[161] which allows users to communicate with friends and is similar in functionality to desktop-based instant messengers.
+Facebook launched Gifts on February 8, 2007, which allows users to send virtual gifts to their friends that appear on the recipient's profile. Gifts cost $1.00 each to purchase, and a personalized message can be attached to each gift.[162][163] On May 14, 2007, Facebook launched Marketplace, which lets users post free classified ads.[164] Marketplace has been compared to Craigslist by CNET, which points out that the major difference between the two is that listings posted by a user on Marketplace are seen only by users in the same network as that user, whereas listings posted on Craigslist can be seen by anyone.[165]
+On July 20, 2008, Facebook introduced "Facebook Beta", a significant redesign of its user interface on selected networks. The Mini-Feed and Wall were consolidated, profiles were separated into tabbed sections, and an effort was made to create a "cleaner" look.[166] After initially giving users a choice to switch, Facebook began migrating all users to the new version starting in September 2008.[167] On December 11, 2008, it was announced that Facebook was testing a simpler signup process.[168]
+Messaging
+A new Messaging platform, codenamed "Project Titan", was launched on November 15, 2010. Described as a "Gmail killer" by some publications, the system allows users to directly communicate with each other via Facebook using several different methods (including a special email address, text messaging, or through the Facebook website or mobile app)no matter what method is used to deliver a message, they are contained within single threads in a unified inbox. As with other Facebook features, users can adjust from whom they can receive messages fromincluding just friends, friends of friends, or from anyone.[169][170]
+Aside from the Facebook website, Messages can also be accessed through the site's mobile apps, or a dedicated Facebook Messenger app,[171]
+Voice calls
+Since April 2011, Facebook users have had the ability to make live voice calls via Facebook Chat, allowing users to chat with others from all over the world. This feature, which is provided free through T-Mobile's new Bobsled service, lets the user add voice to the current Facebook Chat as well as leave voice messages on Facebook.[172]
+Video calling
+On July 6, 2011, Facebook launched its video calling services using Skype as its technology partner. It allows one-to-one calling using a Skype Rest API.
+Following
+On September 14, 2011, Facebook added the ability for users to provide a "Subscribe" button on their page, which allows users to subscribe to public postings by the user without needing to add them as a friend.[173] In conjunction, Facebook also introduced a system in February 2012 to verify the identity of certain accounts. Unlike a similar system used by Twitter, verified accounts do not display a special verification badge, but are given a higher priority in a user's "Subscription Suggestions".[174]
+In December 2012, Facebook announced that due to user confusion surrounding its function, the Subscribe button would be re-labeled as a "Follow" buttonmaking it more similar to other social networks with similar functions.[175]
+Privacy
+To allay concerns about privacy, Facebook enables users to choose their own privacy settings and choose who can see specific parts of their profile.[176] The website is free to users, and generates revenue from advertising, such as banner ads.[177] Facebook requires a user's name and profile picture (if applicable) to be accessible by everyone. Users can control who sees other information they have shared, as well as who can find them in searches, through their privacy settings.[178]
+According to comScore, an internet marketing research company, Facebook collects as much data from its visitors as Google and Microsoft, but considerably less than Yahoo!.[179] In 2010, the security team began expanding its efforts to reduce the risks to users' privacy,[180] but privacy concerns remain.[181] On November 6, 2007, Facebook launched Facebook Beacon, which was an ultimately failed attempt to advertise to friends of users using the knowledge of what purchases friends made. As of March 2012, Facebook's usage of its user data is under close scrutiny.[182]
+FTC settlement
+On November 29, 2011, Facebook agreed to settle US Federal Trade Commission charges that it deceived consumers by failing to keep privacy promises.[183]
+Technical aspects
+Facebook is built in PHP which is compiled with HipHop for PHP, a source code transformer built by Facebook engineers that turns PHP into C++. The deployment of HipHop reportedly reduced average CPU consumption on Facebook servers by 50%.[184]
+Facebook is developed as one monolithic application. According to an interview in 2012 with Chuck Rossi, a build engineer at Facebook, Facebook compiles into a 1.5 GB binary blob which is then distributed to the servers using a custom BitTorrent-based release system. Rossi stated that it takes approximately 15 minutes to build and 15 minutes to release to the servers. The build and release process is zero downtime and new changes to Facebook are rolled out daily.[184]
+Facebook used a combination platform based on HBase to store data across distributed machines. Using a tailing architecture, new events are stored in log files, and the logs are tailed. The system rolls these events up and writes them into storage. The User Interface then pulls the data out and displays it to users. Facebook handles requests as AJAX behavior. These requests are written to a log file using Scribe (developed by Facebook).[185]
+Data is read from these log files using Ptail, an internally built tool to aggregate data from multiple Scribe stores. It tails the log files and pulls data out (thus the name). Ptail data is separated out into three streams so they can eventually be sent to their own clusters in different data centers (Plugin impression, News feed impressions, Actions (plugin + news feed)). Puma is used to manage periods of high data flow (Input/Output or IO). Data is processed in batches to lessen the amount of times needed to read and write under high demand periods (A hot article will generate a lot of impressions and news feed impressions which will cause huge data skews). Batches are taken every 1.5 seconds, limited by memory used when creating a hash table.[185]
+After this, data is output in PHP format (compiled with HipHop for PHP). The backend is written in Java and Thrift is used as the messaging format so PHP programs can query Java services. Caching solutions are used to make the web pages display more quickly. The more and longer data is cached the less realtime it is. The data is then sent to MapReduce servers so it can be queried via Hive. This also serves as a backup plan as the data can be recovered from Hive. Raw logs are removed after a period of time.[185]
+Like button
+The like button is a social networking feature, allowing users to express their appreciation of content such as status updates, comments, photos, and advertisements. It is also a social plug-in of the Facebook Platform  launched on April 21, 2010[186][187]  that enables participating Internet websites to display a similar like button.
+Continuously liking any contents of one's friend will cause flooding of notifications on his/her part and Facebook will display message to the liker stating that (s)he must slow down; (s)he must wait for five minutes in order for him/her to continue liking.
+Lawsuit
+Patents relating to the "Like" button and other social features held by deceased Dutch programmer Joannes Jozef Everardus van Der Meer are subject of a lawsuit brought against Facebook by Rembrandt Social Media.[83]
+Reception
+
+
+
+Facebook popularity. Active users of Facebook increased from just a million in 2004 to over 750 million in 2011.[188]
+
+
+Registered Facebook users by age as of 2010.
+According to comScore, Facebook is the leading social networking site based on monthly unique visitors, having overtaken main competitor MySpace in April 2008.[189] ComScore reports that Facebook attracted 130 million unique visitors in May 2010, an increase of 8.6 million people.[190] According to Alexa, the website's ranking among all websites increased from 60th to 7th in worldwide traffic, from September 2006 to September 2007, and is currently 2nd.[191] Quantcast ranks the website 2nd in the U.S. in traffic,[192] and Compete.com ranks it 2nd in the U.S.[193] The website is the most popular for uploading photos, with 50 billion uploaded cumulatively.[194] In 2010, Sophos's "Security Threat Report 2010" polled over 500 firms, 60% of which responded that they believed that Facebook was the social network that posed the biggest threat to security, well ahead of MySpace, Twitter, and LinkedIn.[180]
+Facebook is the most popular social networking site in several English-speaking countries, including Canada,[195] the United Kingdom,[196] and the United States.[197][198][199][200] In regional Internet markets, Facebook penetration is highest in North America (69 percent), followed by Middle East-Africa (67 percent), Latin America (58 percent), Europe (57 percent), and Asia-Pacific (17 percent).[201] Some of the top competitors were listed in 2007 by Mashable.[202]
+The website has won awards such as placement into the "Top 100 Classic Websites" by PC Magazine in 2007,[203] and winning the "People's Voice Award" from the Webby Awards in 2008.[204] In a 2006 study conducted by Student Monitor, a New Jersey-based company specializing in research concerning the college student market, Facebook was named the second most popular thing among undergraduates, tied with beer and only ranked lower than the iPod.[205]
+On March 2010, Judge Richard Seeborg issued an order approving the class settlement in Lane v. Facebook, Inc., the class action lawsuit arising out of Facebook's Beacon program.
+In 2010, Facebook won the Crunchie "Best Overall Startup Or Product" for the third year in a row[206] and was recognized as one of the "Hottest Silicon Valley Companies" by Lead411.[207] However, in a July 2010 survey performed by the American Customer Satisfaction Index, Facebook received a score of 64 out of 100, placing it in the bottom 5% of all private-sector companies in terms of customer satisfaction, alongside industries such as the IRS e-file system, airlines, and cable companies. The reasons why Facebook scored so poorly include privacy problems, frequent changes to the website's interface, the results returned by the News Feed, and spam.[208]
+In December 2008, the Supreme Court of the Australian Capital Territory ruled that Facebook is a valid protocol to serve court notices to defendants. It is believed to be the world's first legal judgement that defines a summons posted on Facebook as legally binding.[209] In March 2009, the New Zealand High Court associate justice David Gendall allowed for the serving of legal papers on Craig Axe by the company Axe Market Garden via Facebook.[210][211] Employers (such as Virgin Atlantic Airways) have also used Facebook as a means to keep tabs on their employees and have even been known to fire them over posts they have made.[212]
+By 2005, the use of Facebook had already become so ubiquitous that the generic verb "facebooking" had come into use to describe the process of browsing others' profiles or updating one's own.[213] In 2008, Collins English Dictionary declared "Facebook" as its new Word of the Year.[214] In December 2009, the New Oxford American Dictionary declared its word of the year to be the verb "unfriend", defined as "To remove someone as a 'friend' on a social networking site such as Facebook. As in, 'I decided to unfriend my roommate on Facebook after we had a fight.'"[215]
+In early 2010, Openbook was established, an avowed parody (and privacy advocacy) website[216] that enables text-based searches of those Wall posts that are available to "Everyone", i.e. to everyone on the Internet.
+Writers for The Wall Street Journal found in 2010 that Facebook apps were transmitting identifying information to "dozens of advertising and Internet tracking companies". The apps used an HTTP referrer which exposed the user's identity and sometimes their friends'. Facebook said, "We have taken immediate action to disable all applications that violate our terms".[217]
+In January 2013, the countries with the most Facebook users were:[218]
+United States with 168.8 million members
+Brazil with 64.6 million members
+India with 62.6 million members
+Indonesia with 51.4 million members
+Mexico with 40.2 million members
+All of the above total 309 million members or about 38.6 percent of Facebook's 1 billion worldwide members.[219]
+In regards to Facebook's mobile usage, per an analyst report in early 2013, there are 192 million Android users, 147 million iPhone users, 48 million iPad users and 56 million messenger users, and a total of 604 million mobile Facebook users.[220]
+Criticism
+
+Main article: Criticism of Facebook
+Facebook has met with controversies. It has been blocked intermittently in several countries including the People's Republic of China,[221] Iran,[222] Uzbekistan,[223] Pakistan,[224] Syria (unblocked in Syria[225]),[226] and Bangladesh[citation needed] on different bases. For example, it was banned in many countries of the world on the basis of allowed content judged as anti-Islamic and containing religious discrimination. It has also been banned at many workplaces to prevent employees from using it during work hours.[227] The privacy of Facebook users has also been an issue, and the safety of user accounts has been compromised several times. Facebook has settled a lawsuit regarding claims over source code and intellectual property.[228] In May 2011 emails were sent to journalists and bloggers making critical allegations about Google's privacy policies; however it was later discovered that the anti-Google campaign, conducted by PR giant Burson-Marsteller, was paid for by Facebook in what CNN referred to as "a new level skullduggery" and which Daily Beast called a "clumsy smear".[229]
+In July 2011, German authorities began to discuss the prohibition of events organized on Facebook. The decision is based on several cases of overcrowding by people not originally invited.[230][231] In one instance, 1,600 "guests" attended the 16th birthday party for a Hamburg girl who accidentally posted the invitation for the event as public. After reports of overcrowding, more than a hundred police were deployed for crowd control. A policeman was injured and eleven participants were arrested for assault, property damage and resistance to authorities.[232] In another unexpectedly overcrowded event, 41 young people were arrested and at least 16 injured.[233]
+In 2007, it was reported that 43% of British office workers were blocked from accessing Facebook at work, due to concerns including reduced productivity and the potential for industrial espionage.[234]
+A 2011 study in the online journal First Monday, "Why Parents Help Their Children Lie to Facebook About Age: Unintended Consequences of the Children's Online Privacy Protection Act," examines how parents consistently enable children as young as 10 years old to sign up for accounts, directly violating Facebook's policy banning young visitors. This policy technically allows Facebook to avoid conflicts with a United States federal law, the 1998 Children's Online Privacy Protection Act (COPPA), which requires minors aged 13 or younger to gain explicit parental consent to access commercial websites. Of the more than 1,000 households surveyed for the study, more than three-quarters (76%) of parents reported that their child joined Facebook when she was younger than 13, the minimum age in the site's terms of service. The study notes that, in response to widespread reports of underage users, a Facebook executive has said that "Facebook removes 20,000 people a day, people who are underage." The study's authors also note, "Indeed, Facebook takes various measures both to restrict access to children and delete their accounts if they join." The findings of the study raise questions primarily about the shortcomings of United States federal law, but also implicitly continue to raise questions about whether or not Facebook does enough to publicize its terms of service with respect to minors. Only 53% of parents said they were aware that Facebook has a minimum signup age; 35% of these parents believe that the minimum age is a site recommendation (not a condition of site use), or thought the signup age was 16 or 18, and not 13.[235]
+In November 2011, several Facebook users reported that their accounts were hacked and their profile pictures were replaced with pornographic images. For more than a week, users' news feeds were spammed with pornographic, violent and sexual contents. It has been reported that more than 200,000 accounts in Bangalore, India were hacked. Facebook has denied the claims, citing that "safety of the users was on the top of their priority list".[236][237]
+A 2013 study in the journal CyberPsychology, Behavior, and Social Networking, "Who Commits Virtual Identity Suicide? Differences in Privacy Concerns, Internet Addiction, and Personality Between Facebook Users and Quitters" points to the fact that there is a rising number of Facebook users who are discontent with Facebook and finally decide to quit Facebook. The number one reason for users to quit Facebook was privacy concerns (48%), being followed by a general dissatisfaction with Facebook (14%), negative aspects regarding Facebook friends (13%) and the feeling of getting addicted to Facebook (6%). Facebook quitters were found to be more concerned about privacy, more addicted to the Internet and more conscientious.[181]
+Impact
+
+Media impact
+In April 2011, Facebook launched a new portal for marketers and creative agencies to help them develop brand promotions on Facebook.[238] The company began its push by inviting a select group of British advertising leaders to meet Facebook's top executives at an "influencers' summit" in February 2010. Facebook has now been involved in campaigns for True Blood, American Idol, and Top Gear.[239] News and media outlets such as the Washington Post,[240] Financial Times[241] and ABC News[242] have used aggregated Facebook fan data to create various infographics and charts to accompany their articles. In 2012, the beauty pageant Miss Sri Lanka Online was run exclusively using Facebook.[243]
+Social impact
+Main articles: Social networking service#Social impact and Social impact of the Internet#Social networking and entertainment
+Facebook has affected the social life and activity of people in various ways. With its availability on many mobile devices, Facebook allows users to continuously stay in touch with friends, relatives and other acquaintances wherever they are in the world, as long as there is access to the Internet. It can also unite people with common interests and/or beliefs through groups and other pages, and has been known to reunite lost family members and friends because of the widespread reach of its network.[244] One such reunion was between John Watson and the daughter he had been seeking for 20 years. They met after Watson found her Facebook profile.[245] Another fatherdaughter reunion was between Tony Macnauton and Frances Simpson, who had not seen each other for nearly 48 years.[246]
+Some argue that Facebook is beneficial to one's social life because they can continuously stay in contact with their friends and relatives, while others say that it can cause increased antisocial tendencies because people are not directly communicating with each other. Some studies have named Facebook as a source of problems in relationships. Several news stories have suggested that using Facebook can lead to higher instances of divorce and infidelity, but the claims have been questioned by other commentators.[247][248]
+Political impact
+
+
+The stage at the Facebook  Saint Anselm College debates in 2008.
+Facebook's role in the American political process was demonstrated in January 2008, shortly before the New Hampshire primary, when Facebook teamed up with ABC and Saint Anselm College to allow users to give live feedback about the "back to back" January 5 Republican and Democratic debates.[249][250][251] Charles Gibson moderated both debates, held at the Dana Center for the Humanities at Saint Anselm College. Facebook users took part in debate groups organized around specific topics, register to vote, and message questions.[252]
+ABCNews.com reported in 2012 that the Facebook fanbases of political candidates have relevance for the election campaign, including:
+Allows politicians and campaign organizers to understand the interests and demographics of their Facebook fanbases, as with Wisdom for Facebook, to better target their voters.
+Provides a means for voters to keep up-to-date on candidates' activities, such as connecting to the candidates' Facebook Fan Pages.
+Unless you get out of Facebook and into someone's face, you really have not acted.
+
+Thomas L. Friedman, 2012[253]
+Over a million people installed the Facebook application "US Politics on Facebook" in order to take part, and the application measured users' responses to specific comments made by the debating candidates.[254] This debate showed the broader community what many young students had already experienced: Facebook as a popular and powerful new way to interact and voice opinions. An article by Michelle Sullivan of Uwire.com illustrates how the "Facebook effect" has affected youth voting rates, support by youth of political candidates, and general involvement by the youth population in the 2008 election.[255]
+In February 2008, a Facebook group called "One Million Voices Against FARC" organized an event in which hundreds of thousands of Colombians marched in protest against the Revolutionary Armed Forces of Colombia, better known as the FARC (from the group's Spanish name).[256] In August 2010, one of North Korea's official government websites and the official news agency of the country, Uriminzokkiri, joined Facebook.[257]
+
+
+A man during the 2011 Egyptian protests carrying a card saying "Facebook, #jan25, The Egyptian Social Network".
+In January 2011, Facebook played a major role in generating the first spark for the 2011 Egyptian revolution.[258][259] On January 14, the Facebook page of "We are all khaled Said" was started by Wael Ghoniem Create Event to invite the Egyptian people to "peaceful demonstrations" on January 25. As in Tunisia, Facebook become the primary tool for connecting all protesters, which lead the Egyptian government of Prime Minister Nazif to ban Facebook, Twitter and another websites on January 26,m[260] then ban all mobile and Internet connections for all of Egypt at midnight January 28. After 18 days, the uprising forced President Mubarak to resign.
+In 2011 there was a controversial ruling by French government to uphold a 1992 decree which stipulates that commercial enterprises should not be promoted on news programs. President Nicolas Sarkozy's colleagues have agreed that it will enforce a law so that the word "Facebook" will not be allowed to be spoken on the television or on the radio.[261]
+In 2011, Facebook filed paperwork with the Federal Election Commission to form a political action committee under the name FB PAC.[262] In an email to The Hill, a spokesman for Facebook said "FB PAC will give our employees a way to make their voice heard in the political process by supporting candidates who share our goals of promoting the value of innovation to our economy while giving people the power to share and make the world more open and connected."[263]
+In popular culture
+
+American author Ben Mezrich published a book in July 2009 about Mark Zuckerberg and the founding of Facebook, titled The Accidental Billionaires: The Founding of Facebook, A Tale of Sex, Money, Genius, and Betrayal.[264]
+The Social Network, a drama film directed by David Fincher about the founding of Facebook, was released October 1, 2010.[265] Mark Zuckerberg has said that The Social Network is inaccurate.[266]
+In response to the Everybody Draw Mohammed Day controversy and the ban of the website in Pakistan, an Islamic version of the website was created, called MillatFacebook.[267]
+"You Have 0 Friends", an April 2010 episode of the American animated comedy series, South Park, explicitly parodied Facebook.[268]
+At age 102, Ivy Bean of Bradford, England joined Facebook in 2008, making her one of the oldest people ever on Facebook.[269][270] At the time of her death in July 2010, she had 4,962 friends on Facebook and more than 56,000 followers on Twitter.[271]
+On May 16, 2011, an Israeli couple named their daughter after the Facebook "like" feature.[272][273]
+Major competitors of Facebook are qzone(qq.com) and renren in China and South Korea; VK (social network) and Odnoklassniki in Russia, Belarus, Kazakhstan, Kyrgyzstan, Moldova, Ukraine, Uzbekistan; Draugiem.lv in Latvia; Cloob in Iran; Zing in Vietnam; mixi in Japan.[274]
+See also
+
+	Companies portal
+	Internet portal
+Ambient awareness
+Cyberstalking
+List of social networking websites
+List of virtual communities with more than 100 million active users
+Six degrees of separation
+Notes
+
+^ An "active user" is defined by Facebook as a user who has visited the website in the last 30 days.
+^ "Monthly growth" is the average percentage growth rate at which the total number of active users grows each month over the specified period.
+^ This value is from an investment document. The date is from when the document was revealed to the public, not the actual date that the website reached this many users.
+References
+
+^ "Facebook Current Report, Form 8-K, Filing Date July 26, 2012". SECDatabase.com. Retrieved July 26, 2012.
+^ a b c d e SEC (February 1, 2013). "Facebook, Inc. Financial Statements". Securities and Exchange Commission. Retrieved February 1, 2013.
+^ "Key Facts". Facebook Newsroom. Facebook. Retrieved May 2, 2013.
+^ Gavin, Clarke (July 2010). "Facebook re-write takes PHP to an enterprise past Remember C++? They do". Archived from the original on 2012-05-30. Retrieved 2 February 2010.
+^ "Facebook.com Site Info". Alexa Internet. Retrieved 2013-05-13.
+^ a b "Facebook Reports First Quarter 2013 Results". Facebook. Retrieved 2 May 2013.
+^ Eldon, Eric (December 18, 2008). "2008 Growth Puts Facebook In Better Position to Make Money". VentureBeat (San Francisco). Retrieved December 19, 2008.
+^ Carlson, Nicholas (March 5, 2010). "At Last  The Full Story Of How Facebook Was Founded". Business Insider.
+^ "Information For Parents and Educators". Retrieved November 22, 2011.
+^ "Facebook Tops Billion-User Mark". The Wall Street Journal (Dow Jones). October 4, 2012. Retrieved October 4, 2012.
+^ "Facebook: About 83 million accounts are fake". USA Today. Retrieved 2012-08-04.
+^ "Five million Facebook users are 10 or younger". ConsumerReports.org. May 10, 2011. Retrieved May 15, 2011.
+^ "Accel partners invested $12.7 million in Facebook". Dec 29, 2012.
+^ Kazeniac, Andy (February 9, 2009). "Social Networks: Facebook Takes Over Top Spot, Twitter Climbs". Compete Pulse blog. Retrieved February 17, 2009.
+^ Geier, Thom; Jensen, Jeff; Jordan, Tina; Lyons, Margaret; Markovitz, Adam; et al. (December 11, 2009). "THE 100 Greatest Movies, TV Shows, Albums, Books, Characters, Scenes, Episodes, Songs, Dresses, Music Videos, and Trends that entertained us over the 10 Years". Entertainment Weekly ((1079/1080):7484) (New York).
+^ Facebook CEO's big birthday gift: $100bn[dead link]
+^ Post to Facebook (2013-05-06). "Facebook squeaks onto the Fortune 500". Usatoday.com. Retrieved 2013-05-19.
+^ a b Locke, Laura (July 17, 2007). "The Future of Facebook". Time (New York). Retrieved November 13, 2009.
+^ Tabak, Alan J. (February 9, 2004). "Hundreds Register for New Facebook Website". The Harvard Crimson (Cambridge, MA). Archived from the original on April 3, 2005. Retrieved November 7, 2008.
+^ a b McGirt, Ellen (May 1, 2007). "Facebook's Mark Zuckerberg: Hacker. Dropout. CEO". Fast Company (New York). Retrieved November 5, 2009.
+^ Kaplan, Katherine (November 19, 2003). "Facemash Creator Survives Ad Board". The Harvard Crimson (Cambridge, MA). Retrieved February 5, 2009.
+^ Hoffman, Claire (June 28, 2008). "The Battle for Facebook". Rolling Stone (New York). Archived from the original on July 3, 2008. Retrieved February 5, 2009.
+^ Seward, Zachary M. (July 25, 2007). "Judge Expresses Skepticism About Facebook Lawsuit". The Wall Street Journal (New York). Retrieved April 30, 2008.
+^ Carlson, Nicolas (March 5, 2010). "In 2004, Mark Zuckerberg Broke Into A Facebook User's Private Email Account". Business Insider. Retrieved March 5, 2010.
+^ Stone, Brad (June 28, 2008). "Judge Ends Facebook's Feud With ConnectU". New York Times blog.
+^ Dominic Rushe (2012-02-02). "Facebook IPO sees Winklevoss twins heading for $300m fortune". Guardian. Retrieved 2013-04-20.
+^ Phillips, Sarah (July 25, 2007). "A brief history of Facebook". The Guardian (London). Retrieved March 7, 2008.
+^ a b "Company Timeline" (Press release). Facebook. January 1, 2007. Retrieved March 5, 2008.
+^ Rosmarin, Rachel (September 11, 2006). "Open Facebook". Forbes (New York). Retrieved June 13, 2008.
+^ Nguyen, Lananh (April 12, 2004). "Online network created by Harvard students flourishes". The Tufts Daily (Medford, MA). Retrieved August 21, 2009.
+^ Rosen, Ellen (May 26, 2005). "Student's Start-Up Draws Attention and $13 Million". The New York Times. Retrieved May 18, 2009.
+^ "Why you should beware of Facebook". The Age (Melbourne). January 20, 2008. Retrieved April 30, 2008.
+^ Williams, Chris (October 1, 2007). "Facebook wins Manx battle for face-book.com". The Register (London). Retrieved June 13, 2008.|
+^ Zuckerberg, Mark (August 26, 2008). "Our First 100 Million". The Facebook Blog. Retrieved June 26, 2010.
+^ Zuckerberg, Mark (April 8, 2009). "200 Million Strong". The Facebook Blog. Retrieved June 26, 2010.
+^ Zuckerberg, Mark (September 15, 2009). "300 Million and On". The Facebook Blog. Retrieved June 26, 2010.
+^ "New navigation for users and 400 million active users announcement". Facebook. February 4, 2010. Retrieved June 26, 2010.
+^ Zuckerberg, Mark (July 21, 2010). "500 Million Stories". The Facebook Blog. Retrieved July 21, 2010.
+^ Carlson, Nicholas (January 5, 2011). "Goldman to clients: Facebook has 600 million users". MSNBC. Retrieved February 11, 2011.
+^ Socialbakers employee (May 30, 2011). "Facebook is globally closing in to 700 million users!". Socialbakers.
+^ Adam Ostrow (September 22, 2011). "Facebook Now Has 800 Million Users". Mashable. Retrieved September 26, 2011.
+^ Noam Cohen (April 24, 2012). "The Breakfast Meeting: Grilling for James Murdoch, and Facebook Tops 900 Million Users". New York Times. Retrieved April 24, 2012.
+^ "Facebook Tops Billion-User Mark". The Wall Street Journal (Dow Jones). October 4, 2012. Retrieved October 4, 2012.
+^ Dempsey, Laura (August 3, 2006). "Facebook is the go-to Web site for students looking to hook up". Dayton Daily News (Ohio).
+^ Lerer, Lisa (January 25, 2007). "Why MySpace Doesn't Card". Forbes (New York). Retrieved May 13, 2011.
+^ Lacy, Sarah (September 12, 2006). "Facebook: Opening the Doors Wider". BusinessWeek (New York). Retrieved March 9, 2008.
+^ a b Abram, Carolyn (September 26, 2006). "Welcome to Facebook, everyone". The Facebook Blog. Retrieved March 8, 2008.
+^ "Terms of Use". Facebook. November 15, 2007. Retrieved March 5, 2008.
+^ Richmond, Riva (27 Nov 2007). "Enterprise: Facebook, a Marketer's Friend; Site Offers Platform To Tout Products, Interact With Users". Wall Street Journal. p. B4.
+^ "Facebook and Microsoft Expand Strategic Alliance" (Press release). Microsoft. October 24, 2007. Retrieved November 8, 2007.
+^ "Facebook Stock For Sale". BusinessWeek (New York). Retrieved August 6, 2008.
+^ "Facebook to Establish International Headquarters in Dublin, Ireland" (Press release). Facebook. October 2, 2008. Retrieved November 30, 2008.
+^ "Facebook 'cash flow positive,' signs 300M users". CBC News (Toronto). September 16, 2009. Retrieved March 23, 2010.
+^ Womack, Brian (November 15, 2010). "Facebook Becomes Third Biggest US Web Company". The Jakarta Globe.
+^ Dougherty, Heather (March 15, 2010). "Facebook Reaches Top Ranking in US". Experian Hitwise (blog).
+^ "Facebook deletes 20,000 underage profiles daily". IBN Live (Noida, Uttar Pradesh). Press Trust of India. March 24, 2011. Retrieved March 24, 2011.
+^ Parr, Ben (February 7, 2011). "These Are Facebook's New Offices [PHOTOS]". Mashable (New York). Retrieved April 6, 2011.
+^ Brundage, Sandy (February 8, 2011). "Facebook moving headquarters to Menlo Park: Social-networking giant to move into former Sun/Oracle campus". The Almanac (Menlo Park, CA).
+^ Titlow, John Paul (August 24, 2011). "Facebook Hits 1 Trillion Pageviews". ReadWriteWeb. Retrieved November 17, 2011.
+^ Fernandes, Rossi (December 31, 2011). "Facebook second most accessed sit behind Google in the US".
+^ "Facebook app store launches amid mobile revenue worries". BBC News. May 10, 2012.
+^ Andrew Tangel and Walter Hamilton (17 May 2012). "Stakes are high on Facebook's first day of trading". The Los Angeles Times. Retrieved 17 May 2012.[dead link]
+^ "Facebook Officially Files for $5 Billion IPO". KeyNoodle. February 1, 2012. Retrieved February 1, 2012.
+^ Andrew Tangel and Walter Hamilton (17 May 2012). "Stakes are high on Facebook's first day of trading". The Los Angeles Times. Retrieved 17 May 2012.
+^ Evelyn M. Rusli and Peter Eavis (May 17, 2012). "Facebook Raises $16 Billion in I.P.O.". The New York Times. Retrieved May 17, 2012.
+^ Bernard Condon (May 17, 2012). "Questions and answers on blockbuster Facebook IPO". U.S. News. Associated Press. Retrieved May 17, 2012.
+^ "Facebook Sets Record For IPO Trading Volume". The Wall Street Journal. May 18, 2012. Retrieved May 18, 2012.
+^ a b Tepid honeymoon of facebook and nasdaq does not deliver the big bang. forbes.com
+^ Regulators probe banks role Facebook IPO. news.yahoo.com
+^ a b Facebook bankers secretly cut facebook revenue estimates middle. finance.yahoo.com
+^ Another Facebook First: Tripping a Circuit-Breake. WSJ Online
+^ a b Facebook shares fall valuation doubts. finance.yahoo.com
+^ Facebook IPO underscores shutting out the masses. sfgate.com
+^ SEC-FINRA review Facebook issues. finance.yahoo.com
+^ Morgan Stanley sued firm. yahoo.com
+^ Fury Over Facebook IPO Grows. Lawsuits Mount. finance.yahoo.com
+^ Heres the inside story of what happened on the Facebook IPO www.businessinsider.com
+^ "Facebook IPO Facts, Fiction and Flops".
+^ "Facebook Adds Gay Marriage Timeline Icons For Same-Sex Couples". Huffingtonpost.com. Retrieved 2012-12-26.
+^ Protalinski, Emil (2012-08-23). "Facebook Launches Native App for iPhone and iPad, Rebuilt From Ground Up". Thenextweb.com. Retrieved 2012-12-26.
+^ "Facebook introduces social search feature". The Washington Post. Retrieved 15 January 2013.
+^ Thomas Claburn, "Meet Facebook's Graph Search Tool" Information Week, January 16, 2013
+^ a b "Facebook sued over 'like' button". BBC. February 11, 2013. Retrieved February 11, 2013.
+^ "HTC and Facebook announce the First smartphone with AT&T, arriving April 12th for $99.99". The Verge. Retrieved 4 April 2013.
+^ "Facebook Links Up With Attorneys General In 19 U.S. States For Teen Social Networking Safety Program". TechCrunch. 2013-04-15. Retrieved 2013-04-20.
+^ Samantha Murphy (2011-11-18). "New Facebook Logo Made Official". Mashable.com. Retrieved 2013-04-20.
+^ "Facebook's $5bn IPO falls short of expectations". WhoOwnsFacebook.com. Retrieved Sept 17, 2012.
+^ "Facebook's friend in Russia". Fortune. October 4, 2010. Retrieved December 18, 2010.
+^ Kirkpatrick, David (2010). The Facebook effect: the inside story of the company that is connecting the world. New York: Simon & Schuster. ISBN 978-1-4391-0980-9.
+^ McCarthy, Caroline (May 11, 2008). "As Facebook goes corporate, Mark Zuckerberg loses an early player". CNET.com. Retrieved July 12, 2010.
+^ "Facebook Factsheet". Retrieved April 10, 2011.
+^ Wolff, Michael, "The Facebook IPO: billion-user ambition at a $1bn price", The Guardian, February 1, 2012. Retrieved 2012-02-01.
+^ January 17, 2011 by Jolie O'Dell 203 (2011-01-17). "Facebook's Ad Revenue Hit $1.86B for 2010". Mashable.com. Retrieved 2011-12-21.
+^ Womack, Brian (2011-09-20). "Facebook Revenue Will Reach $4.27 Billion, EMarketer Says". Bloomberg. Retrieved 2011-12-21.
+^ Arrington, Michael (April 26, 2006). "Facebook Goes Beyond College, High School Markets". TechCrunch. Retrieved July 13, 2010.
+^ Schonfeld, Erick (January 31, 2008). "Facebook Finances Leaked". TechCrunch. Retrieved July 13, 2010.
+^ Arrington, Michael (May 19, 2009). "Facebook Turns Down $8 billion Valuation Term Sheet, Claims 2009 Revenues Will Be $550 million". TechCrunch. Retrieved July 13, 2010.
+^ Tsotsis, Alexia (January 5, 2011). "Report: Facebook Revenue Was $777 Million In 2009, Net Income $200 Million". TechCrunch. Retrieved January 5, 2011.
+^ Womack, Brian (December 16, 2010). "Facebook 2010 Sales Said Likely to Reach $2 Billion, More Than Estimated". Bloomberg (New York). Retrieved January 5, 2011.
+^ Womack, Brian (September 20, 2011). "Facebook Revenue Will Reach $4.27 Billion". Bloomberg.com. Retrieved September 25, 2011.
+^ "Facebook May Revamp Beacon". BusinessWeek. New York. November 28, 2007. Retrieved July 18, 2010.
+^ "Google AdWords Click Through Rates Per Position". AccuraCast. October 9, 2009. Retrieved July 18, 2010.
+^ Denton, Nick (March 7, 2007). "Facebook 'consistently the worst performing site'". Gawker. Retrieved July 18, 2010.
+^ "Facebook Says Click Through Rates Do Not Match Those At Google". TechPulse 360. August 12, 2009. Retrieved July 18, 2010.
+^ Leggatt, Helen (July 16, 2007). "Advertisers disappointed with Facebook's CTR". BizReport. Retrieved July 18, 2010.
+^ Klaassen, Abbey (August 13, 2009). "Facebook's Click-Through Rates Flourish ... for Wall Posts". Advertising Age (New York). Retrieved July 18, 2010.
+^ Walsh, Mark (June 15, 2010). "Study: Video Ads On Facebook More Engaging Than Outside Sites". MediaPost (New York). Retrieved July 18, 2010.
+^ "FB.com acquired by Facebook". NameMon News. January 11, 2011.
+^ "Google 2.4% Rate Shows How $60 Billion Lost to Tax Loopholes - Bloomberg". www.bloomberg.com.
+^ PTI (September 30, 2010). "Facebook opens office in India". The Hindu. Retrieved May 5, 2012.
+^ "Kirthiga Reddy: The face behind Facebook". Businesstoday.intoday.in. May 15, 2011. Retrieved May 5, 2012.
+^ Nikhil Pahwa (July 16, 2010). "Facebook Appoints Kirthiga Reddy As Head Of Indian Operations". Medianama.com. Retrieved May 5, 2012.
+^ "Facebook's India face-Meet Kirthiga Reddy, Head and Director Online Operations, Facebook India.". MSN India. November 14, 2011.
+^ "Facebooks Hyderabad Office Inaugurated  Google vs Facebook Battle Comes To India". Watblog.com. Retrieved May 5, 2012.
+^ "City back as investors top pick". Articles.timesofindia.indiatimes.com. February 19, 2012. Retrieved May 5, 2012.
+^ "Not responsible for user-generated content hosted on website: Facebook India". Articles.economictimes.indiatimes.com. February 29, 2012. Retrieved May 5, 2012.
+^ Facebook India to court: Not responsible for user-generated content[dead link]
+^ "Facebook India to court: Not responsible for user-generated content". M.timesofindia.com. February 29, 2012. Retrieved May 5, 2012.
+^ Hyderabad, India: "At the tech epicenter of India, our Hyderabad office is where we help support the region's growing users base, advertisers, and developers."
+^ "Zuckerberg at Ore. Facebook data center". The Boston Globe. Associated Press. April 16, 2011. Retrieved April 16, 2011.
+^ "Zuckerberg in Moscow to boost Facebook's presence". France24.com. 1 October 2012.
+^ "Russia pushes Facebook to open research center". FoxNews. 1 October 2012.
+^ "Inside Facebook's Open Source Infrastructure". Developer.com. Retrieved May 5, 2012.
+^ "HipHop Compiler for PHP? Transforming PHP into C++". Stanford University.
+^ White, Tom (2010). Hadoop: The Definitive Guide. O'Reilly Media. ISBN 978-1-4493-8973-4.
+^ "Cassandra - A Decentralized Structured Storage System" (PDF). Retrieved May 5, 2012.
+^ "Facebook's Open Compute Project". Stanford University.
+^ "MySQL at Facebook (Maintained by software developers who work on MySQL at Facebook)". Facebook.com. Retrieved May 5, 2012.
+^ "MySQL at Facebook". Launchpad.net. Retrieved May 5, 2012.
+^ "Edit Your Profile". Facebook. Archived from the original on February 27, 2008. Retrieved March 7, 2008.[dead link]
+^ Torsten Hjer (2012-03-30). "Facebook warned over 'third gender' option". Gay Star News. Retrieved 2012-12-26.
+^ http://www.zdnet.com/blog/facebook/facebook-doesnt-add-third-sex-gay-activist-disables-account/11167
+^ "Why Most Facebook Users Get More Than They Give". Journalist's Resource.org.
+^ "Generation Why?". The New York Review of Books.
+^ DiPersia, Blaise (June 9, 2009). "Coming Soon: Facebook Usernames". The Facebook Blog. Retrieved June 13, 2009.
+^ Protalinski, Emil (February 1, 2012). "Facebook has over 425 million mobile users". ZDNet. Retrieved February 4, 2012.
+^ Stone, Brad (May 25, 2007). "Facebook Expands Into MySpace's Territory". The New York Times. Retrieved March 8, 2008.
+^ Ciccone, David (May 7, 2009). "Facebook Connect fully integrated into Mobility Today". Mobility Today Fitness. Archived from the original on 2010-10-24. Retrieved September 10, 2010.
+^ Sullivan, Mark (July 24, 2007). "Is Facebook the New MySpace?". PC World (San Francisco). Retrieved April 30, 2008.
+^ a b Der, Kevin. "Facebook is off-the-wall". The Facebook Blog. Retrieved July 30, 2007.
+^ "Inbox, Messages and Pokes". Facebook. Retrieved March 9, 2008.
+^ "The Facebook Gifts". Facebook. Retrieved March 5, 2008.
+^ Ramadge, Andrew (November 26, 2007). "Facebook is ... reconsidering the word "is"". news.com.au Technology blog (Sydney). Retrieved March 8, 2008.
+^ Sanghvi, Ruchi (September 6, 2006). "Facebook Gets a Facelift". The Facebook Blog. Retrieved February 11, 2008.
+^ "Facebook: Celebrate Your Birthday Every Day". Colnect blog. Retrieved March 9, 2010.
+^ Lacy, Sarah (September 8, 2006). "Facebook Learns from Its Fumble". BusinessWeek (New York). Retrieved June 28, 2008.
+^ Gonsalves, Antone (September 8, 2006). "Facebook Founder Apologizes In Privacy Flap; Users Given More Control". InformationWeek (New York). Retrieved June 28, 2008.
+^ US patent 7669123
+^ "US Patent No. 7669123". Social Media. March 1, 2010. Archived from the original on 2011-05-15. Retrieved March 9, 2010.
+^ "Facebook's news-feed patent could mean lawsuits". CNN. February 26, 2010. Retrieved July 12, 2010.
+^ Arrington, Michael (May 24, 2007). "Facebook Launches Facebook Platform; They are the Anti-MySpace". TechCrunch. Retrieved June 28, 2008.
+^ "Share More Memories with Larger Photo Albums". Retrieved January 4, 2010.
+^ "Upload: 60 or 200 photos in the same album?". Facebook. Retrieved January 25, 2009.[dead link]
+^ "How can I add more than 60 photos to an album?". Facebook. Retrieved January 25, 2009.[dead link]
+^ "Example of album from a regular user with a 200-photo limit". Facebook. Retrieved January 25, 2009.
+^ "Photos". Facebook. Retrieved March 15, 2008.[dead link]
+^ "Facebook to launch App Center". The Times Of India. 8 June 2012.[dead link]
+^ "Facebook Says It Now Has 235M Monthly Gamers, App Center Hits 150M Monthly Visitors". TechCrunch. 2012-08-14. Retrieved 2012-12-26.
+^ "EdgeRank". EdgeRank. 2007-10-29. Retrieved 2013-02-16.
+^ Eugene (May 14, 2008). "Facebook Chat". Facebook. Retrieved June 2, 2008.
+^ "Announcement: Facebook Launches Facebook Chat" (Press release). Facebook. April 6, 2008. Retrieved April 11, 2008.
+^ "Give gifts on Facebook!". Facebook. Retrieved March 15, 2008.
+^ "Gifts". Facebook. Retrieved March 15, 2008.[dead link]
+^ Morgenstern, Jared (May 14, 2007). "The Marketplace Is Open..". The Facebook Blog. Retrieved March 15, 2008.
+^ McCarthy, Caroline (May 13, 2007). "Hands-on with Facebook Marketplace". CNET. Retrieved March 15, 2008.
+^ Havenstein, Heather (July 21, 2008). "Facebook Facelift Targets Aging Users and New Competitors". The New York Times.
+^ Slee, Mark (September 10, 2008). "Moving to the new Facebook". The Facebook Blog. Retrieved September 12, 2008.
+^ "Facebook Testing Even Simpler Sign Up; Closing The Gap With MySpace In The U.S". TechCrunch. December 11, 2008.
+^ Gabbatt, Adam; Arthur, Charles (November 15, 2010). "Facebook mail: it might kill Gmail, but 'it's not email'". The Guardian (London).
+^ "Facebook adds 'social inbox'  with E-mail". San Jose Mercury News. November 16, 2010. Retrieved January 13, 2011.
+^ "Facebook Messenger for Windows launched". Hindustantimes.com. 2012-03-06. Retrieved 2012-04-29.
+^ Swartz, Jon (April 19, 2011). "Facebook hops aboard T-Mobile's Bobsled Service". USA Today (Washington DC).
+^ Meghan Peters (2011-09-15). "Facebook Subscribe Button: What It Means for Each Type of User". Mashable.com. Retrieved 2012-04-29.
+^ "Facebook Launches Verified Accounts and Pseudonyms". TechCrunch. Retrieved March 3, 2012.
+^ "Facebook snubs 'Subscribe' button in favor of Twitter-esque 'Follow' on all profile pages". The Verge. Retrieved 6 December 2012.
+^ "Search Privacy". Facebook. Retrieved June 13, 2009.
+^ Barton, Zoe (April 28, 2006). "Facebook goes corporate". ZDNet News. Archived from the original on May 26, 2008. Retrieved March 9, 2008.
+^ "Choose Your Privacy Settings". Facebook. Retrieved September 10, 2009.
+^ Story, Louise (March 10, 2008). "To Aim Ads, Web Is Keeping Closer Eye on You". The New York Times. Retrieved March 9, 2008.
+^ a b Cluley, Graham (February 1, 2010). "Revealed: Which social networks pose the biggest risk?". Sophos. Retrieved July 12, 2010.
+^ a b "Who Commits Virtual Identity Suicide? Differences in Privacy Concerns, Internet Addiction, and Personality Between Facebook Users and Quitters". Cyberpsychology, Behavior, and Social Networking.
+^ Sengupta, Somini (February 26, 2012). "Risk and Riches in User Data for Facebook". The New York Times. Retrieved February 29, 2012.
+^ "Facebook Settles FTC Charges That It Deceived Consumers By Failing To Keep Privacy Promises". FTC. November 29, 2011. Retrieved November 29, 2011.
+^ a b Paul, Ryan. "Exclusive: a behind-the-scenes look at Facebook release engineering". Ars Technica. Retrieved April 19, 2012.
+^ a b c Tuesday (2011-03-22). "Facebook's New Realtime Analytics System: HBase To Process 20 Billion Events Per Day". Highscalability.com. Retrieved 2012-12-26.
+^ Siegler, MG (April 21, 2010). "Facebook: We'll Serve 1 Billion Likes on the Web in Just 24 Hours". TechCrunch. Retrieved December 19, 2011.
+^ Fletcher, Dan (April 22, 2010). "Facebook Looks to Get Personal". Time. Retrieved December 19, 2011.
+^ "Facebook Statistics". Facebook.com. Retrieved December 21, 2011.
+^ "Facebook: Largest, Fastest Growing Social Network". Techtree.com. August 13, 2008. Retrieved August 14, 2008.
+^ "Privacy, Schmivacy: Facebook Is Attracting Near-Record Numbers Of New Visitors". TechCrunch. June 7, 2010. Retrieved September 8, 2010.
+^ "Related info for: facebook.com/". Alexa Internet. Retrieved December 10, 2012.
+^ "Facebook.com Web Site Audience Profile". Quantcast. Retrieved September 9, 2010.
+^ "We're Number Two! Facebook moves up one big spot in the charts". Compete.com. Retrieved September 9, 2010.
+^ McGrath, Kristin (July 22, 2010). "Status update: Facebook logs 500 million members". USA Today (Washington DC). Retrieved September 9, 2010.
+^ Yum, Kenny (May 18, 2007). "Facebook says 'Thanks, Canada'". National Post (Toronto). Retrieved April 30, 2008.[dead link]
+^ Malkin, Bonnie (September 26, 2007). "Facebook is UK's biggest networking site". The Daily Telegraph (London). Retrieved April 30, 2008.
+^ Caverly, Doug (June 16, 2009). "comScore: Facebook Catches MySpace in U.S". WebProNews (iEntry Network). Retrieved September 24, 2009.
+^ Brown, Steven E.F. (June 17, 2009). "Facebook grows as MySpace cuts back". Atlanta Business Chronicle. Retrieved September 24, 2009. "The Conference Board report on first quarter online users in the U.S. showed Facebook with an even larger lead, with 78 percent of social network participants, followed by MySpace (42 percent), LinkedIn (17 percent) and Twitter (10 percent)."
+^ Hasselback, Drew (June 17, 2009). "Comscore says Facebook has surpassed MySpace for U.S. users". National Post (Toronto). Retrieved September 24, 2009. "Comscore says Facebook surpassed MySpace among U.S. users in May, while Nielsen figures that actually happened back in January."[dead link]
+^ Wood, Cara (August 31, 2009). "Keeping pace with mainstream social media". Direct Marketing News (New York). Retrieved September 24, 2009. "The giant in the space remains Facebook, which gets 87.7 million unique viewers per month, according to ComScore. MySpace, with nearly 70 million unique monthly visitors, has seen growth stagnate over the past year."
+^ McCarthy, Caroline (July 21, 2010). "Who will be Facebook's next 500 million?". CNET (New York). Retrieved September 23, 2008.
+^ Ostrow, Adam (2007-07-11). "Copycats: Top 10 International Facebook Clones". Mashable. Retrieved 2012-11-14.
+^ "Social Networking". PC Magazine. August 13, 2007. Retrieved May 9, 2008.
+^ "12th Annual Webby Awards Nominees". International Academy of Digital Arts and Sciences. Retrieved May 6, 2008.
+^ "Survey: College Kids Like IPods Better Than Beer". Fox News. June 8, 2006. Retrieved March 10, 2008.
+^ Kincaid, Jason (January 8, 2010). "Facebook Takes Best Overall For The Hat Trick". Techcrunch. Retrieved July 8, 2010.
+^ "Lead411 launches "Hottest Silicon Valley Companies" awards". Lead411.com. May 25, 2010. Retrieved July 8, 2010.
+^ Fowler, Geoffrey A. (July 20, 2010). "Users Rate Facebook Slightly Above the Tax Man". Digits (Wall Street Journal technology blog). Retrieved July 21, 2010.
+^ Towell, Noel (December 16, 2008). "Lawyers to serve notices on Facebook". The Age (Melbourne). Retrieved March 23, 2010.
+^ "Kiwi judge follows Australian Facebook precedent". The Age (Melbourne). Agence France-Presse. March 16, 2009.
+^ Peters, Melanie (April 5, 2009). "Facebook trap criminals in its web". Independent Online (Cape Town).
+^ Cochran, Jason (November 6, 2008). "Watch out! Bosses are saving money by firing employees over Facebook posts". WalletPop.com. Retrieved May 6, 2010.
+^ McDonald, Soraya Nadia (July 4, 2005). "Facebooking, the rage on college campuses". The Seattle Times. Retrieved September 14, 2009.
+^ Nicole, Kristen (December 21, 2007). "I Can So "Facebook" You Now (and be gramatically [sic] correct)". Mashable. Retrieved March 23, 2010.
+^ "Unfriend is New Oxford dictionary's Word of the Year". USA Today (Washington DC). November 17, 2009. Retrieved July 12, 2010.
+^ "Openbook  Connect and share whether you want to or not". Youropenbook.org. May 12, 2010. Retrieved June 26, 2010.
+^ Steel, Emily; Fowler, Geoffrey A. (October 18, 2010). "Facebook in Privacy Breach". The Wall Street Journal (New York). Retrieved October 18, 2010.
+^ "Facebook Statistics by country". March 3, 2012.
+^ "43.1 Million Members of Facebook in Indonesia". February 2, 2012.
+^ "Facebook Mobile User Counts Revealed: 192M Android, 147M iPhone, 48M iPad, 56M Messenger, 604M total users". TechCrunch. 2013-01-04. Retrieved 2013-04-20.
+^ "China's Facebook Status: Blocked". ABC News blog. July 8, 2009. Retrieved July 13, 2009.
+^ Shahi, Afshin (July 27, 2008). "Iran's Digital War". Daily Star (Cairo). Archived from the original on August 14, 2008. Retrieved August 16, 2008.
+^ (Russian) "Uzbek authorities have blocked access to Facebook". Ferghana News. Retrieved October 21, 2010.
+^ Cooper, Charles (May 19, 2010). "Pakistan Bans Facebook Over Muhammad Caricature Row  Tech Talk". CBS News. Retrieved June 26, 2010.
+^ Protalinski, Emil (2011-02-08). "Facebook and YouTube Unblocked in Syria Today". The Next Web. Retrieved 2012-12-26.
+^ "Red lines that cannot be crossed". The Economist (London). July 24, 2008. Retrieved August 17, 2008.
+^ Benzie, Robert (May 3, 2007). "Facebook banned for Ontario staffers". Toronto Star. Retrieved August 16, 2008.
+^ Stone, Brad (April 7, 2008). "Facebook to Settle Thorny Lawsuit Over Its Origins". The New York Times (blog). Retrieved November 5, 2009.
+^ Pepitone, Julianne (May 12, 2011). "Facebook vs. Google fight turns nasty". CNN Money.
+^ "Alemanha: Festas convocadas pelo Facebook so "ameaa  ordem pblica"". Ptjornal.com. Retrieved October 29, 2011.
+^ "Alemanha pode proibir festas combinadas pelo Facebook". Destakjornal.com.br. Retrieved October 29, 2011.[dead link]
+^ "Facebook blunder invites 15,000 to teen's 16th birthday party; 100 cops show up, too  Crimesider". CBS News. June 7, 2011. Retrieved October 29, 2011.
+^ "Alemanha pretende acabar com eventos via Facebook" (in Portuguese). Mtv.uol.com.br. Retrieved October 29, 2011.[dead link]
+^ "Don't Ban Facebook at Work, Researchers Advise". PC World. Sep 3, 2007. Retrieved September 4, 2012.
+^ "Why Parents Help Their Children Lie to Facebook About Age: Unintended Consequences of the Children's Online Privacy Protection Act". Journalist's Resource.org.
+^ Kurup, Deepa (November 17, 2011). "Facebook feeds spammed globally". The Hindu (Chennai, India).
+^ Anuradha Shetty (November 18, 2011). "Facebook denies hack in India, assures safety". Tech2.in.com. Retrieved December 21, 2011.
+^ "Facebook Marketing Solutions". Facebook. Retrieved January 30, 2011.
+^ Wells, Emma K. (April 19, 2011). "Move Over Twitter: Facebook Wants a Piece of Social TV, Too". tvgenius: TV Trends Blog. Retrieved May 15, 2011.
+^ "Facebook data reveal what GOP presidential candidates' supporters 'like'". The Washington Post. Jan 6, 2012.
+^ Dembosky, April (January 16, 2012). "Romney tags Facebook to build momentum".
+^ Bingham, Amy (Jan 10, 2012). "Social Media Opens Trove of Voter Info to Campaigns". ABCNews.com.
+^ "Seri Miss Sri Lanka Online Unveiled". FT.lk. Retrieved 9 January 2013.
+^ Half of the World's Online Population Uses Facebook, GlobalWebIndex. May 2013.
+^ "Father finds daughter on Facebook after 20 years apart". WABC (New York). October 23, 2010. Retrieved May 15, 2011.
+^ "Facebook reunites father, daughter after 48 years". MSN India (Delhi). January 27, 2010.
+^ Gardner, David (December 2, 2010). "The marriage killer: One in five American divorces now involve Facebook". Daily Mail (London).
+^ Harwood, Jonathan (December 22, 2009). "Facebook causes one in five divorces, says law firm". The First Post (London).
+^ "ABC News Joins Forces With Facebook". ABC News. December 18, 2007. Retrieved March 23, 2010.
+^ Minor, Doug (November 29, 2007). "Saint Anselm to Host ABC Debates Jan. 5". Saint Anselm College blog. Retrieved July 18, 2010.
+^ Bradley, Tahman (December 12, 2007). "Republicans Lead off ABC News, WMUR-TV and Facebook Back-To-Back Debates in New Hampshire". Political Radar (blog) (ABC News). Retrieved March 23, 2010.
+^ Callahan, Ezra (January 5, 2008). "Tune in to the ABC News/Facebook Debates, Tonight 7 pm/6c on ABC". Facebook Blog. Retrieved March 23, 2010.
+^ Thomas L. Friedman (June 9, 2012). "Facebook Meets Brick-and-Mortar Politics". New York Times. Retrieved June 10, 2012.
+^ Goldman, Russell (January 5, 2007). "Facebook Gives Snapshot of Voter Sentiment". ABC News. Retrieved March 23, 2010.
+^ Sullivan, Michelle (November 3, 2008). "'Facebook Effect' Mobilizes Youth Vote". CBS News. Retrieved March 23, 2010.
+^ Brodzinsky, Sibylla (February 4, 2008). "Facebook used to target Colombia's FARC with global rally". Christian Science Monitor (Boston). Retrieved August 1, 2010.
+^ Roberts, Laura (August 21, 2010). "North Korea joins Facebook". The Daily Telegraph (London). Retrieved August 22, 2010.
+^ The faces of Egypt's 'Revolution 2.0' By John D. Sutter, CNN
+^ Is Egypt About to Have a Facebook Revolution? Time Magazine
+^ Facebook & Twitter Both Blocked in Egypt - Mashable.com
+^ Oliver Pickup (June 6, 2011). "French ban the words 'Twitter' and 'Facebook' from being used on TV and radio". Daily Mail (London). Retrieved October 29, 2011.
+^ Johnson, Luke (September 26, 2011). "Facebook forms its own Political Action Committee". Huffington Post. Retrieved September 27, 2011.
+^ Nagesh, Gautham (September 26, 2011). "Facebook to form its own PAC to back political candidates". The Hill. Retrieved September 27, 2011.
+^ Hempel, Jessi (June 25, 2009). "The book that Facebook doesn't want you to read". CNN. Retrieved July 3, 2010.
+^ "The Social Network (2010)". Internet Movie DataBase. Retrieved July 3, 2010.
+^ Racheff, Jeffery (October 20, 2010). "Mark Zuckerberg Calls The Social Network Inaccurate". Limelife.
+^ Hussain, Waqar (May 27, 2010). "Pakistanis create rival Muslim Facebook". Agence France-Presse. Retrieved June 9, 2010.
+^ "South Park parodies Facebook". Guardian media blog (London). April 8, 2010. Retrieved June 7, 2010.
+^ "Oldest Tweeter talks cuppas and casserole on Twitter at 104". The Daily Telegraph (London). May 15, 2009.
+^ Millson, Alex (July 28, 2010). "Stars pay tribute to world's oldest Twitter user Ivy Bean after she dies aged 104". Daily Mail (London).
+^ Gray, Melissa (July 28, 2010). "Ivy Bean, 'world's oldest Twitter user,' dead at 104". CNN. Retrieved July 31, 2010.
+^ Ehrlich, Brenna (May 17, 2011). "Parents name child after Facebook 'Like' button". CNN.
+^ Olivarez-Giles, Nathan (May 16, 2011). "Israeli newborn named 'Like' in tribute to Facebook". Los Angeles Times.
+^ "thetechbook  Countries where facebook is not number #1 social networking website". Woolor.com. Retrieved 2012-12-26.
+Further reading
+
+Kirkpatrick, David, "Why Facebook matters: It's not just for arranging dates. And it's not just another social network. Facebook offers sophisticated tools for maintaining social relationships", Fortune, October 6, 2006
+Miller, Daniel, Tales from Facebook, Polity 2011, ISBN 978-0-7456-5209-2
+Arrington, Michael (2012-04-25). "The Age Of Facebook". TechCrunch.
+External links
+
+	Look up facebook in Wiktionary, the free dictionary.
+	Wikimedia Commons has media related to: Facebook
+Listen to this article (info/dl)
+
+MENU
+0:00
+
+This audio file was created from a revision of the "Facebook" article dated August 15, 2009, and does not reflect subsequent edits to the article. (Audio help)
+More spoken articles
+
+ News related to Category:Facebook at Wikinews
+Official website (Mobile)
+Facebook on Twitter
+Facebook at the iTunes Preview
+Facebook at the BlackBerry World
+Facebook at the Google Play marketplace
+Facebook collected news and commentary at The New York Times
+Facebook collected news and commentary at The Guardian
+Facebook collected news and commentary at The Daily Telegraph (London)
+Facebook Founder Finds He Wants Some Privacy, in The New York Times, December 3, 2007
+Facebook Privacy: 10 Settings Every User Needs to Know, by Stan Schroeder, February 7, 2011
+[hide] v t e
+Facebook
+History Timeline Statistics Acquisitions Criticism
+Website	
+Features Beacon Graph Search EdgeRank Platform Payments Like button
+Other products	
+Messenger Instagram Home (HTC First) FriendFeed Wirehog (defunct)
+People	
+Founders	
+Mark Zuckerberg (28% equity) Dustin Moskovitz (7%) Eduardo Saverin (5%, formerly) Chris Hughes (1%, formerly) Andrew McCollum
+Board	
+Mark Zuckerberg Jim Breyer (11%) Peter Thiel (2%) Sheryl Sandberg Marc Andreessen Erskine Bowles Susan Desmond-Hellmann Don Graham Reed Hastings
+Executive
+officers	
+Current	
+Mark Zuckerberg (Chairman and CEO) Sheryl Sandberg (COO) David Ebersman (CFO) Mike Schroepfer (CTO)
+Former	
+Sean Parker (4%, formerly) Owen Van Natta Gideon Yu Adam D'Angelo Chris Kelly Bret Taylor
+Notable
+employees	
+Current	
+Ted Ullyot (VP, General Counsel, and Secretary) Chris Cox (VP of Product) Elliot Schrage (VP of Global Communications, Marketing and Public Policy) Blake Ross (Director of Product) Lars Rasmussen (Graph Search director) Andrei Alexandrescu (research scientist)
+Former	
+Matt Cohler Charlie Cheever Randi Zuckerberg Yishan Wong George Hotz Joe Lockhart
+Open source	
+Apache Cassandra Apache Hive Apache Thrift FQL HipHop for PHP Scribe Open Compute Project
+Mass media	
+The Facebook Effect The Accidental Billionaires The Social Network
+Concepts	
+Activity stream Social graph Friending Reblogging Fan-gating Hackathon Facebook diplomacy
+Use in investigations Censorship Litigation f8 conference IPO Stock symbol NASDAQ: FB
+[show] v t e
+ Companies of the NASDAQ-100 index
+[show] 
+Links to related articles
+Categories: Companies in the NASDAQ-100 IndexFacebookAndroid (operating system) softwareBada softwareBlackBerry softwareBlog hosting servicesBlog softwareCompanies based in Menlo Park, CaliforniaCompanies established in 2004Companies listed on NASDAQHumancomputer interactionInternet companies of the United StatesInternet properties established in 2004IOS softwareMultinational companies headquartered in the United StatesMultilingual websitesOnline gaming servicesPhoto sharingPublicly traded companies of the United StatesSocial information processingSocial networking servicesStudent cultureSymbian softwareWebsites which mirror WikipediaWindows Phone software2004 establishments in MassachusettsAmerican websitesSocial networking websites
+Navigation menu
+Create accountLog inArticleTalkReadView sourceView history
+
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact Wikipedia
+Toolbox
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Cite this page
+Print/export
+Languages
+Ach
+Afrikaans
+Alemannisch
+
+
+
+Asturianu
+Avae'
+Azrbaycanca
+
+Bahasa Banjar
+Bn-lm-g
+
+ ()
+Bikol Central
+
+Boarisch
+Bosanski
+Brezhoneg
+Catal
+
+esky
+Cymraeg
+Dansk
+Deitsch
+Deutsch
+Din bizaad
+Eesti
+
+Emilin e rumagnl
+Espaol
+Esperanto
+Euskara
+
+Froyskt
+Franais
+Frysk
+Gaeilge
+Gaelg
+Galego
+
+
+
+Hausa
+
+
+Hrvatski
+Ilokano
+Bahasa Indonesia
+
+IsiZulu
+slenska
+Italiano
+
+Basa Jawa
+
+Kapampangan
+
+
+Kinyarwanda
+Kiswahili
+Kurd
+
+Ladino
+
+Latina
+Latvieu
+Lietuvi
+Lumbaart
+Magyar
+
+Malagasy
+
+Malti
+
+
+
+
+Bahasa Melayu
+
+Nhuatl
+Nederlands
+Nedersaksies
+
+
+
+Norsk bokml
+Norsk nynorsk
+ 
+
+Ozbekcha
+
+
+Papiamentu
+
+
+Piemontis
+Plattdtsch
+Polski
+Portugus
+Romn
+
+ 
+
+Scots
+Shqip
+Sicilianu
+
+Simple English
+Slovenina
+Slovenina
+Soomaaliga
+
+ / srpski
+Srpskohrvatski / 
+Basa Sunda
+Suomi
+Svenska
+Tagalog
+
+Taqbaylit
+/tatara
+
+
+
+Trke
+
+
+ / Uyghurche
+Vneto
+Vepsn kel
+Ting Vit
+
+West-Vlams
+Winaray
+
+
+Zazaki
+emaitka
+
+Edit links
+This page was last modified on 23 May 2013 at 20:23.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaMobile view 

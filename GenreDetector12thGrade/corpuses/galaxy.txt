@@ -1,0 +1,743 @@
+ 
+ , a typical spiral galaxy in the constellation Coma Berenices, is about 55,000&nbsp;light-years in diameter and approximately 60 million light-years away from Earth.]]
+ gravitationally bound Greek galaxias dwarfs with trillion (10 14 ) stars,  each orbiting their galaxys own center of mass.
+ active galactic nuclei found at the core of some galaxies. The Milky Way galaxy is known to harbor at least one such object. 
+ Spiral galaxies irregular galaxies starburst galaxies. irregular galaxies. 
+ groups and largest scale, sheets and filaments, which are surrounded by immense void (astronomy)|voids. 
+ most distant known galaxy, UDFj-39546284, is now estimated to be even further away than previously believed. The galaxy, which is estimated to have formed around "380 million years"    after the Big Bang (about 13.8 billion years ago), {{cite web last =  first =   title = Cosmic Detectives
+|url=http://www.esa.int/Our_Activities/Space_Science/Cosmic_detectives authorlink = coauthors =  work = publisher = The European Space Agency (ESA) date = 2013-04-02 doi = accessdate = 2013-04-15}}  and has a  z (redshift) of 11.9,  is approximately 13.42 billion light years from Earth.
+
+==Etymology== Greek term for our own galaxy, galaxias (γαλαξίας, "milky one"), or kyklos ("circle") galaktikos ("milky")  for its appearance as a lighter colored band in the sky. In Greek mythology, Zeus places his son born by a mortal woman, the infant Heracles, on Heras breast while she is asleep so that the baby will drink her divine milk and will thus become immortal. Hera wakes up while breastfeeding and then realizes she is nursing an unknown baby: she pushes the baby away and a jet of her milk sprays the night sky, producing the faint band of light known as the Milky Way.  
+
+In the astronomical literature, the capitalized word Galaxy is used to refer to our galaxy, the Milky Way, to distinguish it from the billions of other galaxies. The English term Milky Way can be traced back to a story by Geoffrey Chaucer|Chaucer:
+ 
+ catalog of deep sky objects in 1786, he used the name spiral nebula for certain objects such as Andromeda Galaxy|M31. These would later be recognized as immense conglomerations of stars, when the true distance to these objects began to be appreciated, and they would be termed island universes. However, the word Universe was understood to mean the entirety of existence, so this expression fell into disuse and the objects instead became known as galaxies. 
+
+==Observation history==
+The realization that we live in a galaxy, and that there were, in fact, many other galaxies, parallels discoveries that were made about the Milky Way and other nebulae in the night sky.
+
+===Milky Way===
+ 
+  of the Milky Way|thumb]] Greek philosopher Democritus (450–370 BC) proposed that the bright band on the night sky known as the Milky Way might consist of distant stars.    region of the World that is continuous with the heavenly motions." 
+{{cite web
+ | last1=Montada |first1=J. P.
+ | date=2007-09-28
+ | title=Ibn Bajja
+ | work=Stanford Encyclopedia of Philosophy
+ | url=http://plato.stanford.edu/entries/ibn-bajja
+ | accessdate=2008-07-11 Neoplatonist philosopher Islamic world. 
+ Arabian astronomer Alhazen (965–1037) made the first attempt at observing and measuring the Milky Ways parallax,  and he thus "determined that because the Milky Way had no parallax, it was very remote from the Earth and did not belong to the atmosphere." 
+{{cite web
+ | last1=Bouali |first1=H.-E.
+ | last2=Zghal |first2=M.
+ | last3=Lakhdar |first3=Z. B.
+ | year=2005
+ | title=Popularisation of Optical Phenomena: Establishing the First Ibn Al-Haytham Workshop on Photography
+ | publisher=The Education and Training in Optics and Photonics Conference
+ | url=http://spie.org/etop/ETOP2005_080.pdf
+ | accessdate=2008-07-08 Persian astronomer Andalusian astronomer conjunction of Jupiter and Mars as evidence of this occurring when two objects are near.  In the 14th century, the Syrian-born Ibn Qayyim proposed the Milky Way galaxy to be "a myriad of tiny stars packed together in the sphere of the fixed stars". 
+{{cite journal
+ |last1=Livingston |first1=J. W.
+ |year=1971
+ |title=Ibn Qayyim al-Jawziyyah: A Fourteenth Century Defense against Astrological Divination and Alchemical Transmutation
+ |journal=Journal of the American Oriental Society
+ |volume=91 |issue=1 |pages=96–103  
+ |doi=10.2307/600445
+ |jstor=600445
+}} 
+ telescope to study the Milky Way and discovered that it is composed of a huge number of faint stars. 
+{{cite web
+ |last1=OConnor |first1=J. J.
+ |last2=Robertson |first2=E. F.
+ |date=November 2002
+ |title=Galileo Galilei
+ |url=http://www-gap.dcs.st-and.ac.uk/~history/Biographies/Galileo.html
+ |publisher=University of St. Andrews
+ |accessdate=2007-01-08 Thomas Wright, gravitational forces, akin to the solar system but on a much larger scale. The resulting disk of stars can be seen as a band on the sky from our perspective inside the disk.  In a treatise in 1755, Immanuel Kant elaborated on Wrights idea about the structure of the Milky Way.
+
+ 
+ interstellar dust present in the galactic plane, but after Robert Julius Trumpler quantified this effect in 1930 by studying open clusters, the present picture of our host galaxy, the Milky Way, emerged. 
+{{cite journal
+ |last1=Trimble |first1=V.
+ |year=1999
+ |title=Robert Trumpler and the (Non)transparency of Space
+ |journal=Bulletin of the American Astronomical Society
+ |volume=31 |issue=31 |pages=1479
+ |bibcode=1999AAS...195.7409T
+}} 
+
+===Distinction from other nebulae=== Lord Rosse in 1845, later known as the Whirlpool Galaxy]]
+
+In the 10th century, the Persian astronomer Al-Sufi made the earliest recorded observation of the Andromeda Galaxy, describing it as a "small cloud".  Al-Sufi, who published his findings in his Book of Fixed Stars in 964, also identified the Large Magellanic Cloud, which is visible from Yemen, though not from Isfahan; it was not seen by Europeans until Ferdinand Magellan|Magellans voyage in the 16th century. 
+{{cite web
+ |title=Abd-al-Rahman Al Sufi (December 7, 903&nbsp;– May 25, 986 A.D.)
+ |url=http://messier.obspm.fr/xtra/Bios/alsufi.html
+ |publisher=Observatoire de Paris
+ |accessdate=2007-04-19
+}}  
+{{cite web
+ |title=The Large Magellanic Cloud, LMC
+ |url=http://messier.obspm.fr/xtra/ngc/lmc.html
+ |publisher=Observatoire de Paris
+ |accessdate=2007-04-19
+}}   The Andromeda Galaxy was independently rediscovered by Simon Marius in 1612.  These are the only galaxies outside the Milky Way that are easily visible to the unaided eye, so they were the first galaxies to be observed from Earth. Thomas Wright, in his An original theory or new hypothesis of the Universe, speculated (correctly) that the Milky Way was a flattened disk of stars, and that some of the nebulae visible in the night sky might be separate Milky Ways. 
+{{cite web
+ |last1=Evans |first1=J. C.
+ |date=1998-11-24
+ |title=Our Galaxy
+ |url=http://physics.gmu.edu/~jevans/astr103/CourseNotes/ECText/ch20_txt.htm
+ |publisher=George Mason University
+ |accessdate=2007-01-04
+}}  See text quoted from Wrights An original theory or new hypothesis of the Universe in {{Cite book
+ |last1=Dyson |first1=F.
+ |year=1979
+ |title=Disturbing the Universe
+ |page=245
+ |publisher=Pan Books
+ |isbn=0-330-26324-2
+}}  In 1755, Immanuel Kant introduced the term  "island Universe" for these distant nebulae.
+ catalog containing Lord Rosse constructed a new telescope and was able to distinguish between elliptical and spiral nebulae. He also managed to make out individual point sources in some of these nebulae, lending credence to Kants earlier conjecture. 
+{{cite web
+ |last1=Abbey |first1=L.
+ |title=The Earl of Rosse and the Leviathan of Parsontown
+ |url=http://labbey.com/Telescopes/Parsontown.html
+ |accessdate=2007-01-04
+}} 
+
+In 1912, Vesto Slipher made spectrographic studies of the brightest spiral nebulae to determine if they were made from chemicals that would be expected in a planetary system. However, Slipher discovered that the spiral nebulae had high red shifts, indicating that they were moving away at a rate higher than the Milky Ways escape velocity. Thus they were not gravitationally bound to the Milky Way, and were unlikely to be a part of the galaxy. 
+{{cite journal
+ |last1=Slipher |first1=V. M.
+ |year=1913
+ |title=The radial velocity of the Andromeda Nebula
+ |journal=Lowell Observatory Bulletin
+ |volume=1 |pages=56–57
+ |bibcode=1913LowOB...2...56S
+}}  
+{{cite journal
+ |last1=Slipher |first1=V. M.
+ |year=1915
+ |title=Spectrographic Observations of Nebulae Popular Astronomy
+ |volume=23 |pages=21–24
+ |bibcode=1915PA.....23...21S
+}} 
+ Andromeda Nebula" magnitudes fainter than those that occurred within our galaxy. As a result he was able to come up with a distance estimate of 150,000&nbsp;parsecs. He became a proponent of the so-called "island universes" hypothesis, which holds that spiral nebulae are actually independent galaxies. 
+{{cite journal
+ |last=Curtis |first1=H. D.
+ |year=1988
+ |title=Novae in Spiral Nebulae and the Island Universe Theory
+ |journal=Publications of the Astronomical Society of the Pacific
+ |volume=100 |pages=6
+ |bibcode=1988PASP..100....6C
+ |doi=10.1086/132128
+}} 
+
+ ]] Great Debate Doppler shift. 
+{{cite web
+ |last1=Weaver |first1=H. F.
+ |title=Robert Julius Trumpler
+ |url=http://www.nap.edu/readingroom/books/biomems/rtrumpler.html US National Academy of Sciences
+ |accessdate=2007-01-05
+}} 
+
+The matter was conclusively settled in the early 1920s.
+In 1922, the Estonian astronomer Ernst Öpik gave a distance determination that supported the theory that the Andromeda Nebula is indeed a distant extra-galactic object. 
+{{cite journal
+ |last1=Öpik |first1=E.
+ |year=1922
+ |title=An estimate of the distance of the Andromeda Nebula
+ |journal=Astrophysical Journal
+ |volume=55 |pages=406
+ |bibcode=1922ApJ....55..406O
+ |doi=10.1086/142680
+}}  Using the new 100&nbsp;inch Mount Wilson Observatory|Mt. Wilson telescope, Edwin Hubble was able to resolve the outer parts of some spiral nebulae as collections of individual stars and identified some Cepheid variables, thus allowing him to estimate the distance to the nebulae: they were far too distant to be part of the Milky Way. 
+{{cite journal
+ |last1=Hubble |first1=E. P.
+ |year=1929
+ |title=A spiral nebula as a stellar system, Messier 31
+ |journal=Astrophysical Journal
+ |volume=69 |pages=103–158
+ |bibcode=1929ApJ....69..103H
+ |doi=10.1086/143167 Hubble sequence. 
+{{cite journal
+ |last1=Sandage |first1=A.
+ |year=1989
+ |title=Edwin Hubble, 1889–1953
+ |journal=Journal of the Royal Astronomical Society of Canada
+ |volume=83 |issue=6 |pages=351–362
+ |url=http://antwrp.gsfc.nasa.gov/diamond_jubilee/1996/sandage_hubble.html
+ |accessdate=2007-01-08
+}} 
+
+===Modern research===
+  of a typical spiral galaxy: predicted (A) and observed (B). The distance is from the galactic core.]]
+ ]]
+ Hendrik van wavelength of 21 cm resulting from interstellar atomic hydrogen gas; 
+{{cite web
+ |last1=Tenn |first1=J.
+ |title=Hendrik Christoffel van de Hulst
+ |url=http://www.phys-astro.sonoma.edu/BruceMedalists/vandeHulst/
+ |publisher=Sonoma State University
+ |accessdate=2007-01-05 bar structure in the center of the Galaxy. 
+{{cite journal
+ |last1=López-Corredoira |first1=M.
+ |coauthors=et al.
+ |year=2001
+ |title=Searching for the in-plane Galactic bar and ring in DENIS
+ |journal=Astronomy and Astrophysics
+ |volume=373
+ |issue=1 |pages=139–152
+ |bibcode=2001A&A...373..139L
+ |doi=10.1051/0004-6361:20010560 arxiv = astro-ph/0104307 }}  With improved radio telescopes, hydrogen gas could also be traced in other galaxies.
+ rotation speed of gas in galaxies that the total visible mass (from the stars and gas) does not properly account for the speed of the rotating gas. This galaxy rotation problem is thought to be explained by the presence of large quantities of unseen dark matter. 
+{{cite journal
+ |last1=Rubin |first1=V. C.
+ |year=1983
+ |title=Dark matter in spiral galaxies
+ |journal=Scientific American
+ |volume=248
+ |issue=6 |pages=96–106
+ |bibcode=1983SciAm.248...96R
+ |doi=10.1038/scientificamerican0683-96
+}}  
+{{cite journal
+ |last1=Rubin |first1=V. C.
+ |year=2000
+ |title=One Hundred Years of Rotating Galaxies
+ |journal=Publications of the Astronomical Society of the Pacific
+ |volume=112 |issue=772 |pages=747–750
+ |bibcode=2000PASP..112..747R
+ |doi=10.1086/316573
+}} 
+
+Beginning in the 1990s, the Hubble Space Telescope yielded improved observations. Among other things, it established that the missing dark matter in our galaxy cannot solely consist of inherently faint and small stars. 
+{{cite news
+ |title=Hubble Rules Out a Leading Explanation for Dark Matter
+ |publisher=Hubble News Desk
+ |date=1994-10-17
+ |url=http://hubblesite.org/newscenter/archive/releases/1994/41/text/
+ |accessdate=2007-01-08
+}}  The Hubble Deep Field, an extremely long exposure of a relatively empty part of the sky, provided evidence that there are about 125 billion ( ) galaxies in the Universe. 
+{{cite web
+ |date=2002-11-27
+ |title=How many galaxies are there?
+ |url=http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/021127a.html
+ |publisher=NASA
+ |accessdate=2007-01-08 spectra invisible to humans (radio telescopes, infrared cameras, and x-ray astronomy|x-ray telescopes) allow detection of other galaxies that are not detected by Hubble. Particularly, galaxy surveys in the Zone of Avoidance (the region of the sky blocked by the Milky Way) have revealed a number of new galaxies. 
+{{cite journal
+ |last1=Kraan-Korteweg |first1=R. C.
+ |last2=Juraszek |first2=S.
+ |year=2000
+ |title=Mapping the hidden Universe: The galaxy distribution in the Zone of Avoidance
+ |journal=Publications of the Astronomical Society of Australia
+ |volume=17 |issue=1 |pages=6–12
+ |bibcode=1999astro.ph.10572K arxiv = astro-ph/9910572
+ |doi=10.1071/AS00006 }} 
+
+==Types and morphology==
+ 
+ 
+ Hubble sequence. active galaxies). 
+
+===Ellipticals===
+  interstellar matter. evolved stars that are orbiting the common center of gravity in random directions. The stars contain low abundances of heavy elements because star formation ceases after the initial burst. In this sense they have some similarity to the much smaller globular clusters. 
+{{cite web
+ |last1=Barstow |first1=M. A.
+ |year=2005
+ |title=Elliptical Galaxies
+ |url=http://www.star.le.ac.uk/edu/Elliptical.shtml
+ |publisher=Leicester University Physics Department
+ |accessdate=2006-06-08
+}} 
+ interaction of galaxies, resulting in a collision and merger. They can grow to enormous sizes (compared to spiral galaxies, for example), and giant elliptical galaxies are often found near the core of large galaxy clusters. 
+{{cite web
+ |date=2005-10-20
+ |title=Galaxies
+ |url=http://curious.astro.cornell.edu/galaxies.php
+ |publisher=Cornell University
+ |accessdate=2006-08-10 Starburst galaxies are the result of such a galactic collision that can result in the formation of an elliptical galaxy. 
+
+===Spirals===
+ 
+  (on left), an example of an unbarred spiral galaxy.]]
+ bulge are relatively bright arms. In the Hubble classification scheme, spiral galaxies are listed as type S, followed by a letter (a, b, or c) that indicates the degree of tightness of the spiral arms and the size of the central bulge. An Sa galaxy has tightly wound, poorly defined arms and possesses a relatively large core region. At the other extreme, an Sc galaxy has open, well-defined arms and a small core region. 
+{{cite web
+ |last1=Smith |first1=G.
+ |date=2000-03-06
+ |url=http://casswww.ucsd.edu/public/tutorial/Galaxies.html
+ |title=Galaxies&nbsp;— The Spiral Nebulae
+ |publisher=University of California, San Diego Center for Astrophysics & Space Sciences
+ |accessdate=2006-11-30
+}}  A galaxy with poorly defined arms is sometimes referred to as a flocculent spiral galaxy; in contrast to the grand design spiral galaxy that has prominent and well-defined spiral arms. 
+ density waves".  As stars move through an arm, the space velocity of each stellar system is modified by the gravitational force of the higher density. (The velocity returns to normal after the stars depart on the other side of the arm.) This effect is akin to a "wave" of slowdowns moving along a highway full of moving cars. The arms are visible because the high density facilitates star formation, and therefore they harbor many bright and young stars. 
+
+ , an example of a barred spiral galaxy.]]
+A majority of spiral galaxies have a linear, bar-shaped band of stars that extends outward to either side of the core, then merges into the spiral arm structure. 
+{{cite journal
+ |last1=Eskridge |first1=P. B.
+ |last2=Frogel |first2=J. A.
+ |year=1999
+ |title=What is the True Fraction of Barred Spiral Galaxies?
+ |journal=Astrophysics and Space Science
+ |volume=269/270 |pages=427–430
+ |bibcode=1999Ap&SS.269..427E
+ |doi=10.1023/A:1017025820201 tidal interaction with another galaxy. 
+{{cite journal
+ |last1=Bournaud |first1=F.
+ |last2=Combes |first2=F.
+ |year=2002
+ |title=Gas accretion on spiral galaxies: Bar formation and renewal
+ |journal=Astronomy and Astrophysics
+ |volume=392
+ |issue=1 |pages=83–102
+ |bibcode=2002A&A...392...83B
+ |doi=10.1051/0004-6361:20020920 arxiv = astro-ph/0206273 }}  Many barred spiral galaxies are active, possibly as a result of gas being channeled into the core along the arms. 
+{{cite journal
+ |last1=Knapen |first1=J. H.
+ |last2=Pérez-Ramírez |first2=D.
+ |last3=Laine |first3=S.
+ |year=2002
+ |title=Circumnuclear regions in barred spiral galaxies&nbsp;— II. Relations to host galaxies
+ |journal=Monthly Notices of the Royal Astronomical Society
+ |volume=337 |issue=3 |pages=808–828
+ |bibcode=2002MNRAS.337..808K
+ |doi=10.1046/j.1365-8711.2002.05840.x arxiv = astro-ph/0207258 }} 
+
+Our own galaxy, the Milky Way, is a large disk-shaped barred-spiral galaxy 
+{{cite journal
+ |last1=Alard |first1=C.
+ |year=2001
+ |title=Another bar in the Bulge
+ |journal=Astronomy and Astrophysics Letters
+ |volume=379 |issue=2 |pages=L44–L47
+ |bibcode=2001A&A...379L..44A
+ |doi=10.1051/0004-6361:20011487 arxiv = astro-ph/0110491 }}  about 30&nbsp;kiloparsecs in diameter and a kiloparsec thick. It contains about two hundred billion (2×10 11 ) 
+{{cite news
+ |last1=Sanders |first1=R.
+ |date=2006-01-09
+ |title=Milky Way galaxy is warped and vibrating like a drum UCBerkeley News
+ |url=http://www.berkeley.edu/news/media/releases/2006/01/09_warp.shtml
+ |accessdate=2006-05-24
+}}  stars and has a total mass of about six hundred billion (6×10 11 ) times the mass of the Sun. 
+{{cite journal
+ |last1=Bell |first1=G. R.
+ |last2=Levine |first2=S. E.
+ |year=1997
+ |title=Mass of the Milky Way and Dwarf Spheroidal Stream Membership
+ |journal=Bulletin of the American Astronomical Society
+ |volume=29 |issue=2 |pages=1384
+ |bibcode=1997AAS...19110806B
+}} 
+
+===Other morphologies===
+{{multiple image
+| align = right
+| direction = vertical
+| width = 230
+| image1 = Hoags object.jpg
+| caption1 = Hoags Object, an example of a ring galaxy
+| image2 = File-Ngc5866 hst big.png
+| caption2 = NGC 5866, an example of a lenticular galaxy
+}}
+ Peculiar galaxies are galactic formations that develop unusual properties due to tidal interactions with other galaxies. An example of this is the ring galaxy, which possesses a ring-like structure of stars and interstellar medium surrounding a bare core. A ring galaxy is thought to occur when a smaller galaxy passes through the core of a spiral galaxy. 
+{{cite journal
+ |last1=Gerber |first1=R. A.
+ |last2=Lamb |first2=S. A.
+ |last3=Balsara |first3=D. S.
+ |year=1994
+ |title=Ring Galaxy Evolution as a Function of "Intruder" Mass
+ |journal=Bulletin of the American Astronomical Society
+ |volume=26 |pages=911
+ |bibcode=1994AAS...184.3204G
+}}  Such an event may have affected the Andromeda Galaxy, as it displays a multi-ring-like structure when viewed in infrared radiation. 
+{{cite press release
+ |publisher=European Space Agency
+ |date=1998-10-14
+ |title=ISO unveils the hidden rings of Andromeda
+ |url=http://www.iso.vilspa.esa.es/outreach/esa_pr/andromed.htm
+ |accessdate=2006-05-24
+}} 
+
+A lenticular galaxy is an intermediate form that has properties of both elliptical and spiral galaxies. These are categorized as Hubble type S0, and they possess ill-defined spiral arms with an elliptical halo of stars. 
+{{cite web
+ |date=2004-05-31
+ |title=Spitzer Reveals What Edwin Hubble Missed
+ |url=http://www.cfa.harvard.edu/press/pr0419.html
+ |publisher=Harvard-Smithsonian Center for Astrophysics
+ |accessdate=2006-12-06 Barred lenticular galaxies receive Hubble classification SB0.)
+
+In addition to the classifications mentioned above, there are a number of galaxies that can not be readily classified into an elliptical or spiral morphology. These are categorized as irregular galaxies. An Irr-I galaxy has some structure but does not align cleanly with the Hubble classification scheme. Irr-II galaxies do not possess any structure that resembles a Hubble classification, and may have been disrupted. 
+{{cite web
+ |last1=Barstow |first1=M. A.
+ |year=2005
+ |title=Irregular Galaxies
+ |url=http://www.star.le.ac.uk/edu/Irregular.shtml
+ |publisher=University of Leicester
+ |accessdate=2006-12-05
+}}  Nearby examples of (dwarf) irregular galaxies include the Magellanic Clouds.
+
+===Dwarfs===
+ 
+Despite the prominence of large elliptical and spiral galaxies, most galaxies in the Universe appear to be dwarf galaxies. These galaxies are relatively small when compared with other galactic formations, being about one hundredth the size of the Milky Way, containing only a few billion stars. Ultra-compact dwarf galaxies have recently been discovered that are only 100&nbsp;parsecs across. 
+{{cite journal
+ |last1=Phillipps |first1=S.
+ |last2=Drinkwater |first2=M. J.
+ |last3=Gregg |first3=M. D.
+ |last4=Jones |first4=J. B.
+ |year=2001
+ |title=Ultracompact Dwarf Galaxies in the Fornax Cluster
+ |journal=Astrophysical Journal
+ |volume=560 |issue=1 |pages=201–206
+ |bibcode=2001ApJ...560..201P
+ |doi=10.1086/322517 arxiv = astro-ph/0106377 }} 
+
+Many dwarf galaxies may orbit a single larger galaxy; the Milky Way has at least a dozen such satellites, with an estimated 300–500 yet to be discovered. 
+{{cite news
+ |last1=Groshong |first1=K.
+ |date=2006-04-24
+ |title=Strange satellite galaxies revealed around Milky Way
+ |publisher=New Scientist
+ |url=http://space.newscientist.com/article/dn9043
+ |accessdate=2007-01-10 dwarf spheroidal galaxies instead.
+
+A study of 27 Milky Way neighbors found that in all dwarf galaxies, the central mass is approximately 10 million solar masses, regardless of whether the galaxy has thousands or millions of stars. This has led to the suggestion that galaxies are largely formed by dark matter, and that the minimum size may indicate a form of warm dark matter incapable of gravitational coalescence on a smaller scale. 
+{{cite web
+ |last1=Schirber |first1=M.
+ |date=2008-08-27
+ |url=http://sciencenow.sciencemag.org/cgi/content/full/2008/827/3
+ |title=No Slimming Down for Dwarf Galaxies
+ |publisher=ScienceNOW
+ |accessdate=2008-08-27
+}} 
+
+==Unusual dynamics and activities==
+
+===Interacting===
+  tidal interactions, and may cause some exchange of gas and dust. 
+{{cite web
+ |url=http://www.astro.umd.edu/education/astro/gal/interact.html
+ |title=Galaxy Interactions
+ |publisher=University of Maryland Department of Astronomy
+ |accessdate=2006-12-19
+ |archiveurl=http://web.archive.org/web/20060509074300/http://www.astro.umd.edu/education/astro/gal/interact.html
+ |archivedate=May 9, 2006
+}}  
+{{cite web
+ |title=Interacting Galaxies
+ |url=http://Cosmos.swin.edu.au/entries/interactinggalaxies/interactinggalaxies.html?e=1
+ |publisher=Swinburne University
+ |accessdate=2006-12-19
+}} 
+
+  are undergoing a collision that will result in their eventual merger.]]
+
+Collisions occur when two galaxies pass directly through each other and have sufficient relative momentum not to merge. The stars within these interacting galaxies will typically pass straight through without colliding. However, the gas and dust within the two forms will interact. This can trigger bursts of star formation as the interstellar medium becomes disrupted and compressed. A collision can severely distort the shape of one or both galaxies, forming bars, rings or tail-like structures.  
+
+At the extreme of interactions are galactic mergers. In this case the relative momentum of the two galaxies is insufficient to allow the galaxies to pass through each other. Instead, they gradually merge to form a single, larger galaxy. Mergers can result in significant changes to morphology, as compared to the original galaxies. In the case where one of the galaxies is much more massive, however, the result is known as Interacting galaxy#Galactic cannibalism|cannibalism. In this case the larger galaxy will remain relatively undisturbed by the merger, while the smaller galaxy is torn apart. The Milky Way galaxy is currently in the process of cannibalizing the Sagittarius Dwarf Elliptical Galaxy and the Canis Major Dwarf Galaxy.  
+
+===Starburst===
+ 
+ , the archetype starburst galaxy, has experienced a 10-fold increase 
+{{cite web
+ |date=2006-04-24
+ |url=http://hubblesite.org/newscenter/archive/releases/2006/14/image/a
+ |title=Happy Sweet Sixteen, Hubble Telescope!
+ |publisher=NASA
+ |accessdate=2006-08-10
+}}  in star formation rate as compared to a "normal" galaxy.]]
+
+Stars are created within galaxies from a reserve of cold gas that forms into giant molecular clouds. Some galaxies have been observed to form stars at an exceptional rate, known as a starburst. Should they continue to do so, however, they would consume their reserve of gas in a time frame lower than the lifespan of the galaxy. Hence starburst activity usually lasts for only about ten million years, a relatively brief period in the history of a galaxy. Starburst galaxies were more common during the early history of the Universe, 
+{{cite web
+ |date=2006-08-29
+ |url=http://chandra.harvard.edu/xray_sources/starburst.html
+ |title=Starburst Galaxies
+ |publisher=Harvard-Smithsonian Center for Astrophysics
+ |accessdate=2006-08-10
+}}  and, at present, still contribute an estimated 15% to the total star production rate. 
+{{cite conference
+ |last1=Kennicutt Jr. |first1=R. C.
+ |coauthors=et al.
+ |year=2005
+ |title=Demographics and Host Galaxies of Starbursts
+ |booktitle=Starbursts: From 30 Doradus to Lyman Break Galaxies
+ |page=187 Springer
+ |bibcode=2005sdlb.proc..187K
+}} 
+
+Starburst galaxies are characterized by dusty concentrations of gas and the appearance of newly formed stars, including massive stars that ionize the surrounding clouds to create H II regions. 
+{{cite web
+ |last1=Smith |first1=G.
+ |date=2006-07-13
+ |title=Starbursts & Colliding Galaxies
+ |url=http://casswww.ucsd.edu/public/tutorial/Starbursts.html
+ |publisher=University of California, San Diego Center for Astrophysics & Space Sciences
+ |accessdate=2006-08-10 remnants that interact powerfully with the surrounding gas. These outbursts trigger a chain reaction of star building that spreads throughout the gaseous region. Only when the available gas is nearly consumed or dispersed does the starburst activity come to an end. 
+
+Starbursts are often associated with merging or interacting galaxies. The prototype example of such a starburst-forming interaction is Messier 82|M82, which experienced a close encounter with the larger Messier 81|M81. Irregular galaxies often exhibit spaced knots of starburst activity. 
+{{cite web
+ |last1=Keel |first1=B.
+ |month=September |year=2006
+ |title=Starburst Galaxies
+ |url=http://www.astr.ua.edu/keel/galaxies/starburst.html
+ |publisher=University of Alabama
+ |accessdate=2006-12-11
+}} 
+
+===Active nucleus===
+ 
+
+A portion of the galaxies we can observe are classified as active. That is, a significant portion of the total energy output from the galaxy is emitted by a source other than the stars, dust and interstellar medium.
+
+The standard model for an active galactic nucleus is based upon an accretion disc that forms around a supermassive black hole (SMBH) at the core region. The radiation from an active galactic nucleus results from the gravitational energy of matter as it falls toward the black hole from the disc. 
+{{cite web
+ |last1=Keel |first1=W. C.
+ |year=2000
+ |url=http://www.astr.ua.edu/keel/galaxies/agnintro.html
+ |title=Introducing Active Galactic Nuclei
+ |publisher=University of Alabama
+ |accessdate=2006-12-06
+}}  In about 10% of these objects, a diametrically opposed pair of energetic jets ejects particles from the core at velocities close to the speed of light. The mechanism for producing these jets is still not well understood. 
+{{cite web
+ |last1=Lochner |first1=J.
+ |last2=Gibb |first2=M.
+ |title=A Monster in the Middle
+ |url=http://imagine.gsfc.nasa.gov/docs/science/know_l2/active_galaxies.html
+ |publisher=NASA
+ |accessdate=2006-12-20
+}} 
+
+ .]]
+ Seyfert galaxies or quasars, depending on the luminosity. Blazars are believed to be an active galaxy with a relativistic jet that is pointed in the direction of the Earth. A radio galaxy emits radio frequencies from relativistic jets. A unified model of these types of active galaxies explains their differences based on the viewing angle of the observer. 
+ starburst regions) are low-ionization nuclear emission-line regions (LINERs). The emission from LINER-type galaxies is dominated by weakly ionized elements. 
+{{cite journal
+ |last1=Heckman |first1=T. M.
+ |year=1980
+ |title=An optical and radio survey of the nuclei of bright galaxies&nbsp;— Activity in normal galactic nuclei
+ |journal=Astronomy and Astrophysics
+ |volume=87 |pages=152–164
+ |bibcode=1980A&A....87..152H
+}}  Approximately one-third of nearby galaxies are classified as containing LINER nuclei.   
+{{cite journal
+ |last1=Ho |first1=L. C.
+ |last2=Filippenko |first2=A. V.
+ |last3=Sargent |first3=W. L. W.
+ |year=1997
+ |title=A Search for "Dwarf" Seyfert Nuclei. V. Demographics of Nuclear Activity in Nearby Galaxies
+ |journal=Astrophysical Journal
+ |volume=487
+ |issue=2 |pages=568–578
+ |bibcode=1997ApJ...487..568H
+ |doi=10.1086/304638 arxiv = astro-ph/9704108 }} 
+
+==Formation and evolution==
+ 
+The study of galactic formation and evolution attempts to answer questions regarding how galaxies formed and their evolutionary path over the history of the Universe. Some theories in this field have now become widely accepted, but it is still an active area in astrophysics.
+
+===Formation===
+ /L. Calçada]]
+ Dark Ages". anisotropic irregularities) larger structures began to appear. As a result, masses of baryonic matter started to condense within cold dark matter halos. 
+{{cite web
+ |date=1999-11-18
+ |title=Search for Submillimeter Protogalaxies
+ |url=http://cfa-www.harvard.edu/~aas/tenmeter/proto.htm
+ |publisher=Harvard-Smithsonian Center for Astrophysics
+ |accessdate=2007-01-10
+}}   These primordial structures would eventually become the galaxies we see today.
+
+Evidence for the early appearance of galaxies was found in 2006, when it was discovered that the galaxy IOK-1 has an unusually high redshift of 6.96, corresponding to just 750 million years after the Big Bang and making it the most distant and primordial galaxy yet seen. 
+{{cite journal
+ |last1=McMahon |first1=R.
+ |year=2006
+ |title=Journey to the birth of the Universe Nature
+ |volume=443 |issue=7108 |pages=151–2
+ |doi=10.1038/443151a
+ |pmid=16971933 bibcode = Abell 1835 protogalaxies suggests that they must have grown in the so-called "Dark Ages".   Nonetheless, in December 2012, astronomers reported that the UDFj-39546284 galaxy is the most distant galaxy known and has a redshift value of 11.9.  The galaxy, estimated to have existed around "380 million years"  after the Big Bang (which was about 13.8 billion years ago),  is about 13.42 billion light years away.
+
+The detailed process by which such early galaxy formation occurred is a major open question in astronomy. Theories could be divided into two categories: top-down and bottom-up. In top-down theories (such as the Eggen–Lynden-Bell–Sandage   model), protogalaxies form in a large-scale simultaneous collapse lasting about one hundred million years. 
+{{cite journal
+ |last1=Eggen |first1=O. J.
+ |last2=Lynden-Bell |first2=D.
+ |last3=Sandage |first3=A. R.
+ |year=1962
+ |title=Evidence from the motions of old stars that the Galaxy collapsed
+ |journal=Reports on Progress in Physics
+ |volume=136 |pages=748
+ |bibcode=1962ApJ...136..748E
+ |doi=10.1086/147433
+}}  In bottom-up theories (such as the Searle-Zinn   model), small structures such as globular clusters form first, and then a number of such bodies accrete to form a larger galaxy. 
+{{cite journal
+ |last1=Searle |first1=L.
+ |last2=Zinn |first2=R.
+ |year=1978
+ |title=Compositions of halo clusters and the formation of the galactic halo
+ |journal=Astrophysical Journal
+ |volume=225 |issue=1 |pages=357–379
+ |bibcode=1978ApJ...225..357S
+ |doi=10.1086/156499
+}} 
+ Population III stars) appeared within them. These were composed almost entirely of hydrogen and helium, and may have been massive. If so, these huge stars would have quickly consumed their supply of fuel and became supernovae, releasing heavy elements into the interstellar medium. 
+{{cite journal
+ |last1=Heger |first1=A.
+ |last2=Woosley |first2=S. E.
+ |year=2002
+ |title=The Nucleosynthetic Signature of Population III
+ |journal=Astrophysical Journal
+ |volume=567 |issue=1 |pages=532–543
+ |bibcode=2002ApJ...567..532H
+ |doi=10.1086/338487 arxiv = astro-ph/0107037 }}  This first generation of stars re-ionized the surrounding neutral hydrogen, creating expanding bubbles of space through which light could readily travel. 
+{{cite journal
+ |last1=Barkana |first1=R.
+ |last2=Loeb |first2=A.
+ |year=1999
+ |title=In the beginning: the first sources of light and the reionization of the Universe
+ |journal=Physics Reports
+ |volume=349 |issue=2 |pages=125–238
+ |bibcode=2001PhR...349..125B
+ | arxiv = astro-ph/0010468
+ |doi=10.1016/S0370-1573(01)00019-9
+}} 
+
+===Evolution=== galactic bulge Population II stars form. The creation of a supermassive black hole appears to play a key role in actively regulating the growth of galaxies by limiting the total amount of additional matter added. 
+{{cite news
+ |date=2005-02-09
+ |title=Simulations Show How Growing Black Holes Regulate Galaxy Formation
+ |url=http://www.cmu.edu/PR/releases05/050209_blackhole.html
+ |publisher=Carnegie Mellon University
+ |accessdate=2007-01-07
+}}  During this early epoch, galaxies undergo a major burst of star formation. 
+{{cite news
+ |last1=Massey |first1=R.
+ |date=2007-04-21
+ |title=Caught in the act; forming galaxies captured in the young Universe
+ |url=http://www.ras.org.uk/index.php?option=com_content&task=view&id=1190&Itemid=2
+ |publisher=Royal Astronomical Society
+ |accessdate=2007-04-20
+}} 
+ galactic disc. 
+{{cite journal
+ |last=Noguchi |first=M.
+ |year=1999
+ |title=Early Evolution of Disk Galaxies: Formation of Bulges in Clumpy Young Galactic Disks
+ |journal=Astrophysical Journal
+ |volume=514 |issue=1 |pages=77–95
+ |bibcode=1999ApJ...514...77N
+ |doi=10.1086/306932 arxiv = dwarf galaxies throughout its life. 
+{{cite web
+ |last1=Baugh |first1=C.
+ |last2=Frenk |first2=C.
+ |date=May 1999
+ |url=http://physicsweb.org/articles/world/12/5/9
+ |title=How are galaxies made?
+ |publisher=PhysicsWeb
+ |accessdate=2007-01-16 formation of planets. 
+{{cite conference
+ |last1=Gonzalez |first1=G.
+ |year=1998
+ |title=The Stellar Metallicity&nbsp;— Planet Connection
+ |booktitle=Proceedings of a workshop on brown dwarfs and extrasolar planets
+ |pages=431
+ |bibcode=1998bdep.conf..431G
+}}  Hubble eXtreme Deep Field (XDF) }}
+
+The evolution of galaxies can be significantly affected by interactions and collisions. Mergers of galaxies were common during the early epoch, and the majority of galaxies were peculiar in morphology. 
+{{cite journal
+ |last1=Conselice |first1=C. J.
+ |month=February |year=2007
+ |title=The Universes Invisible Hand
+ |journal=Scientific American
+ |volume=296 |issue=2 |pages=35–41
+ |doi=10.1038/scientificamerican0207-34
+}}  Given the distances between the stars, the great majority of stellar systems in colliding galaxies will be unaffected. However, gravitational stripping of the interstellar gas and dust that makes up the spiral arms produces a long train of stars known as tidal tails. Examples of these formations can be seen in NGC 4676 
+{{cite news
+ |last1=Ford |first1=H.
+ |coauthors=et al.
+ |date=2002-04-30
+ |title=Hubbles New Camera Delivers Breathtaking Views of the Universe
+ |url=http://hubblesite.org/newscenter/archive/releases/2002/11/image/d
+ |publisher=Hubble News Desk
+ |accessdate=2007-05-08
+}}  or the Antennae Galaxies. 
+{{cite journal
+ |last1=Struck |first1=C.
+ |year=1999
+ |title=Galaxy Collisions
+ |doi=10.1016/S0370-1573(99)00030-7
+ |journal=Physics Reports
+ |volume=321
+ |pages=1
+ |arxiv=astro-ph/9908269
+}} 
+
+As an example of such an interaction, the Milky Way galaxy and the nearby Andromeda Galaxy are moving toward each other at about 130&nbsp;metre per second|km/s, and—depending upon the lateral movements—the two may collide in about five to six billion years. Although the Milky Way has never collided with a galaxy as large as Andromeda before, evidence of past collisions of the Milky Way with smaller dwarf galaxies is increasing. 
+{{cite news
+ |last1=Wong |first1=J.
+ |date=2000-04-14
+ |title=Astrophysicist maps out our own galaxys end
+ |url=http://www.news.utoronto.ca/bin/000414b.asp
+ |publisher=University of Toronto
+ |accessdate=2007-01-11
+ |archiveurl=http://web.archive.org/web/20070108183824/http://www.news.utoronto.ca/bin/000414b.asp
+ |archivedate=January 8, 2007
+}} 
+ bright galaxies have remained fundamentally unchanged for the last few billion years, and the net rate of star formation probably also peaked approximately ten billion years ago. 
+{{cite journal
+ |last1=Panter |first1=B.
+ |last2=Jimenez |first2=R.
+ |last3=Heavens |first3=A. F.
+ |last4=Charlot |first4=S.
+ |year=2007
+ |title=The star formation histories of galaxies in the Sloan Digital Sky Survey
+ |journal=Monthly Notices of the Royal Astronomical Society
+ |volume=378 |issue=4 |pages=1550–1564
+ |arxiv=astro-ph/0608531
+ |doi=10.1111/j.1365-2966.2007.11909.x |bibcode=2007MNRAS.378.1550P
+}} 
+
+===Future trends===
+At present, most star formation occurs in smaller galaxies where cool gas is not so depleted.  Spiral galaxies, like the Milky Way, only produce new generations of stars as long as they have dense molecular clouds of interstellar hydrogen in their spiral arms. 
+{{cite journal
+ |last1=Kennicutt Jr. |first1=R. C.
+ |last2=Tamblyn |first2=P.
+ |last3=Congdon |first3=C. E.
+ |year=1994
+ |title=Past and future star formation in disk galaxies
+ |journal=Astrophysical Journal
+ |volume=435 |issue=1 |pages=22–36
+ |bibcode=1994ApJ...435...22K
+ |doi=10.1086/174790
+}}  Elliptical galaxies are already largely devoid of this gas, and so form no new stars. 
+{{cite book
+ |last1=Knapp |first1=G. R.
+ |year=1999
+ |title=Star Formation in Early Type Galaxies
+ |publisher=Astronomical Society of the Pacific
+ |bibcode=1998astro.ph..8266K
+ |oclc=41302839
+ |isbn=1-886733-84-8
+}}  The supply of star-forming material is finite; once stars have converted the available supply of hydrogen into heavier elements, new star formation will come to an end. 
+{{cite web
+ |last1=Adams |first1=Fred
+ |last2=Laughlin |first2=Greg
+ |date=2006-07-13
+ |title=The Great Cosmic Battle
+ |url=http://www.astrosociety.org/pubs/mercury/0001/cosmic.html
+ |publisher=Astronomical Society of the Pacific
+ |accessdate=2007-01-16
+}} 
+ gravitational relaxation, all stars will either fall into central supermassive black holes or be flung into intergalactic space as a result of collisions.  
+{{cite web
+ |last1=Pobojewski |first1=S.
+ |date=1997-01-21
+ |title=Physics offers glimpse into the dark side of the Universe
+ |url=http://www.umich.edu/~urecord/9697/Jan21_97/artcl17.htm
+ |publisher=University of Michigan
+ |accessdate=2007-01-13
+}} 
+
+==Larger-scale structures==
+ 
+Deep sky surveys show that galaxies are often found in relatively close association with other galaxies. Solitary galaxies that have not significantly interacted with another galaxy of comparable mass during the past billion years are relatively scarce. Only about 5% of the galaxies surveyed have been found to be truly isolated; however, these isolated formations may have interacted and even merged with other galaxies in the past, and may still be orbited by smaller, satellite galaxies. Isolated galaxies The term "field galaxy" is sometimes used to mean an isolated galaxy, although the same term is also used to describe galaxies that do not belong to a cluster but may be a member of a group of galaxies.  can produce stars at a higher rate than normal, as their gas is not being stripped by other nearby galaxies. 
+{{cite web
+ |last1=McKee |first1=M.
+ |date=2005-06-07
+ |title=Galactic loners produce more stars
+ |url=http://www.newscientist.c

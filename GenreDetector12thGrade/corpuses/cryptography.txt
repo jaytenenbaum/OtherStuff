@@ -1,0 +1,86 @@
+ 
+ 
+ 
+  Lorenz cipher machine, used in World War&nbsp;II to encrypt very-high-level general staff messages]]
+ Greek  protocols that ATM cards, computer passwords, and electronic commerce.
+
+Cryptography prior to the modern age was effectively synonymous with encryption, the conversion of information from a readable state to apparent nonsense. The originator of an encrypted message shared the decoding technique needed to recover the original information only with intended recipients, thereby precluding unwanted persons to do the same. Since World War&nbsp;I and the advent of the computer, the methods used to carry out cryptology have become increasingly complex and its application more widespread.
+
+Modern cryptography is heavily based on mathematical theory and computer science practice; cryptographic algorithms are designed around computational hardness assumptions, making such algorithms hard to break in practice by any adversary. It is theoretically possible to break such a system but it is infeasible to do so by any known practical means. These schemes are therefore termed computationally secure; theoretical advances, e.g., improvements in integer factorization algorithms, and faster computing technology require these solutions to be continually adapted. There exist Information theoretic security|information-theoretically secure schemes that   cannot be broken even with unlimited computing power—an example is the one-time pad—but these schemes are more difficult to implement than the best theoretically breakable but computationally secure mechanisms.
+ EFF is fifth amendment. 
+
+==Terminology==
+Until modern times cryptography referred almost exclusively to encryption, which is the process of converting ordinary information (called plaintext) into unintelligible text (called ciphertext).  Decryption is the reverse, in other words, moving from the unintelligible ciphertext back to plaintext. A cipher (or cypher) is a pair of algorithms that create the encryption and the reversing decryption. The detailed operation of a cipher is controlled both by the algorithm and in each instance by a "key (cryptography)|key". This is a secret (ideally known only to the communicants), usually a short string of characters, which is needed to decrypt the ciphertext.   A "cryptosystem" is the ordered list of elements of finite possible plaintexts, finite possible cyphertexts, finite possible keys, and the encryption and decryption algorithms which correspond to each key.  Keys are important, as ciphers without variable keys can be trivially broken with only the knowledge of the cipher used and are therefore useless (or even counter-productive) for most purposes. Historically, ciphers were often used directly for encryption or decryption without additional procedures such as authentication or integrity checks.
+
+In colloquial use, the term "code (cryptography)|code" is often used to mean any method of encryption or concealment of meaning. However, in cryptography, code has a more specific meaning. It means the replacement of a unit of plaintext (i.e., a meaningful word or phrase) with a code word (for example,  wallaby  replaces  attack at dawn ). Codes are no longer used in serious cryptography—except incidentally for such things as unit designations (e.g., Bronco Flight or Operation Overlord)—since properly chosen ciphers are both more practical and more secure than even the best codes and also are better adapted to computers.
+
+Cryptanalysis is the term used for the study of methods for obtaining the meaning of encrypted information without access to the key normally required to do so; i.e., it is the study of how to crack encryption algorithms or their implementations.
+
+Some use the terms cryptography and cryptology interchangeably in English, while others (including US military practice generally) use cryptography to refer specifically to the use and practice of cryptographic techniques and cryptology to refer to the combined study of cryptography and cryptanalysis. Oded Goldreich, Foundations of Cryptography, Volume 1: Basic Tools, Cambridge University Press, 2001, ISBN 0-521-79172-3     English is more flexible than several other languages in which cryptology (done by cryptologists) is always used in the second sense above. In the English Wikipedia the general term used for the entire field is cryptography (done by cryptographers).
+
+The study of characteristics of languages which have some application in cryptography (or cryptology), i.e. frequency data, letter combinations, universal patterns, etc., is called cryptolinguistics.
+
+==History of cryptography and cryptanalysis==
+  messages from interactive proofs secure computation, among others.
+
+===Classic cryptography===
+  scytale (rhymes with "Italy"), an early cipher device]]
+The earliest forms of secret writing required little more than local pen and paper analogs, as most people could not read. More literacy, or literate opponents, required actual cryptography. The main classical cipher types are transposition ciphers, which rearrange the order of letters in a message (e.g., hello world becomes ehlol owrdl in a trivially simple rearrangement scheme), and substitution ciphers, which systematically replace letters or groups of letters with other letters or groups of letters (e.g., fly at once becomes gmz bu podf by replacing each letter with the one following it in the Latin alphabet). Simple versions of either have never offered much confidentiality from enterprising opponents. An early substitution cipher was the Caesar cipher, in which each letter in the plaintext was replaced by a letter some fixed number of positions further down the alphabet. Suetonius reports that Julius Caesar used it with a shift of three to communicate with his generals. Atbash is an example of an early Hebrew cipher. The earliest known use of cryptography is some carved ciphertext on stone in Egypt (ca 1900 BCE), but this may have been done for the amusement of literate observers rather than as a way of concealing information. Cryptography is recommended in the Kama Sutra (ca 400 BCE) as a way for lovers to communicate without inconvenient discovery. Kama Sutra, Sir Richard F. Burton, translator, Part I, Chapter III, 44th and 45th arts. 
+ Greeks of David Kahn, Polybius Square").  More modern examples of steganography include the use of invisible ink, microdots, and digital watermarks to conceal information.
+
+Ciphertexts produced by a   16 (2): 97–126 
+
+  cipher machine, with arms of Henri II of France]]
+ , French Ambassador to the Ottoman Empire, after 1546, with partial decipherment]]
+ cipher device, a wheel which implemented a partial realization of his invention. In the polyalphabetic Vigenère cipher, encryption uses a key word, which controls letter substitution depending on which letter of the key word is used. In the mid-19th century Charles Babbage showed that the Vigenère cipher was vulnerable to Kasiski examination, but this was first published about ten years later by Friedrich Kasiski. 
+
+Although frequency analysis is a powerful and general technique against many ciphers, encryption has still often been effective in practice, as many a would-be cryptanalyst was unaware of the technique. Breaking a message without using frequency analysis essentially required knowledge of the cipher used and perhaps of the key involved, thus making espionage, bribery, burglary, defection, etc., more attractive approaches to the cryptanalytically uninformed. It was finally explicitly recognized in the 19th century that secrecy of a ciphers algorithm is not a sensible nor practical safeguard of message security; in fact, it was further realized that any adequate cryptographic scheme (including ciphers) should remain secure even if the adversary fully understands the cipher algorithm itself. Security of the key used should alone be sufficient for a good cipher to maintain confidentiality under an attack. This fundamental principle was first explicitly stated in 1883 by Auguste Kerckhoffs and is generally called Kerckhoffss Principle; alternatively and more bluntly, it was restated by Claude Shannon, the inventor of information theory and the fundamentals of theoretical cryptography, as Shannons Maxim—the enemy knows the system.
+ cipher grille, which was also used for a kind of steganography. With the invention of polyalphabetic ciphers came more sophisticated aids such as Albertis own cipher disk, Johannes Trithemius tabula recta scheme, and Thomas Jeffersons Jefferson disk|multi-cylinder (not publicly known, and reinvented independently by Bazeries around 1900). Many mechanical encryption/decryption devices were invented early in the 20th century, and several patented, among them rotor machines—famously including the Enigma machine used by the German government and military from the late 1920s and during World War II. {{cite book    | last = Hakim
+ | first = Joy
+ | title = A History of Us: War, Peace and all that Jazz
+ | publisher = Oxford University Press
+ | year = 1995
+ | location = New York
+ | isbn = 0-19-509514-6 }}  The ciphers implemented by better quality examples of these machine designs brought about a substantial increase in cryptanalytic difficulty after WWI. 
+
+===Computer era=== programmable computer, which assisted in the decryption of ciphers generated by the German Armys Lorenz SZ40/42 machine.
+ binary bit sequences (sometimes in groups or blocks), unlike classical and mechanical schemes, which generally manipulate traditional characters (i.e., letters and digits) directly. However, computers have also assisted cryptanalysis, which has compensated to some extent for increased cipher complexity. Nonetheless, good modern ciphers have stayed ahead of cryptanalysis; it is typically the case that use of a quality cipher is very efficient (i.e., fast and requiring few resources, such as memory or CPU capability), while breaking it requires an effort many orders of magnitude larger, and vastly larger than that required for any classical cipher, making cryptanalysis so inefficient and impractical as to be effectively impossible.
+
+  with smart card|smart-card capabilities. The 3-by-5-mm chip embedded in the card is shown, enlarged. Smart cards combine low cost and portability with the power to compute cryptographic algorithms.]]
+
+Extensive open academic research into cryptography is relatively recent; it began only in the mid-1970s. In recent times, IBM personnel designed the algorithm that became the Federal (i.e., US)   algorithm was published in Martin Gardners Scientific American column. Since then, cryptography has become a widely used tool in communications, computer networks, and computer security generally. Some modern cryptographic techniques can only keep their keys secret if certain mathematical problems are intractable, such as the integer factorization or the discrete logarithm problems, so there are deep connections with abstract mathematics. There are no absolute proofs that a cryptographic technique is secure (but see one-time pad); at best, there are proofs that some techniques are secure if some computational problem is difficult to solve, or this or that assumption about implementation or practical use is met.
+
+As well as being aware of cryptographic history, cryptographic algorithm and system designers must also sensibly consider probable future developments while working on their designs. For instance, continuous improvements in computer processing power have increased the scope of brute-force attacks, thus when specifying key lengths, the required key lengths are similarly advancing.    The potential effects of quantum computing are already being considered by some cryptographic system designers; the announced imminence of small implementations of these machines may be making the need for this preemptive caution rather more than merely speculative. AJ Menezes, PC van Oorschot, and SA Vanstone,   ISBN 0-8493-8523-7. 
+ linguistic and lexicographic patterns. computational complexity, statistics, combinatorics, abstract algebra, number theory, and finite mathematics generally. Cryptography is, also, a branch of engineering, but an unusual one as it deals with active, intelligent, and malevolent opposition (see cryptographic engineering and security engineering); other kinds of engineering (e.g., civil or chemical engineering) need deal only with neutral natural forces. There is also active research examining the relationship between cryptographic problems and quantum physics (see quantum cryptography and quantum computer).
+
+==Modern cryptography==
+The modern field of cryptography can be divided into several areas of study. The chief ones are discussed here; see Topics in Cryptography for more.
+
+===Symmetric-key cryptography===
+ 
+Symmetric-key cryptography refers to encryption methods in which both the sender and receiver share the same key (or, less commonly, in which their keys are different, but related in an easily computable way). This was the only kind of encryption publicly known until June 1976.  IDEA cipher, PGP for high-speed encryption of, for instance, electronic mail|e-mail]]
+Symmetric key ciphers are implemented as either block ciphers or stream ciphers. A block cipher enciphers input in blocks of plaintext as opposed to individual characters, the input form used by a stream cipher.
+
+The   variant) remains quite popular; it is used across a wide range of applications, from ATM encryption  , July 2004  to  .  Bruce Schneier, Applied Cryptography, 2nd edition, Wiley, 1996, ISBN 0-471-11709-9. 
+
+Stream ciphers, in contrast to the block type, create an arbitrarily long stream of key material, which is combined with the plaintext bit-by-bit or character-by-character, somewhat like the  .  Block ciphers can be used as stream ciphers; see Block cipher modes of operation.
+ hash function design competition was meant to select a new U.S. national standard, to be called SHA-3, by 2012. The competition ended on October 2, 2012 when the NIST announced that Keccak would be the new SHA-3 hash algorithm. 
+
+Message authentication codes (MACs) are much like cryptographic hash functions, except that a secret key can be used to authenticate the hash value  upon receipt.
+
+===Public-key cryptography===
+  square of the number of network members, which very quickly requires complex key management schemes to keep them all straight and secret. The difficulty of securely establishing a secret key between two communicating parties, when a secure channel does not already exist between them, also presents a chicken-and-egg problem which is a considerable practical obstacle for cryptography users in the real world.
+
+  and Martin Hellman, authors of the first published paper on public-key cryptography]] David Kahn described public-key cryptography as "the most revolutionary new concept in the field since polyalphabetic substitution emerged in the Renaissance". 
+ shared encryption key. 
+ RSA algorithm. 
+
+The Diffie–Hellman and RSA algorithms, in addition to being the first publicly known examples of high quality public-key algorithms, have been among the most widely used. Others include the  .
+
+To much surprise, a document published in 1997 by the Government Communications Headquarters (GCHQ), a British intelligence organization, revealed that cryptographers at GCHQ had anticipated several academic developments.    Reportedly, around 1970, James H. Ellis had conceived the principles of asymmetric key cryptography. In 1973, Clifford Cocks invented a solution that essentially resembles the RSA algorithm.  
+ . 
+And in 1974, Malcolm J. Williamson is claimed to have developed the Diffie-Hellman key exchange.   
+
+  Web browser, meant to indicate a page has been sent in SSL or TLS-encrypted protected form. However, seeing an icon results when code is intended to render it.  Malicious code can provide the icon even when the connection is not actually being protected by SSL or TLS.  ]]
+Public-key cryptography can also be used for implementing   are two of the most popular digital signature schemes. Digital signatures are central to the operation of public key infrastructures and many network security schemes (e.g., Transport Layer Security|SSL/TLS, many VPNs, etc.). 
+ computational complexity modular multiplication and exponentiation, which are much m

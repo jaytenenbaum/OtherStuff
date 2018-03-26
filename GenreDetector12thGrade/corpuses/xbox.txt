@@ -1,0 +1,285 @@
+
+ 
+  ""      ?
+      2 .     .
+[Hide]
+Xbox
+From Wikipedia, the free encyclopedia
+
+This article is about the "Xbox" brand. For the 2001 console, see Xbox (console). For other uses, see Xbox (disambiguation).
+Xbox
+
+Product type	Video gaming
+Owner	Microsoft Coporation
+Country	Microsoft Redmond Campus, Redmond, Washington, United States
+Introduced	2001
+Markets	Worldwide
+Registered as a trademark in	Worldwide
+The Xbox is a video gaming brand created by Microsoft. It includes a series of video game consoles developed by Microsoft, with consoles in the sixth to eighth generations, as well as applications, streaming services and an online service, Xbox Live. The brand was first introduced on November 15, 2001 in America with the launch of the original Xbox console.
+The first console in the series, the Xbox, was the first console offered by an American company after the Atari Jaguar stopped sales in 1996. It reached over 24 million units sold as of May 10, 2006.[1] Microsoft's most recently released console, the Xbox 360, was released in 2005 and has sold over 77.2 millon consoles worldwide as of April 18, 2013.[2] The successor to the Xbox 360, the Xbox One,[3] was revealed on May 21, 2013.[4] It is rumored to be released by 2013.[5]
+Contents  [hide] 
+1 Consoles
+1.1 Xbox
+1.2 Xbox 360
+1.3 Xbox One
+1.4 Comparison
+2 Games
+3 Online services
+3.1 Xbox Live
+3.2 Xbox Live Marketplace
+3.3 Xbox SmartGlass
+4 Software
+4.1 Xbox 360 Dashboard
+5 Controllers
+5.1 Early Xbox controller
+5.2 Xbox 360 Controller
+5.3 Xbox 360 Kinect
+5.4 Xbox One Controller
+6 References
+7 External links
+Consoles
+
+Xbox
+Main article: Xbox (console)
+
+
+Xbox console with "Controller S"
+The Xbox is a video game console manufactured by Microsoft. It was released on November 15, 2001 in North America, February 22, 2002 in Japan, and March 14, 2002 in Australia and Europe. It was Microsoft's first foray into the gaming console market. As part of the sixth-generation of gaming, the Xbox competed with Sony's PlayStation 2, Sega's Dreamcast (which stopped American sales before the Xbox went on sale), and Nintendo's GameCube. The Xbox was the first console offered by an American company after the Atari Jaguar stopped sales in 1996.
+The integrated Xbox Live service launched in November 2002 allowed players to play games online with a broadband connection.[6][7] It first competed with Dreamcast's online service but later primarily competed with PlayStation 2's online service. Although these two are free while Xbox Live required a subscription, as well as broadband-only connection which was not completely adopted yet, Xbox Live was a success due to better servers, features such as a buddy list, and milestone titles like Halo 2 released in November 2004, which is the best-selling Xbox video game and was by far the most popular online game for years.
+Xbox 360
+
+
+Left: Xbox 360 Elite, Right: Xbox 360 S and new-style controller
+Main article: Xbox 360
+The Xbox 360 is the second video game console developed by and produced for Microsoft and the successor to the Xbox. The Xbox 360 competes with Sony's PlayStation 3 and Nintendo's Wii as part of the seventh generation of video game consoles. As of September 30, 2012, 70 million Xbox 360 consoles have been sold worldwide.[8] The Xbox 360 was officially unveiled on MTV on May 12, 2005, with detailed launch and game information divulged later that month at the Electronic Entertainment Expo (E3). The console sold out completely upon release in all regions except in Japan.[9][10][11]
+Several major features of the Xbox 360 are its integrated Xbox Live service that allows players to compete online; download arcade games, game demos, trailers, TV shows, music and movies; and its Windows Media Center multimedia capabilities. The Xbox Live also offers access to various (often region-specific) third-party media streaming applications.
+At their E3 presentation on June 14, 2010, Microsoft announced a redesigned Xbox 360 that would ship on the same day.[12] The redesigned console is slimmer than the previous Xbox 360 model and features integrated 802.11 b/g/n Wi-Fi, TOSLINK S/PDIF optical audio output, five USB 2.0 ports (compared to the three from older versions) and a special AUX port.[13] Older models of the Xbox 360 have since been discontinued.[14] The first new console to be released features a 250 GB hard drive, while a later, less expensive SKU features 4 GB internal storage.
+Xbox One
+Main article: Xbox One
+The Xbox One is the upcoming third video game console developed by and produced for Microsoft and the successor to the Xbox 360. The Xbox One will compete with Sony's PlayStation 4 and Nintendo's Wii U as part of the eighth generation of video game consoles.
+The Xbox One has 8GB of RAM, along with a Blu-ray drive, as well as a native 64-bit architecture, a 500GB onboard hard drive, HDMI in and out (including passthrough capabilities for use with your existing home theatre setup), 802.11n Wi-Fi as well as an 8-core CPU and USB 3.0 connectivity. The next-generation Xbox will run three operating systems simultaneously. Complementing Windows 8 and RT on PCs and tablets, there will be a third distinct version of Microsoft's operating system that has been pared down specifically for the new console.[15]
+The console was announced on 21 May 2013.[16]
+Comparison
+Xbox	Xbox 360	Xbox One
+Logo	
+
+
+
+Console			N/A
+Console Launch price	US$299.99
+GB299.99
+214.99	
+US$299.99 (Core) (discontinued)
+US$399.99 (Premium  20 GB) (discontinued)
+US$249.99 (Premium  60 GB) (discontinued)
+US$479.99 (Elite) (120 GB) (discontinued)
+US$299.99 (Arcade  256 MB internal memory) (discontinued)
+US$199.99 (Arcade  512 MB internal memory) (discontinued)
+US$299.99 ("Super Elite") (250 GB) (discontinued)
+US$399.99 (Xbox 360 S  250 GB + Kinect)
+US$299.99 (Xbox 360 S  250 GB)
+US$299.99 (Xbox 360 S  4 GB internal memory + Kinect)
+US$199.99 (Xbox 360 S  4 GB internal memory)
+TBA
+Release date	
+NA November 15, 2001
+JP February 22, 2002
+EU March 14, 2002
+NA 22 November 2005
+EU 2 December 2005
+JP 10 December 2005
+AUS 23 March 2006
+More...	Q4 2013[17]
+Discontinued	
+JP 2005
+NA 2007
+EU 2006
+N/A	N/A
+Units sold	24+ million (as of May 10, 2006)[18]	77.2 million (as of April 18, 2013)[2](details)	N/A
+Best-selling game	Halo 2, 8 million (as of May 9, 2006)[19][20]	Kinect Adventures (pack-in with Kinect peripheral), 24 million[21]
+Best selling non-bundled game: Call of Duty: Modern Warfare 3, 14.23 million[22]
+N/A
+Media	CD, DVD (single and double layer)	CD, DVD (single and double layer)	Blu-ray Disc[23], CD, DVD (single and double layer)
+Accessories (retail)	
+Xbox Live Starter Kit
+Xbox Media Center Extender
+DVD Playback Kit
+Xbox Music Mixer
+Memory Unit (8 MB)
+Logitech Wireless Controller (2.4 GHz)
+More...
+see Xbox 360 accessories
+TBA
+CPU	733 MHz x86 Intel Celeron/Pentium III Custom Hybrid	3.2 GHz IBM PowerPC tri-core codenamed "Xenon"	AMD x86-64 eight-core APU[23]
+GPU	233 MHz Custom nVidia NV2A	500 MHz codenamed "Xenos" (ATi custom design)	AMD DirectX 11.1 based GPU, 32 MB ESRAM Memory
+Memory	64 MB DDR SDRAM at 200 MHz; in dual-channel 128-bit configuration giving 6400 MB/s	512 MB of GDDR3 RAM clocked at 700 MHz	8 GB of DDR3[23]
+Online service	Xbox Live (200210) XLink Kai (2003-present)	Xbox Live
+Xbox Live Arcade
+Xbox Live Marketplace
+Xbox Live Vision (webcam), headset
+Xbox Live Video Marketplace
+Windows Live Messenger
+Internet Explorer (Xbox Live Gold required)
+VideoKinect (Kinect sensor is needed)	Xbox Live
+Xbox Store
+Internet Explorer
+Skype
+Backward compatibility	N/A	Some Xbox Games	N/A
+System software	Xbox Music Mixer
+DVD Playback Kit, Xbox Linux	see Xbox 360 System Software	Xbox OS
+System software
+features	Audio CD playback
+[show]
+TBA
+Consumer programmability	Via Softmods and/or modchips; Modified Windows CE 2.x, Linux	Development on PC with XNA Game Studio ($99/year subscription, binary distribution with XNA 1.0 Refresh)[26]	TBA
+Games
+
+Main articles: List of Xbox games, List of Xbox 360 games, List of Xbox One games, List of Xbox Live Arcade games, List of Xbox Live Arcade Kinect games, List of Xbox Originals, List of Xbox 360 Games on Demand, List of Xbox games on Windows Phone, and List of Xbox 360 System Link games
+Each console has a variety of games. Most games released on the original Xbox are backwards compatible and can be played directly on its successor, Xbox 360.
+Online services
+
+Xbox Live
+Main article: Xbox Live
+Xbox Live is an online service with over 40 million users worldwide (as of January 10, 2012).[27] It comprises an online virtual market, the Xbox Live Marketplace, which allows the purchase and download of games and various forms of multimedia. Online gaming on the Xbox first started in November 15, 2002 worldwide. The service is still active and continues to be played by gamers.
+Xbox Live Marketplace
+Main article: Xbox Live Marketplace
+The Xbox Live Marketplace (XBLM) is a virtual market designed for Microsoft's Xbox 360 console that allows Xbox Live members to download purchased or promotional content. The service offers movie and game trailers, Video Store, game demos, Xbox Live Arcade games, Xbox Live Indie Games (Previously Community Games), Games on Demand (Xbox 360 and Xbox Originals), downloadable content such as map packs, gamer pictures, and Xbox 360 Dashboard themes.
+The August 11, 2009 update added Xbox 360 games for download, the Avatar Marketplace, and renamed Community Games to Indie Games.
+The Spring 2007 update to the Xbox 360 Dashboard relocated the Marketplace to its own "blade" in order to bring more attention to the service and make it more accessible to users. Although this has been obsoleted by the NXE update, the section has been implemented into three separate sections in the Dashboard: the Game Marketplace, Video & Music Marketplace, and Avatar Marketplace.
+Downloaded content requires enough space on either the Xbox 360's hard drive, or an Xbox 360 Memory Unit. Selected downloads are placed in a queue and are downloaded whilst the console is powered on and is connected to Xbox Live. Users can choose to send certain downloads to the front of the queue to be downloaded first. Downloads are temporarily halted during certain times where games make use of Xbox Live's features (e.g. online multiplayer).
+Xbox SmartGlass
+Main article: Xbox SmartGlass
+Xbox SmartGlass is a companion application for Xbox 360 available for Windows 8, Windows Phone, iOS, Android (version 4.0 and above) [28] and Windows Server 2012. It was announced by Microsoft during E3 2012 and released on October 26, 2012, coinciding with the release of Windows 8.[29] It connects with the Xbox 360 and allows more interactive entertainment, allowing mobile devices to potentially serve as second screens and remote controller. Currently Windows 8 and Windows RT Tablets and PCs, Windows Phone (7.5 and 8) iOS devices, and Android smartphones (4.x) are compatible with SmartGlass,[30] providing information such as Halo 4 stats and Forza Horizon GPS.[31] Users of Windows Server 2012 can currently download the application from the Windows Store after installing the Windows Desktop Experience feature in the Server Manager.[32]
+Software
+
+See also: Xbox 360 system software
+Xbox 360 Dashboard
+Main article: Xbox 360 Dashboard
+
+
+Current Xbox 360 Dashboard
+The Xbox 360's original graphical user interface was the Xbox 360 Dashboard; a tabbed interface that featured five "Blades" (formerly four blades), and was designed by AKQA and Audiobrain. It could be launched automatically when the console booted without a disc in it, or when the disc tray was ejected, but the user had the option to select what the console does if a game is in the tray on start up, or if inserted when already on. A simplified version of it was also accessible at any time via the Xbox Guide button on the gamepad. This simplified version showed the user's gamercard, Xbox Live messages and friends list. It also allowed for personal and music settings, in addition to voice or video chats, or returning to the Xbox Dashboard from the game.
+Controllers
+
+Early Xbox controller
+
+
+Original Xbox controller, first showcased in 2000
+
+
+Xbox Controller S, first shipped in 2002
+Main article: Xbox Controller
+Released in 2001, the Xbox control pad was the first controller made for the original Xbox. The Xbox controller features two analog sticks, a pressure sensitive directional pad, two analog triggers, a Back button, a Start button, two accessory slots and six 8-bit analog action buttons (A/Green, B/Red, X/Blue, Y/Yellow, and Black and White buttons).[33] The standard Xbox controller (also nicknamed the "Fatty"[34] or the "Duke"[35]) was originally the controller bundled with Xbox systems for all territories except Japan.
+Xbox 360 Controller
+Main article: Xbox 360 Controller
+
+
+Xbox 360 S Controller
+Released in 2005, the Xbox 360 controller for the Xbox 360 succeeded its predecessor. A standard Xbox 360 controller features eleven digital buttons, two analog triggers, two analog sticks and a digital D-pad. The right face of the controller features four digital actions buttons; a green "A" button, red "B" button, blue "X" button and amber "Y" button. The lower right houses the right analog stick, in lower left is a digital D-pad and on the left face is the left analog stick. Both analog sticks can also be "clicked in" to activate a digital button beneath. In the center of the controller face are digital "Start", "Back" and "Guide" buttons. The "Guide" button is labelled with the Xbox logo, and is used to turn on the console/controller and to access the guide menu. It is also surrounded by the "ring of light", which indicates the controller number, as well as flashing when connecting and to provide notifications. The left and right "shoulders" each feature a digital shoulder button, or "bumper", and an analog trigger.
+Xbox 360 Kinect
+Main article: Kinect
+
+
+The Kinect Sensor
+Kinect is a motion sensing input device by Microsoft for the Xbox 360 video game console and Windows PCs. Based around a webcam-style add-on peripheral for the Xbox 360 console, it enables users to control and interact with the Xbox 360 without the need to touch a game controller, through a natural user interface using gestures and spoken commands.[36] The project is aimed at broadening the Xbox 360's audience beyond its typical gamer base.[37] Kinect competes with the Wii Remote Plus and PlayStation Move with PlayStation Eye motion controllers for the Wii and PlayStation 3 home consoles, respectively. A version for Windows was released on February 1, 2012.[38]
+Kinect was launched in North America on November 4, 2010,[39] in Europe on November 10, 2010,[40] in Australia, New Zealand and Singapore on November 18, 2010,[41][42][43] and in Japan on November 20, 2010.[44] Purchase options for the sensor peripheral include a bundle with the game Kinect Adventures and console bundles with either a 4 GB[45][46][47] or 250 GB[48] Xbox 360 console and Kinect Adventures.[45][46][47][48]
+The Kinect claimed the Guinness World Record of being the "fastest selling consumer electronics device" after selling a total of 8 million units in its first 60 days.[49][50][51] 24 million units of the Kinect sensor had been shipped as of January 2012.[21]
+Microsoft released Kinect software development kit for Windows 7 on June 16, 2011.[52][53][54] This SDK was meant to allow developers to write Kinecting apps in C++/CLI, C#, or Visual Basic .NET.[55][56]
+Xbox One Controller
+The upcoming Xbox One console will have a revised controller. The Start and Back buttons have been removed.[57]
+References
+
+^ "Gamers Catch Their Breath as Xbox 360 and Xbox Live Reinvent Next-Generation Gaming". Microsoft. 2006-05-10. Archived from the original on 2008-06-21. Retrieved 2009-03-30.
+^ a b "77 million Xbox 360s sold". Gamespot. Retrieved April 24, 2013.
+^ "EXCLUSIVE: Xbox One Confirmed as Name of Microsoft's New Console". Retrieved 7th May 2013.
+^ "Microsoft Confirms Next-Gen Xbox Announcement". IGN. 2013-04-24. Retrieved 2013-04-24.
+^ Bass, Dina; King, Ian (30 November 2012). "Microsoft Said to Plan Next Xbox for 2013 Holiday Season". Bloomberg. Retrieved 1 December 2012.
+^ "Microsoft Ends Xbox Live for Original Xbox Games and Owners - Yahoo! Voices". voices.yahoo.com. Retrieved 2013-04-22.
+^ "Xbox Live's Major Nelson  Xbox LIVE being discontinued for Original Xbox consoles and games :". Majornelson.com. 2010-04-15. Retrieved 2013-04-22.
+^ "Earnings Release FY13 Q1". Microsoft. Retrieved October 18, 2012.
+^ "Shortages spoil Xbox 360 launch". BBC News. 2005-11-23. Retrieved 2009-12-31.
+^ "Xbox 360 Launch Takes Europe by Storm".[dead link]
+^ "Retailers Sell Out of Initial Xbox 360 Shipments". Retrieved October 14, 2008.
+^ "New Xbox 360 Shipping Today, Costs $299". Kotaku.com. 2010-06-14. Retrieved 2010-11-11.
+^ Dean Takahashi, VentureBeat. "Microsoft to Launch Smaller XBOX 360 Game Console." June 14, 2010.
+^ Thorsen, Tor (June 14, 2010). "New $200 Xbox 360 planned, Elite & Arcade getting $50 price cut". GameSpot. CBS Interactive. Retrieved 2010-06-17. "Moore said that Microsoft is currently working on a second new Xbox 360, which will be offered at the arcade's price point of $200. He declined to say what functionalities the cheaper model would or would not have. [...] One likely scenario is the cheaper model will essentially be a slim arcade with no Wi-Fi capabilities or a hard drive. [...] Moore also said that going forward, all future models of the Xbox 360 would not have names and would only be designated by their memory capacity."
+^ http://www.engadget.com, http://www.engadget.com. "Xbox One event roundup: Microsoft reveals its next-gen gaming console".
+^ "Microsoft unveils Xbox One next-generation console". BBC. May 21, 2013. Retrieved May 21, 2013.
+^ Xbox One to be released 'around the world later this year' | Polygon
+^ "Gamers Catch Their Breath as Xbox 360 and Xbox Live Reinvent Next-Generation Gaming". Microsoft. 2006-05-10. Archived from the original on 2008-06-21. Retrieved 2009-03-30.
+^ Asher Moses (August 30, 2007). "Prepare for all-out war". The Sydney Morning Herald. Retrieved November 24, 2007.
+^ Morris, Chris (May 9, 2006). "Grand Theft Auto, Halo 3 headed to Xbox 360". CNN. Retrieved November 24, 2007.
+^ a b Epstein, Zach (12 February 2013). "MICROSOFT SAYS XBOX 360 SALES HAVE SURPASSED 76 MILLION UNITS, KINECT SALES TOP 24 MILLION". BGR.com. Retrieved 15 February 2013.
+^ "Xbox 360 Best Selling Games Statistics". Retrieved 6 February 2013.
+^ a b c Microsoft Xbox One - Consoles - CNET Reviews
+^ "Xbox 360 DivX/XviD Playback Tested (Verdict: It's Almost Perfect)". 4 December 2007. Retrieved 2008-06-24.
+^ "Xbox 360 Media Download Center". Xbox (Microsoft). Archived from the original on 29 October 2007. Retrieved 2007-10-30.
+^ "XNA Game Studio Express". MSDN (Microsoft). Retrieved 2007-10-30.
+^ "CES: Microsoft Reveals Xbox 360 Sales To Date - IGN". IGN. January 10, 2012. Retrieved February 9, 2012.
+^ "SmartGlass installation | Companion Application". Xbox.com. Retrieved 2012-11-08.
+^ "Xbox SmartGlass | Companion Application". Xbox.com. Retrieved 2012-10-18.
+^ "Xbox SmartGlass | Companion Application Xbox.com". Microsoft. Retrieved 18 March 2013.
+^ "Xbox SmartGlass". Xbox.com. 2012-10-22. Retrieved 2012-10-24.
+^ http://mashable.com/2012/10/23/xbox-smartglass-preview/ Xbox SmartGlass Changes the Second-Screen Playing Field
+^ "Inside Xbox 360 Controller".
+^ "Xbox 360 Wireless Controller Tour". IGN. 2005-05-13. Retrieved 2011-07-02. "the original "Fatty" Xbox controller didn't have a specific public name"
+^ "Xbox's original beast of a controller making a comeback?". CNET. 2005-06-15. Retrieved 2011-10-16. "Anyone who purchased the original Xbox during its launch window quickly came to know its behemoth of a controller, now nicknamed "Duke.""
+^ ""Project Natal" 101". Microsoft. June 1, 2009. Archived from the original on June 1, 2009. Retrieved June 2, 2009.
+^ Pham, Alex (June 1, 2009). "E3: Microsoft shows off gesture control technology for Xbox 360". Los Angeles Times. Retrieved June 1, 2009. "The effort aims to attract a broader audience to Microsoft's console. Most of the 30 million Xbox 360s sold since November 2005 have been snapped up by avid young males drawn to complex shooter or adventure games such as Halo and Modern Warfare or R.P.Gs"
+^ "Starting February 1, 2012: Use the Power of Kinect for Windows to Change the World - Kinect for Windows Blog - Site Home - MSDN Blogs". Blogs.msdn.com. 2012-01-09. Retrieved 2012-03-12.
+^ "Microsoft Xbox 360 Kinect Launches November 4". Gizmodo.
+^ "Kinect gets UK release date". BBC. Retrieved August 17, 2010. "It will hit the shelves on 10 November, five days after the US."
+^ "Xbox 360s Kinect given release date for Australia". September 1, 2010. Retrieved September 3, 2010.
+^ Lian, Jotham. "Kinect launches Nov 18 with StarHub tie-up". ChannelNewsAsia.com.
+^ "New Zealand Kinect Launch Date confirmed!". September 17, 2010. Retrieved September 17, 2010.
+^ "Xbox Kinect Japanese launch date". September 14, 2010. Retrieved September 17, 2010.
+^ a b "New Xbox 360, Kinect Sensor and "Kinect Adventures"  Get All Your Controller-Free Entertainment in One Complete Package". Redmond, Washington: Microsoft. July 20, 2010. Retrieved July 20, 2010.
+^ a b "Say Hello to the New Xbox 360". Microsoft. Retrieved March 18, 2011.
+^ a b Boyd, Graeme (July 20, 2010). "Kinect bundled with slim 4GB Xbox 360 Arcade for $300, new console for $200 in August". Twitter. Archived from the original on July 20, 2010. Retrieved July 20, 2010. "Euro prices are 149.99 Euro for the camera + Kinect Adventures, 299.99 Euro for the 4GB console bundle." More than one of |author= and |last= specified (help)
+^ a b Purchese, Robert (September 8, 2010). "300 Kinect 250GB bundle confirmed". Eurogamer. Retrieved September 8, 2010.
+^ Alexander, Leigh (March 9, 2011). "Microsoft: Kinect Hits 10 Million Units, 10 Million Games". Gamasutra. Retrieved March 10, 2011.
+^ Ingham, Tim (March 9, 2011). "Kinect cruises past 10m sales barrier". CVG. Retrieved March 10, 2011.
+^ "Kinect Confirmed As Fastest-Selling Consumer Electronics Device". Guinnessworldrecords.com. Retrieved March 10, 2011.
+^ Orland, Kyle (February 21, 2011). "News - Microsoft Announces Windows Kinect SDK For Spring Release". Gamasutra. Retrieved March 16, 2011.
+^ "Microsoft: "Kinect SDK Coming In March."". Gadgetsteria.com. February 21, 2011. Retrieved March 16, 2011.
+^ Knies, Rob (February 21, 2011). "Academics, Enthusiasts to Get Kinect SDK". Retrieved March 18, 2011.
+^ "Kinect for Windows SDK beta launches, wants PC users to get a move on". Engadget. 2011-06-16. Retrieved 2011-10-19.
+^ "Microsoft releases Kinect for Windows SDK - latimes.com". Latimesblogs.latimes.com. 2011-06-16. Retrieved 2011-10-19.
+^ http://reviews.cnet.com/game-accessories/microsoft-xbox-one-controller/4505-10110_7-35766150.html
+External links
+
+Official Website - North America
+[show] v t e
+Microsoft
+[show] v t e
+Video game products by Microsoft
+Xbox portal Microsoft portal Video games portal
+Categories: XboxMicrosoft gaming consolesMicrosoft
+Navigation menu
+Create accountLog inArticleTalkReadView sourceView history
+
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact Wikipedia
+Toolbox
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Cite this page
+Print/export
+This page was last modified on 25 May 2013 at 09:41.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaMobile view 

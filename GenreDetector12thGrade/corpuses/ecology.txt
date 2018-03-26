@@ -1,0 +1,291 @@
+ 
+{{infobox
+| title = Ecology
+| data1 =  
+| data2 =   
+| data3 =    complex relations terrestrial (middle) to aquatic ecosystems.
+}}
+ scientific study communities they make up, and the non-living components of their environment. Ecosystem processes, such as primary production, pedogenesis, nutrient cycling, and various niche construction activities, regulate the flux of energy and matter through an environment. These processes are sustained by organisms with specific life history traits, and the variety of organisms is called biodiversity. Biodiversity, which refers to the varieties of species, genes, and ecosystems, enhances certain ecosystem services.
+ science in ecological theory. Ecology is not synonymous with environment, environmentalism, natural history, or environmental science. It is closely related to evolutionary biology, genetics, and ethology. An understanding of how biodiversity affects ecological function is an important focus area in ecological studies. Ecologists seek to explain:
+
+*Life processes, interactions and adaptations
+*The movement of materials and energy through living communities successional development of ecosystems, and abundance and distribution of organisms and biodiversity in the context of the environment (biophysical)|environment.
+ basic and biophysical feedback mechanisms that moderate processes  acting on living (Biotic component|biotic) and nonliving (abiotic) components of the planet. Ecosystems sustain life-supporting functions and produce natural capital like  biomass production (food, fuel, fiber and medicine), the regulation of climate, global biogeochemical cycles, water filtration, soil formation, erosion control, flood protection and many other natural features of scientific, historical, economic, or intrinsic value.
+
+==Integrative levels, scope, and scale of organization==
+ 
+ successional stages leading to old-growth forests.]]
+ successional stages of a forest. An ecosystems area can vary greatly, from tiny to vast. A single tree is of little consequence to the classification of a forest ecosystem, but critically relevant to organisms living in and on it.  Several generations of an aphid population can exist over the lifespan of a single leaf. Each of those aphids, in turn, support diverse bacterial communities.  The nature of connections in ecological communities cannot be explained by knowing the details of each species in isolation, because the emergent pattern is neither revealed nor predicted until the ecosystem is studied as an integrated whole.    Some ecological principles, however, do exhibit collective properties where the sum of the components explain the properties of the whole, such as birth rates of a population being equal to the sum of individual births over a designated time frame. 
+
+===Hierarchical ecology===
+ 
+
+{{quote box
+| quote = System behaviors must first be arrayed into levels of organization. Behaviors corresponding to higher levels occur at slow rates. Conversely, lower organizational levels exhibit rapid rates. For example, individual tree leaves respond rapidly to momentary changes in light intensity, CO 2  concentration, and the like. The growth of the tree responds more slowly and integrates these short-term changes.
+| source = ONeill et al. (1986)  
+| width = 25%
+| align = right}}
+
+The scale of ecological dynamics can operate like a closed system, such as aphids migrating on a single tree, while at the same time remain open with regard to broader scale influences, such as atmosphere or climate. Hence, ecologists classify ecosystems hierarchically by analyzing data collected from finer scale units, such as vegetation associations, climate, and soil types, and integrate this information to identify emergent patterns of uniform organization and processes that operate on local to regional, landscape, and chronological scales.
+ nested hierarchy, nitrogen fixers, can lead to disproportionate, perhaps irreversible, changes in the system properties."  
+
+===Biodiversity===
+ 
+{{quote box
+| quote = Biodiversity is the variety of life and its processes. It includes the variety of living organisms, the genetic differences among them, the communities and ecosystems in which they occur, and the ecological and evolutionary processes that keep them functioning, yet ever changing and adapting.
+| source= Noss & Carpenter (1994)  
+| width = 25%
+| align = left}}
+ species extinctions migration (e.g., riverine fish runs and avian insect control) has been implicated as one mechanism by which those service losses are experienced.  An understanding of biodiversity has practical applications for species and ecosystem-level conservation planners as they make management recommendations to consulting firms, governments, and industry. 
+
+===Habitat===
+ 
+ montane or alpine ecosystem. Habitat shifts provide important evidence of competition in nature where one population changes relative to the habitats that most other individuals of the species occupy. For example, one population of a species of tropical lizards (Tropidurus hispidus) has a flattened body relative to the main populations that live in open savanna. The population that lives in an isolated rock outcrop hides in crevasses where its flattened body offers a selective advantage. Habitat shifts also occur in the developmental life history of amphibians and in insects that transition from aquatic to terrestrial habitats. Biotope and habitat are sometimes used interchangeably, but the former applies to a communitys environment, whereas the latter applies to a species environment.   
+
+Additionally, some species are ecosystem engineers, altering the environment within a localized region. For instance, beavers manage water levels by building dams which improves their habitat in a landscape.
+
+ . Corals adapt to and modify their environment by forming calcium carbonate skeletons. This provides growing conditions for future generations and forms a habitat for many other species. ]]
+
+===Niche===
+ 
+
+  mounds with varied heights of chimneys regulate gas exchange, temperature and other environmental parameters that are needed to sustain the internal physiology of the entire colony.  ]]
+ hyperspace whose dimensions are defined as environmental variables and whose size is a function of the number of values that the environmental values may assume for which an organism has positive fitness."  
+ Biogeographical patterns range distributions traits and characteristic of an organism that may influence its survival. Genes play an important role in the interplay of development and environmental expression of traits.  Resident species evolve traits that are fitted to the selection pressures of their local environment. This tends to afford them a competitive advantage and discourages similarly adapted species from having an overlapping geographic range. The competitive exclusion principle states that two species cannot coexist indefinitely by living off the same limiting resource; one will always outcompete the other. When similarly adapted species overlap geographically, closer inspection reveals subtle ecological differences in their habitat or dietary requirements.  Some models and empirical studies, however, suggest that disturbances can stabilize the coevolution and shared niche occupancy of similar species inhabiting species-rich communities.  The habitat plus the niche is called the ecotope, which is defined as the full range of environmental and biological variables affecting an entire species. 
+
+====Niche construction====
+ 
+ 
+ regulatory feedback between organisms and their environment can affect conditions from local (e.g., a beaver pond) to global scales, over time and even after death, such as decaying logs or silica skeleton deposits from marine organisms.  The process and concept of ecosystem engineering has also been called niche construction. Ecosystem engineers are defined as: "organisms that directly or indirectly modulate the availability of resources to other species, by causing physical state changes in biotic or abiotic materials. In so doing they modify, maintain and create habitats."  
+
+The ecosystem engineering concept has stimulated a new appreciation for the influence that organisms have on the ecosystem and evolutionary process. The term "niche construction" is more often used in reference to the under-appreciated feedback mechanism of natural selection imparting forces on the abiotic niche.   An example of natural selection through ecosystem engineering occurs in the nests of social insects, including ants, bees, wasps, and termites. There is an emergent homeostasis or homeorhesis in the structure of the nest that regulates, maintains and defends the physiology of the entire colony. Termite mounds, for example, maintain a constant internal temperature through the design of air-conditioning chimneys. The structure of the nests themselves are subject to the forces of natural selection. Moreover, a nest can survive over successive generations, so that progeny inherit both genetic material and a legacy niche that was constructed before their time.   
+
+===Biome===
+ 
+
+Biomes are larger units of organization that categorize regions of the Earths ecosystems, mainly according to the structure and composition of vegetation.  There are different methods to define the continental boundaries of biomes dominated by different functional types of vegetative communities that are limited in distribution by climate, precipitation, weather and other environmental variables. Biomes include tropical rainforest, temperate broadleaf and mixed forest, temperate deciduous forest, taiga, tundra, hot desert, and polar desert.  Other researchers have recently categorized other biomes, such as the human and oceanic microbiomes. To a microbe, the human body is a habitat and a landscape.  Microbiomes were discovered largely through advances in molecular genetics, which have revealed a hidden richness of microbial diversity on the planet. The oceanic microbiome plays a significant role in the ecological biogeochemistry of the planets oceans. 
+
+===Biosphere===
+ 
+ 
+The largest scale of ecological organization is the biosphere: the total sum of ecosystems on the planet.   is an example of holism applied in ecological theory.  The Gaia hypothesis states that there is an emergent feedback loop generated by the metabolism of living organisms that maintains the temperature of the Earth and atmospheric conditions within a narrow self-regulating range of tolerance. 
+
+===Population ecology===
+ 
+ 
+
+Population ecology studies the dynamics of species populations and how these populations interact with the environment.  A population consists of individuals of the same species that live, interact and migrate through the same niche and habitat. 
+
+A primary law of population ecology is the  , and emigration.
+
+An example of an introductory population model describes a closed population, such as on an island, where immigration and emigration does not take place. Hypotheses are evaluated with reference to a null hypothesis which states that random processes create the observed data. In these island models, the rate of population change is described by:
+
+: \frac{\operatorname{d}N}{\operatorname{d}T} = B - D = bN - dN = (b - d)N = rN,  
+
+where N is the total number of individuals in the population, B is the number of births, D is the number of deaths, b and d are the per capita rates of birth and death respectively, and r is the per capita rate of population change. The formula states that the rate of change in population size (dN/dT) is equal to births minus deaths (B&nbsp;–&nbsp;D).  
+ logistic equation:
+
+: \frac{dN}{dT} = aN\left(1-\frac{N}{K}\right), 
+ biomass density, a is the maximum per-capita rate of change, and K is the carrying capacity of the population. The formula states that the rate of change in population size (dN/dT) is equal to growth (aN) that is limited by carrying capacity (1&nbsp;–&nbsp;N/K).
+ life history, matrix algebra. The information is used for managing wildlife stocks and setting harvest quotas.   In cases when the use of null hypotheses is not appropriate, ecologists may adopt different kinds of statistical methods, such as the Akaike information criterion,     or use models that can become mathematically complex as "several competing hypotheses are simultaneously confronted with the data." 
+
+====Metapopulations and migration====
+ 
+  conservation research.  Metapopulation models simplify the landscape into patches of varying levels of quality,  and metapopulations are linked by the migratory behaviours of organisms. Animal migration is set apart from other kinds of movement because it involves the seasonal departure and return of individuals from a habitat.  Migration is also a population-level phenomenon, as with the migration routes followed by plants as they occupied northern post-glacial environments. Plant ecologists use pollen records that accumulate and stratify in wetlands to reconstruct the timing of plant migration and dispersal relative to historic and contemporary climates. These migration routes involved an expansion of the range as plant populations expanded from one area to another. There is a larger taxonomy of movement, such as commuting, foraging, territorial behaviour, stasis, and ranging. Dispersal is usually distinguished from migration because it involves the one way permanent movement of individuals from their birth population into another population.  
+ juveniles that field studies to explain metapopulation structure.  
+
+===Community ecology===
+ 
+  are a key aspect of community ecology.]]
+
+{{quote box
+| quote = Community ecology examines how interactions among species and their environment affect the abundance, distribution and diversity of species within communities.
+| source = Johnson & Stinchcomb (2007)  
+| width = 25%
+| align = left}}
+
+Community ecology is the study of the interactions among a collections of species that inhabit the same geographic area. Research in community ecology might measure primary production in a wetland in relation to decomposition and consumption rates. This requires an understanding of the community connections between plants (i.e., primary producers) and the decomposers (e.g., fungi and bacteria),    or the analysis of predator-prey dynamics affecting amphibian biomass.  Food webs and trophic levels are two widely employed conceptual models used to explain the linkages among species. 
+
+===Ecosystem ecology===
+ 
+
+{{quote box
+| quote = These ecosystems, as we may call them, are of the most various kinds and sizes. They form one category of the multitudinous physical systems of the universe, which range from the universe as a whole down to the atom.
+| source = Tansley (1935)  
+| width = 25%
+| align = left}}
+ White Mountains, New Hampshire (USA), an example of ecosystem ecology]]
+
+Ecosystems are habitats within biomes that form an integrated whole and a dynamically responsive system having both physical and biological complexes. The underlying concept can be traced back to 1864 in the published work of George Perkins Marsh ("Man and Nature").   Within an ecosystem, organisms are linked to the physical and biological components of their environment to which they are adapted.  Ecosystems are complex adaptive systems where the interaction of life processes form self-organizing patterns across different scales of time and space.  Ecosystems are broadly categorized as Terrestrial ecosystem|terrestrial, Freshwater ecosystem|freshwater, atmospheric, or Marine ecosystem|marine. Differences stem from the nature of the unique physical environments that shapes the biodiversity within each. A more recent addition to ecosystem ecology are technoecosystems, which are affected by or primarily the result of human activity. 
+
+====Food webs====
+ 
+ 
+
+A food web is the archetypal ecological network. Plants capture solar energy and use it to synthesize simple sugars during photosynthesis. As plants grow, they accumulate nutrients and are eaten by grazing herbivores, and the energy is transferred through a chain of organisms by consumption. The simplified linear feeding pathways that move from a basal trophic species to a top consumer is called the food chain. The larger interlocking pattern of food chains in an ecological community creates a complex food web. Food webs are a type of concept map or a heuristic device that is used to illustrate and study pathways of energy and material flows.   
+
+ ]]
+ microcosm studies are extrapolated to larger systems.  Feeding relations require extensive investigations into the gut contents of organisms, which can be difficult to decipher, or stable isotopes can be used to trace the flow of nutrient diets and energy through a food web.  Despite these limitations, food webs remain a valuable tool in understanding community ecosystems. 
+ primary predators). Theoretical and empirical studies identify Random#In biology|non-random emergent patterns of few strong and many weak linkages that explain how ecological communities remain stable over time.  Food webs are composed of subgroups where members in a community are linked by strong interactions, and the weak interactions occur between these subgroups. This increases food web stability.  Step by step lines or relations are drawn until a web of life is illustrated.    
+
+====Trophic levels====
+ 
+
+ s among creatures that are typical of a northern  
+ abundance or biomass at each level.  When the relative abundance or biomass of each species is sorted into its respective trophic level, they naturally sort into a pyramid of numbers. 
+ secondary consumers (carnivorous predators that feed exclusively on herbivores) and tertiary consumers (predators that feed on a mix of herbivores and predators).  Omnivores do not fit neatly into a functional category because they eat both plant and animal tissues. It has been suggested that omnivores have a greater functional influence as predators, because compared to herbivores they are relatively inefficient at grazing. 
+
+Trophic levels are part of the holistic or complex systems view of ecosystems.   Each trophic level contains unrelated species that are grouped together because they share common ecological functions, giving a macroscopic view of the system.  While the notion of trophic levels provides insight into energy flow and top-down control within food webs, it is troubled by the prevalence of omnivory in real ecosystems. This has led some ecologists to "reiterate that the notion that species clearly aggregate into discrete, homogeneous trophic levels is fiction."   Nonetheless, recent studies have shown that real trophic levels do exist, but "above the herbivore trophic level, food webs are better characterized as a tangled web of omnivores."  
+ 
+
+====Keystone species====
+ 
+ s, an example of a keystone species]]
+A keystone species is a species that is connected to a disproportionately large number of other species in the food-web. Keystone species have lower levels of biomass in the trophic pyramid relative to the importance of their role. The many connections that a keystone species holds means that it maintains the organization and structure of entire communities. The loss of a keystone species results in a range of dramatic cascading effects that alters trophic dynamics, other food web connections, and can cause the extinction of other species.  
+ conservation tool, it has been criticized for being poorly defined from an operational stance. It is difficult to experimentally determine what species may hold a keystone role in each ecosystem. Furthermore, food web theory suggests that keystone species may not be common, so it is unclear how generally the keystone species model can be applied.  
+
+==Ecological complexity==
+ 
+ 
+
+Complexity is understood as a large computational effort needed to piece together numerous interacting parts exceeding the iterative memory capacity of the human mind. Global patterns of biological diversity are complex. This biocomplexity stems from the interplay among ecological processes that operate and influence patterns at different scales that grade into each other, such as transitional areas or ecotones spanning landscapes. Complexity stems from the interplay among levels of biological organization as energy and matter is integrated into larger units that superimpose onto the smaller parts. "What were wholes on one level become parts on a higher one."   Small scale patterns do not necessarily explain large scale phenomena, otherwise captured in the expression (coined by Aristotle) the sum is greater than the parts.   
+ emergent and Hubbard Brook study, which has been in operation since 1960. 
+
+===Holism===
+ 
+ biological organization of life that Systems biology|self-organizes into layers of emergent whole systems that function according to nonreducible properties. This means that higher order patterns of a whole functional system, such as an ecosystem, cannot be predicted or understood by a simple summation of the parts.  "New properties emerge because the components interact, not because the basic nature of the components is changed."  
+
+Ecological studies are necessarily holistic as opposed to   hierarchy whereby the causal relations of larger systems are understood without reference to the smaller parts. Scientific holism differs from mysticism that has appropriated the same term. An example of metaphysical holism is identified in the trend of increased exterior thickness in shells of different species. The reason for a thickness increase can be understood through reference to principles of natural selection via predation without need to reference or understand the biomolecular properties of the exterior shells. 
+
+==Relation to evolution==
+ 
+ life history, inheritance are Linnaean system of taxonomy.  The two disciplines often appear together, such as in the title of the journal Trends in Ecology and Evolution.    There is no sharp boundary separating ecology from evolution and they differ more in their areas of applied focus. Both disciplines discover and explain emergent and unique properties and processes operating across different spatial or temporal scales of organization.   While the boundary between ecology and evolution is not always clear, ecologists study the abiotic and biotic factors that influence evolutionary processes,   and evolution can be rapid, occurring on ecological timescales as short as one generation. 
+
+===Behavioural ecology===
+ 
+
+  (Bradypodion spp.). Chameleons change their skin colour to match their background as a behavioural defence mechanism and also use colour to communicate with other members of their species, such as dominant (left) versus submissive (right) patterns shown in the three species (A-C) above. ]]
+ motile to some extent. Even plants express complex behaviour, including memory and communication.  Behavioural ecology is the study of an organisms behaviour in its environment and its ecological and evolutionary implications. Ethology is the study of observable movement or behaviour in animals. This could include investigations of motile sperm of plants, mobile phytoplankton, zooplankton swimming toward the female egg, the cultivation of fungi by weevils, the mating dance of a salamander, or social gatherings of amoeba.     
+
+Adaptation is the central unifying concept in behavioural ecology.  Behaviours can be recorded as traits and inherited in much the same way that eye and hair colour can. Behaviours can evolve by means of natural selection as adaptive traits conferring functional utilities that increases reproductive fitness.  
+ flight initiation distance occurs where expected postencounter fitness is maximized, which depends on the preys initial fitness, benefits obtainable by not fleeing, energetic escape costs, and expected fitness loss due to predation risk." 
+ ants (Iridomyrmex symbiotic relationship. The ants protect the leafhoppers from predators and in return the leafhoppers feeding on plants exude honeydew from their anus that provides energy and nutrients to tending ants. ]]
+ displays and posturing are encountered in the behavioural ecology of animals. The birds of paradise, for example, sing and display elaborate ornaments during courtship. These displays serve a dual purpose of signalling healthy or well-adapted individuals and desirable genes. The displays are driven by sexual selection as an advertisement of quality of traits among suitors. 
+
+===Social ecology===
+ 
+
+Social ecological behaviours are notable in the social insects, slime moulds, social spiders, human society, and naked mole rats where eusocialism has evolved. Social behaviours include reciprocally beneficial behaviours among kin and nest mates    and evolve from kin and group selection. Kin selection explains altruism through genetic relationships, whereby an altruistic behaviour leading to death is rewarded by the survival of genetic copies distributed among surviving relatives. The social insects, including ants, bees and wasps are most famously studied for this type of relationship because the male drones are clones that share the same genetic make-up as every other male in the colony.  In contrast, group selectionists find examples of altruism among non-genetic relatives and explain this through selection acting on the group, whereby it becomes selectively advantageous for groups if their members express altruistic behaviours to one another. Groups with predominantly altruistic members beat groups with predominantly selfish members.  
+
+===Coevolution===
+  pollinate have coevolved so that both have become dependent on each other for survival.]] host and within a mineral nutrients. 
+
+Indirect mutualisms occur where the organisms live apart. For example, trees living in the equatorial regions of the planet supply oxygen into the atmosphere that sustains species living in distant polar regions of the planet. This relationship is called commensalism because many others receive the benefits of clean air at no cost or harm to trees supplying the oxygen.   If the associate benefits while the host suffers, the relationship is called parasitism. Although parasites impose a cost to their host (e.g., via damage to their reproductive organs or propagules, denying the services of a beneficial partner), their net effect on host fitness is not necessarily negative and, thus, becomes difficult to forecast.   Coevolution is also driven by competition among species or among members of the same species under the banner of reciprocal antagonism, such as grasses competing for growth space. The Red Queen Hypothesis, for example, posits that parasites track down and specialize on the locally common genetic defence systems of its host that drives the evolution of sexual reproduction to diversify the genetic constituency of populations responding to the antagonistic pressure.    
+
+  being parasitized by mites. The harvestman is being consumed, while the mites benefit from traveling on and feeding off of their host.]]
+
+===Biogeography===
+ 
+ the theory of island biogeography, published by the mathematician Robert MacArthur and ecologist Edward O. Wilson in 1967  is considered one of the fundamentals of ecological theory. 
+ migration and vicariance biogeography and it is a sub-discipline of biogeography.  There are also practical applications in the field of biogeography concerning ecological systems and processes. For example, the range and distribution of biodiversity and invasive species responding to climate change is a serious concern and active area of research in the context of global warming.  
+
+====r/K-Selection theory====
+ 
+ population density. For example, when an island is first colonized, density of individuals is low. The initial increase in population size is not limited by competition, leaving an abundance of available resources for rapid population growth. These early phases of population growth experience density-independent forces of natural selection, which is called r-selection. As the population becomes more crowded, it approaches the islands carrying capacity, thus forcing individuals to compete more heavily for fewer available resources. Under crowded conditions, the population experiences density-dependent forces of natural selection, called K-selection. 
+
+In the r/K-selection model, the first variable r is the intrinsic rate of natural increase in population size and the second variable K is the carrying capacity of a population.  Different species evolve different life-history strategies spanning a continuum between these two selective forces. An r-selected species is one that has high birth rates, low levels of parental investment, and high rates of mortality before individuals reach maturity. Evolution favours high rates of fecundity in r-selected species. Many kinds of insects and invasive species exhibit r-selected Phenotypic trait|characteristics. In contrast, a K-selected species has low rates of fecundity, high levels of parental investment in the young, and low rates of mortality as individuals mature. Humans and elephants are examples of species exhibiting K-selected characteristics, including longevity and efficiency in the conversion of more resources into fewer offspring.  
+
+===Molecular ecology===
+ 
+ polymerase chain reaction (PCR). The rise of molecular technologies and influx of research questions into this new ecological field resulted in the publication Molecular Ecology in 1992.    Molecular ecology uses various analytical techniques to study genes in an evolutionary and ecological context. In 1994, John Avise also played a leading role in this area of science with the publication of his book, Molecular Markers, Natural History and Evolution.  Newer technologies opened a wave of genetic analysis into organisms once difficult to study from an ecological or evolutionary standpoint, such as bacteria, fungi and nematodes. Molecular ecology engendered a new research paradigm for investigating ecological questions considered otherwise intractable. Molecular investigations revealed previously obscured details in the tiny intricacies of nature and improved resolution into probing questions about behavioural and biogeographical ecology.  For example, molecular ecology revealed promiscuous sexual behaviour and multiple male partners in tree swallows previously thought to be socially monogamous.  In a biogeographical context, the marriage between genetics, ecology and evolution resulted in a new sub-discipline called phylogeography. 
+
+==Human ecology==
+ 
+{{quote box
+| quote = The history of life on Earth has been a history of interaction between living things and their surroundings. To a large extent, the physical form and the habits of the earths vegetation and its animal life have been molded by the environment. Considering the whole span of earthly time, the opposite effect, in which life actually modifies its surroundings, has been relatively slight. Only within the moment of time represented by the present century has one species man acquired significant power to alter the nature of his world.
+| source = Rachel Carson, "Silent Spring" 
+| width = 25%
+| align = left}}
+
+Ecology is as much a biological science as it is a human science.  Human ecology is an interdisciplinary investigation into the ecology of our species. "Human ecology may be defined: (1) from a bio-ecological standpoint as the study of man as the ecological dominant in plant and animal communities and systems; (2) from a bio-ecological standpoint as simply another animal affecting and being affected by his physical environment; and (3) as a human being, somehow different from animal life in general, interacting with physical and modified environments in a distinctive and creative way. A truly interdisciplinary human ecology will most likely address itself to all three."   The term was formally introduced in 1921, but many sociologists, geographers, psychologists, and other disciplines were interested in human relations to natural systems centuries prior, especially in the late 19th century.  
+ ecosystem goods and services. Ecosystems produce, regulate, maintain, and supply services of critical necessity and beneficial to human health (cognitive and physiological), economies, and they even provide an information or reference function as a living library giving opportunities for science and cognitive development in children engaged in the complexity of the natural world. Ecosystems relate importantly to human ecology as they are the ultimate base foundation of global economics as every commodity and the capacity for exchange ultimately stems from the ecosystems on Earth.    
+
+===Restoration and management===
+ 
+ 
+
+{{quote box
+| quote = Ecosystem management is not just about science nor is it simply an extension of traditional resource management; it offers a fundamental reframing of how humans may work with nature.
+| source = Grumbine (1994)    
+| width = 25%
+| align = right}}
+ ecosystem based methods into the planning, operation, and restoration phases of land-use. Ecological science is used in the methods of sustainable harvesting, disease and fire outbreak management, in fisheries stock management, for integrating land-use with protected areas and communities, and conservation in complex geo-political landscapes.           
+
+==Relation to the environment==
+ 
+
+The environment of ecosystems includes both physical parameters and biotic attributes. It is dynamically interlinked, and contains resources for organisms at any time throughout their life cycle.   Like "ecology," the term "environment" has different conceptual meanings and overlaps with the concept of "nature." Environment "...&nbsp;includes the physical world, the social world of human relations and the built world of human creation."   The physical environment is external to the level of biological organization under investigation, including abiotic factors such as temperature, radiation, light, chemistry, climate and geology. The biotic environment includes genes, cells, organisms, members of the same species (conspecifics) and other species that share a habitat. 
+ material parts. After the effective environmental components are understood through reference to their causes, however, they conceptually link back together as an integrated whole, or holocoenotic system as it was once called. This is known as the dialectical approach to ecology. The dialectical approach examines the parts, but integrates the organism and the environment into a dynamic whole (or umwelt). Change in one ecological or environmental factor can concurrently affect the dynamic state of an entire ecosystem.  
+
+===Disturbance and resilience===
+ 
+
+Ecosystems are regularly confronted with natural environmental variations and disturbances over time and geographic space. A disturbance is any process that removes biomass from a community, such as a fire, flood, drought, or predation.  Disturbances occur over vastly different ranges in terms of magnitudes as well as distances and time periods,  and are both the cause and product of natural fluctuations in death rates, species assemblages, and biomass densities within an ecological community. These disturbances create places of renewal where new directions emerge out of the patchwork of natural experimentation and opportunity.    Ecological resilience is a cornerstone theory in ecosystem management. Biodiversity fuels the resilience of ecosystems acting as a kind of regenerative insurance. 
+
+===Metabolism and the early atmosphere===
+
+{{quote box
+| quote = Metabolism – the rate at which energy and material resources are taken up from the environment, transformed within an organism, and allocated to maintenance, growth and reproduction – is a fundamental physiological trait.
+| source = Ernest et al.  
+| width=25%
+| align=right
+}}
+ reducing and oxidizing gasses that set the stage for primitive ecosystems to evolve and, in turn, the atmosphere also evolved. 
+
+  is the primary site of photosynthesis in most plants.]]
+ fermentation also Great Oxidation) did not begin until approximately 2.4–2.3&nbsp;billion years ago, but photosynthetic processes started 0.3 to 1&nbsp;billion years prior.  
+
+===Radiation: heat, temperature and light===
+ metabolic energy.   
+ H 2 enthalpic bonds.   
+
+===Physical environments===
+
+====Water====
+ 
+{{quote box
+| quote = Wetland conditions such as shallow water, high plant productivity, and anaerobic substrates provide a suitable environment for important physical, biological, and chemical processes. Because of these processes, wetlands play a vital role in global nutrient and element cycles.
+| source = Cronk & Fennessy (2001)  
+| width = 25%
+| align = right}} hypoxic (an anoxic where spectral composition osmoregulating their manganese ions, ferric ions, sulfate, carbon dioxide and some organic compounds; other microorganisms are facultative anaerobes and use oxygen during respiration when the soil becomes drier. The activity of soil microorganisms and the chemistry of the water reduces the Reduction potential|oxidation-reduction potentials of the water. Carbon dioxide, for example, is reduced to methane (CH 4 ) by methanogenic bacteria.  The physiology of fish is also specially adapted to compensate for environmental salt levels through osmoregulation. Their gills form electrochemical gradients that mediate salt excretion in salt water and uptake in fresh water. 
+
+====Gravity==== cardiovascular systems of animals are functionally adapted to overcome pressure and gravitational forces that change according to the features of organisms (e.g., height, size, shape), their behaviour (e.g., diving, running, flying), and the habitat occupied (e.g., water, hot deserts, cold tundra). 
+
+====Pressure==== Water transportation Water pressure seals are specially adapted to deal with changes in sound due to water pressure differences.  Differences between hagfish species provide another example of adaptation to deep-sea pressure through specialized protein adaptations. 
+
+====Wind and turbulence====
+  in grasses is subject to the physical pressures of wind and shaped by the forces of natural selection facilitating wind-pollination (anemophily).  ]]
+
+Turbulent forces in air and water affect the environment and ecosystem distribution, form and dynamics. On a planetary scale, ecosystems are affected by circulation patterns in the global trade winds. Wind power and the turbulent forces it creates can influence heat, nutrient, and biochemical profiles of ecosystems.  For example, wind running over the surface of a lake creates turbulence, mixing the water column and influencing the environmental profile to create thermally layered zones, affecting how fish, algae, and other parts of the aquatic ecology are structured.   Wind speed and turbulence also influence evapotranspiration rates and energy budgets in plants and animals.   Wind speed, temperature and moisture content can vary as winds travel across different land features and elevations. For example, the westerlies come into contact with the coastal and interior mountains of western North America to produce a rain shadow on the leeward side of the mountain. The air expands and moisture condenses as the winds increase in elevation; this is called orographic lift and can cause precipitation.  This environmental process produces spatial divisions in biodiversity, as species adapted to wetter conditions are range-restricted to the coastal mountain valleys and unable to migrate across the xeric ecosystems (e.g., of the Columbia Basin in western North America) to intermix with sister lineages that are segregated to the interior mountain systems.  
+
+====Fire====
+ 
+
+{{multiple image seral stages and habitats of varied quality (left). Some species are adapted to forest fires, such as pine trees that open their cones only after fire exposure (right).
+| align = left
+| image1 = Mosaic fire burn.jpg
+| width1 =  
+| image2 = Lodgepole pine cone after fire.jpg
+| width2 =  
+}}
+ Charles Cooper brought attention to the issue of forest fires in relation to the ecology of forest fire suppression and management in the 1960s.  
+ Native North germinate until resilience of ecosystems. 
+
+====Soils====
+ 
+ Paleoecological studies evolution of colonization of land in the Devonian period played a significant role in the early development of ecological trophism in soils.   
+
+====Biogeochemistry and climate====
+ 
+ 
+ recycled through the environment.    This research has led to an understanding that there is global feedback between ecosystems and the physical parameters of this planet, including minerals, soil, pH, ions, water and atmospheric gases. Six major elements (hydrogen, carbon, nitrogen, oxygen, sulfur, and phosphorus; H, C, N, O, S, and P) form the constitution of all biological ma

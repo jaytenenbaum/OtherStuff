@@ -1,0 +1,138 @@
+ 
+ 
+ 
+
+ s. Clockwise from top left: Salmonella typhimurium (a type of bacteria), Phascolarctos cinereus (koala), Athyrium filix-femina (common lady-fern), Amanita muscaria (fly agaric, a toxic toadstool), Agalychnis callidryas (red-eyed tree frog) and Brachypelma smithi (Mexican Red-kneed Tarantula)]]
+ 
+ living organisms, subdisciplines unified by five so-called axioms of modern biology:   
+ Cells are the basic unit of life
+# Genes are the basic unit of heredity
+# New species and inherited traits are the product of evolution regulates its internal environment to maintain a stable and constant condition
+# Living organisms consume and transform energy
+ processes that produced the diversity of life; and ecology examines how organisms interact in their environment (biophysical)|environment. 
+
+==History==
+ 
+ s Tree of Life (1879)]] Christian Wolff. The first German use, Biologie, was used in a 1771 translation of Linnaeus work. In 1797, Theodor Georg August Roose used the term in a book, Grundzüge der Lehre van der Lebenskraft, in the preface. Karl Friedrich Burdach used the term in 1800 in a more restricted sense of the study of human beings from a morphological, physiological and psychological perspective (Propädeutik zum Studien der gesammten Heilkunst). The term came into its modern usage with the six-volume treatise Biologie, oder Philosophie der lebenden Natur (1802–22) by Gottfried Reinhold Treviranus, who announced:   
+
+:The objects of our research will be the different forms and manifestations of life, the conditions and laws under which these phenomena occur, and the causes through which they have been effected. The science that concerns itself with these objects we will indicate by the name biology   or the doctrine of life  . (1:4)
+
+Although modern biology is a relatively recent development, sciences related to and included within it have been studied since ancient times. Natural philosophy was studied as early as the ancient civilizations of Mesopotamia, Egypt, the Indian subcontinent, and China. However, the origins of modern biology and its approach to the study of nature are most often traced back to ancient Greece.  While the formal study of medicine dates back to Hippocrates (ca. 460 BC – ca. 370 BC), it was Aristotle (384 BC – 322 BC) who contributed most extensively to the development of biology. Especially important are his History of Animals and other works where he showed naturalist leanings, and later more empirical works that focused on biological causation and the diversity of life. Aristotles successor at the Lyceum, Theophrastus, wrote a series of books on botany that survived as the most important contribution of antiquity to the plant sciences, even into the Middle Ages.
+ Rhazes (865–925) who wrote on anatomy and physiology. Medicine was especially well studied by Islamic scholars working in Greek philosopher traditions, while natural history drew heavily on Aristotelian thought, especially in upholding a fixed hierarchy of life.
+
+Biology began to quickly develop and grow with Antony van Leeuwenhoeks improvement of the microscope. It was then that scholars discovered spermatozoa, bacteria, infusoria and the diversity of microscopic life. Investigations by Jan Swammerdam led to new interest in entomology and helped to develop the basic techniques of microscopic dissection and staining. 
+ Schleiden and Schwann began promoting the now universal ideas that (1) the basic unit of organisms is the cell and (2) that individual cells have all the characteristics of life, although they opposed the idea that (3) all cells come from the division of other cells. Thanks to the work of Robert Remak and Rudolf Virchow, however, by the 1860s most biologists accepted all three tenets of what came to be known as cell theory. 
+ taxonomy for scientific names for all his species.  Georges-Louis Leclerc, Comte de Buffon, treated species as artificial categories and living forms as malleable—even suggesting the possibility of common descent. Though he was opposed to evolution, Buffon is a key figure in the history of evolutionary thought; his work influenced the evolutionary theories of both Lamarck and Charles Darwin|Darwin. 
+ Gould (2002), Lamarck (1914) controversy (which continues to this day), Darwins theory quickly spread through the scientific community and soon became a central axiom of the rapidly developing science of biology.
+
+The discovery of the physical representation of heredity came along with evolutionary principles and population genetics. In the 1940s and early 1950s, experiments pointed to DNA as the component of chromosomes that held the trait-carrying units that had become known as genes. A focus on new kinds of model organisms such as viruses and bacteria, along with the discovery of the double helical structure of DNA in 1953, marked the transition to the era of molecular genetics. From the 1950s to present times, biology has been vastly extended in the molecular domain. The genetic code was cracked by Har Gobind Khorana, Robert W. Holley and Marshall Warren Nirenberg after DNA was understood to contain codons. Finally, the Human Genome Project was launched in 1990 with the goal of mapping the general human genome. This project was essentially completed in 2003,  with further analysis still being published. The Human Genome Project was the first step in a globalized effort to incorporate accumulated knowledge of biology into a functional, molecular definition of the human body and the bodies of other organisms.
+
+==Foundations of modern biology==
+Much of modern biology can be encompassed within five unifying principles: cell theory, evolution, genetics, homeostasis, and energy. 
+  for keratin (red) and DNA (green)]]
+
+===Cell theory===
+  cell is secreted products energy flow occurs in cells in processes that are part of the function known as metabolism. Finally, cells contain hereditary information (DNA) which is passed from cell to cell during cell division.
+
+===Evolution===
+  of a population for dark coloration.]]
+ 
+A central organizing concept in biology is that life changes and develops through  .   (Alfred Russel Wallace is recognized as the co-discoverer of this concept as he helped research and experiment with the concept of evolution.)  Evolution is now used to explain the great variations of life found on Earth.
+
+Darwin theorized that species and breeds developed through the processes of natural selection and artificial selection or selective breeding.  Genetic drift was embraced as an additional mechanism of evolutionary development in the modern synthesis of the theory.   
+
+The evolutionary history of the species—which describes the characteristics of the various species from which it descended—together with its genealogical relationship to every other species is known as its phylogeny. Widely varied approaches to biology generate information about phylogeny. These include the comparisons of DNA sequences conducted within molecular biology or genomics, and comparisons of fossils or other records of ancient organisms in paleontology.  Biologists organize and analyze evolutionary relationships through various methods, including phylogenetics, phenetics, and cladistics. (For a summary of major events in the evolution of life as currently understood by biologists, see evolutionary timeline.)
+ 
+
+The theory of evolution postulates that all  ).   
+
+  depicting a cross between two pea plants heterozygous for purple (B) and white (b) blossoms]]
+
+===Genetics===
+  transcribe a translates the translation code from RNA codon to amino acid is the same for most organisms, but slightly different for some. For example, a sequence of DNA that codes for insulin in humans also codes for insulin when inserted into other organisms, such as plants. 
+ mitochondria and chloroplasts. In prokaryotes, the DNA is held within an irregularly shaped body in the cytoplasm called the nucleoid.  The genetic information in a genome is held within genes, and the complete assemblage of this information in an organism is called its genotype. 
+
+===Homeostasis===
+ 
+  secretes Corticotropin-releasing hormone|CRH, which directs the pituitary gland to secrete ACTH. In turn, ACTH directs the adrenal cortex to secrete glucocorticoids, such as cortisol. The GCs then reduce the rate of secretion by the hypothalamus and the pituitary gland once a sufficient amount of GCs has been released. ]] open system unicellular or multicellular, exhibit homeostasis. 
+
+To maintain dynamic equilibrium and effectively carry out certain functions, a system must detect and respond to perturbations. After the detection of a perturbation, a biological system normally responds through negative feedback. This means stabilizing conditions by either reducing or increasing the activity of an organ or system. One example is the release of glucagon when sugar levels are too low.
+
+ .]]
+
+===Energy=== energy from substances that act as its food and transform them to help form new cells and sustain them. In this process, molecules of chemical substances that constitute food play two roles; first, they contain energy that can be transformed for biological chemical reactions; second, they develop new molecular structures made up of biomolecules.
+ luminal energy sources. Katrina Edwards. Microbiology of a Sediment Pond and the Underlying Young, Cold,
+Hydrologically Active Ridge Flank. Woods Hole Oceanographic Institution. 
+
+Some of the captured energy is used to produce biomass to sustain life and provide energy for growth and development. The majority of the rest of this energy is lost as heat and waste molecules. The most important processes for converting the energy trapped in chemical substances into energy useful to sustain life are metabolism  and cellular respiration. Bartsch/Colvard, The Living Environment. (2009) New York State Prentice Hall Regents Review. Retrieved Oct. 16, 2009. 
+
+==Research==
+
+===Structural===
+ 
+  depicting the various organelles and structures.]]
+
+Molecular biology is the study of biology at a molecular level.  This field overlaps with other areas of biology, particularly with genetics and biochemistry. Molecular biology chiefly concerns itself with understanding the interactions between the various systems of a cell, including the interrelationship of DNA, RNA, and protein synthesis and learning how these interactions are regulated.
+ physiological properties microscopic and molecular levels, bacteria as well as the specialized cells in multicellular organisms such as humans. Understanding the structure and function of cells is fundamental to all of the biological sciences. The similarities and differences between cell types are particularly relevant to molecular biology.
+ organs and organ systems.   20th edition. 1918. Henry Gray.
+ 
+
+Genetics is the science of genes, heredity, and the variation of organisms.    Hartl D, Jones E (2005) chemical structure of particular DNA molecules.
+
+Developmental biology studies the process by which organisms grow and develop. Originating in embryology, modern developmental biology studies the genetic control of cell growth, cellular differentiation|differentiation, and "morphogenesis," which is the process that progressively gives rise to biological tissue|tissues, organ (anatomy)|organs, and anatomy.
+Model organisms for developmental biology include the round worm Caenorhabditis elegans,  the fruit fly Drosophila melanogaster,    the zebrafish Danio rerio,  the mouse Mus musculus,,  and the weed Arabidopsis thaliana.   (A model organism is a species that is extensively studied to understand particular biological phenomena, with the expectation that discoveries made in that organism provide insight into the workings of other organisms.) 
+
+===Physiological===
+ 
+
+Physiology studies the mechanical, physical, and biochemical processes of living organisms by attempting to understand how all of the structures function as a whole. The theme of "structure to function" is central to biology. Physiological studies have traditionally been divided into plant physiology and animal physiology, but some principles of physiology are universal, no matter what particular organism is being studied. For example, what is learned about the physiology of yeast cells can also apply to human cells. The field of animal physiology extends the tools and methods of human physiology to non-human species. Plant physiology borrows techniques from both research fields.
+ circulatory systems, medically oriented disciplines such as neurology and immunology.
+
+===Evolutionary=== Evolutionary research is concerned with the origin and descent of species, as well as their change over time, and includes scientists from many taxonomically oriented disciplines. For example, it generally involves scientists who have special training in particular organisms such as mammalogy, ornithology, botany, or herpetology, but use those organisms as systems to answer general questions about evolution.
+
+Evolutionary biology is partly based on paleontology, which uses the fossil record to answer questions about the mode and tempo of evolution,    and partly on the developments in areas such as population genetics  and evolutionary theory. In the 1980s, developmental biology re-entered evolutionary biology from its initial exclusion from the modern synthesis through the study of evolutionary developmental biology.  Related fields often considered part of evolutionary biology are phylogenetics, systematics, and alpha taxonomy|taxonomy.
+
+===Systematics===
+ 
+
+ s eight major taxonomic ranks. Intermediate minor Domains / Kingdoms format]]
+
+ 
+
+Multiple speciation events create a tree structured system of relationships between species. The role of systematics is to study these relationships and thus the differences and similarities between species and groups of species. {{cite book
+ | last = Neill
+ | first = Campbell
+ | authorlink =
+ | title = Biology; Fourth edition
+ | publisher = The Benjamin/Cummings Publishing Company
+ | series =
+ | year = 1996
+ | doi =
+ | isbn = 0-8053-1940-9
+ | page = G-21 (Glossary)}} 
+However, systematics was an active field of research long before evolutionary thinking was common. {{cite book
+ | last = Douglas
+ | first = Futuyma
+ | authorlink =
+ | title = Evolutionary Biology; Third edition
+ | publisher = Sinauer Associates
+ | series =
+ | year = 1998
+ | doi =
+ | isbn = 0-87893-189-9
+ | page = 88}}  International Code of Virus classification and nomenclature.     However, several other viral classification systems do exist.
+
+Traditionally, living things have been divided into five kingdoms: Monera; Protista; Fungus|Fungi; Plantae; Animalia. 
+ Bacteria (originally Eukaryota (including protists, fungi, plants, and animals)    These domains reflect whether the cells have nuclei or not, as well as differences in the chemical composition of the cell exteriors. 
+
+Further, each kingdom is broken down recursively until each species is separately classified. The order is:
+Domain (biology)|Domain; Kingdom (biology)|Kingdom; Phylum; Class (biology)|Class; Order (biology)|Order; Family (biology)|Family; Genus; Species.
+ metabolic activity, meaning that many scientists do not actually classify these structures as alive, due to their lack of at least one or more of the fundamental functions that define life. They are classified as virus (biology)|viruses, viroids, prions, or Satellite (biology)|satellites.
+
+The scientific name of an organism is generated from its genus and species. For example, humans are listed as Homo sapiens. Homo is the genus, and sapiens the species. When writing the scientific name of an organism, it is proper to capitalize the first letter in the genus and put all of the species in lowercase. Additionally, the entire term may be italicized or underlined.  
+
+The dominant classification system is called the Linnaean taxonomy. It includes ranks and binomial nomenclature. How organisms are named is governed by international agreements such as the International Code of Botanical Nomenclature (ICBN), the International Code of Zoological Nomenclature (ICZN), and the International Code of Nomenclature of Bacteria (ICNB).
+ International Code of Virus Classification and Nomenclature (ICVCN) remains outside the BioCode.
+
+===Ecology===
+  between clownfish of the genus Amphipri

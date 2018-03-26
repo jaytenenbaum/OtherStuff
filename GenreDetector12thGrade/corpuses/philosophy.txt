@@ -1,0 +1,472 @@
+ 
+  
+  rational argument.  In more casual speech, by extension, "philosophy" can refer to "the most basic beliefs, concepts, and attitudes of an individual or group". 
+
+The word "philosophy" comes from the Ancient Greek  (philosophia), which literally means "love of wisdom".    
+The introduction of the terms "philosopher" and "philosophy" has been ascribed to the Greek thinker Pythagoras.  A "philosopher" was understood as a word which contrasted with "sophist". Traveling sophists or "wise men" were important in Classical Greece, often earning money as teachers, whereas philosophers are "lovers of wisdom" and were therefore not in it primarily for the money.
+
+==Areas of inquiry==
+Philosophy is divided into many sub-fields. These include epistemology, logic, metaphysics, ethics, and aesthetics.   Some of the major areas of study are considered individually below.
+
+===Epistemology===
+  theories of justification.
+ Skepticism is circular so that a statement is included in its own chain of justification.
+
+Rationalism is the emphasis on reasoning as a source of knowledge. Empiricism is the emphasis on observational evidence via sensory experience over other evidence as the source of knowledge. Rationalism claims that every possible object of knowledge can be deduced from coherent premises without observation. Empiricism claims that at least some knowledge is only a matter of observation. For this, Empiricism often cites the concept of tabula rasa, where individuals are not born with mental content and that knowledge builds from experience or perception. Epistemological solipsism is the idea that the existence of the world outside the mind is an unresolvable question.
+
+ ]]
+Parmenides (fl. 500 BC) argued that it is impossible to doubt that thinking actually occurs. But thinking must have an object, therefore something beyond thinking really exists. Parmenides deduced that what really exists must have certain propertiesfor example, that it cannot come into existence or cease to exist, that it is a coherent whole, that it remains the same eternally (in fact, exists altogether outside time). This is known as the third man argument. Plato (427347 BC) combined rationalism with a form of philosophical realism|realism. The philosophers work is to consider being, and the essence (ousia) of things. But the characteristic of essences is that they are universal. The nature of a man, a triangle, a tree, applies to all men, all triangles, all trees. Plato argued that these essences are mind-independent "theory of forms|forms", that humans (but particularly philosophers) can come to know by reason, and by ignoring the distractions of sense-perception.
+
+Modern rationalism begins with Descartes. Reflection on the nature of perceptual experience, as well as scientific discoveries in physiology and optics, led Descartes (and also John Locke|Locke) to the view that we are directly aware of ideas, rather than objects. This view gave rise to three questions:
+
+# Is an idea a true copy of the real thing that it represents? Sensation is not a direct interaction between bodily objects and our sense, but is a physiological process involving representation (for example, an image on the retina). Locke thought that a "secondary quality" such as a sensation of green could in no way resemble the arrangement of particles in matter that go to produce this sensation, although he thought that "primary qualities" such as shape, size, number, were really in objects.
+# How can physical objects such as chairs and tables, or even physiological processes in the brain, give rise to mental items such as ideas? This is part of what became known as the mind-body problem.
+# If all the contents of awareness are ideas, how can we know that anything exists apart from ideas?
+ Christian Wolff), while provoking criticism from other philosophers who have retrospectively come to be grouped together as empiricists.
+
+===Logic===
+  unavoidably implied. valid if sound if declarations that formulae that quantified as to when they apply with the universal quantifier (always apply) or the existential quantifier (applies at least once). Inductive reasoning makes conclusions or generalizations based on probabilistic reasoning. For example, if 90% of humans are right-handed and Joe is human then Joe is probably right-handed. Fields in logic include mathematical logic (formal symbolic logic) and philosophical logic.
+
+===Metaphysics===
+  objects and their property (philosophy)|properties, wholes and their parts, events, processes, and causality|causation. Traditional branches of metaphysics include cosmology, the study of the world in its entirety, and ontology, the study of being.
+ realism holds that reality, or at least some part of it, exists independently of the mind. Subjective idealism describes objects as no more than collections or "bundles" of sense data in the perceiver. The 18th century philosopher George Berkeley contended that existence is fundamentally tied to perception with the phrase Esse est aut percipi aut percipere or "To be is to be perceived or to perceive".   
+ Realism is the philosophical position that universals do in fact exist, while nominalism is the negation, or denial of universals, abstract objects, or both.  Conceptualism holds that universals exist, but only within the minds perception. 
+
+The question of whether or not   has been discussed since the Early Modern period.  , without which the substance can still retain its identity.
+
+===Moral and political philosophy===
+ 
+ 
+Ethics, or "moral philosophy," is concerned primarily with the question of the best way to live, and secondarily, concerning the question of whether this question can be answered. The main branches of ethics are meta-ethics, normative ethics, and applied ethics. Meta-ethics concerns the nature of ethical thought, such as the origins of the words good and bad, and origins of other comparative words of various ethical systems, whether there are absolute ethical truths, and how such truths could be known.  Normative ethics are more concerned with the questions of how one ought to act, and what the right course of action is.  This is where most ethical theories are generated. Lastly, applied ethics go beyond theory and step into real world ethical practice, such as questions of whether or not abortion is correct. Ethics is also associated with the idea of morality, and the two are often interchangeable.
+
+ ]]
+One debate that has commanded the attention of ethicists in the modern era has been between consequentialism (actions are to be morally evaluated solely by their consequences) and deontology (actions are to be morally evaluated solely by consideration of agents duties, the rights of those whom the action concerns, or both). Jeremy Bentham and John Stuart Mill are famous for propagating utilitarianism, which is the idea that the fundamental moral rule is to strive toward the "greatest happiness for the greatest number". However, in promoting this idea they also necessarily promoted the broader doctrine of consequentialism. Adopting a position opposed to consequentialism, Immanuel Kant argued that moral principles were simply products of reason. Kant believed that the incorporation of consequences into moral deliberation was a deep mistake, since it denies the necessity of practical maxims in governing the working of the will. According to Kant, reason requires that we conform our actions to the categorical imperative, which is an absolute duty. An important 20th-century deontologist, W.D. Ross, argued for weaker forms of duties called prima facie duty|prima facie duties.
+ Confucian ethics argues that virtue consists largely in striving for harmony with other people. Virtue ethics in general has since gained many adherents, and has been defended by such philosophers as Philippa Foot, Alasdair MacIntyre, and Rosalind Hursthouse.
+
+ ]]
+Political philosophy is the study of government and the relationship of individuals (or families and clans) to communities including the State (polity)|state. It includes questions about justice, law, property, and the rights and obligations of the citizen. Politics and ethics are traditionally inter-linked subjects, as both discuss the question of what is good and how people should live.
+From ancient times, and well beyond them, the roots of justification for political authority were inescapably tied to outlooks on human nature. In The Republic, Plato presented the argument that the ideal society would be run by a council of philosopher-kings, since those best at philosophy are best able to realize the good. Even Plato, however, required philosophers to make their way in the world for many years before beginning their rule at the age of fifty. For Aristotle, humans are political animals (i.e. social animals), and governments are set up to pursue good for the community. Aristotle reasoned that, since the state (polis) was the highest form of community, it has the purpose of pursuing the highest good. Aristotle viewed political power as the result of natural inequalities in skill and virtue. Because of these differences, he favored an aristocracy of the able and virtuous. For Aristotle, the person cannot be complete unless he or she lives in a community. His The Nicomachean Ethics and The Politics are meant to be read in that order. The first book addresses virtues (or "excellences") in the person as a citizen; the second addresses the proper form of government to ensure that citizens will be virtuous, and therefore complete. Both books deal with the essential role of justice in civic life.
+
+Nicolas of Cusa rekindled Platonic thought in the early 15th century. He promoted democracy in Medieval Europe, both in his writings and in his organization of the Council of Florence. Unlike Aristotle and the Hobbesian tradition to follow, Cusa saw human beings as equal and divine (that is, made in Gods image), so democracy would be the only just form of government. Cusas views are credited by some as sparking the Italian Renaissance, which gave rise to the notion of "Nation-States".
+
+ ]]
+Later,  . This can only be done by the establishment of a sovereignty|sovereign, in which (or whom) is vested complete control over the community, and is able to inspire awe and terror in its subjects. 
+ Second Treatise on Government he agreed with Hobbes that the nation-state was an efficient tool for raising humanity out of a deplorable state, but he argued that the sovereign might become an abominable institution compared to the relatively benign unmodulated state of nature. 
+ moral realists, still make use of some essential human nature as a basis for their arguments.
+
+Marxism is derived from the work of Karl Marx and Friedrich Engels. Their idea that capitalism is based on exploitation of workers and causes alienation of people from their human nature, the historical materialism, their view of social classes, etc., have influenced many fields of study, such as sociology, economics, and politics. Marxism inspired the Marxist school of communism, which brought a huge impact on the history of the 20th century.
+
+===Aesthetics===
+ 
+Aesthetics deals with beauty, art, enjoyment, sensory-emotional values, perception, and matters of taste and sentiment.
+
+===Specialized branches===
+
+* Philosophy of language explores the nature, the origins, and the use of language.
+* Philosophy of law (often called jurisprudence) explores the varying theories explaining the nature and the interpretations of the law in society. dualism and materialism. In recent years there has been increasing similarity between this branch of philosophy and cognitive science.
+* Philosophy of religion
+* Philosophy of science
+* Metaphilosophy
+
+Many academic disciplines have also generated philosophical inquiry. These include Philosophy of History|history, philosophy of logic|logic, and Philosophy of mathematics|mathematics.
+
+==History==
+ 
+ 
+ 
+Many societies have considered philosophical questions and built philosophical traditions based upon each others works.
+
+Eastern philosophy is organized by the chronological periods of each region. Historians of western philosophy usually divide the subject into three or more periods, the most important being ancient philosophy, medieval philosophy, and modern philosophy. 
+
+===Ancient philosophy===
+ 
+
+====Egypt and Babylon====
+ 
+ 
+There are authors who date the philosophical maxims of Ptahhotep before the 25th century. For instance, Pulitzer Prize winning historian Will Durant dates these writings as early as 2880 BCE within  . Durant claims that Ptahhotep could be considered the very first philosopher in virtue of having the earliest and surviving fragments of moral philosophy (i.e., "The Maxims of Ptah-Hotep").   Ptahhoteps grandson, Ptahhotep Tshefi, is traditionally credited with being the author of the collection of wise sayings known as The Maxims of Ptahhotep,  whose opening lines attribute authorship to the vizier Ptahhotep: Instruction  of  the  Mayor  of  the  city,  the  Vizier Ptahhotep, under the Majesty of King Isesi.
+ empirical observation. Heraclitean doctrine maieutic Socratic Milesian philosopher Thales is also traditionally said to have studied philosophy in Mesopotamia.
+
+====Ancient Chinese====
+ , illustrated in Myths & Legends of China, 1922, by E.T.C. Werner.]]
+  Chinese civilization, Warring States Chinese Naturalism, suppressed any Chinese philosophy that was opposed to Legalism.
+
+Confucianism is humanism|humanistic,   philosophy that believes that human beings are teachable, improvable and perfectible through personal and communal endeavour especially including self-cultivation and self-creation. Confucianism focuses on the cultivation of virtue and maintenance of ethics, the most basic of which are ren, yi, and li.  Ren is an obligation of altruism and humaneness for other individuals within a community, yi is the upholding of righteousness and the moral disposition to do good, and li is a system of norms and propriety that determines how a person should properly act within a community. 
+
+ , moderation, and humility, while Taoist thought generally focuses on nature, the relationship between humanity and the cosmos ( ); health and longevity; and wu wei, action through inaction. Harmony with the Universe, or the origin of it through the Tao, is the intended result of many Taoist rules and practices.
+
+====Ancient Graeco-Roman====
+ 
+  (left) and   by Raffaello Sanzio, 1509]]
+Ancient Graeco-Roman philosophy is a period of Western philosophy, starting in the 6th century   BC to the 6th century AD. It is usually divided into three periods: the pre-Socratic philosophy|pre-Socratic period, the period of Plato and Aristotle, and the post-Aristotelian (or Hellenistic period|Hellenistic) period. A fourth period that is sometimes added includes the Neoplatonic and Christian philosophers of Late Antiquity. The most important of the ancient philosophers (in terms of subsequent influence) are Plato and Aristotle.  Plato specifically, is credited as the founder of Western philosophy. The philosopher Alfred North Whitehead said of Plato: "The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato. I do not mean the systematic scheme of thought which scholars have doubtfully extracted from his writings. I allude to the wealth of general ideas scattered through them." 
+
+The main subjects of ancient philosophy are: understanding the fundamental causes and principles of the universe; explaining it in an economical way; the epistemological problem of reconciling the diversity and change of the natural universe, with the possibility of obtaining fixed and certain knowledge about it; questions about things that cannot be perceived by the senses, such as numbers, classical element|elements, universals, and gods. Socrates is said to have been the initiator of more focused study upon the human things including the analysis of patterns of reasoning and argument and the nature of the good life and the importance of understanding and knowledge in order to pursue it; the explication of the concept of justice, and its relation to various political systems. 
+
+In this period the crucial features of the Western   method of inquiry, known as the Socratic method or method of "elenchus", which he largely applied to the examination of key moral concepts such as the Good and Justice. To solve a problem, it would be broken down into a series of questions, the answers to which gradually distill the answer a person would seek. The influence of this approach is most strongly felt today in the use of the scientific method, in which hypothesis is the first stage.
+
+====Ancient Indian====
+ 
+  philosophical thought that originated in the Indian subcontinent, including Hindu philosophy, Buddhist philosophy, and Jain philosophy. Having the same or rather intertwined origins, all of these philosophies have a common underlying themes of Dharma and Karma, and similarly attempt to explain the attainment of emancipation. They have been formalized and promulgated chiefly between 1000 BC to a few centuries AD.
+ Buddhist and materialist (Crvka). Other classifications also include Pashupata Shaivism|Pashupata, Shaiva Siddhanta|Saiva, Rasevara and Pini Darana with the other orthodox schools.  
+
+Competition and integration between the various schools was intense during their formative years, especially between 500 BC to 200 AD. Some like the Jain, Buddhist, Shaiva and Vedanta schools survived, while others like Samkhya and Ajivika did not, either being assimilated or going extinct. The Sanskrit term for "philosopher" is  , one who is familiar with the systems of philosophy, or  . 
+ Vedic culture, Vedic religion.
+
+====Ancient Persian====
+  Mongol invasions old Iranian philosophy, the Greek philosophy and with the development of Islamic philosophy. Illuminationism and the transcendent theosophy are regarded as two of the main philosophical traditions of that era in Persia. Zoroastrianism has been identified as one of the key early events in the development of philosophy. 
+
+===5th16th centuries===
+====Europe====
+=====Medieval=====
+ 
+ |upright]] Greek and secular learning.
+
+The history of western European medieval philosophy is traditionally divided into two main periods: the period in the Latin West following the Early Middle Ages until the 12th century, when the works of Aristotle and Plato were preserved and cultivated; and the "golden age"  of the 12th, 13th and 14th centuries in the Latin West, which witnessed the culmination of the recovery of ancient philosophy, and significant developments in the field of philosophy of religion, logic and metaphysics.
+
+The medieval era was disparagingly treated by the Renaissance humanists, who saw it as a barbaric "middle" period between the classical age of Greek and Roman culture, and the "rebirth" or renaissance of classical culture. Yet this period of nearly a thousand years was the longest period of philosophical development in Europe, and possibly the richest. Jorge Gracia has argued that "in intensity, sophistication, and achievement, the philosophical flowering in the thirteenth century could be rightly said to rival the golden age of Greek philosophy in the fourth century B.C." 
+
+Some problems discussed throughout this period are the relation of faith to reason, the existence and unity of God, the object of theology and metaphysics, the problems of knowledge, of universals, and of individuation.
+
+Philosophers from the Middle Ages include the Christian philosophers Augustine of Hippo, Boethius, Anselm of Canterbury|Anselm, Gilbert of Poitiers, Peter Abelard, Roger Bacon, Bonaventure, Thomas Aquinas, Duns Scotus, William of Ockham and Jean Buridan; the Jewish philosophers Maimonides and Gersonides; and the Muslim philosophers Al-Kindi|Alkindus, Al-Farabi|Alfarabi, Ibn al-Haytham|Alhazen, Avicenna, Al-Ghazali|Algazel, Ibn Bajjah|Avempace, Ibn Tufail|Abubacer, Ibn Khaldn, and Averroes. The medieval tradition of Scholasticism continued to flourish as late as the 17th century, in figures such as Francisco Suarez and John of St. Thomas.
+
+Aquinas, father of Thomism, was immensely influential in Catholic Europe, placed a great emphasis on reason and argumentation, and was one of the first to use the new translation of Aristotles metaphysical and epistemological writing. His work was a significant departure from the Neoplatonic and Augustinian thinking that had dominated much of early Scholasticism.
+
+=====Renaissance=====
+ 
+ |upright]]
+The Renaissance ("rebirth") was a period of transition between the Middle Ages and modern thought,  in which the recovery of classical texts helped shift philosophical interests away from technical studies in logic, metaphysics, and theology towards eclectic inquiries into morality, philology, and mysticism.   The study of the classics and the humane arts generally, such as history and literature, enjoyed a scholarly interest hitherto unknown in Christendom, a tendency referred to as humanism.    Displacing the medieval interest in metaphysics and logic, the humanists followed Petrarch in making man and his virtues the focus of philosophy.  
+
+The study of classical philosophy also developed in two new ways. On the one hand, the study of Aristotle was changed through the influence of Averroism. The disagreements between these Averroist Aristotelians, and more orthodox catholic Aristotelians such as Albertus Magnus and Thomas Aquinas eventually contributed to the development of a "humanist Aristotelianism" developed in the Renaissance, as exemplified in the thought of Pietro Pomponazzi and Giacomo Zabarella. Secondly, as an alternative to Aristotle, the study of Plato and the Neoplatonists became common. This was assisted by the rediscovery of works which had not been well known previously in Western Europe. Notable Renaissance Platonists include Nicholas of Cusa, and later Marsilio Ficino and Giovanni Pico della Mirandola. 
+
+The Renaissance also renewed interest in anti-Aristotelian theories of nature considered as an organic, living whole comprehensible independently of theology, as in the work of Nicholas of Cusa, Nicholas Copernicus, Giordano Bruno, Telesius, and Tommaso Campanella.  Such movements in natural philosophy dovetailed with a revival of interest in occultism, magic, hermeticism, and astrology, which were thought to yield hidden ways of knowing and mastering nature (e.g., in Marsilio Ficino and Giovanni Pico della Mirandola). 
+ Reformation and the decline of feudalism.  Though the theologians of the Protestant Reformation showed little direct interest in philosophy, their destruction of the traditional foundations of theological and intellectual authority harmonized with a revival of fideism and skepticism in thinkers such as Erasmus, Montaigne, and Francisco Sanches.     Meanwhile, the gradual centralization of political power in nation-states was echoed by the emergence of secular political philosophies, as in the works of Niccol Machiavelli (often described as the first modern political thinker, or a key turning point towards modern political thinking ), Thomas More, Erasmus, Justus Lipsius, Jean Bodin, and Hugo Grotius.  
+
+====East Asia====
+  Nepal also became a prominent philosophical and religious discipline. (It should be noted that philosophy and religion were clearly distinguished in the West, whilst these concepts were more continuous in the East due to, for example, the philosophical concepts of Buddhism.)
+ ethical philosophy. 
+
+Neo-Confucianism has its origins in the Tang Dynasty; the Confucianist scholars Han Yu and Li Ao are seen as forbears of the Neo-Confucianists of the Song Dynasty.  The Song Dynasty philosopher Zhou Dunyi is seen as the first true "pioneer" of Neo-Confucianism, using Daoist metaphysics as a framework for his ethical philosophy. 
+ Shamanism was integrated into the Korean Confucianism|Neo-Confucianism imported from China.
+
+====India====
+ ]]
+ 
+The period between 5th and 9th century CE was the most brilliant epoch in the development of Indian philosophy as Hindu and Buddhist philosophies flourished side by side.  Of these various schools of thought the non-dualistic Advaita Vedanta emerged as the most influential  and most dominant school of philosophy.  The major philosophers of this school were Gaudapada, Adi Shankara and Vidyaranya.
+
+Advaita Vedanta rejects theism and dualism by insisting that Brahman   is without parts or attributesone without a second.  Since Brahman has no properties, contains no internal diversity and is identical with the whole reality, it cannot be understood as God.  Brahman though being indescribable is at best described as Satchidananda (merging "Sat" + "Chit" + "Ananda", i.e., Existence, Consciousness and Bliss) by Shankara. Advaita ushered a new era in Indian philosophy and as a result, many new schools of thought arose in the medieval period. Some of them were Visishtadvaita (qualified monism), Dvaita (dualism), Dvaitadvaita (dualism-nondualism), Suddhadvaita (pure non-dualism), Achintya Bheda Abheda and Pratyabhijna|Pratyabhija (the recognitive school).
+
+====Middle East====
+  Islamic theological Ibn Sina Ibn Rushd Ibn al-Haytham (Alhacen) and Ab Rayhn al-Brn.
+
+===17th20th centuries===
+====Early modern philosophy====
+ 
+ ]]
+ Christian Wolff, Montesquieu, Pierre Bayle, Thomas Reid, Jean dAlembert, and Adam Smith. Jean-Jacques Rousseau was a seminal figure in initiating reaction against the Enlightenment. The approximate end of the early modern period is most often identified with Immanuel Kants systematic attempt to limit metaphysics, justify scientific knowledge, and reconcile both of these with morality and freedom.   
+
+====19th-century philosophy====
+ 
+
+Later modern philosophy is usually considered to begin after the philosophy of Immanuel Kant at the beginning of the 19th century.   German philosophy exercised broad influence in this century, owing in part to the dominance of the German university system.   German idealists, such as Johann Gottlieb Fichte, Georg Wilhelm Friedrich Hegel, and Friedrich Wilhelm Joseph Schelling, transformed the work of Kant by maintaining that the world is constituted by a rational or mind-like process, and as such is entirely knowable.   Arthur Schopenhauers identification of this world-constituting process as an irrational will to live influenced later 19th- and early 20th-century thinking, such as the work of Friedrich Nietzsche and Sigmund Freud.
+
+After Hegels death in 1831, 19th-century philosophy largely turned against idealism in favor of varieties of philosophical naturalism (philosophy)|naturalism, such as the positivism of Auguste Comte, the empiricism of John Stuart Mill, and the materialism of Karl Marx.  Logic began a period of its most significant advances since the inception of the discipline, as increasing mathematical precision opened entire fields of inference to formalization in the work of George Boole and Gottlob Frege.   Other philosophers who initiated lines of thought that would continue to shape philosophy into the 20th century include:
+
+* Gottlob Frege and Henry Sidgwick, whose work in logic and ethics, respectively, provided the tools for early analytic philosophy.
+* Charles Sanders Peirce and William James, who founded pragmatism.
+* Sren Kierkegaard and Friedrich Nietzsche, who laid the groundwork for existentialism and post-structuralism.
+
+====20th-century philosophy====
+ 
+ ]]
+Within the last century, philosophy has increasingly become a professional discipline practiced within universities, like other academic disciplines. Accordingly, it has become less general and more specialized. In the view of one prominent recent historian: "Philosophy has become a highly organized discipline, done by specialists primarily for other specialists. The number of philosophers has exploded, the volume of publication has swelled, and the subfields of serious philosophical investigation have multiplied. Not only is the broad field of philosophy today far too vast to be embraced by one mind, something similar is true even of many highly specialized subfields." 
+ David Lewis.   Recently, the experimental philosophy movement has sought to reappraise philosophical problems through social science research techniques.
+
+On continental Europe, no single school or temperament enjoyed dominance. The flight of the logical positivists from central Europe during the 1930s and 1940s, however, diminished philosophical interest in natural science, and an emphasis on the humanities, broadly construed, figures prominently in what is usually called "continental philosophy". 20th century movements such as phenomenology (philosophy)|phenomenology, existentialism, modern hermeneutics, critical theory, structuralism, and poststructuralism are included within this loose category.  The founder of phenomenology, Edmund Husserl, sought to study consciousness as experienced from a first-person perspective,   while Martin Heidegger drew on the ideas of Kierkegaard, Nietzsche, and Husserl to propose an unconventional existential approach to ontology.  
+
+In the Arab-speaking world Arab nationalist philosophy became the dominant school of thought, involving philosophers such as Michel Aflaq, Zaki al-Arsuzi, Salah al-Din al-Bitar of baathism and Sati al-Husri. These people disregarded much of Marxs research, and were mostly concerned with the individuals spirituality which would, in the fight against imperialism and oppression, lead to a united Arab Nation.
+
+==Major traditions==
+===German idealism===
+ 
+ ]] conceptual or Friedrich Schelling dispensed with belief in the independent existence of the world, and created a thoroughgoing idealist philosophy.
+ British idealists, notably T. H. Green, J. M. E. McTaggart and F. H. Bradley.
+
+Few 20th century philosophers have embraced idealism. However, quite a few have embraced Hegelian dialectic. Immanuel Kants "Copernican Turn" also remains an important philosophical concept today.
+
+===Pragmatism===
+ 
+ ]]
+Pragmatism was founded in the spirit of finding a scientific concept of truth that does not depend on personal insight (revelation) or reference to some metaphysical realm. The meaning or purport of a statement should be judged by the effect its acceptance would have on practice. Truth should be seen as correspondence, independently of actual opinions, to the real and, pragmatically, as that opinion which inquiry taken far enough would ultimately reach.  For Charles Sanders Peirce these were principles of the inquirers self-regulation, implied by the idea and hope that inquiry is not generally fruitless. The details of how these principles should be interpreted have been subject to discussion since  Peirce first conceived them. Peirces   neo-pragmatist Richard Rorty, many are convinced that pragmatism asserts that the truth of beliefs does not consist in their correspondence with reality, but in their usefulness and efficacy. 
+ Donald Davidson, Susan Haack, and Hilary Putnam.
+
+===Phenomenology===
+  phenomenology was an ambitious attempt to lay the foundations for an account of the structure of conscious experience in general.  An important part of Husserls phenomenological project was to show that all conscious acts are directed at or about objective content, a feature that Husserl called intentionality. 
+
+In the first part of his two-volume work, the Logical Investigations (1901), he launched an extended attack on psychologism. In the second part, he began to develop the technique of descriptive phenomenology, with the aim of showing how objective judgments are indeed grounded in conscious experiencenot, however, in the first-person experience of particular individuals, but in the properties essential to any experiences of the kind in question. 
+
+He also attempted to identify the essential properties of any act of meaning. He developed the method further in Ideas (1913) as transcendental phenomenology, proposing to ground actual experience, and thus all fields of human knowledge, in the structure of consciousness of an ideal, or transcendence (philosophy)|transcendental, ego. Later, he attempted to reconcile his transcendental standpoint with an acknowledgement of the intersubjective life-world in which real individual subjects interact. Husserl published only a few works in his lifetime, which treat phenomenology mainly in abstract methodological terms; but he left an enormous quantity of unpublished concrete analyses.
+
+Husserls work was immediately influential in Germany, with the foundation of phenomenological schools in Munich and Gttingen. Phenomenology later achieved international fame through the work of such philosophers as Martin Heidegger (formerly Husserls research assistant), Maurice Merleau-Ponty, and Jean-Paul Sartre. Indeed, through the work of Heidegger and Sartre, Husserls focus on subjective experience influenced aspects of existentialism.
+
+===Existentialism===
+ 
+Existentialism is a term applied to the work of a number of late 19th- and 20th-century philosophers who, despite profound doctrinal differences,   shared the belief that philosophical thinking begins with the human subjectnot merely the thinking subject, but the acting, feeling, living human individual.  In existentialism, the individuals starting point is characterized by what has been called "the existential attitude", or a sense of disorientation and confusion in the face of an apparently meaningless or absurd world.  Many existentialists have also regarded traditional systematic or academic philosophy, in both style and content, as too abstract and remote from concrete human experience.  
+ ]]
+
+Although they did not use the term, the 19th-century philosophers Sren Kierkegaard and Friedrich Nietzsche are widely regarded as the fathers of existentialism. Their influence, however, has extended beyond existentialist thought.   
+
+The main target of Kierkegaards writings was the idealist philosophical system of Hegel which, he thought, ignored or excluded the inner subjective life of living human beings. Kierkegaard, conversely, held that "truth is subjectivity", arguing that what is most important to an actual human being are questions dealing with an individuals inner relationship to existence. In particular, Kierkegaard, a Christian, believed that the truth of religious faith was a subjective question, and one to be wrestled with passionately.  
+
+Although Kierkegaard and Nietzsche were among his influences, the extent to which the German philosopher Martin Heidegger should be considered an existentialist is debatable. In Being and Time he presented a method of rooting philosophical explanations in human existence (Dasein) to be analysed in terms of existential categories (existentiale); and this has led many commentators to treat him as an important figure in the existentialist movement. However, in The Letter on Humanism, Heidegger explicitly rejected the existentialism of Jean-Paul Sartre.
+
+Sartre became the best-known proponent of existentialism, exploring it not only in theoretical works such as Being and Nothingness, but also in plays and novels. Sartre, along with Simone de Beauvoir, represented an avowedly atheistic branch of existentialism, which is now more closely associated with their ideas of nausea, contingency, bad faith, and the absurd than with Kierkegaards spiritual angst. Nevertheless, the focus on the individual human being, responsible before the universe for the authenticity of his or her existence, is common to all these thinkers.
+
+===Structuralism and post-structuralism===
+ 
+ ]]
+Inaugurated by the linguist Ferdinand de Saussure, structuralism sought to clarify systems of signs through analyzing the discourses they both limit and make possible. Saussure conceived of the sign as being delimited by all the other signs in the system, and ideas as being incapable of existence prior to linguistic structure, which articulates thought. This led continental thought away from humanism, and toward what was termed the decentering of man: language is no longer spoken by man to express a true inner self, but language speaks man.
+
+Structuralism sought the province of a hard science, but its positivism soon came under fire by poststructuralism, a wide field of thinkers, some of whom were once themselves structuralists, but later came to criticize it. Structuralists believed they could analyze systems from an external, objective standing, for example, but the poststructuralists argued that this is incorrect, that one cannot transcend structures and thus analysis is itself determined by what it examines, while the distinction between the signifier and signified was treated as crystalline by structuralists, poststructuralists asserted that every attempt to grasp the signified results in more signifiers, so meaning is always in a state of being deferred, making an ultimate interpretation impossible.
+
+Structuralism came to dominate continental philosophy throughout the 1960s and early 1970s, encompassing thinkers as diverse as Claude Lvi-Strauss, Roland Barthes and Jacques Lacan. Post-structuralism came to predominate over the 1970s onwards, including thinkers such as Michel Foucault, Jacques Derrida, Gilles Deleuze and even Roland Barthes; it incorporated a critique of structuralisms limitations.
+
+===The analytic tradition===
+  Charles Taylor) ordinary language both markedly influenced by Russell and Wittgensteins development of Logical Atomism the former positively and the latter negatively.
+ Donald Davidson and Daniel Dennett. The former devised a program for giving a semantics to natural language and thereby answer the philosophical conundrum "what is meaning?". A crucial part of the program was the use of Alfred Tarskis semantic theory of truth. Dummett, among others, argued that truth conditions should be dispensed within the theory of meaning, and replaced by assertibility conditions. Some propositions, on this view, are neither true nor false, and thus such a theory of meaning entails a rejection of the law of the excluded middle. This, for Dummett, entails antirealism, as Russell himself pointed out in his An Inquiry into Meaning and Truth.
+
+ ]]
+By the 1970s there was a renewed interest in many traditional philosophical problems by the younger generations of analytic philosophers.  , the nature of personal identity, identity over time, the nature of the mind, the nature of causal laws, space-time, the properties of material beings, modality, etc. In those universities where analytic philosophy has spread, these problems are still being discussed passionately. Analytic philosophers are also interested in the methodology of analytic philosophy itself, with  , John Searle, Thomas Nagel, Hilary Putnam, Michael Dummett, Peter van Inwagen and Saul Kripke. Analytic philosophy has sometimes been accused of not contributing to the political debate or to traditional questions in aesthetics. However, with the appearance of A Theory of Justice by John Rawls and Anarchy, State and Utopia by Robert Nozick, analytic political philosophy acquired respectability. Analytic philosophers have also shown depth in their investigations of aesthetics, with Roger Scruton, Nelson Goodman, Arthur Danto and others developing the subject to its current shape.
+
+==Applied philosophy==
+  Sun Zi, Chanakya, Ibn Khaldun, Ibn Rushd, Ibn Taimiyyah, Niccol Machiavelli, Gottfried Wilhelm Leibniz, John Locke, Jean-Jacques Rousseau, Adam Smith, Karl Marx, John Stuart Mill, Mahatma Gandhi, Martin Luther King Jr., and othersall of these have been used to shape and justify governments and their actions.
+
+In the field of philosophy of education, progressive education as championed by John Dewey has had a profound impact on educational practices in the United States in the 20th century. Descendants of this movement include the current efforts in philosophy for children, which are part of philosophy education. Carl von Clausewitzs political philosophy of war has had a profound effect on public administration|statecraft, international politics, and military strategy in the 20th century, especially in the years around World War II. Logic has become crucially important in mathematics, linguistics, psychology, computer science, and computer engineering.
+
+Other important applications can be found in epistemology, which aid in understanding the requisites for knowledge, sound evidence, and justified belief (important in law, economics, decision theory, and a number of other disciplines). The philosophy of science discusses the underpinnings of the scientific method and has affected the nature of scientific investigation and argumentation. As such, philosophy has fundamental implications for science as a whole. For example, the strictly empirical approach of Skinners behaviorism affected for decades the approach of the American psychological establishment. Deep ecology and animal rights examine the moral situation of humans as occupants of a world that has non-human occupants to consider also. Aesthetics can help to interpret discussions of music, literature, the plastic arts, and the whole artistic dimension of life. In general, the various philosophies strive to provide practical activities with a deeper understanding of the theoretical or conceptual underpinnings of their fields.
+
+Often philosophy is seen as an investigation into an area not sufficiently well understood to be its own branch of knowledge. What were once philosophical pursuits have evolved into the modern day fields such as psychology, sociology, linguistics, and economics, for example.
+
+==See also==
+ 
+ 
+ 
+* List of important publications in philosophy
+* List of years in philosophy
+* List of philosophers
+* List of philosophy journals
+* List of unsolved problems in philosophy
+* Social theory
+
+==References==
+{{reflist|30em|refs=
+
+   
+
+ Anthony Kenny, A New History of Western Philosophy, vol. 3 (Oxford University Press, 2006), p. xii: "To someone approaching the early modern period of philosophy from an ancient and medieval background the most striking feature of the age is the absence of Aristotle from the philosophic scene." 
+
+ Apte, p. 497. 
+
+   
+
+   
+
+   
+
+ Strawson, P. F. "Conceptualism." Universals, concepts and qualities: new essays on the meaning of predicates. Ashgate Publishing, 2006. 
+
+   
+
+ Charles Schmitt and Quentin Skinner (eds.), The Cambridge History of Renaissance Philosophy (Cambridge University Press, 1988), p. 5, loosely define the period as extending "from the age of Ockham to the revisionary work of Bacon, Descartes and their contemporaries." 
+
+ Thomas Baldwin, Contemporary Philosophy (Oxford University Press, 2001), p. 90: "  has been, without question, the most influential American philosopher of the second half of the twentieth century." 
+
+ Copleston, pp. 228229. 
+
+  . 
+
+   
+
+  . 
+
+ Oxford Dictionary of World Religions, p. 259 
+
+   
+
+ Frederick Copleston, A History of Philosophy, Volume II: From Augustine to Scotus (Burns & Oates, 1950), p. 1, dates medieval philosophy proper from the Carolingian Renaissance in the eighth century to the end of the fourteenth century, though he includes   in the seventeenth century. Anthony Kenny, A New History of Western Philosophy, Volume II: Medieval Philosophy (Oxford University Press, 2005), begins with Augustine and ends with the Lateran Council of 1512. 
+
+ Paul Edwards (ed.), Encyclopedia of Philosophy, vol. 7 (Macmillan, 1967), p. 239: "Russell has exercised an influence on the course of Anglo-American philosophy in the twentieth century second to that of no other individual." 
+
+ Peter Hylton, "Quine", in the Stanford Encyclopedia of Philosophy: "Quines work has been extremely influential and has done much to shape the course of philosophy in the second-half of the twentieth century and into the twenty-first." 
+
+ Donald Rutherford, The Cambridge Companion to Early Modern Philosophy (Cambridge University Press, 2006), p. 1: "epistemology assumes a new significance in the early modern period as philosophers strive to define the conditions and limits of human knowledge." 
+
+ John Macquarrie, Existentialism, New York (1972), pages 1821. 
+
+ John Macquarrie, Existentialism, New York (1972), pages 1415. 
+
+ Robert C. Solomon, Existentialism (McGraw-Hill, 1974, pages 12) 
+
+ Ernst Breisach, Introduction to Modern Existentialism, New York (1962), page 5 
+
+ Walter Kaufmann, Existentialism: From Dostoevesky to Sartre, New York (1956) page 12 
+
+ Religious thinkers were among those influenced by Kierkegaard. Christian existentialists include Gabriel Marcel, Nicholas Berdyaev, Miguel de Unamuno, and Karl Jaspers (although he preferred to speak of his "philosophical faith"). The Jewish philosophers Martin Buber and Lev Shestov have also been associated with existentialism. 
+
+   
+
+ Beiser, Frederick C. The Cambridge Companion to Hegel, (Cambridge, 1993). 
+
+   
+
+   By William M. Indich, Motilal Banarsidass Publishers, 1995, ISBN 81-208-1251-4. 
+
+ Gracia, p. 1 
+
+ Grimal, p.79 
+
+  . 
+
+   
+
+ Kenny, A New History of Western Philosophy, vol. 3, pp. 179180: "the seventeenth century saw the gradual separation of the old discipline of natural philosophy into the science of physics    y the nineteenth century physics was a fully mature empirical science, operating independently of philosophy." 
+
+ Raymond Geuss, in Thomas Baldwin (ed.), The Cambridge History of Philosophy 18701945 (Cambridge University Press, 2003), p. 497: "Heidegger is by a wide margin the single most influential philosopher of the twentieth century." 
+
+ Charles B. Schmitt and Quentin Skinner (eds.), The Cambridge History of Renaissance Philosophy, pp. 61 and 63: "From Petrarch the early humanists learnt their conviction that the revival of humanae literae was only the first step in a greater intellectual renewal"   "the very conception of philosophy was changing because its chief object was now manman was at centre of every inquiry". 
+
+ "Machiavelli appears as the first modern political thinker"  . "Machiavelli ought not really to be classified as either purely an "ancient" or a "modern," but instead deserves to be located in the interstices between the two."   
+
+  : "Hobbes is the founding father of modern political philosophy. Directly or indirectly, he has set the terms of debate about the fundamentals of political life right into our own times." 
+ John Perry, Michael Bratman, John Martin Fischer (eds.), Introduction to Philosophy: Classical and Contemporary Readings, 4th ed. (Oxford University Press, 2006), p. 302: "David Lewis (19412001) was one of the most important philosophers of the twentieth century." 
+
+   
+
+   
+
+   
+
+   
+
+   
+
+ M. Lichtheim, Ancient Egyptian Literature, p.61 
+
+ Giorgio Buccellati (1981), "Wisdom and Not: The Case of Mesopotamia", Journal of the American Oriental Society 101 (1), p. 35-47. 
+
+ Giorgio Buccellati (1981), "Wisdom and Not: The Case of Mesopotamia", Journal of the American Oriental Society 101 (1), p. 35-47  . 
+
+ Kenny, A New History of Western Philosophy, vol. 3, p. 211: "The period between Descartes and Hegel was the great age of metaphysical system-building." 
+
+    -->
+
+ Copleston, ibid.: "The bulk of Renaissance thinkers, scholars and scientists were, of course, Christians ... but none the less the classical revival ... helped to bring to the fore a conception of autonomous man or an idea of the development of the human personality, which, though generally Christian, was more naturalistic and less ascetic than the mediaeval conception." 
+
+   
+
+   
+
+ Oxford Companion to Philosophy 
+
+ Peirce on p. 293 of "How to Make Our Ideas Clear", Popular Science Monthly, v. 12, pp. 286302. Reprinted widely, including Collected Papers of Charles Sanders Peirce (CP) v. 5, paragraphs 388410. 
+
+   
+
+ Donald Rutherford, The Cambridge Companion to Early Modern Philosophy (Cambridge University Press, 2006), p. xiii, defines its subject thus: "what has come to be known as "early modern philosophy"roughly, philosophy spanning the period between the end of the sixteenth century and the end of the eighteenth century, or, in terms of figures, Montaigne through Kant." Steven Nadler, A Companion to Early Modern Philosophy (Blackwell, 2002), p. 1, likewise identifies its subject as "the seventeenth and eighteenth centuries". Anthony Kenny, The Oxford History of Western Philosophy (Clarendon: Oxford University Press, 1994), p. 107, introduces "early modern philosophy" as "the writings of the classical philosophers of the seventeenth and eighteenth centuries in Europe". 
+
+ Thomas Baldwin (ed.), The Cambridge History of Philosophy 18701945 (Cambridge University Press, 2003), p. 376: "  the three greatest European philosophers of the twentieth centuryHeidegger, Russell, and Wittgenstein." 
+
+ Pico Della Mirandola, Conclusiones philosophicae, cabalisticae et theologicae; Giordano Bruno, De Magia 
+
+   
+
+ Nadler, A Companion to Early Modern Philosophy, pp. 23: "Why should the early modern period in philosophy begin with Descartes and Bacon, for example, rather than with Erasmus and Montaigne?   Suffice it to say that at the beginning of the seventeenth century, and especially with Bacon and Descartes, certain questions and concerns come to the forea variety of issues that motivated the inquiries and debates that would characterize much philosophical thinking for the next two centuries." 
+
+ Rutherford, The Cambridge Companion to Early Modern Philosophy, p. 1: "Most often this   has been associated with the achievements of a handful of great thinkers: the so-called rationalists (Descartes, Spinoza, Leibniz) and empiricists (Locke, Berkeley, Hume), whose inquiries culminate in Kants Critical philosophy. These canonical figures have been celebrated for the depth and rigor of their treatments of perennial philosophical questions..." 
+
+ Bruce Kuklick, "Seven Thinkers and How They Grew: Descartes, Spinoza, Leibniz; Locke, Berkeley, Hume; Kant" in Rorty, Schneewind, and Skinner (eds.), Philosophy in History (Cambridge University Press, 1984), p. 125: "Literary, philosophical, and historical studies often rely on a notion of what is canonical. In American philosophy scholars go from Jonathan Edwards to John Dewey; in American literature from James Fenimore Cooper to F. Scott Fitzgerald; in political theory from Plato to Hobbes and Locke   The texts or authors who fill in the blanks from A to Z in these, and other intellectual traditions, constitute the canon, and there is an accompanying narrative that links text to text or author to author, a history of American literature, economic thought, and so on. The most conventional of such histories are embodied in university courses and the textbooks that accompany them. This essay examines one such course, the History of Modern Philosophy, and the texts that helped to create it. If a philosopher in the United States were asked why the seven people in my title comprise Modern Philosophy, the initial response would be: they were the best, and there are historical and philosophical connections among them." 
+
+ Scott Soames, Philosophical Analysis in the Twentieth Century, vol. 2, p. 463. 
+
+ Steven Nadler, A Companion to Early Modern Philosophy, pp. 12: "By the seventeenth century   it had become more common to find original philosophical minds working outside the strictures of the universityi.e., ecclesiasticframework.   by the end of the eighteenth century,   was a secular enterprise." 
+
+ Frederick Copleston, A History of Philosophy, Volume III: From Ockham to Suarez (The Newman Press, 1953) p. 18: "When one looks at Renaissance philosophy ... one is faced at first sight with a rather bewildering assortment of philosophies." 
+
+ Jenny Teichmann and Katherine C. Evans, Philosophy: A Beginners Guide (Blackwell Publishing, 1999), p. 1: "Philosophy is a study of problems which are ultimate, abstract and very general. These problems are concerned with the nature of existence, knowledge, morality, reason and human purpose." 
+
+ Kenny, A New History of Western Philosophy, vol. 3, p. xiii. 
+
+ Nadler, A Companion to Early Modern Philosophy, p. 3. 
+
+ Oxford Companion to Philosophy, ed. Ted Honderich, New York (1995), page 259. 
+
+ Kenny, A New History of Western Philosophy, vol. 3, pp. 212331. 
+
+   
+
+ p 22, The Principal Upanisads, Harper Collins, 1994 
+
+ Process and Reality p. 39 
+
+   
+
+   
+
+ Kenny, A New History of Western Philosophy, vol. 3 (Oxford University Press, 2006), p. 8: "The Lutheran Reformation   gave new impetus to the sceptical trend." 
+
+ For example, the multi-author Oxford History of Western Philosophy breaks the subject into eight volumes: ancient, medieval, Renaissance, two volumes covering the period 16001750, two volumes covering 17501945, and one volume on analytic philosophy since 1945.  Anthony Kennys New History of Western Philosophy is divided in four volumes: ancient, medieval, early modern (15001830), and later modern (1830 to the present).  The more technical Cambridge History of Philosophy divides the topic into nine periods: Greek philosophy to Aristotle, Hellenistic philosophy, later Greek and early medieval, later medieval, Renaissance, three volumes for the 17th19th centuries, and a final volume on 18701945. 
+
+ Brian Copenhaver and Charles Schmitt, Renaissance Philosophy (Oxford University Press, 1992), p. 4: "one may identify the hallmark of Renaissance philosophy as an accelerated and enlarged interest, stimulated by newly available texts, in primary sources of Greek and Roman thought that were previously unknown or partially known or little read." 
+
+ Copenhaver and Schmitt, Renaissance Philosophy, pp. 285328. 
+
+ Copenhaver and Schmitt, Renaissance Philosophy, pp. 274284. 
+
+ Schmitt and Skinner, The Cambridge History of Renaissance Philosophy, pp. 430452. 
+
+   
+
+   
+
+ Rutherford, The Cambridge Companion to Early Modern Philosophy, p. 1. 
+
+   
+
+ Richard Popkin, The History of Scepticism from Savonarola to Bayle (Oxford University Press, 2003). 
+
+ Shand, John (ed.) Central Works of Philosophy, Vol.3 The Nineteenth Century (McGill-Queens, 2005) 
+
+  : "Contractarianism   stems from the Hobbesian line of social contract thought" 
+
+ Rodriguez-Pereyra, Gonzalo (2008). "Nominalism in Metaphysics", The Stanford Encyclopedia of Philosophy, Edward N. Zalta (ed.). ( )   
+
+ Stanford Encyclopedia of Philosophy,  , 1 May 2003: "Russell is generally recognized as one of the founders of modern analytic philosophy.   he is regularly credited with being one of the most important logicians of the twentieth century." 
+
+ Stanford Encyclopedia of Philosophy  : "David Lewis (19412001) was one of the most important philosophers of the 20th Century. He made significant contributions to philosophy of language, philosophy of mathematics, philosophy of science, decision theory, epistemology, meta-ethics and aesthetics. In most of these fields he is essential reading; in many of them he is among the most important figures of recent decades. And this list leaves out his two most significant contributions." 
+
+  , in The Stanford Encyclopedia of Philosophy: "Edmund Husserl was the principal founder of phenomenologyand thus one of the most influential philosophers of the 20th century." 
+
+ Wainwright, William,  , The Stanford Encyclopedia of Philosophy (Winter 2010 Edition), Edward N. Zalta (ed.) 
+
+   
+
+   
+
+   
+
+   
+
+ Nadler, A Companion to Early Modern Philosophy, p. 2: "The study of early modern philosophy demands that we pay attention to a wide variety of questions and an expansive pantheon of thinkers: the traditional canonical figures (Descartes, Spinoza, Leibniz, Locke, Berkeley, and Hume), to be sure, but also a large supporting cast..." 
+
+ Baldwin (ed.), The Cambridge History of Philosophy 18701945, p. 119: "within a hundred years of the first stirrings in the early nineteenth century   had undergone the most fundamental transformation and substantial advance in its history." 
+
+ Jorge J.E. Gracia in Nicholas Bunnin and E.P. Tsui-James (eds.), The Blackwell Companion to Philosophy, 2nd ed. (Blackwell, 2002), p. 621: "the humanists ... restored man to the centre of attention and channeled their efforts to the recovery and transmission of classical learning, particularly in the philosophy of Plato." 
+
+   
+
+ See  : "Tusculanae disputationes", V, 89 
+
+ Andrew Bailey, First Philosophy: Knowledge and Reality (Broadview Press, 2004), p. 274: "Willard Van Orman Quine (19082000) was uncontroversially one of the most important philosophers of the twentieth century." 
+
+ Thomas Baldwin (ed.), The Cambridge History of Philosophy 18701945 (Cambridge University Press, 2003), p. 4: "by the 1870s Germany contained much of the best universities in the world.    There were certainly more professors of philosophy in Germany in 1870 than anywhere else in the world, and perhaps more even than everywhere else put together." 
+
+   in the Internet Encyclopedia of Philosophy: "Ludwig Wittgenstein is one of the most influential philosophers of the twentie

@@ -1,0 +1,189 @@
+ 
+ 
+  and nitric acid) lit in different colors]]
+ 
+
+Chemistry, a branch of physical science, is the study of the composition, properties and behavior of matter.     Chemistry is concerned with atoms and their interactions with other atoms, and particularly with the properties of chemical bonds. Chemistry is also concerned with the interactions between atoms (or groups of atoms) and various forms of energy (e.g. photochemical reactions, changes in phases of matter, separation of mixtures, properties of polymers, etc.).
+ distinct from physics. 
+
+The etymology of the word chemistry has been much disputed.  The genesis of chemistry can be traced to certain practices, known as alchemy, which had been practiced for several millennia in various parts of the world, particularly the Middle East. 
+
+==Etymology==
+ 
+ 
+
+The word chemistry comes from the word alchemy, an earlier set of practices that encompassed elements of chemistry, metallurgy, philosophy, astrology, astronomy, mysticism and medicine; it is commonly thought of as the quest to turn lead or another common starting material into gold.  Alchemy, which was practiced around 330, is the study of the composition of waters, movement, growth, embodying, disembodying, drawing the spirits from bodies and bonding the spirits within bodies (Zosimos of Panopolis|Zosimos).  An alchemist was called a chemist in popular speech, and later the suffix "-ry" was added to this to describe the art of the chemist as "chemistry".
+ Egyptian origins. Many believe that al-km is derived from , which is in turn derived from the word Chemi or Kimi, which is the ancient name of Egypt in Egyptian language|Egyptian.  Alternately, al-km may be derived from , meaning "cast together". 
+
+===Definition===
+In retrospect, the definition of chemistry has changed over time, as new discoveries and theories add to the functionality of the science. The term "chymistry", in the view of noted scientist Robert Boyle in 1661, meant the subject of the material principles of mixed bodies.  In 1663, "chymistry" meant a scientific art, by which one learns to dissolve bodies, and draw from them the different substances on their composition, and how to unite them again, and exalt them to a higher perfection - this definition was used by chemist Christopher Glaser.   as found in:  
+ 
+ Raymond Chang. 
+
+==History==
+ 
+ 
+ rendering fat into soap, making glass, and making alloys like bronze.
+
+  atomist philosophy was later adopted by Epicurus (341270 BCE).]] burning that metallurgy in ancient India). The greed for gold led to the discovery of the process for its purification, even though the underlying principles were not well understoodit was thought to be a transformation rather than purification. Many scholars in those days thought it reasonable to believe that there exist means for transforming cheaper (base) metals into gold. This gave way to alchemy and the search for the Philosophers Stone which was believed to bring about such a transformation by mere touch. 
+ Greek atomism Roman philosopher De Rerum Natura (On The Nature of Things). {{cite web
+ |last=Lucretius
+ |title=de Rerum Natura (On the Nature of Things)
+ |work=The Internet Classics Archive
+ |publisher=Massachusetts Institute of Technology
+ |date=50 BCE
+ |url=http://classics.mit.edu/Carus/nature_things.html
+ |accessdate=2007-01-09}}
+  {{cite web
+ |last=Simpson
+ |first=David
+ |title=Lucretius (c. 99 - c. 55 BCE)
+ |work=The Internet History of Philosophy
+ |date=29 June 2005
+ |url=http://www.iep.utm.edu/l/lucretiu.htm
+ |accessdate= 2007-01-09}}
+  Unlike modern concepts of science, Greek atomism was purely philosophical in nature, with little concern for empirical observations and no concern for chemical experiments. 
+
+Much of the early development of purification methods is described by Pliny the Elder in his Naturalis Historia. 
+
+A tentative outline is as follows:
+
+# Alchemy in Greco-Roman Egypt  , the earliest Western alchemists such as Mary the Jewess, Cleopatra the Alchemist, and Zosimos of Panopolis described early laboratory equipment. They are estimated to have lived between the first and third centuries.
+#  . pp.1314. ISBN 0-313-31664-3 
+# European alchemy  , Pseudo-Geber builds on Arabic chemistry.  From the 12th century, major advances in the chemical arts shifted from Arab lands to western Europe.  Boyle writes his classic chemistry text The Sceptical Chymist. Lavoisier writes his classic Elements of Chemistry. Dalton publishes his Atomic Theory.
+# Chemistry  , Dmitri Mendeleev presented his Periodic table being the framework of the modern chemistry
+ Arab and Persian scholars. They introduced precise observation and controlled experimentation into the field and discovered numerous chemical substances. Will Durant (1980), The Age of Faith (The Story of Civilization, Volume 4), p.&nbsp;162186, Simon & Schuster, ISBN 0-671-01200-2  
+
+ 
+ Indian alchemists and metallurgists in the development of chemistry was also quite significant. Will Durant (1935): Our Oriental Heritage: Simon & Schuster:
+   
+
+  is considered the "Father of Modern Chemistry". ]] Sir Francis Bacon (15611626) and Ren Descartes (15961650), who demanded more rigor in mathematics and in removing bias from scientific observations, led to a scientific revolution. In chemistry this began with Robert Boyle (16271691) who came up with an equation known as Boyles Law about the characteristics of gaseous state. 
+
+Chemistry came of age when Antoine Lavoisier (17431794) developed the theory of Conservation of mass in 1783; and the development of the Atomic Theory by John Dalton around 1800. The Law of Conservation of Mass resulted in the reformulation of chemistry based on this law  and the oxygen theory of combustion, which was largely based on the work of Lavoisier. Lavoisiers fundamental contributions to chemistry were a result of a conscious effort  to fit all experiments into the framework of a single theory.
+ Father of Modern Chemistry".  The later discovery of Friedrich Whler that many natural substances, organic compounds, can indeed be synthesized in a chemistry laboratory also helped the modern chemistry to mature from its infancy. 
+ discovery of the chemical elements has a long history from the days of alchemy and culminating in the creation of the periodic table of the chemical elements by Dmitri Mendeleev (18341907)  and later discoveries of some synthetic elements.
+
+Jns Jacob Berzelius, Joseph Priestley, Humphry Davy, Linus Pauling, Gilbert N. Lewis, Josiah Willard Gibbs, Robert Burns Woodward, and Fritz Haber also made notable contributions.
+
+The year 2011 was declared by the United Nations as the International Year of Chemistry.   It was an initiative of the International Union of Pure and Applied Chemistry, and of the United Nations Educational, Scientific, and Cultural Organization and involves chemical societies, academics, and institutions worldwide and relied on individual initiatives to organize local and regional activities.
+
+==Principles of modern chemistry==
+ , Institute of Biochemistry, University of Cologne.]]
+
+The current model of atomic structure is the quantum mechanical model.  Traditional chemistry starts with the study of elementary particles, atoms, molecules,   chemical substance|substances,  metals, crystals and other aggregates of matter. This matter can be studied in solid, liquid, or gas states of matter|states, in isolation or in combination. The chemical interaction|interactions, reactions and transformations that are studied in chemistry are usually the result of interactions between atoms, leading to rearrangements of the chemical bonds which hold atoms together. Such behaviors are studied in a chemistry laboratory.
+
+The chemistry laboratory stereotypically uses various forms of laboratory glassware. However glassware is not central to chemistry, and a great deal of experimental (as well as applied/industrial) chemistry is done without it.
+
+A chemical reaction is a transformation of some substances into one or more different substances.  The basis of such a chemical transformation is the rearrangement of electrons in the chemical bonds between atoms. It can be symbolically depicted through a chemical equation, which usually involves atoms as subjects. The number of atoms on the left and the right in the equation for a chemical transformation is equal (when unequal, the transformation by definition is not chemical, but rather a nuclear reaction or radioactive decay). The type of chemical reactions a substance may undergo and the energy changes that may accompany it are constrained by certain basic rules, known as chemical laws.
+
+Energy and entropy considerations are invariably important in almost all chemical studies. Chemical substances are classified in terms of their structure, phase, as well as their chemical compositions. They can be analyzed using the tools of chemical analysis, e.g. spectroscopy and chromatography. Scientists engaged in chemical research are known as chemists.  Most chemists specialize in one or more sub-disciplines. Several concepts are essential for the study of chemistry; some of them are: 
+
+===Matter===
+  rest mass and volume (it takes up space), as well as being made up of particles. The particles that make up matter have rest mass as well - not all particles have rest mass, such as the photon.
+
+====Atom====
+ ]]
+ 
+
+The atom is the basic unit of chemistry. It consists of a dense core called the atomic nucleus surrounded by a space called the electron cloud. The nucleus is made up of positively charged protons and neutrons that have no charge, while the electron cloud consists of negatively-charged electrons which orbit the nucleus. In a neutral atom, the negatively-charged electrons balance out the positive charge of the protons.
+
+The atom is also the smallest entity that can be envisaged to retain the chemical properties of the element, such as electronegativity, ionization potential, preferred oxidation state(s), coordination number, and preferred types of bonds to form (e.g., metallic, ionic, covalent).
+
+====Element====
+  of chemical elements. The colors represent different categories of elements]]
+ 
+ nuclei of its atoms. This number is known as the atomic number of the element. For example, all atoms with 6 protons in their nuclei are atoms of the chemical element carbon, and all atoms with 92 protons in their nuclei are atoms of the element uranium.
+
+Although all the nuclei of all atoms belonging to one element will have the same number of protons, they may not necessarily have the same number of neutrons; such atoms are termed isotopes.  In fact several isotopes of an element may exist. Ninetyfour different chemical elements or types of atoms based on the number of protons are observed on earth naturally, having at least one isotope that is stable or has a very long half-life. A further 18 elements have been recognised by IUPAC after they have been made in the laboratory. 
+ by name, by symbol, atomic number are also available.
+
+====Compound====
+  (CO 2 ), an example of a chemical compound]]
+ 
+ organization which water is a compound containing hydrogen and oxygen in the ratio of two to one, with the oxygen atom between the two hydrogen atoms, and an angle of 104.5 between them. Compounds are formed and interconverted by chemical reactions.
+
+====Substance====
+{{infobox
+| data1 =   
+| data2 =   
+| data3 =   
+| data5 = Examples of pure chemical substances. From left to right: the elements tin (Sn) and sulfur (S), diamond (an allotrope of carbon), sucrose (pure sugar), and sodium chloride (salt) and sodium bicarbonate (baking soda), which are both ionic compounds.
+}}
+ 
+
+A chemical substance is a kind of matter with a definite  , alloys, biomass, etc.
+
+Nomenclature of substances is a critical part of the language of chemistry. Generally it refers to a system for naming chemical compounds. Earlier in the history of chemistry substances were given name by their discoverer, which often led to some confusion and difficulty. However, today the IUPAC system of chemical nomenclature allows chemists to specify by name specific compounds amongst the vast variety of possible chemicals.
+
+The standard nomenclature of chemical substances is set by the International Union of Pure and Applied Chemistry (IUPAC). There are well-defined systems in place for naming chemical species. Organic compounds are named according to the organic nomenclature system.  Inorganic compounds are named according to the inorganic nomenclature system.  In addition the Chemical Abstracts Service has devised a method to index chemical substances. In this scheme each chemical substance is identifiable by a number known as its CAS registry number.
+
+====Molecule====
+ 
+  molecule (C 8 H 10 N 4 O 2 ).]]
+
+A molecule is the smallest indivisible portion of a pure chemical substance that has its unique set of chemical properties, that is, its potential to undergo a certain set of chemical reactions with other substances. However, this definition only works well for substances that are composed of molecules, which is not true of many substances (see below). Molecules are typically a set of atoms bound together by covalent bonds, such that the structure is electrically neutral and all valence electrons are paired with other electrons either in bonds or in lone pairs.
+
+Thus, molecules exist as electrically neutral units, unlike ions. When this rule is broken, giving the "molecule" a charge, the result is sometimes named a molecular ion or a polyatomic ion. However, the discrete and separate nature of the molecular concept usually requires that molecular ions be present only in well-separated form, such as a directed beam in a vacuum in a mass spectrograph. Charged polyatomic collections residing in solids (for example, common sulfate or nitrate ions) are generally not considered "molecules" in chemistry.
+
+  molecule (C 6 H 6 )]] noble gas elements (helium, neon, argon, krypton, xenon and radon) are composed of lone atoms as their smallest discrete unit, but the other isolated chemical elements consist of either molecules or networks of atoms bonded to each other in some way. Identifiable molecules compose familiar substances such as water, air, and many organic compounds like alcohol, sugar, gasoline, and the various pharmaceuticals.
+
+However, not all substances or chemical compounds consist of discrete molecules, and indeed most of the solid substances that makes up the solid crust, mantle, and core of the Earth are chemical compounds without molecules. These other types of substances, such as ionic compounds and network solids, are organized in such a way as to lack the existence of identifiable molecules per se.  Instead, these substances are discussed in terms of formula units or unit cells as the smallest repeating structure within the substance. Examples of such substances are mineral salts (such as table salt), solids like carbon and diamond, metals, and familiar silica and silicate minerals such as quartz and granite.
+
+One of the main characteristics of a molecule is its geometry often called its molecular structure|structure. While the structure of diatomic, triatomic or tetra atomic molecules may be trivial, (linear, angular pyramidal etc.) the structure of polyatomic molecules, that are constituted of more than six atoms (of several elements) can be crucial for its chemical nature.
+
+====Mole and amount of substance====
+  mole is substance that contains as many elementary entities (atoms, molecules or ions) as there are atoms in 0.012 kilogram (or 12&nbsp;grams) of carbon-12, where the carbon-12 atoms are unbound, at rest and in their ground state.  The number of entities per mole is known as the Avogadro constant, and is determined empirically. The currently accepted value is 6.02214179(30)  mol 1  (2007 CODATA). One way to understand the meaning of the term "mole" is to compare and contrast it to terms such as dozen. Just as one dozen eggs contains 12 individual eggs, one mole contains 6.02214179(30)  atoms, molecules or other particles. The term is used because it is much easier to say, for example, 1 mole of carbon, than it is to say 6.02214179(30)  carbon atoms, and because moles of chemicals represent a scale that is easy to experience.
+
+The amount of substance of a solute per volume of solution is known as amount of substance concentration, or molarity for short. Molarity is the quantity most commonly used to express the concentration of a solution in the chemical laboratory. The most commonly used units for molarity are mol/L (the official SI units are mol/m 3 ).
+
+===Properties===
+
+====Ions and salts====
+  (KCl), a salt which is formed due to the attraction of K +  cations and Cl -  anions. Note how the overall charge of the ionic compound is zero.]]
+ 
+
+An ion is a charged species, an atom or a molecule, that has lost or gained one or more electrons. When an atom loses an electron and thus has more protons than electrons, the atom is a positively-charged ion or cation. When an atom gains an electron and thus has more electrons than protons, the atom is a negatively-charged ion or anion. Cations and anions can form a crystalline lattice of neutral salt (chemistry)|salts, such as the Na +  and Cl -  ions forming sodium chloride, or NaCl. Examples of polyatomic ions that do not split up during Acid-base reaction theories|acid-base reactions are hydroxide (OH  ) and phosphate (PO 4  3 ).
+
+Ions in the gaseous phase are often known as plasma (physics)|plasma.
+
+====Acidity and basicity====
+  (HBr), pictured, is dissolved in water, it forms the strong acid hydrobromic acid]]
+ 
+ Arrhenius theory, which states than an acid is a substance that produces hydronium ions when it is dissolved in water, and a base is one that produces hydroxide ions when dissolved in water. According to BrnstedLowry acidbase theory, acids are substances that donate a positive hydrogen ion to another substance in a chemical reaction; by extension, a base is the substance which receives that hydrogen ion. 
+ Lewis acid-base theory, which is based on the formation of new chemical bonds. Lewis theory explains that an acid is a substance which is capable of accepting a pair of electrons from another substance during the process of bond formation, while a base is a substance which can provide a pair of electrons to form a new bond.  According to this theory, the crucial things being exchanged are charges.    There are several other ways in which a substance may be classified as an acid or a base, as is evident in the history of this concept  
+
+Acid strength is commonly measured by two methods. One measurement, based on the Arrhenius definition of acidity, is pH, which is a measurement of the hydronium ion concentration in a solution, as expressed on a negative logarithmic scale. Thus, solutions that have a low pH have a high hydronium ion concentration, and can be said to be more acidic. The other measurement, based on the BrnstedLowry definition, is the acid dissociation constant (K a ), which measure the relative ability of a substance to act as an acid under the BrnstedLowry definition of an acid.  That is, substances with a higher K a  are more likely to donate hydrogen ions in chemical reactions than those with lower K a  values.
+
+====Phase====
+ 
+ 
+
+In addition to the specific chemical properties that distinguish different chemical classifications chemicals can exist in several phases. For the most part, the chemical classifications are independent of these bulk phase classifications; however, some more exotic phases are incompatible with certain chemical properties. A phase is a set of states of a chemical system that have similar bulk structural properties, over a range of conditions, such as pressure or temperature.
+
+Physical properties, such as density and refractive index tend to fall within values characteristic of the phase. The phase of matter is defined by the phase transition, which is when energy put into or taken out of the system goes into rearranging the structure of the system, instead of changing the bulk conditions.
+ supercritical state. When three states meet based on the conditions, it is known as a triple point and since this is invariant, it is a convenient way to define a set of conditions.
+
+The most familiar examples of phases are solids, liquids, and gases. Many substances exhibit multiple solid phases. For example, there are three phases of solid iron (alpha, gamma, and delta) that vary based on temperature and pressure. A principal difference between solid phases is the crystal structure, or arrangement, of the atoms. Another phase commonly encountered in the study of chemistry is the aqueous phase, which is the state of substances dissolved in aqueous solution (that is, in water).
+ paramagnetic and ferromagnetic phases of magnetic materials. While most familiar phases deal with three-dimensional systems, it is also possible to define analogs in two-dimensional systems, which has received attention for its relevance to systems in biology.
+
+====Bonding====
+ 
+  (Na) and chlorine (Cl) to form sodium chloride, or common table salt. Ionic bonding involves one atom taking valence electrons from another (as opposed to sharing, which occurs in covalent bonding]]
+
+Atoms sticking together in molecules or crystals are said to be bonded with one another. A chemical bond may be visualized as the multipole balance between the positive charges in the nuclei and the negative charges oscillating about them.  More than simple attraction and repulsion, the energies and distributions characterize the availability of an electron to bond to another atom.
+ interactions which hold atoms together in molecules or crystals. In many simple compounds, Valence Bond Theory, the Valence Shell Electron Pair Repulsion model (VSEPR), and the concept of oxidation number can be used to explain molecular structure and composition.
+
+An ionic bond is formed when a metal loses one or more of its electrons, becoming a positively charged cation, and the electrons are then gained by the non-metal atom, becoming a negatively charged anion. The two oppositely charged ions attract one another, and the ionic bond is the electrostatic force of attraction between them. For example, sodium (Na), a metal, loses one electron to become an Na +  cation while chlorine (Cl), a non-metal, gains this electron to become Cl - . The ions are held together due to electrostatic attraction, and that compound sodium chloride (NaCl), or common table salt, is formed.
+
+  molecule (CH 4 ), the carbon atom shares a pair of valence electrons with each of the four hydrogen atoms. Thus, the octet rule is satisfied for C-atom (it has eight electrons in its valence shell) and the duet rule is satisfied for the H-atoms (they have two electrons in their valence shells.]]
+In a covalent bond, one or more pairs of  . Atoms will share valence electrons in such a way as to create a noble gas electron configuration (eight electrons in their outermost shell) for each atom. Atoms that tend to combine in such a way that they each have eight electrons in their valence shell are said to follow the octet rule. However, some elements like hydrogen and lithium need only two electron in their outermost shell to attain this stable configuration; these atoms are said to follow the duet rule, and in this way they are reaching the electron configuration of the noble gas helium, which has two electrons in its outer shell.
+ metal complexes, valence bond theory is less applicable and alternative approaches, such as the molecular orbital theory, are generally used. See diagram on electronic orbitals.
+
+===Reaction===
+ 
+ , reacts with carbon monoxide to form iron, one of the chemical elements, and carbon dioxide.]]
+When a chemical substance is transformed as a result of its interaction with another substance or with energy, a chemical reaction is said to have occurred. A chemical reaction is therefore a concept related to the reaction of a substance when it comes in close contact with another, whether as a mixture or a solution; exposure to some form of energy, or both. It results in some energy exchange between the constituents of the reaction as well with the system environment which may be designed vessels which are often laboratory glassware.
+ dissociation of neutralization and rearrangement are some of the commonly used kinds of chemical reactions.
+
+A chem

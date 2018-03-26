@@ -1,0 +1,109 @@
+
+Wikipedia
+From Wikipedia, the free encyclopedia
+This article is about the Internet encyclopedia. For other uses, see Wikipedia (disambiguation).
+For Wikipedia's non-encyclopedic visitor introduction, see Wikipedia:About. For the main page, see Main Page.
+
+Wikipedia
+
+
+The logo of Wikipedia, a globe featuring glyphs from several writing systems
+Screenshot 
+
+Screenshot of Wikipedia's multilingual portal.
+URL	https://www.wikipedia.org
+Slogan	The Free Encyclopedia that anyone can edit
+Commercial?	No
+Type of site	Internet encyclopedia
+Registration	Optional, but is required for certain tasks such as editing protected pages, creating pages in English Wikipedia and uploading files
+Available language(s)	275 active editions (286 in total)
+Users	Over 70,000 active editors[1]
+Content license	Creative Commons Attribution/
+Share-Alike 3.0 (most text also dual-licensed under GFDL)
+Media licensing varies
+Owner	Wikimedia Foundation (non-profit)
+Created by	Jimmy Wales, Larry Sanger[2]
+Launched	January 15, 2001 (12 years ago)
+Alexa rank	 6 (May 2013)[3]
+Current status	Active
+Wikipedia (i/wkpidi/ or i/wkipidi/ wik-i-pee-dee-) is a collaboratively edited, multilingual, free Internet encyclopedia supported by the non-profit Wikimedia Foundation. Wikipedia's 26 million articles in 286 languages, including over 4.2 million in the English Wikipedia, are written collaboratively by volunteers around the world. Almost all of its articles can be edited by anyone with access to the site.[4] It has become the largest and most popular general reference work on the Internet,[5][6][7][8][9] ranking sixth globally among all websites on Alexa and having an estimated 365 million readers worldwide.[5][10]
+Wikipedia was launched on January 15, 2001, by Jimmy Wales and Larry Sanger.[11] Sanger coined the name Wikipedia,[12] which is a portmanteau of wiki (a type of collaborative website, from the Hawaiian word wiki, meaning "quick")[13] and encyclopedia. Wikipedia's departure from the expert-driven style of encyclopedia building and the presence of a large body of unacademic content have received extensive attention in print media. In 2006, Time magazine recognized Wikipedia's participation in the rapid growth of online collaboration and interaction by millions of people around the world, in addition to YouTube, MySpace, and Facebook.[14] Wikipedia has also been praised as a news source due to articles related to breaking news often being rapidly updated.[15][16][17]
+The open nature of Wikipedia has led to various concerns, such as the quality of writing,[18] the amount of vandalism[19][20] and the accuracy of information. Some articles contain unverified or inconsistent information,[21] though a 2005 investigation in Nature showed that the science articles they compared came close to the level of accuracy of Encyclopdia Britannica and had a similar rate of "serious errors".[22] Britannica replied that the study's methodology and conclusions were flawed,[23] but Nature reacted to this refutation with both a formal response and a point-by-point rebuttal of Britannica's main objections.[24]
+Contents
+1 Nature
+1.1 Editing
+1.2 Organization of article pages
+1.3 Vandalism
+1.4 Rules and laws governing content and editor behavior
+1.5 Privacy
+1.6 Community
+1.7 Language editions
+2 History
+3 Analysis of content
+3.1 Accuracy of content
+3.2 Quality of writing
+3.3 Coverage of topics and systemic bias
+3.4 Citing Wikipedia
+3.5 Explicit content
+4 Operation
+4.1 Wikimedia Foundation and the Wikimedia chapters
+4.2 Software and hardware
+5 Access to content
+5.1 Content licensing
+5.2 Methods of access
+6 Impact
+6.1 Sister projects  Wikimedia
+6.2 Impact on publishing
+6.3 Cultural significance
+6.4 Scientific use
+7 Related projects
+8 See also
+9 References
+9.1 Notes
+9.2 Further reading
+10 External links
+Nature
+
+	As the popular joke goes, The problem with Wikipedia is that it only works in practice. In theory, it can never work.	
+Miikka Ryks, [25]
+Editing
+
+In April 2009, the Wikimedia Foundation conducted a Wikipedia usability study, questioning users about the editing mechanism.[26]
+In a departure from the style of traditional encyclopedias, Wikipedia is open to outside editing. This means that, with the exception of particularly sensitive and/or vandalism-prone pages that are "protected" to some degree,[27] the reader of an article can edit the text without needing approval, doing so with a registered account or even anonymously. Different language editions modify this policy to some extent; for example, only registered users may create a new article in the English edition.[28] No article is considered to be owned by its creator or any other editor, nor is it vetted by any recognized authority. Instead, editors are supposed to agree on the content and structure of articles by consensus.[29]
+By default, an edit to an article becomes available immediately, prior to any review. As such, an article may contain inaccuracies, ideological biases, or even patent nonsense, until or unless another editor corrects the problem. Different language editions, each under separate administrative control, are free to modify this policy. For example, the German Wikipedia maintains "stable versions" of articles,[30] which have passed certain reviews. Following the protracted trials and community discussion, the "pending changes" system was introduced to English Wikipedia in December 2012.[31] Under this system, new users' edits to certain controversial or vandalism-prone articles would be "subject to review from an established Wikipedia editor before publication".
+
+
+Editors keep track of changes to articles by checking the difference between two revisions of a page, displayed here in yellow and blue.
+Contributors, whether registered or not, can take advantage of features available in the software that powers Wikipedia. The "History" page belonging to each article records every single past revision of the article, though a revision with libelous content, criminal threats or copyright infringements may be removed retroactively.[32] Editors can use this page to undo undesirable changes or restore lost content. The "Talk" page associated with each article helps coordinate work among multiple editors.[33] Importantly, editors may use the "Talk" page to reach consensus,[34] sometimes through the use of polling.
+In addition, editors may view the most "recent changes" to the website, which are displayed in reverse chronology. Regular contributors often maintain a "watchlist" of articles of interest to them, in order to easily track recent changes to those articles. In language editions with many articles, editors tend to prefer the "watchlist" because the number of edits has become too large to follow in "recent changes." New page patrol is a process by which newly created articles are checked for obvious problems.[35] A frequently vandalized article can be semi-protected, allowing only well established users to edit it.[36] A particularly contentious article may be locked so that only administrators are able to make changes.[37]
+
+
+The editing interface of Wikipedia.
+Computer programs called bots have been used widely to correct common misspellings and stylistic issues, or to start articles such as geography entries in a standard format from statistical data.[38][39][40] There are also some bots designed to warn users making "undesirable" edits,[41] block on the creation of links to particular websites, and block on edits from particular accounts or IP address ranges. Bots on Wikipedia must be approved by administration prior to activation.[42]
+Organization of article pages
+Articles in Wikipedia are loosely organized according to their development status and subject matter.[43] A new article often starts as a "stub", a very short page consisting of definitions and some links. On the other extreme, the most developed articles may be nominated for "Featured article" status. One "featured article" per day, as selected by editors, appears on the main page of Wikipedia.[44][45] Researcher Giacomo Poderi found that articles tend to reach featured status via the intensive work of a few editors.[46] A 2010 study found unevenness in quality among featured articles and concluded that the community process is ineffective in assessing the quality of articles.[47] In 2007, in preparation for producing a print version, the English-language Wikipedia introduced an assessment scale against which the quality of articles is judged.[48]
+A group of Wikipedia editors may form a WikiProject to focus their work on a specific topic area, using its associated discussion page to coordinate changes across multiple articles.
+Vandalism
+Main article: Vandalism on Wikipedia
+Any edit that changes content in a way that deliberately compromises the integrity of Wikipedia is considered vandalism. The most common and obvious types of vandalism include insertion of obscenities and crude humor. Vandalism can also include advertising language, and other types of spam.[49] Sometimes editors commit vandalism by removing information or entirely blanking a given page. Less common types of vandalism, such as the deliberate addition of plausible but false information to an article, can be more difficult to detect. Vandals can introduce irrelevant formatting, modify page semantics such as the page's title or categorization, manipulate the underlying code of an article, or utilize images disruptively.[50]
+The opportunity for vandalism provides a number of unique challenges to Wikipedia. One criticism is that, at any moment, a reader of an article cannot be certain that it has not been compromised by the insertion of false information or the removal of essential information. Former Encyclopdia Britannica editor-in-chief Robert McHenry once described the predicament using a simile:[51]
+The user who visits Wikipedia to learn about some subject, to confirm some matter of fact, is rather in the position of a visitor to a public restroom. It may be obviously dirty, so that he knows to exercise great care, or it may seem fairly clean, so that he may be lulled into a false sense of security. What he certainly does not know is who has used the facilities before him.[52]
+
+
+John Seigenthaler has described Wikipedia as "a flawed and irresponsible research tool".[53]
+Obvious vandalism is generally easy to remove from wiki articles; in practice, the median time to detect and fix vandalism is a few minutes.[19][20] However, in one high-profile incident in 2005, false information was introduced into the biography of American political figure John Seigenthaler and remained undetected for four months.[53] John Seigenthaler, the founding editorial director of USA Today and founder of the Freedom Forum First Amendment Center at Vanderbilt University, called Wales and asked whether he had any way of knowing who contributed the misinformation. Wales replied that he did not, although the perpetrator was eventually traced.[54][55] This incident led to policy changes on the site, specifically targeted at tightening up the verifiability of all biographical articles of living people.[56]
+Rules and laws governing content and editor behavior
+Content in Wikipedia is subject to the laws (in particular, the copyright laws) of the United States and of the U.S. state of Florida, where the majority of Wikipedia's servers are located. Beyond legal matters, the editorial principles of Wikipedia are embodied in the "five pillars", and numerous policies and guidelines that are intended to shape the content appropriately. Even these rules are stored in wiki form, and Wikipedia editors as a community write and revise the website's policies and guidelines.[57] Editors can enforce rules by deleting or modifying non-compliant material. Originally, rules on the non-English editions of Wikipedia were based on a translation of the rules on the English Wikipedia. They have since diverged to some extent.
+English Wikipedia
+
+
+Main Page of the English Wikipedia on October 20, 2010.
+
+
+The mobile version of the English Wikipedia Main Page in the Safari web browser on an iPod Touch
+Main article: English Wikipedia
+Content policies
+According to the rules on the English Wikipedia, each entry in Wikipedia, to be worthy of inclusion, must be about a topic that is encyclopedic and is not a dictionary entry or dictionary-like.[58] A topic should also meet Wikipedia's standards of "notability",[59] which usually means that it must have received significant coverage in reliable secondary sources such as mainstream media or major academic journals that are independent of the subject of the topic. Further, Wikipedia intends to convey only knowledge that is already established and recognized.[60] It must not present new information or original research. A claim that is likely to be challenged requires a reference to a reliable source. Among Wikipedia editors, this is often phrased as "verifiability, not truth" to express the idea that the readers, not the encyclopedia, are ultimately responsible for checking the truthfulness of the articles and making their own interpretations.[61] This can lead to the removal of information that is valid, thus hindering inclusion of knowledge and growth of the encyclopedia.[62] Finally, Wikipedia must not take sides.[63] All opinions and viewpoints, if attributable to external sources, must enjoy an appropriate share of coverage within an article.[64] This is known as neutral point of view (NPOV).
+Dispute resolution
+Wikipedia has many methods of settling disputes. A "BOLD, revert, discuss" cycle sometimes occurs, in which an editor changes something, another editor reverts the change, and then the two editors discuss the issue on a talk page. When editors disregard this process  when a change is repeatedly done by one editor and then undone by another  an "edit war" may be asserted to have begun.[65] The provenance of this term "edit war" is unknown.[66]
+In order to gain a broader community consensus, editors can raise issues at the Village Pump, or initiate a Request for Comment. An editor can report impolite, uncivil, or otherwise problematic communications with another editor via the "Wikiquette Assistance" noticeboard. [needs update] Such postings themselves have no binding or disciplinary power. Specialized forums exist for centralizing discussion on specific decisions, such as whether or not an article should be deleted. Mediation is sometimes used, although it has been deemed by some Wikipedians to be

@@ -1,0 +1,152 @@
+ 
+  Greek  forms that arguments may take. In mathematics, it is the study of valid inferences within some formal language.  Logic is also studied in argumentation theory. 
+ Buddhists and Jainism|Jainists.
+
+Logic is often divided into three parts, inductive reasoning, abductive reasoning, and deductive reasoning.
+
+==The study of logic==
+ 
+ logical form Aristotelian syllogistic logic and modern symbolic logic are examples of formal logics.
+
+* Informal logic is the study of natural language Logical argument|arguments.  The study of fallacies is an especially important branch of informal logic.  The dialogues of Plato  are good examples of informal logic. Formal logic logical inference and inference with purely formal content are the same.  This does not render the notion of informal logic vacuous, because no formal logic captures all of the nuance of natural language.
+*   and predicate logic.
+* Mathematical logic is an extension of symbolic logic into other areas, in particular to the study of model theory, proof theory, set theory, and recursion theory.
+
+=== Logical form ===
+ 
+Logic is generally accepted to be formal when it aims to analyze and represent the form of any valid argument type. The form of an argument is displayed by representing its sentences in the formal grammar and symbolism of a logical language to make its content usable in formal inference. If one considers the notion of form to be too philosophically loaded, one could say that formalizing is nothing else than translating English sentences into the language of logic.
+
+This is known as showing the logical form of the argument. It is necessary because indicative sentences of ordinary language show a considerable variety of form and complexity that makes their use in inference impractical. It requires, first, ignoring those grammatical features, which are irrelevant to logic (such as gender and declension, if the argument is in Latin), replacing conjunctions that are not relevant to logic (such as but) with logical conjunctions like and and replacing ambiguous, or alternative logical expressions (any, every, etc.) with expressions of a standard type (such as all, or the universal quantifier ).
+
+Second, certain parts of the sentence must be replaced with schematic letters. Thus, for example, the expression all As are Bs shows the logical form common to the sentences all men are mortals, all cats are carnivores, all Greeks are philosophers and so on.
+
+That the concept of form is fundamental to logic was already recognized in ancient times. Aristotle uses variable letters to represent valid inferences in Prior Analytics, leading Jan ukasiewicz to say that the introduction of variables was one of Aristotles greatest inventions.  According to the followers of Aristotle (such as Ammonius Saccas|Ammonius), only the logical principles stated in schematic terms belong to logic, not those given in concrete terms. The concrete terms man, mortal, etc., are analogous to the substitution values of the schematic placeholders A, B, C, which were called the matter (Greek hyle) of the inference.
+
+The fundamental difference between modern formal logic and traditional, or Aristotelian logic, lies in their differing analysis of the logical form of the sentences they treat.
+
+* In the traditional view, the form of the sentence consists of (1) a subject (e.g., man) plus a sign of quantity (all or some or no); (2) the Copula (linguistics)|copula, which is of the form is or is not; (3) a predicate (e.g., mortal).  Thus: all men are mortal. The logical constants such as all, no and so on, plus sentential connectives such as and and or were called syncategorematic terms (from the Greek kategorei  to predicate, and syn  together with). This is a fixed scheme, where each judgment has an identified quantity and copula, determining the logical form of the sentence.
+* According to the modern view, the fundamental form of a simple sentence is given by a recursive schema, involving logical connectives, such as a quantifier with its bound variable, which are joined to by juxtaposition to other sentences, which in turn may have logical structure.
+* The modern view is more complex, since a single judgement of Aristotles system will involve two or more logical connectives. For example, the sentence "All men are mortal" involves, in term logic, two non-logical terms "is a man" (here M) and "is mortal" (here D): the sentence is given by the judgement A(M,D). In predicate logic, the sentence involves the same two non-logical concepts, here analyzed as  m(x)  and  d(x) , and the sentence is given by  \forall x. (m(x) \rightarrow d(x)) , involving the logical connectives for universal quantification and material conditional|implication.
+* But equally, the modern view is more powerful. Medieval logicians recognized the problem of multiple generality, where Aristotelian logic is unable to satisfactorily render such sentences as "Some guys have all the luck", because both quantities "all" and "some" may be relevant in an inference, but the fixed scheme that Aristotle used allows only one to govern the inference. Just as linguists recognize recursive structure in natural languages, it appears that logic needs recursive structure.
+
+===Deductive and inductive reasoning, and retroductive inference===
+Deductive reasoning concerns what follows necessarily from given premises (if a, then b). However, inductive reasoningthe process of deriving a reliable generalization from observationshas sometimes been included in the study of logic. Similarly, it is important to distinguish deductive validity and inductive validity (called "cogency"). An inference is deductively valid if and only if there is no possible situation in which all the premises are true but the conclusion false. An inductive argument can be neither valid nor invalid; its premises give only some degree of probability, but not certainty, to its conclusion.
+
+The notion of deductive validity can be rigorously stated for systems of formal logic in terms of the well-understood notions of semantics. Inductive validity on the other hand requires us to define a reliable generalization of some set of observations. The task of providing this definition may be approached in various ways, some less formal than others; some of these definitions may use mathematical models of probability.  For the most part this discussion of logic deals only with deductive logic.
+
+Retroductive inference is a mode of reasoning that Peirce proposed as operating over and above induction and deduction to "open up new ground" in processes of theorizing (1911, p.&nbsp;2).  He defines retroduction as a logical inference that allows us to "render comprehensible" some observations/events we perceive, by relating these back to a posited state of affairs that would help to shed light on the observations  antecedent (that is, a posited state of things that helps us to render comprehensible the observed phenomenon). Or, as he otherwise puts it, it can be considered as "regressing from a consequent to a hypothetical antecedent" (1911, p.&nbsp;4). See for instance, the discussion at: http://www.helsinki.fi/science/commens/dictionary.html
+
+Some authors have suggested that this mode of inference can be used within social theorizing to postulate social structures/mechanisms that explain the way that social outcomes arise in social life and that in turn also indicate that these structures/mechanisms are alterable with sufficient social will (and visioning of alternatives). In other words, this logic is specifically liberative in that it can be used to point to transformative potential in our way of organizing our social existence by our re-examining/exploring the deep structures that generate outcomes (and life chances for people). In her book on New Racism (2010) Norma Romm offers an account of various interpretations of what can be said to be involved in retroduction as a form of inference and how this can also be seen to be linked to a style of theorizing (and caring) where processes of knowing (which she sees as dialogically rooted) are linked to social justice projects (http://www.springer.com/978-90-481-8727-0)
+
+=== Consistency, validity, soundness, and completeness ===
+Among the important properties that logical systems can have:
+* Consistency proof|Consistency, which means that no theorem of the system contradicts another. 
+* Validity, which means that the systems rules of proof will never allow a false inference from true premises. A logical system has the property of soundness when the logical system has the property of validity and uses only premises that prove true (or, in the case of axioms, are true by definition). 
+* Completeness, of a logical system, which means that if a formula is true, it can be proven (if it is true, it is a theorem of the system).
+* Soundness, the term soundness has multiple separate meanings, which creates a bit of confusion throughout the literature. Most commonly, soundness refers to logical systems, which means that if some formula can be proven in a system, then it is true in the relevant model/structure (if A is a theorem, it is true). This is the converse of completeness. A distinct, peripheral use of soundness refers to arguments, which means that the premises of a valid argument are true in the actual world. incompleteness theorems show that sufficiently complex formal systems of arithmetic cannot be consistent and complete;  however, first-order predicate logics not extended by specific axioms to be arithmetic formal systems with equality can be complete and consistent. 
+
+===Rival conceptions of logic===
+ 
+
+Logic arose (see below) from a concern with correctness of argumentation. Modern logicians usually wish to ensure that logic studies just those arguments that arise from appropriately general forms of inference. For example, Thomas Hofweber writes in the Stanford Encyclopedia of Philosophy that logic "does not, however, cover good reasoning as a whole. That is the job of the theory of rationality. Rather it deals with inferences whose validity can be traced back to the formal features of the representations that are involved in that inference, be they linguistic, mental, or other representations". 
+
+By contrast, Immanuel Kant argued that logic should be conceived as the science of judgement, an idea taken up in Gottlob Freges logical and philosophical work. But Freges work is ambiguous in the sense that it is both concerned with the "laws of thought" as well as with the "laws of truth", i.e. it both treats logic in the context of a theory of the mind, and treats logic as the study of abstract formal structures.
+
+==History==
+ 
+ , 384322 BC.]]
+ temporal modal inductive logic, Summa Logicae was released. By the 18th century, the structured approach to arguments had degenerated and fallen out of favour, as depicted in Ludvig Holberg|Holbergs satirical play Erasmus Montanus.
+ Chinese logical philosopher Gongsun Long (ca. 325250 BC) proposed the paradox "One and one cannot become two, since neither becomes two."   In China, the tradition of scholarly investigation into logic, however, was repressed by the Qin dynasty following the legalist philosophy of Han Feizi.
+
+In India, innovations in the scholastic school, called Nyaya, continued from ancient times into the early 18th century with the Navya-Nyaya school. By the 16th century, it developed theories resembling modern logic, such as Gottlob Freges "distinction between sense and reference of proper names" and his "definition of number," as well as the theory of "restrictive conditions for universals" anticipating some of the developments in modern set theory.  Since 1824, Indian logic attracted the attention of many Western scholars, and has had an influence on important 19th-century logicians such as Charles Babbage, Augustus De Morgan, and George Boole.  In the 20th century, Western philosophers like Stanislaw Schayer and Klaus Glashoff have explored Indian logic more extensively.
+ syllogistic logic An Investigation quantifier notation.  From 1910 to 1913, Alfred North Whitehead and Bertrand Russell published Principia Mathematica   on the foundations of mathematics, attempting to derive mathematical truths from axioms and inference rules in symbolic logic. In 1931, Gdel raised serious problems with the foundationalist program and logic ceased to focus on such issues.
+ logic circuits and is fundamental to computer science. Logic is commonly taught by university philosophy departments, often as a compulsory discipline.
+
+==Topics in logic==
+===Syllogistic logic===
+ 
+
+The Organon was Aristotles body of work on logic, with the Prior Analytics constituting the first explicit work in formal logic, introducing the syllogistic.  The parts of syllogistic logic, also known by the name term logic, are the analysis of the judgements into propositions consisting of two terms that are related by one of a fixed number of relations, and the expression of inferences by means of syllogisms that consist of two propositions sharing a common term as premise, and a conclusion that is a proposition involving the two unrelated terms from the premises.
+
+Aristotles work was regarded in classical times and from medieval times in Europe and the Middle East as the very picture of a fully worked out system.  However, it was not alone: the Stoics proposed a system of propositional logic that was studied by medieval logicians.  Also, the problem of multiple generality was recognised in medieval times.  Nonetheless, problems with syllogistic logic were not seen as being in need of revolutionary solutions.
+
+Today, some academics claim that Aristotles system is generally seen as having little more than historical value (though there is some current interest in extending term logics), regarded as made obsolete by the advent of propositional logic and the predicate calculus.  Others use Aristotle in argumentation theory to help develop and critically question argumentation schemes that are used in artificial intelligence and legal arguments.
+
+===Propositional logic (sentential logic)===
+ 
+A propositional calculus or logic (also a sentential calculus) is a formal system in which formulae representing propositions can be formed by combining atomic propositions using logical connectives, and in which a system of formal proof rules allows certain formulae to be established as "theorems".
+
+===Predicate logic===
+ 
+
+Predicate logic is the generic term for symbolic formal systems such as first-order logic, second-order logic, many-sorted logic, and infinitary logic.
+
+Predicate logic provides an account of quantifiers general enough to express a wide set of arguments occurring in natural language. Aristotelian syllogistic logic specifies a small number of forms that the relevant part of the involved judgements may take. Predicate logic allows sentences to be analysed into subject and argument in several additional ways, thus allowing predicate logic to solve the problem of multiple generality that had perplexed medieval logicians.
+
+The development of predicate logic is usually attributed to Gottlob Frege, who is also credited as one of the founders of analytical philosophy, but the formulation of predicate logic most often used today is the first-order logic presented in Principles of Mathematical Logic by David Hilbert and Wilhelm Ackermann in 1928.  The analytical generality of predicate logic allowed the formalisation of mathematics, drove the investigation of set theory, and allowed the development of Alfred Tarskis approach to model theory. It provides the foundation of modern mathematical logic.
+
+Freges original system of predicate logic was second-order, rather than first-order. Second-order logic is most prominently defended (against the criticism of Willard Van Orman Quine and others) by George Boolos and Stewart Shapiro.
+
+===Modal logic===
+ 
+ modality deals with the phenomenon that sub-parts of a sentence may have their semantics modified by special verbs or modal particles.  For example, "We go to the games" can be modified to give "We should go to the games", and "We can go to the games"" and perhaps "We will go to the games".  More abstractly, we might say that modality affects the circumstances in which we take an assertion to be satisfied.
+
+ . 
+     frame semantics, dynamic logic.
+
+===Informal reasoning===
+ 
+
+The motivation for the study of logic in ancient times was clear: it is so that one may learn to distinguish good from bad arguments, and so become more effective in argument and oratory, and perhaps also to become a better person.  Half of the works of Aristotles Organon treat inference as it occurs in an informal setting, side by side with the development of the syllogistic, and in the Aristotelian school, these informal works on logic were seen as complementary to Aristotles treatment of rhetoric.
+
+This ancient motivation is still alive, although it no longer takes centre stage in the picture of logic; typically dialectical logic will form the heart of a course in critical thinking, a compulsory course at many universities.
+
+Argumentation theory is the study and research of informal logic, fallacies, and critical questions as they relate to every day and practical situations.  Specific types of dialogue can be analyzed and questioned to reveal premises, conclusions, and fallacies.  Argumentation theory is now applied in artificial intelligence and law.
+
+===Mathematical logic===
+ 
+
+Mathematical logic really refers to two distinct areas of research: the first is the application of the techniques of formal logic to mathematics and mathematical reasoning, and the second, in the other direction, the application of mathematical techniques to the representation and analysis of formal logic. 
+
+The earliest use of mathematics and geometry in relation to logic and philosophy goes back to the ancient Greeks such as Euclid, Plato, and Aristotle.   Many other ancient and medieval philosophers applied mathematical ideas and methods to their philosophical claims. 
+ ]]
+One of the boldest attempts to apply logic to mathematics was undoubtedly the  , and the programme was to show this by means to a reduction of mathematics to logic.   The various attempts to carry this out met with a series of failures, from the crippling of Freges project in his Grundgesetze by Russells paradox, to the defeat of Hilberts program by Gdels incompleteness theorems.
+
+Both the statement of Hilberts program and its refutation by Gdel depended upon their work establishing the second area of mathematical logic, the application of mathematics to logic in the form of   is enough to describe the whole of mathematics, though not equivalent to it.  Thus we see how complementary the two areas of mathematical logic have been. 
+
+If proof theory and model theory have been the foundation of mathematical logic, they have been but two of the four pillars of the subject.  Set theory originated in the study of the infinite by Georg Cantor, and it has been the source of many of the most challenging and important issues in mathematical logic, from Cantors theorem, through the status of the Axiom of Choice and the question of the independence of the continuum hypothesis, to the modern debate on large cardinal axioms.
+ degrees of unsolvability. 
+
+===Philosophical logic===
+ 
+
+Philosophical logic deals with formal descriptions of natural language.  Most philosophers assume that the bulk of "normal" proper reasoning can be captured by logic, if one can find the right method for translating ordinary language into that logic. Philosophical logic is essentially a continuation of the traditional discipline that was called "Logic" before the invention of mathematical logic. Philosophical logic has a much greater concern with the connection between natural language and logic. As a result, philosophical logicians have contributed a great deal to the development of non-standard logics (e.g., free logics, tense logics) as well as various extensions of classical logic (e.g., modal logics), and non-standard semantics for such logics (e.g., Saul Kripke|Kripkes technique of supervaluations in the semantics of logic).
+
+Logic and the philosophy of language are closely related.  Philosophy of language has to do with the study of how our language engages and interacts with our thinking.  Logic has an immediate impact on other areas of study.  Studying logic and the relationship between logic and ordinary speech can help a person better structure his own arguments and critique the arguments of others.  Many popular arguments are filled with errors because so many people are untrained in logic and unaware of how to formulate an argument correctly.
+
+===Computational logic===
+ 
+Logic cut to the heart of computer science as it emerged as a discipline: Alan Turings work on the Entscheidungsproblem followed from Kurt Gdels work on the incompleteness theorems, and the notion of general purpose computers that came from this work was of fundamental importance to the designers of the computer machinery in the 1940s.
+
+In the 1950s and 1960s, researchers predicted that when human knowledge could be expressed using logic with mathematical notation, it would be possible to create a machine that reasons, or artificial intelligence.  This turned out to be more difficult than expected because of the complexity of human reasoning.  In logic programming, a program consists of a set of axioms and rules. Logic programming systems such as Prolog compute the consequences of the axioms and rules in order to answer a query.
+
+Today, logic is extensively applied in the fields of Artificial Intelligence, and Computer Science, and these fields provide a rich source of problems in formal and informal logic.  Argumentation theory is one good example of how logic is being applied to artificial intelligence.  The ACM Computing Classification System in particular regards:
+* Section F.3 on  , as well as work of formal methods such as Hoare logic
+*  , relating to operatives AND, NOT, and OR;
+* Many fundamental logical formalisms are essential to section I.2 on artificial intelligence, for example modal logic and default logic in Knowledge representation formalisms and methods, Horn clauses in logic programming, and description logic.
+
+Furthermore, computers can be used as tools for logicians.  For example, in symbolic logic and mathematical logic, proofs by humans can be computer-assisted.  Using automated theorem proving the machines can find and check proofs, as well as work with proofs too lengthy to be written out by hand.
+
+===Bivalence and the law of the excluded middle===
+ 
+
+The logics discussed above are all "Principle of bivalence|bivalent" or "two-valued"; that is, they are most naturally understood as dividing propositions into true and false propositions.  Non-classical logics are those systems that reject bivalence.
+ dialectic logic that extended Kants transcendental logic but also brought it back to ground by assuring us that "neither in heaven nor in earth, neither in the world of mind nor of nature, is there anywhere such an abstract eitheror as the understanding maintains.  Whatever exists is concrete, with difference and opposition in itself". 
+
+In 1910, Nicolai A. Vasiliev extended the law of excluded middle and the law of contradiction and proposed the law of excluded fourth and logic tolerant to contradiction.  In the early 20th century Jan ukasiewicz investigated the extension of the traditional true/false values to include a third value, "possible", so inventing ternary logic, the first multi-valued logic. 
+
+Logics such as fuzzy logic have since been devised with an infinite number of "degrees of truth", represented by a real number between 0 and 1. 
+
+Intuitionistic logic was proposed by L.E.J. Brouwer as the correct logic for reasoning about mathematics, based upon his rejection of the law of the excluded middle as part of his intuitionism.  Brouwer rejected formalisation in mathematics, but his student Arend Heyting studied intuitionistic logic formally, as did Gerhard Gentzen.  Intuitionistic logic has come to be of great interest to computer scientists, as it is a constructive logic and can be applied for extracting verified programs from proofs. 
+
+Modal logic is not truth conditional, and so it has often been proposed as a non-classical logic.  However, modal logic is normally formalised with the principle of the excluded middle, and its relational sem

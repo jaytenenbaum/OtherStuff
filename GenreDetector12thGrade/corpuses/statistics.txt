@@ -1,0 +1,47 @@
+ 
+
+  surveys and experimental design|experiments. 
+
+The word statistics, when referring to the scientific discipline, is singular, as in "Statistics is an art."  This should not be confused with the word statistic, referring to a quantity (such as mean or median) calculated from a set of data,  whose plural is statistics ("this statistic seems wrong" or "these statistics are misleading").
+
+  is found the closer one gets to the expected (mean) value in a normal distribution. Statistics used in standardized testing assessment are shown. The scales include standard deviations, cumulative percentages, percentile equivalents, Z-scores, T-scores, standard nines, and percentages in standard nines.]]
+
+ 
+
+==Scope==
+Some consider statistics a mathematical body of science that pertains to the collection, analysis, interpretation or explanation, and presentation of data,  while others consider it a branch of mathematics  concerned with collecting and interpreting data. Because of its empirical roots and its focus on applications, statistics is usually considered a distinct mathematical science rather than a branch of mathematics.   privacy of census information.
+ experiment designs survey samples. Statistics itself also provides tools for prediction and forecasting the use of data and statistical models. Statistics is applicable to a wide variety of academic disciplines, including natural and social sciences, government, and business. Statistical consultants can help organizations and companies that dont have in-house expertise relevant to their particular questions.
+ modeled in a way that accounts for randomness and uncertainty in the observations.
+
+These models can be used to draw inferences about the process or population under study—a practice called inferential statistics. Inference is a vital element of scientific advance, since it provides a way to draw conclusions from data that are subject to random variation. To prove the propositions being investigated further, the conclusions are tested as well, as part of the scientific method. Descriptive statistics and analysis of the new data tend to provide more information as to the truth of the proposition.
+
+"Applied statistics" comprises descriptive statistics and the application of inferential statistics.   Theoretical statistics concerns both the logical arguments underlying justification of approaches to statistical inference, as well encompassing mathematical statistics. Mathematical statistics includes not only the manipulation of probability distributions necessary for deriving results related to methods of estimation and inference, but also various aspects of computational statistics and the design of experiments.
+ deduce probabilities inductively inferring from samples to the parameters of a larger or total population.
+
+==History==
+ 
+
+Statistical methods date back at least to the 5th century BC. The earliest known writing on statistics appears in a 9th century book entitled Manuscript on Deciphering Cryptographic Messages, written by  , 16(2) 97–126.        
+
+The Nuova Cronica, a 14th century history of Florence by the Florentine banker and official Giovanni Villani, includes much statistical information on population, ordinances, commerce, education, and religious facilities, and has been described as the first introduction of statistics as a positive element in history. Villani, Giovanni. Encyclopædia Britannica. Encyclopædia Britannica 2006 Ultimate Reference Suite DVD. Retrieved on 2008-03-04. 
+
+Some scholars pinpoint the origin of statistics to 1663, with the publication of Natural and Political Observations upon the Bills of Mortality by John Graunt.  Early applications of statistical thinking revolved around the needs of states to base policy on demographic and economic data, hence its History of statistics#Etymology|stat- etymology. The scope of the discipline of statistics broadened in the early 19th century to include the collection and analysis of data in general. Today, statistics is widely employed in government, business, and natural and social sciences.
+
+Its mathematical foundations were laid in the 17th century with the development of the probability theory by Blaise Pascal and Pierre de Fermat. Probability theory arose from the study of games of chance. The method of least squares was first described by Carl Friedrich Gauss around 1794. The use of modern computers has expedited large-scale statistical computation, and has also made possible new methods that are impractical to perform manually.
+<!-- Hide statement about "greatest statisticians" that appeared in another article with a supposed source that didnt say anything close to this: R A Fisher, and CR Rao| C R Rao as the greatest statisticians of all time.  -->
+
+==Overview== population or process to be studied. Populations can be diverse topics such as "all persons living in a country" or "every atom composing a crystal". A population can also be composed of observations of a process at various times, with the data from each observation serving as a different member of the overall group.  Data collected about this kind of "population" constitutes what is called a time series.
+ sample is studied—as opposed to compiling data about the entire group (an operation called census). Once a sample that is representative of the population is determined, data is collected for the sample members in an observational or experimental setting. This data can then be subjected to statistical analysis, serving two related purposes: description and inference. continuous data types (like heights or weights), while frequency and percentage are more useful in terms of describing categorical data (like race). associations within spatial data, and can also include data mining. 
+{{Quote box
+ | quote = "... it is only the manipulation of uncertainty that interests us. We are not concerned with the matter that is uncertain. Thus we do not study the mechanism of rain; only whether it will rain."
+ | source = Dennis Lindley, 2000 
+ | width = 40%
+ | align= right
+}}
+The concept of correlation is particularly noteworthy for the potential confusion it can cause. Statistical analysis of a data set often reveals that two variables (properties) of the population under consideration tend to vary together, as if they were connected. For example, a study of annual income that also looks at age of death might find that poor people tend to have shorter lives than affluent people. The two variables are said to be correlated; however, they may or may not be the cause of one another. The correlation phenomena could be caused by a third, previously unconsidered phenomenon, called a lurking variable or confounding variable. For this reason, there is no way to immediately infer the existence of a causal relationship between the two variables. (See Correlation does not imply causation.)
+
+To use a sample as a guide to an entire population, it is important that it truly represent the overall population. Representative sampling assures that inferences and conclusions can safely extend from the sample to the population as a whole. A major problem lies in determining the extent that the sample chosen is actually representative. Statistics offers methods to estimate and correct for any random trending within the sample and data collection procedures. There are also methods of experimental design for experiments that can lessen these issues at the outset of a study, strengthening its capability to discern truths about the population.
+ mathematical discipline statistical procedures. The use of any statistical method is valid when the system or population under consideration satisfies the  assumptions of the method.
+ See below for further discussion.
+
+Even when statistical techniques are correctly applied, the results can be difficult to interpret for those lacking expertise. The statistical significance of a trend in the data—which measures the extent to which a trend could be caused by random variation in the sample—may or may not agree with an intuitive sense of its significance. The set of basic statistical skills (and skepticism) that people need to deal wit

@@ -1,0 +1,75 @@
+ 
+  
+ 
+ 
+ rags or grasses, and drying them into flexible sheets.
+ cleaning products, in a number of industrial and construction processes, and even as a food ingredient&nbsp; particularly in Asian cultures.
+ Han court eunuch Cai Lun, although the earliest archaeological fragments of paper derive from the 2nd century BC in China.   
+
+==History==
+ 
+  wrapping paper, China, circa 100 BCE.]]
+ Han court eunuch.  With paper an effective substitute for silk in many applications, China could export silk in greater quantity, contributing to a Golden Age. 
+
+Paper spread from China through the Middle East to medieval Europe in the 13th century, where the first water-powered paper mills were built.    In the 19th century, industrial manufacture greatly lowered its cost, enabling mass exchange of information and contributing to significant cultural shifts. In 1844, Canadian inventor Charles Fenerty and German F.G. Keller independently developed processes for pulping wood fibers. 
+
+==Etymology==
+ 
+ Greek  Mediterranean cultures writing before the introduction of paper into the Middle East and Europe. 
+{{cite web
+|url=http://dictionary.reference.com/browse/Papyrus
+|title=Papyrus definition 
+| work=Dictionary.com
+|accessdate=2008-11-20
+|last=
+|first=
+}}
+  Although paper is etymologically derived from papyrus, the two are produced very differently and the development of modern paper is separate from the development of papyrus. Papyrus is a "lamination of natural plants, while paper is manufactured from fibres whose properties have been changed by maceration or disintegration. 
+
+==Papermaking==
+ 
+
+===Chemical pulping===
+ 
+ bleached to produce white paper, but this consumes 5% of the fibers. Chemical pulping processes are not used to make paper made from cotton, which is already 90% cellulose.
+ autofluorescing under ultraviolet illumination. The individual fibres in this sample are around 10 micrometre|m in diameter.]]
+
+There are three main chemical pulping processes. The sulfite process dates back to the 1840s, and it was the dominant process before the second world war. The kraft process, invented in the 1870s and first used in the 1890s, is now the most commonly practiced strategy. One advantage is a chemical reaction with lignin produces heat, which can be used to run a generator. Most pulping operations using the kraft process are net contributors to the electricity grid or use the electricity to run an adjacent paper-mill. Another advantage is the process recovers and reuses all inorganic chemical reagents. Soda pulping is a specialty process used to pulp straws, bagasse, and hardwoods with high silicate content.
+
+===Mechanical pulping===
+There are two major mechanical pulps, thermo mechanical pulp (TMP) and groundwood pulp (GW). In the TMP process, wood is chipped and then fed into large steam-heated refiners where the chips are squeezed and made into fibres between two steel discs. In the groundwood process, debarked logs are fed into grinders where they are pressed against rotating stones and made into fibres. Mechanical pulping does not remove the lignin, so the yield is very high, >95%, but also causes paper made from this pulp to yellow and become brittle over time. Mechanical pulps have rather short fibre lengths and produce weak paper. Although large amounts of electrical energy are required to produce mechanical pulp, it costs less than chemical pulp.
+
+===Deinked pulp===
+ 
+
+Paper recycling processes can use either chemical or mechanical pulp. By mixing with water and applying mechanical action the hydrogen bonds in the paper can be broken and fibres separated again. Most recycled paper contains a proportion of virgin fibre in the interests of quality. Generally deinked pulp is of the same quality or lower than the collected paper it was made from.
+
+There are three main classifications of recycled fibre:.
+* Mill broke or internal mill waste&nbsp; this incorporates any substandard or grade-change paper made within the paper mill which then goes back into the manufacturing system to be re-pulped back into paper. Such out-of-specification paper is not sold and is therefore often not classified as genuine reclaimed recycled fibre. However, most paper mills have been recycling their own waste fibre for many years, long before recycling become popular.
+* Preconsumer waste&nbsp; this is offcuts and processing waste, such as guillotine trims and envelope blank waste. This waste is generated outside the paper mill and could potentially go to landfill, and is a genuine recycled fibre source. Also includes de-inked preconsumer (recycled material that has been printed but did not reach its intended end use, such as waste from printers and unsold publications). 
+* Postconsumer waste&nbsp; this is fibre from paper which has been used for its intended end use and would include office waste, magazine papers and newsprint. As the vast majority of this paper has been printed (either digitally or by more conventional means such as lithography or rotogravure), it will either be recycled as printed paper or go through a deinking process first.
+
+Recycled papers can be made from 100% recycled materials or blended with virgin pulp. They are (generally) not as strong nor as bright as papers made from virgin pulp.
+
+===Additives===
+Besides the fibres, pulps may contain fillers such as chalk or china clay, which improve the characteristics of the paper for printing or writing. Additives for sizing purposes may be mixed into the pulp and/or applied to the paper web later in the manufacturing process. The purpose of sizing is to establish the correct level of surface absorbency to suit the ink or paint.
+
+===Producing paper===
+ 
+ 
+ pulp is fed to a paper machine where it is formed as a paper web and the water is removed from it by pressing and drying.
+
+Pressing the sheet removes the water by force. Once the water is forced from the sheet, felt (not to be confused with the traditional felt)  is used to collect the water. When making paper by hand, a blotter sheet is used.
+
+Drying involves using air and or heat to remove water from the paper sheet. In the earliest days of papermaking this was done by hanging the paper sheets like laundry. In more modern times, various forms of heated drying mechanisms are used. On the paper machine, the most common is the steam-heated can dryer. These dryers can heat to temperatures above   and are used in long sequences of more than 40 cans. The heat produced by these can easily dry the paper to less than 6% moisture.
+
+===Finishing===
+The paper may then undergo sizing to alter its physical properties for use in various applications.
+
+Paper at this point is uncoated. Coated paper has a thin layer of material such as calcium carbonate or china clay applied to one or both sides in order to create a surface more suitable for high-resolution halftone screens. (Uncoated papers are rarely suitable for screens above 150 lpi.) Coated or uncoated papers may have their surfaces polished by calendering. Coated papers are divided into matte, semi-matte or silk, and gloss. Gloss papers give the highest optical density in the printed image.
+
+The paper is then fed onto reels if it is to be used on web printing presses, or cut into sheets for other printing processes or other purposes. The fibres in the paper basically run in the machine direction. Sheets are usually cut "long-grain", i.e. with the grain parallel to the longer dimension of the sheet.
+
+All paper produced by paper machines as the Fourdrinier Machine are wove paper, i.e. the wire mesh that transports the web leaves a pattern that has the same density along the paper grain and across the grain. Textured finishes, watermarks and wire patterns imitating hand-made laid paper can be created by the use of appropriate rollers in the later stages of the machine.
+
+Wove paper does not exhibit "laidlines", which are small regular lines left behind on paper when it was handmade in a mould made from rows of metal wires or bamboo. Laidlines are very close together. They run perpendicular to the "chainlines", which are further apart. Handmade paper similarly exhibits "deckle edge

@@ -1,0 +1,109 @@
+
+Computer
+From Wikipedia, the free encyclopedia
+"Computer technology" and "Computer system" redirect here. For the company, see Computer Technology Limited. For other uses, see Computer (disambiguation) and Computer system (disambiguation)
+
+This article is missing information about women in computing. This concern has been noted on the talk page where whether or not to include such information may be discussed. (April 2013)
+
+Computer
+
+
+
+A computer is a general purpose device that can be programmed to carry out a finite set of arithmetic or logical operations. Since a sequence of operations can be readily changed, the computer can solve more than one kind of problem.
+Conventionally, a computer consists of at least one processing element, typically a central processing unit (CPU) and some form of memory. The processing element carries out arithmetic and logic operations, and a sequencing and control unit that can change the order of operations based on stored information. Peripheral devices allow information to be retrieved from an external source, and the result of operations saved and retrieved.
+The first electronic digital computers were developed between 1940 and 1945 in the United Kingdom and United States. Originally they were the size of a large room, consuming as much power as several hundred modern personal computers (PCs).[1] In this era mechanical analog computers were used for military applications.
+Modern computers based on integrated circuits are millions to billions of times more capable than the early machines, and occupy a fraction of the space.[2] Simple computers are small enough to fit into mobile devices, and mobile computers can be powered by small batteries. Personal computers in their various forms are icons of the Information Age and are what most people think of as computers. However, the embedded computers found in many devices from MP3 players to fighter aircraft and from toys to industrial robots are the most numerous.
+Contents
+1 History of computing
+1.1 Limited-function early computers
+1.2 First general-purpose computers
+1.3 Stored-program architecture
+1.4 Semiconductors and microprocessors
+2 Programs
+2.1 Stored program architecture
+2.2 Bugs
+2.3 Machine code
+2.4 Programming language
+2.4.1 Low-level languages
+2.4.2 Higher-level languages
+2.5 Program design
+3 Components
+3.1 Control unit
+3.2 Arithmetic logic unit (ALU)
+3.3 Memory
+3.4 Input/output (I/O)
+3.5 Multitasking
+3.6 Multiprocessing
+3.7 Networking and the Internet
+3.8 Computer architecture paradigms
+4 Misconceptions
+4.1 Required technology
+5 Further topics
+5.1 Artificial intelligence
+5.2 Hardware
+5.2.1 History of computing hardware
+5.2.2 Other hardware topics
+5.3 Software
+5.4 Languages
+5.5 Professions and organizations
+6 See also
+7 Notes
+8 References
+9 External links
+History of computing
+
+
+
+The Jacquard loom, on display at the Museum of Science and Industry in Manchester, England, was one of the first programmable devices.
+Main article: History of computing hardware
+The first use of the word computer was recorded in 1613 in a book called The yong mans gleanings by English writer Richard Braithwait I haue read the truest computer of Times, and the best Arithmetician that euer breathed, and he reduceth thy dayes into a short number. It referred to a person who carried out calculations, or computations, and the word continued with the same meaning until the middle of the 20th century. From the end of the 19th century the word began to take on its more familiar meaning, a machine that carries out computations.[3]
+Limited-function early computers
+The history of the modern computer begins with two separate technologies, automated calculation and programmability. However no single device can be identified as the earliest computer, partly because of the inconsistent application of that term. A few devices are worth mentioning though, like some mechanical aids to computing, which were very successful and survived for centuries until the advent of the electronic calculator, like the Sumerian abacus, designed around 2500 BC[4] of which a descendant won a speed competition against a modern desk calculating machine in Japan in 1946,[5] the slide rules, invented in the 1620s, which were carried on five Apollo space missions, including to the moon[6] and arguably the astrolabe and the Antikythera mechanism, an ancient astronomical computer built by the Greeks around 80 BC.[7] The Greek mathematician Hero of Alexandria (c. 1070 AD) built a mechanical theater which performed a play lasting 10 minutes and was operated by a complex system of ropes and drums that might be considered to be a means of deciding which parts of the mechanism performed which actions and when.[8] This is the essence of programmability.
+Around the end of the 10th century, the French monk Gerbert d'Aurillac brought back from Spain the drawings of a machine invented by the Moors that answered either Yes or No to the questions it was asked.[9] Again in the 13th century, the monks Albertus Magnus and Roger Bacon built talking androids without any further development (Albertus Magnus complained that he had wasted forty years of his life when Thomas Aquinas, terrified by his machine, destroyed it).[10]
+In 1642, the Renaissance saw the invention of the mechanical calculator,[11] a device that could perform all four arithmetic operations without relying on human intelligence.[12] The mechanical calculator was at the root of the development of computers in two separate ways. Initially, it was in trying to develop more powerful and more flexible calculators[13] that the computer was first theorized by Charles Babbage[14][15] and then developed.[16] Secondly, development of a low-cost electronic calculator, successor to the mechanical calculator, resulted in the development by Intel[17] of the first commercially available microprocessor integrated circuit.
+First general-purpose computers
+In 1801, Joseph Marie Jacquard made an improvement to the textile loom by introducing a series of punched paper cards as a template which allowed his loom to weave intricate patterns automatically. The resulting Jacquard loom was an important step in the development of computers because the use of punched cards to define woven patterns can be viewed as an early, albeit limited, form of programmability.
+
+
+The Most Famous Image in the Early History of Computing[18]
+
+This portrait of Jacquard was woven in silk on a Jacquard loom and required 24,000 punched cards to create (1839). It was only produced to order. Charles Babbage owned one of these portraits; it inspired him in using perforated cards in his analytical engine.[19]
+
+
+The Zuse Z3, 1941, considered the world's first working programmable, fully automatic computing machine.
+It was the fusion of automatic calculation with programmability that produced the first recognizable computers. In 1837, Charles Babbage was the first to conceptualize and design a fully programmable mechanical computer, his analytical engine.[20] Limited finances and Babbage's inability to resist tinkering with the design meant that the device was never completednevertheless his son, Henry Babbage, completed a simplified version of the analytical engine's computing unit (the mill) in 1888. He gave a successful demonstration of its use in computing tables in 1906. This machine was given to the Science museum in South Kensington in 1910.
+
+
+Ada Lovelace, considered to be the first computer programmer.[21]
+Between 1842 and 1843, Ada Lovelace, an analyst of Charles Babbage's analytical engine, translated an article by Italian military engineer Luigi Menabrea on the engine, which she supplemented with an elaborate set of notes of her own, simply called Notes. These notes contain what is considered the first computer program  that is, an algorithm encoded for processing by a machine. Lovelace's notes are important in the early history of computers. She also developed a vision on the capability of computers to go beyond mere calculating or number-crunching while others, including Babbage himself, focused only on those capabilities.[22]
+In the late 1880s, Herman Hollerith invented the recording of data on a machine-readable medium. Earlier uses of machine-readable media had been for control, not data. After some initial trials with paper tape, he settled on punched cards...[23] To process these punched cards he invented the tabulator, and the keypunch machines. These three inventions were the foundation of the modern information processing industry. Large-scale automated data processing of punched cards was performed for the 1890 United States Census by Hollerith's company, which later became the core of IBM. By the end of the 19th century a number of ideas and technologies, that would later prove useful in the realization of practical computers, had begun to appear: Boolean algebra, the vacuum tube (thermionic valve), punched cards and tape, and the teleprinter.
+During the first half of the 20th century, many scientific computing needs were met by increasingly sophisticated analog computers, which used a direct mechanical or electrical model of the problem as a basis for computation. However, these were not programmable and generally lacked the versatility and accuracy of modern digital computers.
+Alan Turing is widely regarded as the father of modern computer science. In 1936, Turing provided an influential formalization of the concept of the algorithm and computation with the Turing machine, providing a blueprint for the electronic digital computer.[24] Of his role in the creation of the modern computer, Time magazine in naming Turing one of the 100 most influential people of the 20th century, states: The fact remains that everyone who taps at a keyboard, opening a spreadsheet or a word-processing program, is working on an incarnation of a Turing machine.[24]
+
+
+The ENIAC, which became operational in 1946, is considered to be the first general-purpose electronic computer. Programmers Betty Jean Jennings (left) and Fran Bilas (right) are depicted here operating the ENIAC's main control panel.
+
+
+EDSAC was one of the first computers to implement the stored-program (von Neumann) architecture.
+The AtanasoffBerry Computer (ABC) was the world's first electronic digital computer, albeit not programmable.[25] Atanasoff is considered to be one of the fathers of the computer.[26] Conceived in 1937 by Iowa State College physics professor John Atanasoff, and built with the assistance of graduate student Clifford Berry,[27] the machine was not programmable, being designed only to solve systems of linear equations. The computer did employ parallel computation. A 1973 court ruling in a patent dispute found that the patent for the 1946 ENIAC computer derived from the AtanasoffBerry Computer.
+The first program-controlled computer was invented by Konrad Zuse, who built the Z3, an electromechanical computing machine, in 1941.[28] The first programmable electronic computer was the Colossus, built in 1943 by Tommy Flowers.
+George Stibitz is internationally recognized as a father of the modern digital computer. While working at Bell Labs in November 1937, Stibitz invented and built a relay-based calculator he dubbed the Model K (for kitchen table, on which he had assembled it), which was the first to use binary circuits to perform an arithmetic operation. Later models added greater sophistication including complex arithmetic and programmability.[29]
+A succession of steadily more powerful and flexible computing devices were constructed in the 1930s and 1940s, gradually adding the key features that are seen in modern computers. The use of digital electronics (largely invented by Claude Shannon in 1937) and more flexible programmability were vitally important steps, but defining one point along this road as the first digital electronic computer is difficult.Shannon 1940 Notable achievements include:
+Konrad Zuse's electromechanical Z machines. The Z3 (1941) was the first working machine featuring binary arithmetic, including floating point arithmetic and a measure of programmability. In 1998 the Z3 was proved to be Turing complete, therefore being the world's first operational computer.[30]
+The non-programmable AtanasoffBerry Computer (commenced in 1937, completed in 1941) which used vacuum tube based computation, binary numbers, and regenerative capacitor memory. The use of regenerative memory allowed it to be much more compact than its peers (being approximately the size of a large desk or workbench), since intermediate results could be stored and then fed back into the same set of computation elements.
+The secret British Colossus computers (1943),[31] which had limited programmability but demonstrated that a device using thousands of tubes could be reasonably reliable and electronically re-programmable. It was used for breaking German wartime codes.
+The Harvard Mark I (1944), a large-scale electromechanical computer with limited programmability.[32]
+The U.S. Army's Ballistic Research Laboratory ENIAC (1946), which used decimal arithmetic and is sometimes called the first general purpose electronic computer (since Konrad Zuse's Z3 of 1941 used electromagnets instead of electronics). Initially, however, ENIAC had an architecture which required rewiring a plugboard to change its programming.
+Stored-program architecture
+
+This section does not cite any references or sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (July 2012)
+Several developers of ENIAC, recognizing its flaws, came up with a far more flexible and elegant design, which came to be known as the stored-program architecture or von Neumann architecture. This design was first formally described by John von Neumann in the paper First Draft of a Report on the EDVAC, distributed in 1945. A number of projects to develop computers based on the stored-program architecture commenced around this time, the first of which was completed in 1948 at the University of Manchester in England, the Manchester Small-Scale Experimental Machine (SSEM or Baby). The Electronic Delay Storage Automatic Calculator (EDSAC), completed a year after the SSEM at Cambridge University, was the first practical, non-experimental implementation of the stored-program design and was put to use immediately for research work at the university. Shortly thereafter, the machine originally described by von Neumann's paperEDVACwas completed but did not see full-time use for an additional two years.
+Nearly all modern computers implement some form of the stored-program architecture, making it the single trait by which the word computer is now defined. While the technologies used in computers have changed dramatically since the first electronic, general-purpose computers of the 1940s, most still use the von Neumann architecture.
+
+
+Die of an Intel 80486DX2 microprocessor (actual size: 126.75 mm) in its packaging
+Beginning in the 1950s, Soviet scientists Sergei Sobolev and Nikolay Brusentsov conducted research on ternary computers, devices that operated on a base three numbering system of -1, 0, and 1 rather than the conventional binary numbering system upon which most computers are based. They designed the Setun, a functional ternary computer, at Moscow State University. The device was put into limited production in the Soviet Union, but supplanted by the more common binary architecture.
+Semiconductors and microprocessors
+Computers using vacuum tubes as their electronic elements were in use throughout the 1950s, but by the 1960s they had been largely replaced by transistor-based machines, which were smaller, faster, cheaper to produce, required less power, and were more reliable. The first transistorized computer was demonstrated at the University of Manchester in 1953.[33] In the 1970s, integrated circuit technology and the subsequent creation of microprocessors, such as the Intel 4004, further decreased size and cost and further increased speed and reliability of computers. By the late 1970s, many products such as video recorders contained dedicated computers called microcontrollers, and they started to appear as a replacement to mechanical controls in domestic appliances such as washing machines. The 1980s witnessed home computers and the now ubiquitous personal computer. With the evolution of the Internet, personal computers are becoming as common as the television and the telephone in the household.[citation needed]
+Modern smartphones are fully programmable computers in their own right, and as of 2009 may well be the most common form of such computers in existence.[citation needed]
+Programs

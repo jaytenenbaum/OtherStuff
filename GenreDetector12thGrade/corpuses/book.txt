@@ -1,0 +1,132 @@
+ 
+  
+ 
+ 
+
+A book is a set of written, printed, illustrated, or blank sheets, made of ink, paper, parchment, or other materials, usually fastened together to hinge at one side. A single sheet within a book is called a Recto|leaf, and each side of a leaf is called a page (paper)|page. A set of text-filled or illustrated pages produced in electronic format is known as an electronic book, or e-book.
+ journals or bibliophile or colloquially, bookworm.
+ books are bought and sold is a bookshop or bookstore. Books can also be borrowed from Lending library|libraries. Google has estimated that as of 2010, approximately 130,000,000 unique titles had been published. 
+
+== Etymology == Germanic root Serbian and Macedonian, another Slavic languages, the words "букварь" (bukvar) and "буквар" (bukvar), respectively, refer specifically to a primary school textbook that helps young children master the techniques of reading and writing.
+It is thus conjectured that the earliest Indo-European languages|Indo-European writings may have been carved on beech wood.  Similarly, the Latin word codex, meaning a book in the modern sense (bound and with separate leaves), originally meant "block of wood".
+
+== History of books ==
+ 
+
+=== Antiquity ===
+  cuneiform script clay tablet, 2400–2200 BC]]
+ writing systems Alphabetic writing emerged in Egypt about 5,000 years ago. The Ancient Egyptians would often write on papyrus, a plant grown along the Nile River. At first the words were not separated from each other (scriptura continua) and there was no punctuation. Texts were written from right to left, left to right, and even so that alternate lines read in opposite directions. The technical term for this type of writing is boustrophedon, which means literally ox-turning for the way a farmer drives an ox to plough his fields.
+
+==== Tablet ====
+A tablet might be defined as a physically robust writing medium, suitable for casual transport and writing. See also stylus.
+
+ , throughout the Bronze Age and well into the Iron Age. 
+
+Wax tablets were wooden planks covered in a thick enough coating of wax to record the impressions of a stylus. They were the normal writing material in schools, in accounting, and for taking notes. They had the advantage of being reusable: the wax could be melted, and reformed into a blank. The custom of binding several wax tablets together (Roman pugillares) is a possible precursor for modern books (i.e. codex).  The etymology of the word codex (block of wood) also suggests that it may have developed from wooden wax tablets. 
+
+==== Scroll ====
+ 
+  and the weighing of the heart.]]
+Papyrus, a thick paper|paper-like material made by weaving the stems of the papyrus plant, then pounding the woven sheet with a hammer-like tool, was used for writing in Ancient Egypt, perhaps as early as the First Dynasty, although the first evidence is from the account books of King Nefertiti Kakai of the Fifth Dynasty (about 2400 BC). {{Cite book
+| publisher = American Library Association; The British Library
+| ISBN = 978-0-8389-0522-7
+| last = Avrin
+| first = Leila
+| title = Scribes, script, and books: the book arts from antiquity to the Renaissance
+| location = New York, New York
+| year = 1991
+| page = 83 lime and other materials were also used. 
+
+According to   brought writing and papyrus to Greece around the 10th or 9th century BC. The Greek word for papyrus as writing material (biblion) and book (biblos) come from the Phoenician port town Byblos, through which papyrus was exported to Greece.  From Greek we also derive the word tome ( ), which originally meant a slice or piece and from there began to denote "a roll of papyrus". Tomus was used by the Latins with exactly the same meaning as volumen (see also below the explanation by Isidore of Seville).
+
+Whether made from papyrus, parchment, or paper, scrolls were the dominant form of book in the Hellenistic, Roman, Chinese, Hebrew, and Macadonian cultures. The more modern codex book format form took over the Roman world by late antiquity, but the scroll format persisted much longer in Asia.
+
+==== Codex ====
+  book meets the modern definition of Codex]]
+ 
+In the 5th century, Isidore of Seville explained the then-current relation between codex, book and scroll in his Etymologiae (VI.13): "A codex is composed of many books; a book is of one scroll. It is called codex by way of metaphor from the trunks (codex) of trees or vines, as if it were a wooden stock, because it contains in itself a multitude of books, as it were of branches." Modern usage differs.
+
+A codex (in modern usage) is the first information repository that modern people would recognize as a "book": leaves of uniform size bound in some manner along one edge, and typically held between two covers made of some more robust material. The first written mention of the codex as a form of book is from  s may also have wanted to distinguish their writings from the pagan texts written on scrolls.
+
+=== Middle Ages ===
+
+==== Manuscripts ====
+ 
+  contains an author portrait of Virgil. Note the bookcase (capsa), reading stand and the text written without word spacing in rustic capitals.]]
+The fall of the Roman Empire in the 5th century A.D. saw the decline of the culture of ancient Rome. Papyrus became difficult to obtain due to lack of contact with Egypt, and parchment, which had been used for centuries, became the main writing material.
+ Latin writing Regula Monachorum (completed around the middle of the 6th century) later also promoted reading.  The Rule of St. Benedict (Ch.  XLVIII ), which set aside certain times for reading, greatly influenced the monastic culture of the Middle Ages and is one of the reasons why the clergy were the predominant readers of books. The tradition and style of the Roman Empire still dominated, but slowly the peculiar medieval book culture emerged.
+ Sorbonne held only around 2,000 volumes. 
+ , from his Miracles de Notre Dame, 15th century.]]
+
+The scriptorium of the monastery was usually located over the chapter house. Artificial light was forbidden for fear it may damage the manuscripts. There were five types of scribes:
+* Calligraphers, who dealt in fine book production
+* Copyists, who dealt with basic production and correspondence
+* Correctors, who collated and compared a finished book with the manuscript from which it had been produced
+* Illuminators, who painted illustrations
+* Rubricators, who painted in the red letters
+
+The bookmaking process was long and laborious. The parchment had to be prepared, then the unbound pages were planned and ruled with a blunt tool or lead, after which the text was written by the scribe, who usually left blank areas for illustration and rubrication. Finally, the book was bound by the bookbinder. 
+  of Cesena, Italy.]]
+ iron vitriol. was colored purple, and the text was written on it with gold or silver (for example, Codex Argenteus). 
+
+Irish monks introduced spacing between words in the 7th century. This facilitated reading, as these monks tended to be less familiar with Latin. However, the use of spaces between words did not become commonplace before the 12th century. It has been argued that the use of spacing between words shows the transition from semi-vocalized reading into silent reading. 
+ vellum (calf skin) for the pages. The book covers were made of wood and covered with leather. Because dried parchment tends to assume the form it had before processing, the books were fitted with clasps or straps. During the later Middle Ages, when public libraries appeared, up to 18th century, books were often chained to a bookshelf or a desk to prevent theft. These chained books are called libri catenati.
+ stationers guilds, which produced both religious and non-religious material. 
+
+Judaism has kept the art of the scribe alive up to the present. According to Jewish tradition, the Torah scroll placed in a synagogue must be written by hand on parchment, and a printed book would not do, though the congregation may use printed prayer books, and printed copies of the Scriptures are used for study outside the synagogue. A sofer (scribe) is a highly respected member of any observant Jewish community.
+
+==== Arab printing techniques ====
+  medieval Islamic miniatures and bookbinding. A number of cities in the medieval Islamic world had book production centers and book markets. Marrakech, Morocco, had a street named Kutubiyyin or book sellers which contained more than 100 bookshops in the 12th century ; the famous Koutoubia Mosque is named so because of its location in this street.
+ Islamic world check reading, in contrast to the traditional method of a single scribe producing only a single copy of a single manuscript. In the check reading method, only "authors could authorize copies, and this was done in public sessions in which the copyist read the copy aloud in the presence of the author, who then certified it as accurate."  With this check-reading system, "an author might produce a dozen or more copies from a single reading," and with two or more readings, "more than one hundred copies of a single book could easily be produced." 
+
+==== Wood block printing ====
+In woodblock printing, a relief image of an entire page was carved into blocks of wood, inked, and used to print copies of that page. This method originated in China, in the Han dynasty (before 220AD), as a method of printing on textiles and later paper, and was widely used throughout East Asia. The oldest dated book printed by this method is The Diamond Sutra (868 AD).
+ religious pictures, began to be produced by this method. Creating an entire book was a painstaking process, requiring a hand-carved block for each page; and the wood blocks tended to crack, if stored for long. The monks or people who wrote them were paid highly.
+
+==== Movable type and incunabula ====
+ . Notice the blind-tooled cover, corner bosses and clasps.]]
+ 
+ .]]
+
+The Chinese inventor Bi Sheng made movable type of earthenware circa 1045, but there are no known surviving examples of his printing. Around 1450, in what is commonly regarded as an independent invention, Johannes Gutenberg invented movable type in Europe, along with innovations in casting the type based on a matrix and hand mould. This invention gradually made books less expensive to produce, and more widely available.
+
+Early printed books, single sheets and images which were created before 1501 in Europe are known as incunabula. "A man born in 1453, the year of the fall of Constantinople, could look back from his fiftieth year on a lifetime in which about eight million books had been printed, more perhaps than all the scribes of Europe had produced since Constantine founded his city in A.D. 330." 
+
+=== Modern world ===
+Steam-powered printing presses became popular in the early 19th century. These machines could print 1,100 sheets per hour, but workers could only set 2,000 letters per hour. 
+ linotype typesetting machines were introduced in the late 19th century. They could set more than 6,000 letters per hour and an entire line of type at once.
+
+The centuries after the 15th century were thus spent on improving both the printing press and the conditions for freedom of the press through the gradual relaxation of restrictive censorship laws. See also intellectual property, public domain, copyright. In mid-20th century, European book production had risen to over 200,000 titles per year.
+
+== Book manufacture in modern times ==
+ 
+ 
+
+  of the book is an important aspect in book design, especially in the cover design. When the books are stacked up or stored in a shelf, the details on the spine is the only visible surface that contains the information about the book. In stores, it is the details on the spine that attract buyers attention first.]]
+
+The methods used for the printing and binding of books continued fundamentally unchanged from the 15th century into the early 20th century. While there was more mechanization, a book printer in 1900 had much in common with Johannes Gutenberg|Gutenberg.
+
+Printing press|Gutenbergs invention was the use of movable metal types, assembled into words, lines, and pages and then printed by letterpress to create multiple copies.
+
+Modern paper books are printed on  s, woodfree uncoated papers, coated fine papers and special fine papers are common paper grades.
+ sizes of books are usually specified as "trim size": the size of the page after the sheet has been folded and trimmed. The standard sizes result from sheet sizes (therefore machine sizes) which became popular 200 or 300 years ago, and have come to dominate the industry. British conventions in this regard prevail throughout the English-speaking world, except for the USA. The European book manufacturing industry works to a completely different set of standards.
+
+===Current processes===
+ 
+Some books, particularly those with shorter runs (i.e. fewer copies) will be printed on sheet-fed offset presses, but most books are now printed on web presses, which are fed by a continuous roll of paper, and can consequently print more copies in a shorter time. As the production line circulates, a complete "book" is collected together in one stack, next to another, and another.
+
+A web press carries out the folding itself, delivering bundles of signatures (sections) ready to go into the gathering line. Notice that when the book is being printed it is being printed one (or two) signatures at a time, not one complete book at a time. Excess numbers are printed to make up for any spoilage due to "make-readies" or test pages to assure final print quality.
+
+A make-ready is the preparatory work carried out by the pressmen to get the printing press up to the required quality of Impression (publishing)|impression. Included in make-ready is the time taken to mount the plate onto the machine, clean up any mess from the previous job, and get the press up to speed. As soon as the pressman decides that the printing is correct, all the make-ready sheets will be discarded, and the press will start making books. Similar make readies take place in the folding and binding areas, each involving spoilage of paper.
+
+After the signatures are folded and gathered, they move into the   of preparing a book for the printer, the typesetting part of the job has flowed upstream, where it is done either by separately contracting companies working for the publisher, by the publishers themselves, or even by the authors. Mergers in the book manufacturing industry mean that it is now unusual to find a bindery which is not also involved in book printing (and vice versa).
+ hardback its path through the bindery will involve more points of activity than if it is a paperback.
+
+Unsewn binding, is now increasingly common. The signatures of a book can also be held together by "Smyth sewing" using needles, "McCain sewing", using drilled holes often used in schoolbook binding, or "notch binding", where gashes about an inch long are made at intervals through the fold in the spine of each signature. The rest of the binding process is similar in all instances. Sewn and notch bound books can be bound as either hardbacks or paperbacks.
+
+===Finishing===
+ 
+"Making cases" happens off-line and prior to the books arrival at the binding line. In the most basic case-making, two pieces of cardboard are placed onto a glued piece of cloth with a space between them into which is glued a thinner board cut to the width of the spine of the book. The overlapping edges of the cloth (about 5/8" all round) are folded over the boards, and pressed down to adhere. After case-making the stack of cases will go to the foil stamping area for adding decorations and type.
+
+==Digital printing==
+Recent developments in book manufacturing include the development of digital printing. Book pages are printed, in much the same way as an office copier works, using toner rather than ink. Each book is printed in one pass, not as separate signatures. Digital printing has permitted the manufacture of much smaller quantities than offset, in part because of the absence of make readies and of spoilage. One might think of a web press as printing quantities over 2000, quantities from 250 to 2000 being printed on sheet-fed presses, and digital presses doing quantities below 250. These numbers are of course only approximate and will vary from supplier to supplier, and from boo

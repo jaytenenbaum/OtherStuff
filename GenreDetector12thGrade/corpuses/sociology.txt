@@ -1,0 +1,150 @@
+ 
+ 
+ 
+ empirical investigation micro level agency and macro level of systems and the social structure. 
+ social structure military and penal institutions, the Internet, scientific knowledge.
+ qualitative and quantitative techniques. linguistic and mathematically and computationally rigorous social network analysis.   Sociology should not be confused with various general social studies courses which bear little relation to sociological theory or social science research methodology.
+
+==History==
+ 
+
+===Origins===
+  (1332-1406)]] Western knowledge ancient Greek philosopher Plato if not before. The origin of the Statistical survey|survey, i.e., the collection of information from a sample of individuals, can be traced back at least early as the Domesday Book in 1086,   while ancient philosophers such as Confucius wrote on the importance of social roles. There is evidence of early sociology in medieval Islam. Some consider Ibn Khaldun, a 14th-century Arab Islamic scholar from North Africa, to have been the first sociologist; his Muqaddimah was perhaps the first work to advance social-scientific reasoning on social cohesion and social conflict.       Most sociological concepts were used in English prior to their adoption as the technical language of sociology.    
+ positivist stage metaphysical phases, in the progression of human understanding.  In observing the circular dependence of theory and observation in science, and having classified the sciences, Comte may be regarded as the first philosopher of science in the modern sense of the term. 
+
+  (1798-1857)]]
+ 
+  (1818-1883)]] philosophies of and science. Marx rejected Comtean positivism   but in attempting to develop a science of society nevertheless came to be recognized as a founder of sociology as the word gained wider meaning. For Isaiah Berlin, Marx may be regarded as the "true father" of modern sociology, "in so far as anyone can claim the title." 
+
+ 
+
+  (1820-1903)]]
+Herbert Spencer (27 April 1820&nbsp;– 8 December 1903) was one of the most popular and influential 19th century sociologists. It is estimated that he sold one million books in his lifetime, far more than any other sociologist at the time. So strong was his influence that many other 19th century thinkers, including Émile Durkheim, defined their ideas in relation to his. Durkheim’s Division of Labour in Society is to a large extent an extended debate with Spencer from whose sociology, many commentators now agree, Durkheim borrowed extensively.  Also a notable biologist, Spencer coined the term "survival of the fittest". Whilst Marxian ideas defined one strand of sociology, Spencer was a critic of socialism as well as strong advocate for a laissez-faire style of government. His ideas were highly observed by conservative political circles, especially in the United States and England. 
+
+===Foundations of the academic discipline===
+ 
+ ]]
+Formal academic sociology was established by Émile Durkheim (1858–1917), who developed positivism as a foundation to practical social research. While Durkheim rejected much of the detail of Comtes philosophy, he retained and refined its method, maintaining that the social sciences are a logical continuation of the natural ones into the realm of human activity, and insisting that they may retain the same objectivity, rationalism, and approach to causality.  Durkheim set up the first European department of sociology at the University of Bordeaux in 1895, publishing his Rules of the Sociological Method (1895).
+
+  For Durkheim, sociology could be described as the "science of institutions, their genesis and their functioning". 
+
+Durkheims seminal monograph, Suicide (book)|Suicide (1897), a case study of suicide rates amongst Catholic and Protestant populations, distinguished sociological analysis from psychology or philosophy. It also marked a major contribution to the theoretical concept of structural functionalism. By carefully examining suicide statistics in different police districts, he attempted to demonstrate that Catholic communities have a lower suicide rate than that of Protestants, something he attributed to social (as opposed to individual or psychological) causes. He developed the notion of objective suis generis "social facts" to delineate a unique empirical object for the science of sociology to study.  Through such studies he posited that sociology would be able to determine whether any given society is healthy or pathological, and seek social reform to negate organic breakdown or "social anomie".
+
+Sociology quickly evolved as an academic response to the perceived challenges of modernity, such as industrialization, urbanization, secularization, and the process of "rationalization (sociology)|rationalization".  The field predominated in continental Europe, with British anthropology and statistics generally following on a separate trajectory. By the turn of the 20th century, however, many theorists were active in the Anglo-Saxon world. Few early sociologists were confined strictly to the subject, interacting also with economics, jurisprudence, psychology and philosophy, with theories being appropriated in a variety of different fields. Since its inception, sociological epistemologies, methods, and frames of inquiry, have significantly expanded and diverged. 
+
+Durkheim, Marx, and the German theorist Max Weber are typically cited as the three principal architects of social science.  Herbert Spencer, William Graham Sumner, Lester F. Ward, Vilfredo Pareto, Alexis de Tocqueville, Werner Sombart, Thorstein Veblen, Ferdinand Tönnies, Georg Simmel and Karl Mannheim are occasionally included on academic curricula as founding theorists. Each key figure is associated with a particular theoretical perspective and orientation. 
+
+ 
+
+===Other developments=== bust in Husum, Germany]] Chicago School.  The American Journal of Sociology was founded in 1895, followed by the American Sociological Association (ASA) in 1905.  The sociological "canon of classics" with Durkheim and Max Weber at the top owes in part to Talcott Parsons, who is largely credited with introducing both to American audiences.  Parsons consolidated the sociological tradition and set the agenda for American sociology at the point of its fastest disciplinary growth. Sociology in the United States was less historically influenced by Marxism than its European counterpart, and to this day broadly remains more statistical in its approach. 
+
+The first sociology department to be established in the United Kingdom was at the  , an institution later eclipsed by the much larger International Sociological Association (ISA), founded in 1949. 
+
+==Positivism and Anti-positivism==
+
+===Positivism===
+  methodological principle of positivism is to conduct sociology in broadly the same manner as natural science. An emphasis on empiricism and the scientific method is sought to provide a tested foundation for sociological research based on the assumption that the only authentic knowledge is scientific knowledge, and that such knowledge can only arrive by positive affirmation through scientific methodology.
+
+ 
+
+The term has long since ceased to carry this meaning; there are no fewer than twelve distinct epistemologies that are referred to as positivism.   Many of these approaches do not self-identify as "positivist", some because they themselves arose in opposition to older forms of positivism, and some because the label has over time become a term of abuse  by being mistakenly linked with a theoretical empiricism. The extent of antipositivist criticism has also diverged, with many rejecting the scientific method and others only seeking to amend it to reflect 20th century developments in the philosophy of science. However, positivism (broadly understood as a scientific approach to the study of society) remains dominant in contemporary sociology, especially in the United States. 
+
+ , Logical, and Instrumental.  None of these are the same as that set forth by Comte, who was unique in advocating such a rigid (and perhaps optimistic) version.   While Émile Durkheim rejected much of the detail of Comtes philosophy, he retained and refined its method. Durkheim maintained that the social sciences are a logical continuation of the natural ones into the realm of human activity, and insisted that they should retain the same objectivity, rationalism, and approach to causality.  He developed the notion of objective sui generis "social facts" to delineate a unique empirical object for the science of sociology to study. 
+ reliability and validity.  This positivism is more or less synonymous with quantitative research, and so only resembles older positivism in practice. Since it carries no explicit philosophical commitment, its practitioners may not belong to any particular school of thought. Modern sociology of this type is often credited to Paul Lazarsfeld,  who pioneered large-scale survey studies and developed statistical techniques for analyzing them. This approach lends itself to what Robert K. Merton called Middle range theory (sociology)|middle-range theory: abstract statements that generalize from segregated hypotheses and empirical regularities rather than starting with an abstract idea of a social whole. 
+
+===Anti-positivism===
+  phenomenologists and human scientists social world differs to that of the natural world due to the irreducibly complex aspects of human society, culture, and being. 
+ subjective perspective. causal relationships of human "social action"—especially among "ideal types", or hypothetical simplifications of complex social phenomena.  As a non-positivist, however, Weber sought relationships that are not as "historical, invariant, or generalizable"  as those pursued by natural scientists. Fellow German sociologist, Ferdinand Tönnies, theorized on two crucial abstract concepts with his work on "Gemeinschaft and Gesellschaft" (lit. community and society). Tönnies marked a sharp line between the realm of concepts and the reality of social action: the first must be treated axiomatically and in a deductive way ("pure sociology"), whereas the second empirically and inductively ("applied sociology"). 
+
+ 
+ 
+ phenomenological and existential writers than of Comte or Durkheim, paying particular concern to the forms of, and possibilities for, social individuality.  His sociology engaged in a neo-Kantian inquiry into the limits of perception, asking What is society? in a direct allusion to Kants question What is nature? 
+
+ 
+ 
+
+==Theoretical frameworks==
+  pragmatist (George Herbert Mead|Mead) theories of social interaction.  Contemporary sociological theory retains traces of these approaches.
+ sociological field social and cognitive theories of culture, and resource mobilization. Analytical sociology is an ongoing effort to systematize many of these middle range theory (sociology)|middle-range theories.
+
+===Functionalism===
+
+  norms and Giddens states: "Functionalist thought, from Comte onwards, has looked particularly towards biology as the science providing the closest and most compatible model for social science. Biology has been taken to provide a guide to conceptualizing the structure and the function of social systems and to analyzing processes of evolution via mechanisms of adaptation ... functionalism strongly emphasizes the pre-eminence of the social world over its individual parts (i.e. its constituent actors, human subjects)." 
+
+===Conflict theory===
+  interpretivism or symbolic interactionism. Its emphasis on "cohesive systems", however, also holds political ramifications. Functionalist theories are often therefore contrasted with "conflict theories" which critique the overarching socio-political system or emphasize the inequality of particular groups. The works of Durkheim and Marx epitomize the political, as well as theoretical, disparities, between functionalist and conflict thought respectively:
+
+ 
+ The history of all hitherto existing society is the history of class struggles. Karl Marx & Friedrich Engels The Communist Manifesto 1848|  }}
+
+===20th century social theory===
+ ]]
+The functionalist movement reached its crescendo in the 1940s and 1950s, and by the 1960s was in rapid decline.  By the 1980s, functionalism in Europe had broadly been replaced by conflict theory|conflict-oriented approaches.  While some of the critical approaches also gained popularity in the United States, the mainstream of the discipline instead shifted to a variety of empirically-oriented Middle range theory (sociology)|middle-range theories with no single overarching theoretical orientation. To many in the discipline, functionalism is now considered "as dead as a dodo." 
+ linguistic and cultural turns led to myriad new movements in the social sciences: "According to Giddens, the orthodox consensus terminated in the late 1960s and 1970s as the middle ground shared by otherwise competing perspectives gave way and was replaced by a baffling variety of competing perspectives. This third generation of social theory includes phenomenologically inspired approaches, critical theory, ethnomethodology, symbolic interactionism, structuralism, post-structuralism, and theories written in the tradition of hermeneutics and ordinary language philosophy." 
+ structuralist movement linguistic theory system of signs. One may delineate four central tenets of structuralism: First, structure is what determines the structure of a whole. Second, structuralists believe that every system has a structure. Third, structuralists are interested in structural laws that deal with coexistence rather than changes. Finally, structures are the real things beneath the surface or the appearance of meaning. 
+ reject humanist archaeology of Rorty have both argued that Foucault merely replaces one such system of thought with another.   The dialogue between these intellectuals highlights a trend in recent years for certain schools of sociology and philosophy to intersect. The anti-humanist position has been associated with "postmodernism," a term used in specific contexts to describe an era or phenomena, but occasionally construed as a method.
+
+==Structure and agency==
+  action theory of Talcott Parsons and Anthony Giddenss theory of structuration.
+
+==Research methodology==
+ 
+Sociological research methods may be divided into two broad categories:
+ Quantitative designs approach social phenomena through quantifiable evidence, and often rely on statistical analysis of many cases (or across intentionally designed treatments in an experiment) to create valid and reliable general claims Qualitative designs emphasize understanding of social phenomena through direct observation, communication with participants, or analysis of texts, and may stress contextual and subjective accuracy over generality
+ theory and data.  Quantitative methodologies hold the dominant position in sociology, especially in the United States.  In the disciplines two most cited journals, quantitative articles have historically outnumbered qualitative ones by a factor of two.  (Most articles published in the largest British journal, on the other hand, are Qualitative research|qualitative.) Most textbooks on the methodology of social research are written from the quantitative perspective,  and the very term "methodology" is often used synonymously with "statistics." Practically all sociology PhD program in the United States require training in statistical methods. The work produced by quantitative researchers is also deemed more trustworthy and unbiased by the greater public,  though this judgment continues to be challenged by antipositivists. 
+ survey questionnaire to a representative sample population. By contrast, a researcher who seeks full contextual understanding of an individuals social actions may choose ethnographic participant observation or open-ended interviews. Studies will commonly combine, or triangulation (social science)|triangulate, quantitative and qualitative methods as part of a multi-strategy design. For instance, a quantitative study may be performed to gain statistical patterns or a target sample, and then combined with a qualitative interview to determine the play of Agency (sociology)|agency. 
+
+===Sampling===
+ , designed by early social research methodologist Sir Francis Galton to demonstrate the normal distribution, which is important to much quantitative hypothesis testing.]] sample randomly, concern with differences between specific subpopulations sometimes calls for stratified sampling. Conversely, the impossibility of random sampling sometimes necessitates nonprobability sampling, such as convenience sampling or snowball sampling. 
+
+===Methods===
+The following list of research methods is neither exclusive nor exhaustive:
+*   located in historical archives and records, such as biographies, memoirs, journals, and so on.
+*   approach using qualitative data analysis (QDA) software, such as NVivo,  Atlas.ti, or QDA Miner. randomly assigned to different groups which either serve as Scientific control|controls—acting as reference points because they are tested with regard to the dependent variable, albeit without having been exposed to any independent variables of interest—or receive one or more treatments. Randomization allows the researcher to be sure that any resulting differences between groups are the result of the treatment.
+* Longitudinal study: An extensive examination of a specific person or group over a long period of time.
+*  , the researcher goes into the field (such as a community or a place of work), and participates in the activities of the field for a prolonged period of time in order to acquire a deep understanding of it.  Data acquired through these techniques may be analyzed either quantitatively or qualitatively.
+* Survey research: The researcher gathers data using interviews, questionnaires, or similar feedback from a set of people sampled from a particular population of interest. Survey items from an interview or questionnaire may be open-ended or closed-ended.  Data from surveys is usually analyzed statistically on a computer.
+
+===Computational sociology===
+  diagram: individuals (or nodes) connected by relationships.]] . Quantitative Narrative Analysis (Quantitative Applications in the Social Sciences). Roberto Franzosi, Beverly Hills, CA: Sage, 2010.
+  Arrow width proportional to number of violent acts. (Click on large animated GIF image to see evolution)]]
+ 
+Sociologists increasingly draw upon computationally intensive methods to analyze and model social phenomena.    Using computer simulations, artificial intelligence, text mining, complex statistical methods, and new analytic approaches like social network analysis, computational sociology develops and tests theories of complex social processes through bottom-up modeling of social interactions. 
+ network centrality from the fields of social network analysis and network science. In relevant literature, computational sociology is often related to the study of social complexity.  Social complexity concepts such as complex systems, non-linear interconnection among macro and micro process, and emergence, have entered the vocabulary of computational sociology.  A practical and well-known example is the construction of a computational model in the form of an "artificial society", by which researchers can analyze the structure of a social system.  
+
+===Practical applications of social research=== policy makers, education|educators, urban planner|planners, lawmakers, Public administration|administrators, Real estate development|developers, business magnates, managers, social workers, non-governmental organizations, non-profit organizations, and people interested in resolving social issues in general. There is often a great deal of crossover between social research, market research, and other statistical fields.
+
+==Areas of sociology==
+* Social organization is the study of the various institutions, social groups, social stratification, social mobility, bureaucracy, ethnic groups and relations, and other similar subjects like family, education, politics, religion, economy, and so on and so forth.
+* Social psychology is the study of human nature as an outcome of group life, social attitudes, collective behavior, and personality formation. It deals with group life and the individuals traits, attitudes, beliefs as influenced by group life, and it views man with reference to group life.
+* Social change and disorganization is the study of the change in culture and social relations and the disruption that may occur in society, and it deals with the study of such current problems in society such as juvenile delinquency, criminality, drug addiction, family conflicts, divorce, population problems, and other similar subjects.
+* Human ecology deals with the nature and behavior of a given population and its relationships to the groups present social institutions. For instance, studies of this kind have shown the prevalence of mental illness, criminality, delinquencies, prostitution, and drug addiction in urban centers and other highly developed places.
+* Population or demography is the study of population number, composition, change, and quality as they influence the economic, political, and social system.
+* Sociological theory and method is concerned with the applicability and usefulness of the principles and theories of group life as bases for the regulation of mans environment, and includes theory building and testing as bases for the prediction and control of mans social environment.
+* Applied sociology utilizes the findings of pure sociological research in various fields such as criminology, social work, community development, education, industrial relations, marriage, ethnic relations, family counseling, and other aspects and problems of daily life. 
+
+==Scope and topics==
+ 
+
+===Culture===
+  (left, front), Theodor Adorno (right, front), and Jürgen Habermas (right, back) 1965.]]
+  Mauss were modern (rather primitive or Birmingham School Stuart Hall structuralist and postmodern approaches to social science and placed culture much higher on the sociological agenda.
+
+===Criminality, deviance, law and punishment===
+  typology of unintended consequences", and "self-fulfilling prophecy". 
+
+The study of law played a significant role in the formation of classical sociology. Durkheim famously described law as the "visible symbol" of social solidarity.  The sociology of law refers to both a sub-discipline of sociology and an approach within the field of legal studies. Sociology of law is a diverse field of study which examines the interaction of law with other aspects of society, such as the development of legal institutions and the effect of laws on social change and vice versa. For example, an influential recent work in the field relies on statistical analyses to argue that the increase in incarceration in the US over the last 30 years is due to changes in law and policing and not to an increase in crime; and that this increase significantly contributes to maintaining racial Social stratification|stratification. 
+
+===Economic sociology===
+  Social network strength of weak ties and Ronald Burts concept of structural holes are two best known theoretical contributions of this field.
+
+===Environment===
+ 
+Environmental sociology is the study of human interactions with the natural environment, typically emphasizing human dimensions of environmental problems, social impacts of those problems, and efforts to resolve them. As with other subfields of sociology, scholarship in environmental sociology may be at one or multiple levels of analysis, from global (e.g. world-systems) to local, societal to individual. Attention is paid also to the processes by which environmental problems become defined and known to humans.
+
+===Education===
+  James Coleman, known as the "Coleman Report", analyzed the performance of over 150,000 students and found that student background and socioeconomic status are much more important in determining educational outcomes than are measured differences in school resources (i.e. per pupil spending).  The controversy over "school effects" ignited by that study has continued to this day. The study also found that socially disadvantaged black students profited from schooling in racially mixed classrooms, and thus served as a catalyst for desegregation busing in American public schools.
+
+===Family, gender, and sexuality=== homefront and a departure from gender roles due to wartime necessity.]]
+ 
+Family, 

@@ -1,0 +1,183 @@
+
+Somatosensory system
+From Wikipedia, the free encyclopedia
+  (Redirected from Touch)
+"Touch" redirects here. For other uses, see Touch (disambiguation).
+"Tactile" redirects here. For T-cell receptor, see CD96.
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2012)
+
+
+Touch is a crucial means of receiving information. This photo shows tactile markings identifying stairs for visually impaired people.
+The somatosensory system is a diverse sensory system comprising the receptors and processing centres to produce the sensory modalities such as touch, temperature, proprioception (body position), and nociception (pain). The sensory receptors cover the skin and epithelia, skeletal muscles, bones and joints, internal organs, and the cardiovascular system.
+While touch[1] is considered one of the five traditional senses, the impression of touch is formed from several modalities. In medicine, the colloquial term "touch" is usually replaced with "somatic senses" to better reflect the variety of mechanisms involved.
+Somatic senses are sometimes referred to as somesthetic senses, with the understanding that somesthesis includes touch, proprioception and (depending on usage) also haptic perception.[2]
+The system reacts to diverse stimuli using different receptors: thermoreceptors, nociceptors, mechanoreceptors and chemoreceptors. Transmission of information from the receptors passes via sensory nerves through tracts in the spinal cord and into the brain. Processing primarily occurs in the primary somatosensory area in the parietal lobe of the cerebral cortex.
+
+
+The cortical homunculus was devised by Wilder Penfield.
+At its simplest, the system works when activity in a sensory neuron is triggered by a specific stimulus such as heat; this signal eventually passes to an area in the brain uniquely attributed to that area on the bodythis allows the processed stimulus to be felt at the correct location. The point-to-point mapping of the body surfaces in the brain is called a homunculus and is essential in the creation of a body image. This brain-surface ("cortical") map is not immutable, however. Dramatic shifts can occur in response to stroke or injury.
+Contents  [hide] 
+1 Anatomy
+1.1 General somatosensory pathway
+1.2 Periphery
+1.3 Spinal cord
+1.4 Brain
+2 Fine touch and Crude touch
+3 Physiology
+4 Individual differences
+5 Diseases and disorders
+6 Technology
+7 See also
+8 Notes
+9 References
+10 External links
+Anatomy [edit]
+
+The somatosensory system is spread through all major parts of a mammal's body (and other vertebrates). It consists both of sensory receptors and sensory (afferent) neurons in the periphery (skin, muscle and organs for example), to deeper neurones within the central nervous system.
+General somatosensory pathway [edit]
+A somatosensory pathway will typically have three long neurons:[3] primary, secondary and tertiary (or first, second, and third).
+The first neuron always has its cell body in the dorsal root ganglion of the spinal nerve (if sensation is in head or neck, it will be the trigeminal nerve ganglia or the ganglia of other sensory cranial nerves).
+The second neuron has its cell body either in the spinal cord or in the brainstem. This neuron's ascending axons will cross (decussate) to the opposite side either in the spinal cord or in the brainstem. The axons of many of these neurones terminate in the thalamus (for example the ventral posterior nucleus, VPN), others terminate in the reticular system or the cerebellum.
+In the case of touch and certain types of pain, the third neuron has its cell body in the VPN of the thalamus and ends in the postcentral gyrus of the parietal lobe.
+Periphery [edit]
+In the periphery, the somatosensory system detects various stimuli by sensory receptors, e.g. by mechanoreceptors for tactile sensation and nociceptors for pain sensation. The sensory information (touch, pain, temperature etc.,) is then conveyed to the central nervous system by afferent neurones. There are a number of different types of afferent neurones which vary in their size, structure and properties. Generally there is a correlation between the type of sensory modality detected and the type of afferent neurone involved. For example, slow, thin, unmyelinated neurones conduct pain whereas faster, thicker, myelinated neurones conduct casual touch.
+The receptive field of a particular afferent neuron is given by the sensory receptors supplying it, and in turn from a particular region of the skin.
+Spinal cord [edit]
+In the spinal cord, the somatosensory system [4] includes ascending pathways from the body to the brain. One major target within the brain is the postcentral gyrus in the cerebral cortex. This is the target for neurons of the Dorsal Column Medial Lemniscal pathway and the Ventral Spinothalamic pathway. Note that many ascending somatosensory pathways include synapses in either the thalamus or the reticular formation before they reach the cortex. Other ascending pathways, particularly those involved with control of posture are projected to the cerebellum. These include the ventral and dorsal spinocerebellar tracts. Another important target for afferent somatosensory neurons which enter the spinal cord are those neurons involved with local segmental reflexes.
+Brain [edit]
+The primary somatosensory area in the human cortex (also called primary somatic sensory cortex or SI) is located in the postcentral gyrus of the parietal lobe and makes up four distinct fields or regions known as Brodmann area 3a, 3b, 1, and 2.[5] The postcentral gyrus is the location of the primary somatosensory area, the main sensory receptive area for the sense of touch. Any individual neuron has its receptive field on the skin.
+A relationship between the somatosensory cortical areas and their projection of the body was discovered by recording electrical activity in the human cortex after mechanosensory stimulation of different body parts during neurosurgical procedures. These data led to the construction of somatotopic maps[5] in which a Somatotopic arrangement was generated. Like other sensory areas, there is a map of sensory space called a homunculus at this location. For the primary somatosensory cortex, this is called the sensory homunculus. Areas of this part of the human brain map to certain areas of the body, dependent on the amount or importance of somatosensory input from that area. For example, there is a large area of cortex devoted to sensation in the hands, while the Human back has a much smaller area. Somatosensory information involved with proprioception and posture also targets an entirely different part of the brain, the cerebellum.
+Fine touch and Crude touch [edit]
+
+Fine touch, (or discriminative touch), is a sensory modality which allows a subject to sense and localise touch. The form of touch where localisation is not possible is known as crude touch. The posterior column-medial lemniscus pathway is the pathway responsible for the sending of fine touch information to the cerebral cortex of the brain.
+Crude touch (or non-discriminative touch) is a sensory modality which allows the subject to sense that something has touched them, without being able to localize where they were touched (contrasting "fine touch"). Its fibres are carried in the spinothalamic tract. Unlike the fine touch which is carried in the dorsal column
+As fine touch normally works in parallel to crude touch, a person will be able to localize touch until fibres carrying fine touch (Posterior column-medial lemniscus pathway) have been disrupted. Then the subject will feel the touch, but be unable to identify where they were touched.
+Physiology [edit]
+
+
+
+Touch can result in many different physiological reactions. Here, a baby laughs at being tickled by an older sister.
+Initiation of somatosensation begins with activation of a physical "receptor". These somatosensory receptors tend to lie in organs, most notably in the skin, or muscle. The structure of these receptors is broadly similar in all cases, consisting of either a "free nerve ending" or a nerve ending embedded in a specialised capsule. They can be activated by movement (mechanoreceptor), pressure (mechanoreceptor), chemical (chemoreceptor) and/or temperature. Another activation is by vibrations generated as a finger scans across a surface. This is the means by which we can sense fine textures in which the spatial scale is less than 200 m. Such vibrations are around 250 Hz, which is the optimal frequency sensitivity of Pacinian corpuscles.[6] In each case, the general principle of activation is similar; the stimulus causes depolarisation of the nerve ending and then an action potential is initiated. This action potential then (usually) travels inward towards the spinal cord.
+Individual differences [edit]
+
+A variety of studies have measured and investigated the causes for differences between individuals in the sense of fine touch. One well-studied area is passive tactile spatial acuity, the ability to resolve the fine spatial details of an object pressed against the stationary skin. A variety of methods have been used to measure passive tactile spatial acuity, perhaps the most rigorous being the grating orientation task[7], which can be applied manually or with automated equipment[8]. Many studies have shown a decline in passive tactile spatial acuity with age[9][10][11]; the reasons for this decline are unknown, but may include loss of tactile receptors during normal aging. Remarkably, index finger passive tactile spatial acuity is better among people with smaller index fingertips[12]; this effect of finger size has been shown to underlie the better passive tactile spatial acuity of women, on average, compared to men[12]. The density of Meissner's corpuscles, a type of mechanoreceptor that detects low-frequency vibrations, is greater in smaller fingers[13]; the same may hold for Merkel cells, which detect the static indentations important for fine spatial acuity[12]. Many studies have shown that passive tactile spatial acuity is enhanced among blind individuals compared to sighted individuals of the same age[14][15][11][16][17], possibly because of cross modal plasticity in the cerebral cortex of blind individuals. Perhaps also due to cortical plasticity, individuals who have been blind since birth reportedly consolidate tactile information more rapidly than sighted people[18].
+Diseases and disorders [edit]
+
+A somatosensory deficiency may be caused by a peripheral neuropathy involving peripheral nerves of the somatosensory system.
+This may present as numbness or paresthesia.
+Certain types of seizures are associated with the somatosensory system. Cortical injury may lead to loss of thermal sensation or the ability to discriminate pain. An Aura (symptom) involving thermal and painful sensations is a pheomenon known to precede the onset of an Epileptic seizure or focal seizures. Another type of seizure, called a sensory Jacksonian seizure involves an abnormal, localizable, cutaneous sensation but does not have apparent stimulus. This sensation may progress along a limb or to adjacent cutaneous body areas, reflecting abnormal neuronal firing in the postcentral gyrus where an epileptic discharge is propagated. These episodes in which patients are consciously aware during a seizure have been useful for identifying problems associated with the somatosensory cortex. Patients can describe the nature of the seizure and how they feel during it.[19]
+The absence of proprioception or two point tactile discrimination on one side of the body suggests injury to the contralateral side of the primary somatosensory cortex. However, depending on the extent of the injury, damage can range in loss of proprioception of an individual limb or the entire body. A deficit known as cortical Astereognosis of the receptive type describes an inability to utilize tactile sensory information for identifying objects placed in the hand. For example, if this type of injury effects the hand region in the primary somatosensory cortex for one cerebral hemisphere, a patient with closed eyes cannot perceive the position of the fingers on the contralateral hand and will not be able to identify objects such as keys or a cell phone if they are placed into that hand.[19]
+Evaluation of any suspected disease of the somatosensory system is included in a neurological examination of the peripheral nervous system
+Technology [edit]
+
+The new research area of haptic technology can provide touch sensation in virtual and real environments. This new discipline has started to provide critical insights into touch capabilities. In the field of speech therapy, tactile feedback has begun to be used to treat speech disorders.
+See also [edit]
+
+Allochiria
+Cell signalling
+Cellular Cognition
+Muscle spindle
+Special senses
+Vibratese, method of communication through touch
+Somatosensory Rehabilitation of Pain
+Two-point discrimination
+Phantom limb
+Tactile illusion
+Notes [edit]
+
+^ Also called tactile perception, tactual perception, tactition, or haptic perception. The adjectival forms are "tactile", "somatosensory", "tactual", and "haptic".
+^ Robles-De-La-Torre G (2006). "The Importance of the Sense of Touch in Virtual and Real Environments". IEEE Multimedia 13 (3): 2430. doi:10.1109/MMUL.2006.69.
+^ Saladin KS. Anatomy and Physiology 3rd edd. 2004. McGraw-Hill, New York.
+^ Nolte J.The Human Brain 5th ed. 2002. Mosby Inc, Missouri.
+^ a b Purves, Dale (2012). Neuroscience, Fifth Edition. Sunderland, MA: Sinauer Associates, Inc. pp. 202203. ISBN 978-0-87893-695-3.
+^ Scheibert J, Leurent S, Prevost A, Debrgeas G. (2009). The role of fingerprints in the coding of tactile information probed with a biomimetic sensor. Science. 323(5920):1503-6. PMID 19179493 doi:10.1126/science.1166467
+^ Van Boven, R. W.; Johnson, K. O. (1 December 1994). "The limit of tactile spatial resolution in humans: Grating orientation discrimination at the lip, tongue, and finger". Neurology 44 (12): 23612361. doi:10.1212/WNL.44.12.2361.
+^ Goldreich, D; Wong, M; Peters, RM; Kanics, IM (2009 Jun 3). "A Tactile Automated Passive-Finger Stimulator (TAPS).". Journal of visualized experiments : JoVE (28). PMID 19578327.
+^ Stevens, JC; Alvarez-Reeves, M; Dipietro, L; Mack, GW; Green, BG (2003). "Decline of tactile acuity in aging: a study of body site, blood flow, and lifetime habits of smoking and physical activity.". Somatosensory & motor research 20 (3-4): 2719. PMID 14675966.
+^ Manning, Hlne; Tremblay, Franois (2006). "Age differences in tactile pattern recognition at the fingertip". Somatosensory & Motor Research 23 (3-4): 147155. doi:10.1080/08990220601093460.
+^ a b Goldreich, D; Kanics, IM (2003). "Tactile acuity is enhanced in blindness.". Journal of neuroscience 23 (8): 343945. PMID 12716952.
+^ a b c Peters, RM; Hackeman, E; Goldreich, D (2009). "Diminutive digits discern delicate details: fingertip size and the sex difference in tactile spatial acuity.". Journal of neuroscience 29 (50): 1575661. PMID 20016091.
+^ Dillon, YK; Haynes, J; Henneberg, M (2001). "The relationship of the number of Meissner's corpuscles to dermatoglyphic characters and finger size.". Journal of anatomy 199 (Pt 5): 57784. PMID 11760888.
+^ Stevens, Joseph C.; Foulke, Emerson; Patterson, Matthew Q. (1996). "Tactile acuity, aging, and braille reading in long-term blindness.". Journal of Experimental Psychology: Applied 2 (2): 91106. doi:10.1037/1076-898X.2.2.91.
+^ Van Boven, RW; Hamilton, RH; Kauffman, T; Keenan, JP; Pascual-Leone, A (2000). "Tactile spatial resolution in blind braille readers.". Neurology 54 (12): 22306. PMID 10881245.
+^ Goldreich, D; Kanics, IM (2006). "Performance of blind and sighted humans on a tactile grating detection task.". Perception & psychophysics 68 (8): 136371. PMID 17378422.
+^ Wong, M; Gnanakumaran, V; Goldreich, D (2011). "Tactile spatial acuity enhancement in blindness: evidence for experience-dependent mechanisms.". Journal of neuroscience 31 (19): 702837. PMID 21562264.
+^ Bhattacharjee, A; Ye, AJ; Lisak, JA; Vargas, MG; Goldreich, D (2010). "Vibrotactile masking experiments reveal accelerated somatosensory processing in congenitally blind braille readers.". Journal of neuroscience 30 (43): 1428898. PMID 20980584.
+^ a b Augustine, James R. (2008). Human Neuroanatomy. San Diego, CA: Academic Press. p. 360. ISBN 978-0-12-068251-5.
+References [edit]
+
+Augustine, James R. (2008). Human Neuroanatomy. San Diego, CA: Academic Press. p. 360. ISBN 978-0-12-068251-5.
+Emile L. Boulpaep; Walter F. Boron (2003). Medical Physiology. Saunders. pp. 352358. ISBN 0-7216-3256-4.
+Flanagan, J.R., Lederman, S.J. Neurobiology: Feeling bumps and holes, News and Views, Nature, 2001 Jul. 26;412(6845):389-91.
+Hayward V, Astley OR, Cruz-Hernandez M, Grant D, Robles-De-La-Torre G. Haptic interfaces and devices. Sensor Review 24(1), pp. 1629 (2004).
+Purves, Dale (2012). Neuroscience, Fifth Edition. Sunderland, MA: Sinauer Associates, Inc. pp. 202203. ISBN 978-0-87893-695-3.
+Robles-De-La-Torre G., Hayward V. Force Can Overcome Object Geometry In the perception of Shape Through Active Touch. Nature 412 (6845):445-8 (2001).
+Robles-De-La-Torre G. The Importance of the Sense of Touch in Virtual and Real Environments. IEEE Multimedia 13(3), Special issue on Haptic NO User Interfaces for Multimedia Systems, pp. 2430 (2006).
+External links [edit]
+
+'Somatosensory & Motor research' (Informa Healthcare)
+[show] v t e
+Nervous system: Sensory systems / senses (TA A15)
+[show] v t e
+Nervous system, receptors: somatosensory system (GA 10.1059)
+Categories: Somatic sensory system
+Navigation menu
+Create accountLog inArticleTalkReadEditView history
+
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact Wikipedia
+Toolbox
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Cite this page
+Print/export
+Languages
+
+Asturianu
+
+Bn-lm-g
+
+Catal
+ChiShona
+Deutsch
+Espaol
+Esperanto
+Franais
+
+Hrvatski
+Bahasa Indonesia
+slenska
+
+Latvieu
+Magyar
+Nederlands
+
+Portugus
+
+Simple English
+Suomi
+Svenska
+Tagalog
+
+Vro
+
+Edit links
+This page was last modified on 18 May 2013 at 19:38.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaMobile view 

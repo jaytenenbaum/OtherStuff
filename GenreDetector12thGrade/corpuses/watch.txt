@@ -1,0 +1,112 @@
+ 
+ , worn by soldiers in World War I (Deutsches Uhrenmuseum, Inv. 47-3352)]] quartz vibrations or electronic pulses.    The first digital electronic watch was developed in 1970. 
+
+Before wristwatches became popular in the 1920s, most watches were pocket watches, which often had covers and were carried in a pocket and attached to a watch chain or watch fob.  In the early 1900s, the wristwatch, originally called a Wristlet, was reserved for women and considered more of a passing fad than a serious timepiece. Men, who carried pocket watches, were quoted as saying they would "sooner wear a skirt as wear a wristwatch".  This changed in World War I, when soldiers on the battlefield found pocket watches to be impractical and attached their watches to their wrist by a cupped leather strap. It is also believed that Girard-Perregaux equipped the German Imperial Navy with wristwatches in a similar fashion as early as the 1880s, to be used while synchronizing naval attacks and firing artillery.   
+
+Most inexpensive and medium-priced watches used mainly for timekeeping are electronic watches with quartz movements.  Expensive collectible watches, valued more for their workmanship and aesthetic appeal than for simple timekeeping, often have purely mechanical movements and are powered by springs, even though mechanical movements are less accurate than more affordable quartz movements. In addition to the time, modern watches often display the day, date, month and year, and electronic watches may have many other functions. Watches that provide additional time-related features such as timers, chronographs and alarm functions are not uncommon. Some modern designs even go as far as using GPS  technology or heart-rate monitoring   capabilities.
+
+The study of timekeeping is known as horology.
+
+== History ==
+ 
+ 
+ 
+ 
+Watches evolved from portable Mainspring|spring-driven clocks, which first appeared in 15th century Europe. Watches werent widely worn in pockets until the 17th century.  One account says that the word "watch" came from the Old English word woecce which meant "watchman", because it was used by town watchmen to keep track of their shifts. {{cite encyclopedia
+  | title = Watch
+  | encyclopedia = The New Encyclopædia Britannica, 15th Edition 
+  | volume = 4
+  | pages = 746–747
+  | publisher = Encyclopaedia Britannica, Inc.
+  | year = 1983
+  | url = http://books.google.com/books?id=7iZqYfRWH_0C&q=watchmen+watch+clock+henlein&dq=watchmen+watch+clock+henlein&hl=en&sa=X&ei=i-TLT7KhOMmK2gX86KXaCw&ved=0CDoQ6AEwATgK
+  | id = 
+  | isbn = 085229400X,
+  | accessdate = June 3, 2012}}   Another says that the term came from 17th century sailors, who used the new mechanisms to time the length of their shipboard Watch system|watches (duty shifts). {{cite book   
+  | last = Haven
+  | first = Kendall F. 
+  | authorlink = 
+  | coauthors = 
+  | title = 100 Greatest Science Inventions of All Time
+  | publisher = Libraries Unlimited
+  | year = 2006
+  | location = 
+  | pages = 65
+  | url = http://books.google.com/books?id=0gBwjLTUzEMC&pg=PA65&dq=sailor+watch+clock+henlein&hl=en&sa=X&ei=QeHLT7PaH4bs2AX5hKTaCw&ved=0CDkQ6AEwAA#v=onepage&q=sailor%20watch%20clock%20henlein&f=false
+  | doi = 
+  | id = 
+  | isbn = 1591582644}} 
+
+== Movement ==
+  with a mechanical 1/6 s movement, the right one has a more common 12-hour dial and a "1 s" quartz movement]]
+ 
+ movement in watchmaking is the mechanism that measures the passage of time and displays the current time (and possibly other information including date, month and day). Movements may be entirely mechanical, entirely electronic (potentially with no moving parts), or they might be a blend of the two. Most watches intended mainly for timekeeping today have electronic movements, with mechanical hands on the watch face indicating the time.
+
+=== Mechanical movements ===
+ 
+Compared to electronic movements, mechanical watches are less accurate, often with errors of seconds per day, and they are sensitive to position, temperature  and magnetism.  They are also costly to produce, require regular maintenance and adjustment, and are more prone to failure. Nevertheless, the craftsmanship of mechanical watches still attracts interest from part of the watch-buying public. Skeleton watches are designed to leave the mechanism visible for aesthetic purposes.
+ gravitational bias to the timekeeping. Due to the complexity of designing a tourbillon, they are very expensive, and only found in "prestige" watches.
+
+The pin-lever escapement (called the Roskopf movement after its inventor, Georges Frederic Roskopf), which is a cheaper version of the fully levered movement, was manufactured in huge quantities by many Swiss manufacturers as well as Timex Group USA|Timex, until it was replaced by quartz movements.   
+
+Tuning-fork watches use a type of electromechanical movement. Introduced by Bulova in 1960, they use a tuning fork with a precise frequency (most often 360 hertz) to drive a mechanical watch. The task of converting electronically pulsed fork vibration into rotary movement is done via two tiny jeweled fingers, called pawls. Electric watch#Types of electric watches|Tuning-fork watches were rendered obsolete when electronic quartz watches were developed. Quartz watches were cheaper to produce and even more accurate.
+
+ 
+Traditional mechanical watch movements use a spiral spring called a mainspring as a power source. In manual watches the spring must be rewound periodically by the user by turning the watch crown. Antique pocketwatches were wound by inserting a separate key into a hole in the back of the watch and turning it. Most modern watches are designed to run 40&nbsp;hours on a winding and thus must be wound daily, but some run for several days and a few have 192-hour mainsprings and are wound weekly.
+
+==== Automatic watches ====
+ 
+ : An eccentric weight, called a rotor, swings with the movement of the wearers body and winds the spring]]
+ ratchet to automatically wind the mainspring. Self-winding watches usually can also be wound manually so they can be kept running when not worn or if the wearers wrist motions are inadequate to keep the watch wound.
+
+=== Electronic movements ===
+ 
+ resonates at a specific and highly stable frequency, and which can be used to accurately pace a timekeeping mechanism. For this reason, electronic watches are often called quartz watches. Most quartz movements are primarily electronic but are geared to drive mechanical hands on the face of the watch in order to provide a traditional analog display of the time, which is still preferred by most consumers.
+
+ 
+In 1959 Seiko gave an order to Epson (a daughter company of Seiko and the actual brain behind the quartz revolution) to start developing a quartz wristwatch. The project was codenamed 59A and by the 1964 Tokyo Summer Olympics, Seiko had a working prototype of a portable quartz watch which took part in time measurements throughout the event.
+
+The first prototypes of an electronic quartz wristwatch (not just portable quartz watches as the Seiko timekeeping devices at the Tokyo Olympics in 1964) were made by the CEH research laboratory in Neuchâtel, Switzerland. From 1965 through 1967 pioneering development work was done on a miniaturized 8192&nbsp;Hz quartz oscillator, a thermo-compensation module and an inhouse-made, dedicated integrated circuit (unlike the hybrid circuits used in the later Seiko Astron wristwatch). As a result, the BETA 1 prototype set new timekeeping performance records at the International Chronometric Competition held at the Observatory of Neuchâtel in 1967. 
+
+  35 SQ Astron, which hit the shelves on December 25, 1969. One particularly interesting decision made by Seiko at that time was to not patent the whole movement of the quartz wristwatch, thus allowing other manufacturers to benefit from the Seiko technology. This played a major role in the popularity and quick development of the quartz watch, which in less than a decade was dominant in the watch market, nearly ending an almost 100 years of mechanical wristwatch heritage. The modern quartz movements are produced in very large quantities, and even the cheapest wristwatches typically have quartz movements. Whereas mechanical movements can typically be off by several seconds a day, an inexpensive quartz movement in a childs wristwatch may still be accurate to within half a second per day—ten times better than a mechanical movement. 
+
+After a consolidation of the mechanical watch industry in Switzerland during the 1970s, mass production of quartz wristwatches took off under the leadership of the Swatch Group of companies, a Swiss conglomerate with vertical control of the production of Swiss watches and related products. watch batteries (Renata), oscillators (Oscilloquartz) and integrated circuits (Ebauches Electronic SA). The launch of the new SWATCH brand in 1983, was marked by bold new styling, design and marketing. Today, the Swatch Group is the worlds largest watch company.
+
+Seikos efforts to combine the quartz and mechanical movements bore fruit after 20 years of research, leading to the introduction of the Seiko Spring Drive, first in a limited domestic market production in 1999 and to the world in September 2005. The Spring Drive manages to keep time within quartz standards without the use of a battery, using a traditional mechanical gear train powered by a spring, while at the same time doesnt have the need of a balance wheel either.
+ time source such as in atomic clocks, time signals from GPS navigation satellites, the German DCF77 signal in Europe, WWVB in the US, and others. Movements of this type may -among others- synchronize not only the time of day but also the date, the leap year|leap-year status of the current year, and the current state of daylight saving time (on or off). However, other than the radio receiver these watches are normal quartz watches in all other aspects.
+
+Electronic watches require electricity as a power source, and some mechanical movements and hybrid electronic-mechanical movements also require electricity. Usually the electricity is provided by a replaceable battery (electricity)|battery. The first use of electrical power in watches was as a substitute for the mainspring, in order to remove the need for winding. The first electrically powered watch, the Hamilton Electric 500, was released in 1957 by the Hamilton Watch Company of Lancaster, Pennsylvania.
+
+Watch batteries (strictly speaking cells, as a battery is composed of multiple cells) are specially designed for their purpose. They are very small and provide tiny amounts of power continuously for very long periods (several years or more). In most cases, replacing the battery requires a trip to a watch-repair shop or watch dealer; this is especially true for watches that are designed to be water-resistant, as special tools and procedures are required to ensure that the watch remains water-resistant after battery replacement. Silver-oxide and lithium batteries are popular today; mercury batteries, formerly quite common, are no longer used, for environmental reasons. Cheap batteries may be alkaline, of the same size as silver-oxide cells but providing shorter life. Rechargeable batteries are used in some solar powered watches.
+ Kinetic powered generator to supply power to charge a rechargeable battery that runs the watch. The concept is similar to that of self-winding spring movements, except that electrical power is generated instead of mechanical spring tension.
+
+Solar powered watches are powered by light. A photovoltaic cell on the face (dial (measurement)|dial) of the watch converts light to electricity, which in turn is used to charge a rechargeable battery or capacitor. The movement of the watch draws its power from the rechargeable battery or capacitor. As long as the watch is regularly exposed to fairly strong light (such as sunlight), it never needs battery replacement, and some models need only a few minutes of sunlight to provide weeks of energy (as in the Citizen Eco-Drive). Some of the early solar watches of the 1970s had innovative and unique designs to accommodate the array of solar cells needed to power them (Synchronar, Nepro, Sicura and some models by Cristalonic, Alba, Seiko and Citizen). As the decades progressed and the efficiency of the solar cells increased while the power requirements of the movement and display decreased, solar watches began to be designed to look like other conventional watches. 
+ Citizen Eco-Drive Thermo).
+
+== Display ==
+
+=== Analog ===
+  chronograph]]
+
+Traditionally, watches have displayed the time in analog form, with a numbered dial upon which are mounted at least a rotating hour hand and a longer, rotating minute hand. Many watches also incorporate a third hand that shows the current second of the current minute. Watches powered by quartz usually have a second hand that snaps every second to the next marker. Watches powered by a mechanical movement appears to have a gliding second hand, although it is actually not gliding; the hand merely moves in smaller steps, typically 1/5 of a second, corresponding to the beat (half period) of the balance wheel. In some escapements (for example the duplex escapement), the hand advances every two beats (full period) of the balance wheel, typically 1/2 second in those watches, or even every four beats (two periods, 1 second), in the double duplex escapement. A truly gliding second hand is achieved with the tri-synchro regulator of Spring Drive watches. All of the hands are normally mechanical, physically rotating on the dial, although a few watches have been produced with "hands" that are simulated by a liquid crystal display|liquid-crystal display.
+
+Analog display of the time is nearly universal in watches sold as jewelry or collectibles, and in these watches, the range of different styles of hands, numbers, and other aspects of the analog dial is very broad. In watches sold for timekeeping, analog display remains very popular, as many people find it easier to read than digital display; but in timekeeping watches the emphasis is on clarity and accurate reading of the time under all conditions (clearly marked digits, easily visible hands, large watch faces, etc.). They are specifically designed for the left wrist with the stem (the knob used for changing the time) on the right side of the watch; this makes it easy to change the time without removing the watch from the wrist. This is the case if one is right-handed and the watch is worn on the left wrist (as is traditionally done). If one is left-handed and wears the watch on the right wrist, one has to remove the watch from the wrist to reset the time or to wind the watch.
+
+Analog watches as well as clocks are often marketed showing a display time of approximately 10:09 or 10:10. This creates a visually pleasing smile-like face on upper half of the watch, in addition to enclosing the manufacturers name. Digital displays often show a time of 12:08, where the increase in the number of active segments or pixels gives a positive feeling.  
+
+=== Digital ===
+  digital mechanical pocket watch. 1890s]]
+ 
+  watch from 1976.]]
+
+A digital display simply shows the time as a number, e.g., 12:08 instead of a short hand pointing towards the number 12 and a long hand 8/60 of the way round the dial. The digits are usually shown as a seven-segment display.
+
+The first digital mechanical pocket watches appeared in late 19th century. In the 1920s, the first digital mechanical wristwatches appeared.
+
+The first digital electronic watch, a  . On April 4, 1972, the Pulsar was finally ready, made in 18-carat gold and sold for $2,100. It had a red light-emitting diode (LED) display.
+
+Digital LED watches were very expensive and out of reach to the common consumer until 1975, when Texas Instruments started to mass produce LED watches inside a plastic case. These watches, which first retailed for only $20,   reduced to $10 in 1976, saw Pulsar lose $6&nbsp;million and the Pulsar brand sold to Seiko. 
+ The Black Watch made and sold by British company Sinclair Research in 1975. This was only sold for a few years, as production problems and returned (faulty) product forced the company to cease production.
+
+ 
+ Twisted Nematic LCD manufactured by Brown, Boveri & Cie, Switzerland, which became the supplier of LCDs to Casio for the C

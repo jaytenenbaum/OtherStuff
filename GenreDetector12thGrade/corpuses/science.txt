@@ -1,0 +1,591 @@
+
+Science
+From Wikipedia, the free encyclopedia
+This article is about the general term, particularly as it refers to experimental sciences. For other uses, see Science (disambiguation).
+
+Part of a series on
+Science
+Formal sciences[show]
+Physical sciences[show]
+Life sciences[show]
+Social sciences[show]
+Applied sciences[show]
+Interdisciplinarity[show]
+Philosophy and history of science[show]
+Outline Portal Category
+v t e
+Science (from Latin scientia, meaning "knowledge"[1]) is a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe.[2][3] In an older and closely related meaning, "science" also refers to a body of knowledge itself, of the type that can be rationally explained and reliably applied. Since classical antiquity, science as a type of knowledge has been closely linked to philosophy. In the early modern period the words "science" and "philosophy" were sometimes used interchangeably.[4] By the 17th century, natural philosophy (which is today called "natural science") was considered a separate branch of philosophy.[5] However, "science" continued to be used in a broad sense denoting reliable knowledge about a topic, in the same way it is still used in modern terms such as library science or political science.
+In modern use, "science" more often refers to a way of pursuing knowledge, not only the knowledge itself. It is "often treated as synonymous with 'natural and physical science', and thus restricted to those branches of study that relate to the phenomena of the material universe and their laws, sometimes with implied exclusion of pure mathematics. This is now the dominant sense in ordinary use.[6] This narrower sense of "science" developed as scientists such as Johannes Kepler, Galileo Galilei and Isaac Newton began formulating laws of nature such as Newton's laws of motion. In this period[vague] it became more common to refer to natural philosophy as "natural science". Over the course of the 19th century, the word "science" became increasingly associated with the scientific method, a disciplined way to study the natural world, including physics, chemistry, geology and biology. It is in the 19th century also that the term scientist was created by the naturalist-theologian William Whewell to distinguish those who sought knowledge on nature from those who sought knowledge on other disciplines. The Oxford English Dictionary dates the origin of the word "scientist" to 1834. This sometimes left the study of human thought and society in a linguistic limbo, which was resolved by classifying these areas of academic study as social science. Similarly, several other major areas of disciplined study and knowledge exist today under the general rubric of "science", such as formal science and applied science.
+
+
+The scale of the universe mapped to the branches of science and the hierarchy of science.
+Contents  [hide] 
+1 History and philosophy
+1.1 History
+1.2 Philosophy of science
+1.3 Pseudoscience, fringe science, and junk science
+2 Scientific practice
+2.1 The scientific method
+2.2 Mathematics and formal sciences
+2.3 Basic and applied research
+2.4 Research in practice
+2.5 Practical impacts of scientific research
+3 Scientific community
+3.1 Branches and fields
+3.2 Institutions
+3.3 Literature
+4 Science and society
+4.1 Women in science
+4.2 Science policy
+4.3 Media perspectives
+4.4 Political usage
+5 See also
+6 Notes
+7 References
+8 Further reading
+9 External links
+History and philosophy
+
+History
+Main article: History of science
+
+
+Both Aristotle and Kuan Tzu (4th century BCE), in an example of simultaneous scientific discovery, mention that some marine animals were subject to a lunar cycle, and increase and decrease in size with the waxing and waning of the moon. Aristotle was referring specifically to the sea urchin, pictured above.[7]
+Science in a broad sense existed before the modern era, and in many historical civilizations, but modern science is so distinct in its approach and successful in its results that it now defines what science is in the strictest sense of the term.[8] Much earlier than the modern era, another important turning point was the development of the classical natural philosophy in the ancient Greek-speaking world.
+Pre-philosophical
+Science in its original sense is a word for a type of knowledge (Latin scientia, Ancient Greek epistem), rather than a specialized word for the pursuit of such knowledge. In particular it is one of the types of knowledge which people can communicate to each other and share. For example, knowledge about the working of natural things was gathered long before recorded history and led to the development of complex abstract thinking, as shown by the construction of complex calendars, techniques for making poisonous plants edible, and buildings such as the pyramids. However no consistent distinction was made between knowledge of such things which are true in every community, and other types of communal knowledge such as mythologies and legal systems.
+Philosophical study of nature
+See also: Nature (philosophy)
+Before the invention or discovery of the concept of "nature" (Ancient Greek phusis), by the Pre-Socratic philosophers, the same words tend to be used to describe the natural "way" in which a plant grows,[9] and the "way" in which, for example, one tribe worships a particular god. For this reason it is claimed these men were the first philosophers in the strict sense, and also the first people to clearly distinguish "nature" and "convention".[10] Science was therefore distinguished as the knowledge of nature, and the things which are true for every community, and the name of the specialized pursuit of such knowledge was philosophy  the realm of the first philosopher-physicists. They were mainly speculators or theorists, particularly interested in astronomy. In contrast, trying to use knowledge of nature to imitate nature (artifice or technology, Greek techn) was seen by classical scientists as a more appropriate interest for lower class artisans.[11]
+Philosophical turn to human things
+A major turning point in the history of early philosophical science was the controversial but successful attempt by Socrates to apply philosophy to the study of human things, including human nature, the nature of political communities, and human knowledge itself. He criticized the older type of study of physics as too purely speculative, and lacking in self-criticism. He was particularly concerned that some of the early physicists treated nature as if it could be assumed that it had no intelligent order, explaining things merely in terms of motion and matter.
+The study of human things had been the realm of mythology and tradition, and Socrates was executed. Aristotle later created a less controversial systematic programme of Socratic philosophy, which was teleological, and human-centred. He rejected many of the conclusions of earlier scientists. For example in his physics the sun goes around the earth, and many things have it as part of their nature that they are for humans. Each thing has a formal cause and final cause and a role in the rational cosmic order. Motion and change is described as the actualization of potentials already in things, according to what types of things they are. While the Socratics insisted that philosophy should be used to consider the practical question of the best way to live for a human being (a study Aristotle divided into ethics and political philosophy), they did not argue for any other types of applied science.
+Aristotle maintained the sharp distinction between science and the practical knowledge of artisans, treating theoretical speculation as the highest type of human activity, practical thinking about good living as something less lofty, and the knowledge of artisans as something only suitable for the lower classes. In contrast to modern science, Aristotle's influential emphasis was upon the "theoretical" steps of deducing universal rules from raw data, and did not treat the gathering of experience and raw data as part of science itself.[12]
+Medieval science
+During late antiquity and the early Middle Ages, the Aristotelian approach to inquiries on natural phenomenon was used. Some ancient knowledge was lost, or in some cases kept in obscurity, during the fall of the Roman Empire and periodic political struggles. However, the general fields of science, or Natural Philosophy as it was called, and much of the general knowledge from the ancient world remained preserved though the works of the early encyclopedists like Isidore of Seville. During the early medieval period, Syrian Christians from Eastern Europe such as Nestorians and Monophysites were the ones that translated much of the important Greek science texts from Greek to Syriac and the later on they translated many of the works into Arabic and other languages under Islamic rule.[13] This was a major line of transmission for the development of Islamic science which provided much of the activity during the early medieval period. In the later medieval period, Europeans recovered some ancient knowledge by translations of texts and they built their work upon the knowledge of Aristotle, Ptolemy, Euclid, and others works. In Europe, men like Roger Bacon learned Arabic and Hebrew and argued for more experimental science. By the late Middle Ages, a synthesis of Catholicism and Aristotelianism known as Scholasticism was flourishing in Western Europe, which had become a new geographic center of science.
+Renaissance, and early modern science
+Main article: Scientific revolution
+
+
+Galileo is considered one of the fathers of modern science.[14]
+By the late Middle Ages, especially in Italy there was an influx of texts and scholars from the collapsing Byzantine empire. Copernicus formulated a heliocentric model of the solar system unlike the geocentric model of Ptolemy's Almagest. All aspects of scholasticism were criticized in the 15th and 16th centuries; one author who was notoriously persecuted was Galileo, who made innovative use of experiment and mathematics. However the persecution began after Pope Urban VIII blessed Galileo to write about the Copernican system. Galileo had used arguments from the Pope and put them in the voice of the simpleton in the work "Dialogue Concerning the Two Chief World Systems" which caused great offense to him.[15]
+In Northern Europe, the new technology of the printing press was widely used to publish many arguments including some that disagreed with church dogma. Ren Descartes and Francis Bacon published philosophical arguments in favor of a new type of non-Aristotelian science. Descartes argued that mathematics could be used in order to study nature, as Galileo had done, and Bacon emphasized the importance of experiment over contemplation. Bacon questioned the Aristotelian concepts of formal cause and final cause, and promoted the idea that science should study the laws of "simple" natures, such as heat, rather than assuming that there is any specific nature, or "formal cause", of each complex type of thing. This new modern science began to see itself as describing "laws of nature". This updated approach to studies in nature was seen as mechanistic. Bacon also argued that science should aim for the first time at practical inventions for the improvement of all human life.
+Age of Enlightenment
+In the 17th and 18th centuries, the project of modernity, as had been promoted by Bacon and Descartes, led to rapid scientific advance and the successful development of a new type of natural science, mathematical, methodically experimental, and deliberately innovative. Newton and Leibniz succeeded in developing a new physics, now referred to as Newtonian physics, which could be confirmed by experiment and explained in mathematics. Leibniz also incorporated terms from Aristotelian physics, but now being used in a new non-teleological way, for example "energy" and "potential". But in the style of Bacon, he assumed that different types of things all work according to the same general laws of nature, with no special formal or final causes for each type of thing.
+It is, during this period that the word "science" gradually became more commonly used to refer to the pursuit of a type of knowledge, and especially knowledge of nature  coming close in meaning to the old term "natural philosophy".
+19th century
+Both John Herschel and William Whewell systematised methodology: the latter coined the term scientist. When Charles Darwin published On the Origin of Species he established descent with modification as the prevailing evolutionary explanation of biological complexity. His theory of natural selection provided a natural explanation of how species originated, but this only gained wide acceptance a century later. John Dalton developed the idea of atoms. The laws of Thermodynamics and the electromagnetic theory were also established in the 19th century, which raised new questions which could not easily be answered using Newton's framework.
+20th century and beyond
+Einstein's Theory of Relativity and the development of quantum mechanics led to the replacement of Newtonian physics with a new physics which contains two parts, that describe different types of events in nature. The extensive use of scientific innovation during the wars of this century, led to the space race and widespread public appreciation of the importance of modern science. More recently it has been argued that the ultimate purpose of science is to make sense of human beings and our nature- for example in his book Consilience, EO Wilson said "The human condition is the most important frontier of the natural sciences."[16] Jeremy Griffith supports this view.[17]
+Philosophy of science
+Main article: Philosophy of science
+Further information: Intersubjective verifiability and Subjunctive possibility
+
+
+John Locke
+Working scientists usually take for granted a set of basic assumptions that are needed to justify the scientific method: (1) that there is an objective reality shared by all rational observers; (2) that this objective reality is governed by natural laws; (3) that these laws can be discovered by means of systematic observation and experimentation. Philosophy of science seeks a deep understanding of what these underlying assumptions mean and whether they are valid.
+The belief that all observers share a common reality is known as realism. It can be contrasted with anti-realism, the belief that there is no valid concept of absolute truth such that things that are true for one observer are true for all observers. The most commonly defended form of anti-realism is idealism, the belief that the mind or consciousness is the most basic essence, and that each mind generates its own reality.[18] In an idealistic world-view, what is true for one mind need not be true for other minds.
+There are different schools of thought in philosophy of science. The most popular position is empiricism, which claims that knowledge is created by a process involving observation and that scientific theories are the result of generalizations from such observations.[19] Empiricism generally encompasses inductivism, a position that tries to explain the way general theories can be justified by the finite number of observations humans can make and the hence finite amount of empirical evidence available to confirm scientific theories. This is necessary because the number of predictions those theories make is infinite, which means that they cannot be known from the finite amount of evidence using deductive logic only. Many versions of empiricism exist, with the predominant ones being bayesianism[20] and the hypothetico-deductive method.[21]
+ 
+
+Distinguished Men of Science.[22] Use a cursor to see who is who.[23]
+Empiricism has stood in contrast to rationalism, the position originally associated with Descartes, which holds that knowledge is created by the human intellect, not by observation.[24] A significant 20th-century version of rationalism is critical rationalism, first defined by Austrian-British philosopher Karl Popper. Popper rejected the way that empiricism describes the connection between theory and observation. He claimed that theories are not generated by observation, but that observation is made in the light of theories and that the only way a theory can be affected by observation is when it comes in conflict with it.[25] Popper proposed falsifiability as the landmark of scientific theories, and falsification as the empirical method, to replace verifiability[26] and induction by purely deductive notions.[27] Popper further claimed that there is actually only one universal method, and that this method is not specific to science: The negative method of criticism, trial and error.[28] It covers all products of the human mind, including science, mathematics, philosophy, and art [29]
+Another approach, instrumentalism, colloquially termed "shut up and calculate", emphasizes the utility of theories as instruments for explaining and predicting phenomena.[30] It claims that scientific theories are black boxes with only their input (initial conditions) and output (predictions) being relevant. Consequences, notions and logical structure of the theories are claimed to be something that should simply be ignored and that scientists shouldn't make a fuss about (see interpretations of quantum mechanics). Close to instrumentalism is Constructivist epistemology according to which the main task of science is constructing models that can be given input and will give you an output that will predict the output given by the reality under same conditions accurately and validly enough.
+Paul K Feyerabend advanced the idea of epistemological anarchism, which holds that there are no useful and exception-free methodological rules governing the progress of science or the growth of knowledge, and that the idea that science can or should operate according to universal and fixed rules is unrealistic, pernicious and detrimental to science itself.[31] Feyerabend advocates treating science as an ideology alongside others such as religion, magic and mythology, and considers the dominance of science in society authoritarian and unjustified. He also contended (along with Imre Lakatos) that the demarcation problem of distinguishing science from pseudoscience on objective grounds is not possible and thus fatal to the notion of science running according to fixed, universal rules.[31] Feyerabend also stated that science does not have evidence for its philosophical precepts, particularly the notion of Uniformity of Law and the Uniformity of Process across time and space.[32]
+Finally, another approach often cited in debates of scientific skepticism against controversial movements like "scientific creationism", is methodological naturalism. Its main point is that a difference between natural and supernatural explanations should be made, and that science should be restricted methodologically to natural explanations.[33] That the restriction is merely methodological (rather than ontological) means that science should not consider supernatural explanations itself, but should not claim them to be wrong either. Instead, supernatural explanations should be left a matter of personal belief outside the scope of science. Methodological naturalism maintains that proper science requires strict adherence to empirical study and independent verification as a process for properly developing and evaluating explanations for observable phenomena.[34] The absence of these standards, arguments from authority, biased observational studies and other common fallacies are frequently cited by supporters of methodological naturalism as criteria for the dubious claims they criticize not to be true science.
+
+
+DNA determines the genetic structure of all known life
+Certainty and science
+A scientific theory is empirical, and is always open to falsification if new evidence is presented. That is, no theory is ever considered strictly certain as science accepts the concept of fallibilism. The philosopher of science Karl Popper sharply distinguishes truth from certainty. He writes that scientific knowledge "consists in the search for truth", but it "is not the search for certainty ... All human knowledge is fallible and therefore uncertain."[35]
+New scientific knowledge rarely results in vast changes in our understanding. According to psychologist Keith Stanovich, it may be the media's overuse of words like "breakthrough" that leads the public to imagine that science is constantly proving everything it thought was true to be false.[36] While there are such famous cases as the theory of relativity that required a complete reconceptualization, these are extreme exceptions. Knowledge in science is gained by a gradual synthesis of information from different experiments, by various researchers, across different branches of science; it is more like a climb than a leap.[37] Theories vary in the extent to which they have been tested and verified, as well as their acceptance in the scientific community.[38] For example, heliocentric theory, the theory of evolution, relativity theory, and germ theory still bear the name "theory" even though, in practice, they are considered factual.[39] Philosopher Barry Stroud adds that, although the best definition for "knowledge" is contested, being skeptical and entertaining the possibility that one is incorrect is compatible with being correct. Ironically then, the scientist adhering to proper scientific approaches will doubt themselves even once they possess the truth.[40] The fallibilist C. S. Peirce argued that inquiry is the struggle to resolve actual doubt and that merely quarrelsome, verbal, or hyperbolic doubt is fruitless[41]but also that the inquirer should try to attain genuine doubt rather than resting uncritically on common sense.[42] He held that the successful sciences trust, not to any single chain of inference (no stronger than its weakest link), but to the cable of multiple and various arguments intimately connected.[43]
+Stanovich also asserts that science avoids searching for a "magic bullet"; it avoids the single-cause fallacy. This means a scientist would not ask merely "What is the cause of...", but rather "What are the most significant causes of...". This is especially the case in the more macroscopic fields of science (e.g. psychology, cosmology).[44] Of course, research often analyzes few factors at once, but these are always added to the long list of factors that are most important to consider.[44] For example: knowing the details of only a person's genetics, or their history and upbringing, or the current situation may not explain a behaviour, but a deep understanding of all these variables combined can be very predictive.
+Pseudoscience, fringe science, and junk science
+Main articles: Pseudoscience, Fringe science, Junk science, Cargo cult science, and Scientific misconduct
+An area of study or speculation that masquerades as science in an attempt to claim a legitimacy that it would not otherwise be able to achieve is sometimes referred to as pseudoscience, fringe science, or "alternative science".[45] Another term, junk science, is often used to describe scientific hypotheses or conclusions which, while perhaps legitimate in themselves, are believed to be used to support a position that is seen as not legitimately justified by the totality of evidence. Physicist Richard Feynman coined the term "cargo cult science" in reference to pursuits that have the formal trappings of science but lack "a principle of scientific thought that corresponds to a kind of utter honesty" that allows their results to be rigorously evaluated.[46] Various types of commercial advertising, ranging from hype to fraud, may fall into these categories.
+There also can be an element of political or ideological bias on all sides of such debates. Sometimes, research may be characterized as "bad science", research that is well-intentioned but is seen as incorrect, obsolete, incomplete, or over-simplified expositions of scientific ideas. The term "scientific misconduct" refers to situations such as where researchers have intentionally misrepresented their published data or have purposely given credit for a discovery to the wrong person.[47]
+Scientific practice
+
+
+
+Astronomy became much more accurate after Tycho Brahe devised his scientific instruments for measuring angles between two celestial bodies, before the invention of the telescope. Brahe's observations were the basis for Kepler's laws.
+"If a man will begin with certainties, he shall end in doubts; but if he will be content to begin with doubts, he shall end in certainties." Francis Bacon (1605) The Advancement of Learning, Book 1, v, 8
+A skeptical point of view, demanding a method of proof, was the practical position taken as early as 1000 years ago, with Alhazen, Doubts Concerning Ptolemy, through Bacon (1605), and C. S. Peirce (18391914), who note that a community will then spring up to address these points of uncertainty. The methods of inquiry into a problem have been known for thousands of years,[48] and extend beyond theory to practice. The use of measurements, for example, is a practical approach to settle disputes in the community.
+John Ziman points out that intersubjective pattern recognition is fundamental to the creation of all scientific knowledge.[49] Ziman shows how scientists can identify patterns to each other across centuries: Needham 1954 (illustration facing page 164) shows how today's trained Western botanist can identify Artemisia alba from images taken from a 16th-century Chinese pharmacopia,[50] and Ziman refers to this ability as 'perceptual consensibility'.[51] Ziman then makes consensibility, leading to consensus, the touchstone of reliable knowledge.[52]
+The scientific method
+Main article: Scientific method
+The scientific method seeks to explain the events of nature in a reproducible way.[53] An explanatory thought experiment or hypothesis is put forward, as explanation, using principles such as parsimony (also known as "Occam's Razor") and are generally expected to seek consiliencefitting well with other accepted facts related to the phenomena.[54] This new explanation is used to make falsifiable predictions that are testable by experiment or observation. The predictions are to be posted before a confirming experiment or observation is sought, as proof that no tampering has occurred. Disproof of a prediction is evidence of progress.[55][56] This is done partly through observation of natural phenomena, but also through experimentation, that tries to simulate natural events under controlled conditions, as appropriate to the discipline (in the observational sciences, such as astronomy or geology, a predicted observation might take the place of a controlled experiment). Experimentation is especially important in science to help establish causal relationships (to avoid the correlation fallacy).
+When a hypothesis proves unsatisfactory, it is either modified or discarded.[57] If the hypothesis survived testing, it may become adopted into the framework of a scientific theory. This is a logically reasoned, self-consistent model or framework for describing the behavior of certain natural phenomena. A theory typically describes the behavior of much broader sets of phenomena than a hypothesis; commonly, a large number of hypotheses can be logically bound together by a single theory. Thus a theory is a hypothesis explaining various other hypotheses. In that vein, theories are formulated according to most of the same scientific principles as hypotheses. In addition to testing hypotheses, scientists may also generate a model based on observed phenomena. This is an attempt to describe or depict the phenomenon in terms of a logical, physical or mathematical representation and to generate new hypotheses that can be tested.[58]
+While performing experiments to test hypotheses, scientists may have a preference for one outcome over another, and so it is important to ensure that science as a whole can eliminate this bias.[59][60] This can be achieved by careful experimental design, transparency, and a thorough peer review process of the experimental results as well as any conclusions.[61][62] After the results of an experiment are announced or published, it is normal practice for independent researchers to double-check how the research was performed, and to follow up by performing similar experiments to determine how dependable the results might be.[63] Taken in its entirety, the scientific method allows for highly creative problem solving while minimizing any effects of subjective bias on the part of its users (namely the confirmation bias).[64]
+Mathematics and formal sciences
+Main article: Mathematics
+
+
+Data from the famous MichelsonMorley experiment
+Mathematics is essential to the sciences. One important function of mathematics in science is the role it plays in the expression of scientific models. Observing and collecting measurements, as well as hypothesizing and predicting, often require extensive use of mathematics. Arithmetic, algebra, geometry, trigonometry and calculus, for example, are all essential to physics. Virtually every branch of mathematics has applications in science, including "pure" areas such as number theory and topology.
+Statistical methods, which are mathematical techniques for summarizing and analyzing data, allow scientists to assess the level of reliability and the range of variation in experimental results. Statistical analysis plays a fundamental role in many areas of both the natural sciences and social sciences.
+Computational science applies computing power to simulate real-world situations, enabling a better understanding of scientific problems than formal mathematics alone can achieve. According to the Society for Industrial and Applied Mathematics, computation is now as important as theory and experiment in advancing scientific knowledge.[65]
+Whether mathematics itself is properly classified as science has been a matter of some debate. Some thinkers see mathematicians as scientists, regarding physical experiments as inessential or mathematical proofs as equivalent to experiments. Others do not see mathematics as a science, since it does not require an experimental test of its theories and hypotheses. Mathematical theorems and formulas are obtained by logical derivations which presume axiomatic systems, rather than the combination of empirical observation and logical reasoning that has come to be known as the scientific method. In general, mathematics is classified as formal science, while natural and social sciences are classified as empirical sciences.[66]
+Basic and applied research
+Although some scientific research is applied research into specific problems, a great deal of our understanding comes from the curiosity-driven undertaking of basic research. This leads to options for technological advance that were not planned or sometimes even imaginable. This point was made by Michael Faraday when, allegedly in response to the question "what is the use of basic research?" he responded "Sir, what is the use of a new-born child?".[67] For example, research into the effects of red light on the human eye's rod cells did not seem to have any practical purpose; eventually, the discovery that our night vision is not troubled by red light would lead search and rescue teams (among others) to adopt red light in the cockpits of jets and helicopters.[68] In a nutshell: Basic research is the search for knowledge. Applied research is the search for solutions to practical problems using this knowledge. Finally, even basic research can take unexpected turns, and there is some sense in which the scientific method is built to harness luck.
+Research in practice
+Due to the increasing complexity of information and specialization of scientists, most of the cutting-edge research today is done by well funded groups of scientists, rather than individuals.[69] D.K. Simonton notes that due to the breadth of very precise and far reaching tools already used by researchers today and the amount of research generated so far, creation of new disciplines or revolutions within a discipline may no longer be possible as it is unlikely that some phenomenon that merits its own discipline has been overlooked. Hybridizing of disciplines and finessing knowledge is, in his view, the future of science.[69]
+Practical impacts of scientific research
+Discoveries in fundamental science can be world-changing. For example:
+Research	Impact
+The strange orbit of Mercury (1859) and other research
+leading to special (1905) and general relativity (1916)	Satellite-based technology such as GPS (1973), satnav and satellite communications [70]
+Radioactivity (1896) and antimatter (1932)	Cancer treatment (1896), nuclear reactors (1942) and weapons (1945), PET scans (1961), and medical research (via isotopic labeling)
+Immunology	Vaccination, leading to the elimination of most infectious diseases from developed countries and the worldwide eradication of smallpox; hygiene, leading to decreased transmission of infectious diseases; antibodies, leading to techniques for disease diagnosis and targeted anticancer therapies.
+Crystallography and quantum mechanics (1900)	Semiconductor devices (1906), hence modern computing and telecommunications including the integration with wireless devices: the mobile phone [70]
+Diffraction (1665)	Optics, hence fiberoptic cable (1840s), modern intercontinental communications, and cable TV and internet
+Photovoltaic effect (1839)	Solar cells (1883), hence solar power, solar powered watches, calculators and other devices.
+Radio waves (1887)	Radio had become used in innumerable ways beyond its better-known areas of telephony, and broadcast television (1927) and radio (1906) entertainment. Other uses included - emergency services, radar (navigation and weather prediction), sonar, medicine, astronomy, wireless communications, and networking. Radio waves also led researchers to adjacent frequencies such as microwaves, used worldwide for heating and cooking food.
+Scientific community
+
+
+
+Johannes Hevelius and wife Elisabetha making observations, 1673. The Royal Society numbers Hevelius among its first foreign members.
+
+
+The Meissner effect causes a magnet to levitate above a superconductor
+Main article: Scientific community
+The scientific community is the group of all interacting scientists. It includes many sub-communities working on particular scientific fields, and within particular institutions; interdisciplinary and cross-institutional activities are also significant.
+Branches and fields
+Main article: Branches of science
+Scientific fields are commonly divided into two major groups: natural sciences, which study natural phenomena (including biological life), and social sciences, which study human behavior and societies. These groupings are empirical sciences, which means the knowledge must be based on observable phenomena and capable of being tested for its validity by other researchers working under the same conditions.[71] There are also related disciplines that are grouped into interdisciplinary and applied sciences, such as engineering and medicine. Within these categories are specialized scientific fields that can include parts of other scientific disciplines but often possess their own nomenclature and expertise.[72]
+Mathematics, which is classified as a formal science,[73][74] has both similarities and differences with the empirical sciences (the natural and social sciences). It is similar to empirical sciences in that it involves an objective, careful and systematic study of an area of knowledge; it is different because of its method of verifying its knowledge, using a priori rather than empirical methods.[75] The formal sciences, which also include statistics and logic, are vital to the empirical sciences. Major advances in formal science have often led to major advances in the empirical sciences. The formal sciences are essential in the formation of hypotheses, theories, and laws,[76] both in discovering and describing how things work (natural sciences) and how people think and act (social sciences).
+Institutions
+
+
+Louis XIV visiting the Acadmie des sciences in 1671
+Learned societies for the communication and promotion of scientific thought and experimentation have existed since the Renaissance period.[77] The oldest surviving institution is the Italian Accademia dei Lincei which was established in 1603.[78] The respective National Academies of Science are distinguished institutions that exist in a number of countries, beginning with the British Royal Society in 1660[79] and the French Acadmie des Sciences in 1666.[80]
+International scientific organizations, such as the International Council for Science, have since been formed to promote cooperation between the scientific communities of different nations. Many governments have dedicated agencies to support scientific research. Prominent scientific organizations include, the National Science Foundation in the U.S., the National Scientific and Technical Research Council in Argentina, the academies of science of many nations, CSIRO in Australia, Centre national de la recherche scientifique in France, Max Planck Society and Deutsche Forschungsgemeinschaft in Germany, and in Spain, CSIC.
+Literature
+Main article: Scientific literature
+An enormous range of scientific literature is published.[81] Scientific journals communicate and document the results of research carried out in universities and various other research institutions, serving as an archival record of science. The first scientific journals, Journal des Savans followed by the Philosophical Transactions, began publication in 1665. Since that time the total number of active periodicals has steadily increased. As of 1981, one estimate for the number of scientific and technical journals in publication was 11,500.[82] The United States National Library of Medicine currently indexes 5,516 journals that contain articles on topics related to the life sciences. Although the journals are in 39 languages, 91 percent of the indexed articles are published in English.[83]
+Most scientific journals cover a single scientific field and publish the research within that field; the research is normally expressed in the form of a scientific paper. Science has become so pervasive in modern societies that it is generally considered necessary to communicate the achievements, news, and ambitions of scientists to a wider populace.
+Science magazines such as New Scientist, Science & Vie, and Scientific American cater to the needs of a much wider readership and provide a non-technical summary of popular areas of research, including notable discoveries and advances in certain fields of research. Science books engage the interest of many more people. Tangentially, the science fiction genre, primarily fantastic in nature, engages the public imagination and transmits the ideas, if not the methods, of science.
+Recent efforts to intensify or develop links between science and non-scientific disciplines such as Literature or, more specifically, Poetry, include the Creative Writing Science resource developed through the Royal Literary Fund.[84]
+Science and society
+
+Women in science
+Main article: Women in science
+
+
+Vera Rubin, the first astronomer to infer galactic clumping from astronomical data in 1953, was not allowed to use the telescope at Palomar until 1965, with the given reason that the facility did not have a women's restroom.
+Science is largely a male-dominated field, with notable exceptions.[85] A large majority of male scientists are the ones who have made the discoveries, written the books and thus have written the rules of what to study and how to study it. There is evidence suggesting that this is a product of stereotypes (e.g. science as "manly") as well as self-fulfilling prophecies.[86][87] Experiments have shown that parents challenge and explain more to boys than girls, asking them to reflect more deeply and logically.[88] Physicist Evelyn Fox Keller argues that science has masculine stereotypes causing ego and competitiveness to obstruct progress, and that these tendencies prevent collaboration and sharing of information.[89]
+Women have faced a lot of discrimination getting not only credit for their scientific discoveries but also getting opportunities.[90] Both in research and professorship the quantity of females are very limited in comparison to their male counterparts.[91] The lack of females in science can be directly associated with the social atmosphere which has always treated science as a more masculine area of study.[92] Beginning with boys being pushed more towards academia and girls being confined to the domestic sphere, females have faced both discrimination and difficulty entering into science. Those who are a part of the scientific community find it difficult to break the "glass ceiling" which thus limits how far they can advance within the field. The barrier between work and home has also been an obstacle that women have had to overcome to succeed in the sciences. The achievements of women in science are attributed to their defiance of traditional status of being a laborer within the domestic sphere.[93]
+Feminist authors and leaders who hail from various educational backgrounds such as Londa Schiebinger, Anne Fausto-Sterling, Bonnie Spanier, and Evelyn Fox Keller[94] have published many works interpreting and critiquing science from a feminist perspective. Some criticisms include the gendered metaphors in science, the lack of representation of females in the sciences, how science is used to back up the ideals of patriarchy, and sex/gender dichotomies. Feminist Science Studies as a sub-genre of Women's Studies or Gender Studies are available as areas of study in many universities as a method of activism to promote and encourage awareness of social issues as well as promoting women and intersex individuals to contribute more to the sciences.
+Although it has been difficult for women to break into the field of science as credible contributors, many new discoveries have been a result of work by female scientists. Some of the most famous females in the field include Marie Curie, who made discoveries relating to radioactivity, Rosalind Franklin, who worked with x-ray diffraction, Caroline Herschel, who was the first woman to be paid for her scientific work and Jane Goodall, who is currently the world's foremost primatologist.[95] These women helped establish a place for women in a heavily male dominated field.[91] Most female scientists have only gained fame and authority in the 20th century although there have been advancements in the natural sciences made by women since the early 15th century. Christine de Pizan wrote the first encyclopedia in which she gave credit to these 15th-century women for the scientific discoveries of bread making, wool dyeing, grain cultivation and many other day to day inventions.
+Science policy
+Main articles: Science policy, History of science policy, Funding of science, and Economics of science
+
+
+President Clinton meets the 1998 U.S. Nobel Prize winners in the White House.
+Science policy is an area of public policy concerned with the policies that affect the conduct of the scientific enterprise, including research funding, often in pursuance of other national policy goals such as technological innovation to promote commercial product development, weapons development, health care and environmental monitoring. Science policy also refers to the act of applying scientific knowledge and consensus to the development of public policies. Science policy thus deals with the entire domain of issues that involve the natural sciences. In accordance with public policy being concerned about the well-being of its citizens, science policy's goal is to consider how science and technology can best serve the public.
+State policy has influenced the funding of public works and science for thousands of years, dating at least from the time of the Mohists, who inspired the study of logic during the period of the Hundred Schools of Thought, and the study of defensive fortifications during the Warring States Period in China. In Great Britain, governmental approval of the Royal Society in the 17th century recognized a scientific community which exists to this day. The professionalization of science, begun in the 19th century, was partly enabled by the creation of scientific organizations such as the National Academy of Sciences, the Kaiser Wilhelm Institute, and State funding of universities of their respective nations. Public policy can directly affect the funding of capital equipment, intellectual infrastructure for industrial research, by providing tax incentives to those organizations that fund research. Vannevar Bush, director of the office of scientific research and development for the United States government, the forerunner of the National Science Foundation, wrote in July 1945 that "Science is a proper concern of government" [96]
+Science and technology research is often funded through a competitive process, in which potential research projects are evaluated and only the most promising receive funding. Such processes, which are run by government, corporations or foundations, allocate scarce funds. Total research funding in most developed countries is between 1.5% and 3% of GDP.[97] In the OECD, around two-thirds of research and development in scientific and technical fields is carried out by industry, and 20% and 10% respectively by universities and government. The government funding proportion in certain industries is higher, and it dominates research in social science and humanities. Similarly, with some exceptions (e.g. biotechnology) government provides the bulk of the funds for basic scientific research. In commercial research and development, all but the most research-oriented corporations focus more heavily on near-term commercialisation possibilities rather than "blue-sky" ideas or technologies (such as nuclear fusion).
+Media perspectives
+The mass media face a number of pressures that can prevent them from accurately depicting competing scientific claims in terms of their credibility within the scientific community as a whole. Determining how much weight to give different sides in a scientific debate may require considerable expertise regarding the matter.[98] Few journalists have real scientific knowledge, and even beat reporters who know a great deal about certain scientific issues may be ignorant about other scientific issues that they are suddenly asked to cover.[99][100]
+Political usage
+See also: Politicization of science
+Many issues damage the relationship of science to the media and the use of science and scientific arguments by politicians. As a very broad generalisation, many politicians seek certainties and facts whilst scientists typically offer probabilities and caveats. However, politicians' ability to be heard in the mass media frequently distorts the scientific understanding by the public. Examples in Britain include the controversy over the MMR inoculation, and the 1988 forced resignation of a Government Minister, Edwina Currie for revealing the high probability that battery farmed eggs were contaminated with Salmonella.[101]
+John Horgan, Chris Mooney, and researchers from the US and Canada have described Scientific Certainty Argumentation Methods (SCAMs), where an organization or think tank makes it their only goal to cast doubt on supported science because it conflicts with political agendas.[102][103][104][105] Hank Campbell and microbiologist Alex Berezow have described "feel-good fallacies" used in politics, where politicians frame their positions in a way that makes people feel good about supporting certain policies even when scientific evidence shows there is no need to worry or there is no need for dramatic change on current programs.[106]
+See also
+
+	Science portal
+Antiquarian science books
+Research
+Criticism of science
+Outline of science
+Protoscience
+Science wars
+Sociology of scientific knowledge
+Notes
+
+^ "science". Online Etymology Dictionary.
+^ Wilson, Edward O. (1998). Consilience: The Unity of Knowledge (1st ed.). New York, NY: Vintage Books. pp. 4971. ISBN 0-679-45077-7.
+^ "... modern science is a discovery as well as an invention. It was a discovery that nature generally acts regularly enough to be described by laws and even by mathematics; and required invention to devise the techniques, abstractions, apparatus, and organization for exhibiting the regularities and securing their law-like descriptions." p.vii, J. L. Heilbron,(2003, editor-in-chief). The Oxford Companion to the History of Modern Science. New York: Oxford University Press. ISBN 0-19-511229-6.
+"science". Merriam-Webster Online Dictionary. Merriam-Webster, Inc. Retrieved 2011-10-16. "3 a: knowledge or a system of knowledge covering general truths or the operation of general laws especially as obtained and tested through scientific method b: such knowledge or such a system of knowledge concerned with the physical world and its phenomena"
+^ David C. Lindberg (2007), The beginnings of Western science: the European Scientific tradition in philosophical, religious, and institutional context, Second ed. Chicago: Univ. of Chicago Press ISBN 978-0-226-48205-7, p.3
+^ Isaac Newton's Philosophiae Naturalis Principia Mathematica (1687), for example, is translated "Mathematical Principles of Natural Philosophy", and reflects the then-current use of the words "natural philosophy", akin to "systematic study of nature"
+^ Oxford English Dictionary
+^ Needham 1954, p. 150
+^ "The historian ... requires a very broad definition of "science"  one that ... will help us to understand the modern scientific enterprise. We need to be broad and inclusive, rather than narrow and exclusive ... and we should expect that the farther back we go [in time] the broader we will need to be."  David Pingree (1992), "Hellenophilia versus the History of Science" Isis 83 554-63, as cited on p.3, David C. Lindberg (2007), The beginnings of Western science: the European Scientific tradition in philosophical, religious, and institutional context, Second ed. Chicago: Univ. of Chicago Press ISBN 978-0-226-48205-7
+^ See the quotation in Homer (8th century BCE) Odyssey 10.302-3
+^ "Progress or Return" in An Introduction to Political Philosophy: Ten Essays by Leo Strauss. (Expanded version of Political Philosophy: Six Essays by Leo Strauss, 1975.) Ed. Hilail Gilden. Detroit: Wayne State UP, 1989.
+^ Strauss and Cropsey eds. History of Political Philosophy, Third edition, p.209.
+^ "... [A] man knows a thing scientifically when he possesses a conviction arrived at in a certain way, and when the first principles on which that conviction rests are known to him with certaintyfor unless he is more certain of his first principles than of the conclusion drawn from them he will only possess the knowledge in question accidentally."  Aristotle, Nicomachean Ethics 6 (H. Rackham, ed.) Aristot. Nic. Eth. 1139b
+^ Grant, Edward (2007). A History of Natural Philosophy: From the Ancient World to the Nineteenth Century. Cambridge University Press. pp. 6267. ISBN 978-0-521-68957-1.
+^ "Galileo and the Birth of Modern Science, by Stephen Hawking, American Heritage's Invention & Technology, Spring 2009, Vol. 24, No. 1, p. 36
+^ "Galileo Project - Pope Urban VIII Biography".
+^ Wilson, EO. 1998. Consilience: The unity of knowledge. New York. Alfred A. Knopf. p334
+^ Griffith J. 2011. What is Science?. In The Book of Real Answers to Everything!, ISBN 9781741290073. http://www.worldtransformation.com/what-is-science/ accessed November 20, 2012.
+^ This realization is the topic of intersubjective verifiability, as recounted, for example, by Max Born (1949, 1965) Natural Philosophy of Cause and Chance, who points out that all knowledge, including natural or social science, is also subjective. Page 162: "Thus it dawned upon me that fundamentally everything is subjective, everything without exception. That was a shock."
+^ "...[T]he logical empiricists thought that the great aim of science was to discover and establish generalizations." Godfrey-Smith 2003, p. 41
+^ "Bayesianism tries to understand evidence using probability theory." Godfrey-Smith 2003, p. 203
+^ Godfrey-Smith 2003, p. 236
+^ Engraving after 'Men of Science Living in 1807-8', John Gilbert engraved by George Zobel and William Walker, ref. NPG 1075a, National Portrait Gallery, London, accessed February 2010
+^ Smith, HM (May 1941). "Eminent men of science living in 1807-8". J. Chem. Educ 18 (5): 203. doi:10.1021/ed018p203.
+^ Godfrey-Smith 2003, p. 20
+^ Godfrey-Smith 2003, pp. 637
+^ Godfrey-Smith 2003, p. 68
+^ Godfrey-Smith 2003, p. 69
+^ Popper called this Conjecture and Refutation Godfrey-Smith 2003, pp. 1178
+^ Karl Popper: Objective Knowledge (1972)
+^ Newton-Smith, W. H. (1994). The Rationality of Science. London: Routledge. p. 30. ISBN 0-7100-0913-5.
+^ a b Feyerabend 1993.
+^ Feyerabend, Paul (1987). Farewell To Reason. Verso. p. 100. ISBN 0-86091-184-5.
+^ Godfrey-Smith 2003, p. 151 credits Willard Van Orman Quine (1969) "Epistemology Naturalized" Ontological Relativity and Other Essays New York: Columbia University Press, as well as John Dewey, with the basic ideas of naturalism  Naturalized Epistemology, but Godfrey-Smith diverges from Quine's position: according to Godfrey-Smith, "A naturalist can think that science can contribute to answers to philosophical questions, without thinking that philosophical questions can be replaced by science questions.".
+^ Brugger, E. Christian (2004). "Casebeer, William D. Natural Ethical Facts: Evolution, Connectionism, and Moral Cognition". The Review of Metaphysics 58 (2).
+^ Popper 1996, p. 4.
+^ Stanovich 2007 pg 119138
+^ Stanovich 2007 pg 123
+^ Fleck, Ludwik (1979). Trenn, Thaddeus J.; Merton, Robert K, eds. Genesis and Development of a Scientific Fact. Chicago: University of Chicago Press. ISBN 0-226-25325-2. Claims that before a specific fact "existed", it had to be created as part of a social agreement within a community. Steven Shapin (1980) "A view of scientific thought" Science ccvii (7 Mar 1980) 1065-66 states "[To Fleck,] facts are invented, not discovered. Moreover, the appearance of scientific facts as discovered things is itself a social construction: a made thing. "
+^ Dawkins, Richard; Coyne, Jerry (2005-09-02). "One side can be wrong". The Guardian (London).
+^ "Barry Stroud on Scepticism". philosophy bites. 2007-12-16. Retrieved 2012-02-05.
+^ Peirce (1877), "The Fixation of Belief", Popular Science Monthly, v. 12, pp. 115, see IV on p. 67. Reprinted Collected Papers v. 5, paragraphs 35887 (see 3746), Writings v. 3, pp. 24257 (see 2478), Essential Peirce v. 1, pp. 10923 (see 11415), and elsewhere.
+^ Peirce (1905), "Issues of Pragmaticism", The Monist, v. XV, n. 4, pp. 48199, see "Character V" on p. 491. Reprinted in Collected Papers v. 5, paragraphs 43863 (see 451), Essential Peirce v. 2, pp. 34659 (see 353), and elsewhere.
+^ Peirce (1868), "Some Consequences of Four Incapacities", Journal of Speculative Philosophy v. 2, n. 3, pp. 14057, see p. 141. Reprinted in Collected Papers, v. 5, paragraphs 264317, Writings v. 2, pp. 21142, Essential Peirce v. 1, pp. 2855, and elsewhere.
+^ a b Stanovich 2007 pp 141147
+^ "Pseudoscientific  pretending to be scientific, falsely represented as being scientific", from the Oxford American Dictionary, published by the Oxford English Dictionary; Hansson, Sven Ove (1996)."Defining Pseudoscience", Philosophia Naturalis, 33: 169176, as cited in "Science and Pseudo-science" (2008) in Stanford Encyclopedia of Philosophy. The Stanford article states: "Many writers on pseudoscience have emphasized that pseudoscience is non-science posing as science. The foremost modern classic on the subject (Gardner 1957) bears the title Fads and Fallacies in the Name of Science. According to Brian Baigrie (1988, 438), "[w]hat is objectionable about these beliefs is that they masquerade as genuinely scientific ones." These and many other authors assume that to be pseudoscientific, an activity or a teaching has to satisfy the following two criteria (Hansson 1996): (1) it is not scientific, and (2) its major proponents try to create the impression that it is scientific".
+For example, Hewitt et al. Conceptual Physical Science Addison Wesley; 3 edition (July 18, 2003) ISBN 0-321-05173-4, Bennett et al. The Cosmic Perspective 3e Addison Wesley; 3 edition (July 25, 2003) ISBN 0-8053-8738-2; See also, e.g., Gauch HG Jr. Scientific Method in Practice (2003).
+A 2006 National Science Foundation report on Science and engineering indicators quoted Michael Shermer's (1997) definition of pseudoscience: '"claims presented so that they appear [to be] scientific even though they lack supporting evidence and plausibility"(p. 33). In contrast, science is "a set of methods designed to describe and interpret observed and inferred phenomena, past or present, and aimed at building a testable body of knowledge open to rejection or confirmation"(p. 17)'.Shermer M. (1997). Why People Believe Weird Things: Pseudoscience, Superstition, and Other Confusions of Our Time. New York: W. H. Freeman and Company. ISBN 0-7167-3090-1. as cited by National Science Board. National Science Foundation, Division of Science Resources Statistics (2006). "Science and Technology: Public Attitudes and Understanding". Science and engineering indicators 2006.
+"A pretended or spurious science; a collection of related beliefs about the world mistakenly regarded as being based on scientific method or as having the status that scientific truths now have," from the Oxford English Dictionary, second edition 1989.
+^ Cargo Cult Science by Feyman, Richard. Retrieved 2011-07-21.
+^ "Coping with fraud" (PDF). The COPE Report 1999: 1118. Archived from the original on 2007-09-28. Retrieved 2011-07-21. "It is 10 years, to the month, since Stephen Lock ... Reproduced with kind permission of the Editor, The Lancet."
+^ In mathematics, Plato's Meno demonstrates that it is possible to know logical propositions, such as the Pythagorean theorem, and even to prove them, as cited by Crease 2009, pp. 3541
+^ Ziman cites Polanyi 1958 chapter 12, as referenced in Ziman 1978, p. 44
+^ Ziman 1978, pp. 4647
+^ Ziman 1978, p. 46
+^ Ziman 1978, p. 104.
+^ di Francia 1976, p. 13: "The amazing point is that for the first time since the discovery of mathematics, a method has been introduced, the results of which have an intersubjective value!" (Author's punctuation)
+^ Wilson, Edward (1999). Consilience: The Unity of Knowledge. New York: Vintage. ISBN 0-679-76867-X
+^ di Francia 1976, pp. 45: "One learns in a laboratory; one learns how to make experiments only by experimenting, and one learns how to work with his hands only by using them. The first and fundamental form of experimentation in physics is to teach young people to work with their hands. Then they should be taken into a laboratory and taught to work with measuring instruments  each student carrying out real experiments in physics. This form of teaching is indispensable and cannot be read in a book."
+^ Fara 2009, p. 204: "Whatever their discipline, scientists claimed to share a common scientific method that ... distinguished them from non-scientists."
+^ Nola & Irzik 2005, p. 208.
+^ Nola & Irzik 2005, pp. 199201.
+^ van Gelder, Tim (1999). ""Heads I win, tails you lose": A Foray Into the Psychology of Philosophy" (PDF). University of Melbourne. Archived from the original on 2008-04-09. Retrieved 2008-03-28.
+^ Pease, Craig (September 6, 2006). "Chapter 23. Deliberate bias: Conflict creates bad science". Science for Business, Law and Journalism. Vermont Law School. Archived from the original on 19 June 2010.
+^ Shatz, David (2004). Peer Review: A Critical Inquiry. Rowman & Littlefield. ISBN 0-7425-1434-X. OCLC 54989960.
+^ Krimsky, Sheldon (2003). Science in the Private Interest: Has the Lure of Profits Corrupted the Virtue of Biomedical Research. Rowman & Littlefield. ISBN 0-7425-1479-X. OCLC 185926306.
+^ Bulger, Ruth Ellen; Heitman, Elizabeth; Reiser, Stanley Joel (2002). The Ethical Dimensions of the Biological and Health Sciences (2nd ed.). Cambridge University Press. ISBN 0-521-00886-7. OCLC 47791316.
+^ Backer, Patricia Ryaby (October 29, 2004). "What is the scientific method?". San Jose State University. Retrieved 2008-03-28.
+^ Graduate Education for Computational Science and Engineering, SIAM Working Group on CSE Education. Retrieved 2008-04-27.
+^ Bunge, Mario Augusto (1998). Philosophy of Science: From Problem to Theory. Transaction Publishers. p. 24. ISBN 0-7658-0413-1.
+^ "To Live at All Is Miracle Enough  Richard Dawkins". RichardDawkins.net. 2006-05-10. Retrieved 2012-02-05.
+^ Stanovich 2007, pp. 106110
+^ a b Simonton, Dean Keith. "After Einstein: Scientific genius is extinct". Nature 493 (7434): 602602. doi:10.1038/493602a.
+^ a b Evicting Einstein, March 26, 2004, NASA. "Both [relativity and quantum mechanics] are extremely successful. The Global Positioning System (GPS), for instance, wouldn't be possible without the theory of relativity. Computers, telecommunications, and the Internet, meanwhile, are spin-offs of quantum mechanics."
+^ Popper 2002, p. 20.
+^ See: Editorial Staff (March 7, 2008). "Scientific Method: Relationships among Scientific Paradigms". Seed magazine. Retrieved 2007-09-12.
+^ "Marcus Tomalin (2006) ''Linguistics and the Formal Sciences''". Cambridge.org. doi:10.2277/0521854814. Retrieved 2012-02-05.
+^ Benedikt Lwe (2002) "The Formal Sciences: Their Scope, Their Foundations, and Their Unity"
+^ Popper 2002, pp. 1011.
+^ Popper 2002, pp. 7982.
+^ Parrott, Jim (August 9, 2007). "Chronicle for Societies Founded from 1323 to 1599". Scholarly Societies Project. Retrieved 2007-09-11.
+^ "Accademia Nazionale dei Lincei" (in Italian). 2006. Retrieved 2007-09-11.
+^ "History of the Royal Society". The Royal Society. Retrieved 2011-10-16.
+^ Meynell, G.G. "The French Academy of Sciences, 166691: A reassessment of the French Acadmie royale des sciences under Colbert (166683) and Louvois (168391)". Retrieved 2011-10-13.
+^ Ziman, J.M. (1980). "The proliferation of scientific literature: a natural process". Science 208 (4442): 369371. doi:10.1126/science.7367863. PMID 7367863.
+^ Subramanyam, Krishna; Subramanyam, Bhadriraju (1981). Scientific and Technical Information Resources. CRC Press. ISBN 0-8247-8297-6. OCLC 232950234.
+^ "MEDLINE Fact Sheet". Washington DC: United States National Library of Medicine. Retrieved 2011-10-15.
+^ Petrucci, Mario. "Creative Writing <-> Science". Retrieved 2008-04-27.
+^ Women in science have included:
+Hypatia (c. 350-415 CE), of the Library of Alexandria.
+Trotula of Salerno, a physician c. 1060 CE.
+Caroline Herschel one of the first professional astronomers of the 18th and 19th centuries.
+Christine Ladd-Franklin, a doctoral student of C. S. Peirce, who published Wittgenstein's proposition 5.101 in her dissertation, 40 years before Wittgenstein's publication of Tractatus Logico-Philosophicus.
+Henrietta Leavitt, a professional human computer and astronomer, who first published the significant relationship between the luminosity of Cepheid variable stars and their distance from Earth. This allowed Hubble to make the discovery of the expanding universe, which led to the Big Bang theory.
+Emmy Noether, who proved the conservation of energy and other constants of motion in 1915.
+Nina Byers notes that after 1976, women in science became much more prevalent in science, than the exceptions
+^ Summers, L. H. (2005). Remarks at NBER Conference on Diversifying the Science & Engineering Workforce. The office of the President. Harvard University.
+^ Nosek, B.A., et al. (2009). National differences in genderscience stereotypes predict national sex differences in science and math achievement. PNAS, June 30, 2009, 106, 1059310597.
+^ Crowley, K. Callanan, M.A., Tenenbaum, H. R., & Allen, E. (2001). Parents explain more often to boys than to girls during shared scientific thinking. Psychological Science, 258261.
+^ Reflections on Gender and Science. Yale University Press, 1985.
+^ Nina Byers,Contributions of 20th Century Women to Physics which details and 83 female physicists of the 20th century, By 1976, more women were physicists, and the 83 who were detailed were joined by other women in noticeably larger numbers.
+^ a b Londa Schiebinger, Has Feminism Changed Science (Cambridge: Harvard University Press, 1999)
+^ Londa Schiebinger, Has Feminism Changed Science (Cambridge: Harvard University Press, 1999).
+^ Bonnie Spanier, From Molecules to Brains, Normal Science Supports Sexist Beliefs About Differences, The Gender and Science Reader ( New York: Routledge 2001)
+^ The Gender and Science Reader
+^ Sarah Zielinski, Ten Historic Female Scientists You Should Know, web.http://www.smithsonianmag.com/science-nature/Ten-Historic-Female-Scientists-You-Should-Know.html.
+^ "Vannevar Bush (July 1945), "Science, the Endless Frontier"". Nsf.gov. Retrieved 2012-02-05.
+^ "Main Science and Technology Indicators - 2008-1" (pdf). OECD. Retrieved 20 April 2012. 50.8 KB
+^ Dickson, David (October 11, 2004). "Science journalism must keep a critical edge". Science and Development Network. Archived from the original|archiveurl= requires |url= (help) on 21 June 2010.
+^ Mooney, Chris (Nov/Dec 2004). Blinded By Science, How 'Balanced' Coverage Lets the Scientific Fringe Hijack Reality 43 (4). Columbia Journalism Review. Retrieved 2008-02-20.
+^ McIlwaine, S.; Nguyen, D. A. (2005). "Are Journalism Students Equipped to Write About Science?". Australian Studies in Journalism 14: 4160. Retrieved 2008-02-20.
+^ "1988: Egg industry fury over salmonella claim", "On This Day," BBC News, December 3, 1988.
+^ "Original "Doubt is our product..." memo". University of California, San Francisco. 21 August 1969. Retrieved 3 October 2012. The memo reads "Doubt is our product since it is the best means of competing with the 'body of fact' that exists in the mind of the general public. It is also the means of establishing a controversy."
+^ "'THE REPUBLICAN WAR ON SCIENCE,' BY CHRIS MOONEY", Political Science, Review by JOHN HORGAN, Published: December 18 2005
+^ Mooney, Chris (2005). The Republican War on Science. Basic Books. ISBN 0-465-04676-2.
+^ William R. Freudenburg, Robert Gramling, Debra J. Davidson (2008) "Scientific Certainty Argumentation Methods (SCAMs): Science and the politics of doubt". Sociological Inquiry. Vol. 78, No. 1. 238
+^ Hank Campbell, Alex Berezow,. Science Left Behind : Feel-good Fallacies and the Rise of the Anti-Scientific Left (1st ed.). New York: PublicAffairs. ISBN 9781610391641.
+References
+
+Crease, Robert P. (2009). The Great Equations. New York: W.W. Norton. p. 317. ISBN 978-0-393-06204-5
+Crease, Robert P. (2011). World in the Balance: the historic quest for an absolute system of measurement. New York: W.W. Norton. p. 317. ISBN 978-0-393-07298-3.
+di Francia, Giuliano Toraldo (1976). The Investigation of the Physical World. Cambridge: Cambridge University Press. ISBN 0-521-29925-X Originally published in Italian as L'Indagine del Mondo Fisico by Giulio Einaudi editore 1976; first published in English by Cambridge University Press 1981.
+Fara, Patricia (2009). Science : a four thousand year history. Oxford: Oxford University Press. p. 408. ISBN 978-0-19-922689-4.
+Feyerabend, Paul (1993). Against Method (3rd ed.). London: Verso. ISBN 0-86091-646-4.
+Feyerabend, Paul (2005). Science, history of the philosophy, as cited in Honderich, Ted (2005). The Oxford companion to philosophy. Oxford Oxfordshire: Oxford University Press. ISBN 0-19-926479-1. OCLC 173262485.
+Godfrey-Smith, Peter (2003). Theory and Reality. Chicago 60637: University of Chicago. p. 272. ISBN 0-226-30062-5
+Feynman, R.P. (1999). The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman. Perseus Books Group. ISBN 0-465-02395-9. OCLC 181597764.
+Needham, Joseph (1954). Science and Civilisation in China: Introductory Orientations 1. Cambridge University Press
+Nola, Robert; Irzik, Grol (2005). Philosophy, science, education and culture. Science & technology education library 28. Springer. ISBN 1-4020-3769-4.
+Papineau, David. (2005). Science, problems of the philosophy of., as cited in Honderich, Ted (2005). The Oxford companion to philosophy. Oxford Oxfordshire: Oxford University Press. ISBN 0-19-926479-1. OCLC 173262485.
+Parkin, D. (1991). "Simultaneity and Sequencing in the Oracular Speech of Kenyan Diviners". In Philip M. Peek. African Divination Systems: Ways of Knowing. Indianapolis, IN: Indiana University Press..
+Polanyi, Michael (1958). Personal Knowledge: Towards a Post-Critical Philosophy. University of Chicago Press. ISBN 0-226-67288-3
+Popper, Karl Raimund (1996) [1984]. In search of a better world: lectures and essays from thirty years. New York, NY: Routledge. ISBN 0-415-13548-6.
+Popper, Karl R. (2002) [1959]. The Logic of Scientific Discovery. New York, NY: Routledge Classics. ISBN 0-415-27844-9. OCLC 59377149.
+Stanovich, Keith E. (2007). How to Think Straight About Psychology. Boston: Pearson Education. ISBN 978-0-205-68590-5.
+Ziman, John (1978). Reliable knowledge: An exploration of the grounds for belief in science. Cambridge: Cambridge University Press. p. 197. ISBN 0-521-22087-4
+Further reading
+
+Augros, Robert M., Stanciu, George N., "The New Story of Science: mind and the universe", Lake Bluff, Ill.: Regnery Gateway, c1984. ISBN 0-89526-833-7
+Becker, Ernest (1968). The structure of evil; an essay on the unification of the science of man. New York: G. Braziller.
+Cole, K. C., Things your teacher never told you about science: Nine shocking revelations Newsday, Long Island, New York, March 23, 1986, pg 21+
+Feynman, Richard "Cargo Cult Science"
+Gaukroger, Stephen (2006). The Emergence of a Scientific Culture: Science and the Shaping of Modernity 12101685. Oxford: Oxford University Press. ISBN 0-19-929644-8.
+Gopnik, Alison, "Finding Our Inner Scientist", Daedalus, Winter 2004.
+Krige, John, and Dominique Pestre, eds., Science in the Twentieth Century, Routledge 2003, ISBN 0-415-28606-9
+Levin, Yuval (2008). Imagining the Future: Science and American Democracy. New York, Encounter Books. ISBN 1-59403-209-2
+Kuhn, Thomas, The Structure of Scientific Revolutions, 1962.
+William F., McComas (1998). "The principal elements of the nature of science: Dispelling the myths". In McComas, William F. The nature of science in science education: rationales and strategies. Springer. ISBN 978-0-7923-6168-8
+Obler, Paul C.; Estrin, Herman A. (1962). The New Scientist: Essays on the Methods and Values of Modern Science. Anchor Books, Doubleday.
+Russell, Bertrand (1985) [1952]. The Impact of Science on Society. London: Unwin. ISBN 0-04-300090-8.
+Rutherford, F. James; Ahlgren, Andrew (1990). Science for all Americans. New York, NY: American Association for the Advancement of Science, Oxford University Press. ISBN 0-19-506771-1.
+Thurs, Daniel Patrick (2007). Science Talk: Changing Notions of Science in American Popular Culture. New Brunswick, NJ: Rutgers University Press. pp. 2252. ISBN 978-0-8135-4073-3.
+External links
+
+Find more about Science at Wikipedia's sister projects
+	Definitions and translations from Wiktionary
+	Media from Commons
+	Learning resources from Wikiversity
+	News stories from Wikinews
+	Quotations from Wikiquote
+	Source texts from Wikisource
+	Textbooks from Wikibooks
+	Travel information from Wikivoyage
+Publications
+"GCSE Science textbook". Wikibooks.org
+News
+Nature News. Science news by the journal Nature
+New Scientist. An weekly magazine published by Reed Business Information
+ScienceDaily
+Science Newsline
+Sciencia
+Discover Magazine
+Irish Science News from Discover Science & Engineering
+Science Stage Scientific Videoportal and Community
+Resources
+Euroscience:
+"ESOF: Euroscience Open Forum". Archived from the original on 10 June 2010.
+Science Development in the Latin American docta
+Classification of the Sciences in Dictionary of the History of Ideas. (Dictionary's new electronic format is badly botched, entries after "Design" are inaccessible. Internet Archive old version).
+"Nature of Science" University of California Museum of Paleontology
+United States Science Initiative Selected science information provided by US Government agencies, including research & development results
+How science works University of California Museum of Paleontology
+Categories: Science
+Navigation menu
+Create accountLog inArticleTalkReadView sourceView history
+
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact Wikipedia
+Toolbox
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Cite this page
+Print/export
+Languages
+Afrikaans
+
+nglisc
+
+Aragons
+
+Asturianu
+Avae'
+Aymar aru
+Azrbaycanca
+Bamanankan
+
+Bahasa Banjar
+Bn-lm-g
+Basa Banyumasan
+
+
+ ()
+
+Boarisch
+
+Bosanski
+Brezhoneg
+Catal
+
+Cebuano
+esky
+Cymraeg
+Dansk
+Deutsch
+Eesti
+
+Espaol
+Esperanto
+Estremeu
+Euskara
+
+Fiji Hindi
+Franais
+Frysk
+Furlan
+Gaeilge
+Gidhlig
+Galego
+
+
+Hak-k-fa
+
+Hawai`i
+
+
+Hrvatski
+Ido
+Igbo
+Ilokano
+ 
+Bahasa Indonesia
+Interlingua
+
+IsiXhosa
+slenska
+Italiano
+
+Basa Jawa
+
+-
+
+Kaszbsczi
+
+Kernowek
+Kiswahili
+Kongo
+Kreyl ayisyen
+Kurd
+
+
+Latina
+Latvieu
+Ltzebuergesch
+Lietuvi
+Limburgs
+Lojban
+Lumbaart
+Magyar
+
+Malagasy
+
+Malti
+
+
+Bahasa Melayu
+Mirands
+
+
+Nhuatl
+Nederlands
+Nedersaksies
+
+ 
+
+
+Nordfriisk
+Norfuk / Pitkern
+Norsk bokml
+Norsk nynorsk
+Nouormand
+Occitan
+ 
+
+Ozbekcha
+
+
+Papiamentu
+
+Picard
+Piemontis
+Plattdtsch
+Polski
+Portugus
+Qrmtatarca
+Romn
+Runa Simi
+
+
+ 
+Gagana Samoa
+
+Sardu
+Scots
+Sesotho
+Sesotho sa Leboa
+Shqip
+Sicilianu
+
+Simple English
+SiSwati
+Slovenina
+Slovenina
+Soomaaliga
+
+Sranantongo
+ / srpski
+Srpskohrvatski / 
+Basa Sunda
+Suomi
+Svenska
+Tagalog
+
+/tatara
+
+
+
+Tshivenda
+Trke
+ 
+
+
+Vahcuengh
+Vneto
+Vepsn kel
+Ting Vit
+Vro
+Walon
+
+Winaray
+Wolof
+Xitsonga
+
+Yorb
+
+emaitka
+
+Edit links
+This page was last modified on 24 May 2013 at 20:45.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaMobile view 

@@ -1,0 +1,63 @@
+ 
+ 
+
+ "]]
+
+ ]]
+
+ s on Karakoram Highway in Pakistan]]
+ CA and Australian English|AU) or lorry (British English|UK) is a motor vehicle designed to transport cargo. Trucks vary greatly in size, power, and configuration, with the smallest being mechanically similar to an automobile. Commercial trucks can be very large and powerful, and may be configured to mount specialized equipment, such as in the case of fire trucks and concrete mixers and suction excavators. Modern trucks are largely powered by diesel engines exclusively, although small to medium size trucks with gasoline engines exist in America. In the European Union vehicles with a gross combination mass of less than   are known as light commercial vehicles and those over as large goods vehicles.
+
+==The word==
+
+===Etymology=== Greek trokhos () meaning "wheel" from trekhein (, "to run"). The first known usage of "truck" was in 1611 when it referred to the small strong wheels on ships cannon carriages. In its extended usage it came to refer to carts for carrying heavy loads, a meaning known since 1771. With the meaning of "motor-powered load carrier", it has been in usage since 1930, shortened from "motor truck", which dates back to 1916.  
+ railway industry, where the word is known to have been used in 1838 to refer to a type of truck (a freight car as in British usage, not a bogie as in the American), specifically a large flat wagon. It probably derives from the verb lurry (to pull, tug) of uncertain origin. With the meaning of "self-propelled vehicle for carrying goods" it has been in usage since 1911.  
+
+===International variance===
+  antenna transporters are huge vehicles that drive on 28 tires, are 10 meters wide, 20 meters long and 6 meters high, weigh 130 tonnes, and have as much power as two Formula&nbsp;1 engines. ]]
+
+ 
+In the  , India, Malaysia, Singapore, Ireland and Hong Kong lorry is used instead of truck, but only for the medium and heavy types.
+
+In American English, the word "truck" is often preceded by a word describing the type of vehicle, such as a "tanker truck". In British English these would be referred to as a "tanker" or "petrol tanker".
+
+In Australia and New Zealand, the term ute (short for coup utility) is used to describe a pickup truck with an open cargo carrying space but a front similar to a passenger car, and which requires only a passenger car licence to drive. The concept was developed in 1933 by Lewis Bandt of the Ford Motor Company in Geelong following a request from a Gippsland farmers wife for a vehicle that they could go to church in on Sunday without getting wet and also use to take the pigs to market on Monday. 
+
+==Driving==
+ 
+In the United States, a commercial drivers license is required to drive any type of commercial vehicle weighing   or more. 
+
+The United Kingdom and the rest of Europe now have common, yet complex rules (see European driving licence). As an overview, to drive a vehicle weighing more than   for commercial purposes requires a specialist licence (the type varies depending on the use of the vehicle and number of seats). For licences first acquired after 1997, that weight was reduced to  , not including trailers.
+
+In Australia, a truck drivers license is required for any motor vehicle with a Gross Vehicle Mass (GVM) exceeding  . The motor vehicles classes are further expanded as:
+* LR: Light rigid: a rigid vehicle with a GVM of more than   but not more than  . Any towed trailer must not weigh more than   GVM.
+* MR: Medium rigid: a rigid vehicle with 2&nbsp;axles and a GVM of more than  . Any towed trailer must not weigh more than   GVM. Also includes vehicles in class LR.
+* HR: Heavy Rigid: a rigid vehicle with three or more axles and a GVM of more than  ). Any towed trailer must not weigh more than  ) GVM. Also includes articulated buses and vehicles in class&nbsp;MR.
+* HC: Heavy Combination, a typical prime mover plus semi-trailer combination.
+* MC: Multi Combination e.g.,&nbsp;B&nbsp;Doubles/road trains.
+
+There is also a heavy vehicle transmission condition for a license class HR, HC, or MC test passed in a vehicle fitted with an automatic or synchromesh transmission, a drivers license will be restricted to vehicles of that class fitted with a synchromesh or automatic transmission. To have the condition removed, a person needs to pass a practical driving test in a vehicle with non-synchromesh transmission (constant mesh or crash box).  
+
+In 2006 the U.S.&nbsp;trucking industry employed 1.8&nbsp;million drivers of heavy trucks.  There are around 5&nbsp;million truck drivers in India. 
+
+==Anatomy of a truck==
+  R470 flat nose truck]] suspension and trailers or semi-trailers.
+
+===Cab=== cab is an enclosed space where the driver is seated. A "sleeper" is a compartment attached to the cab where the driver can rest while not driving, sometimes seen in semi-trailer trucks.
+
+There are several possible cab configurations:
+* "Cab over engine" (COE) or "flat nose"; where the driver is seated above the front axle and the internal combustion engine|engine. This design is almost ubiquitous in Europe, where overall truck lengths are strictly regulated, but also widely used in the rest of the world as well. They were common in North America, but lost prominence when permitted length was extended in the early 1980s. To access the engine, the whole cab tilts forward, earning this design the name of "tilt-cab". This type of cab is especially suited to the delivery conditions in Europe where many roads follow the layout of much more ancient path, and trackways which require the additional turning capability given by the short wheelbase of the cab over engine type. The COE design was invented by Viktor Schreckengost. 
+* Conventional cabs are the most common in  , with a sloped hood and other features to lower drag. shipping yards, or other specialist uses that require the vehicle to carry long loads such as pipes, metal rods, flat iron and other construction materials. This type is often custom made from a regular cabover truck that gets the upper half of its cab removed on the passenger side and replaced by an extended section of the bed. 
+A further step from this is the side loading forklift that can be described as a specially fabricated vehicle with the same properties as a truck of this type, in addition to the ability to pick up its own load.
+
+===Engine===
+  6.7L medium duty truck diesel engine]] four stroke V12 Detroit two stroke engine. Diesel engines are becoming the engine of choice for trucks ranging from class&nbsp;3 to 8 GVWs.
+ Mack and Navistar offer their own engines.     
+
+In the European Union, all new lorry engines must comply with European emission standards|Euro&nbsp;5 emission regulations.
+
+===Drivetrain===
+ 
+  transmissions as almost all automobile|cars, having either an automatic transmission or a manual transmission with synchromesh (synchronizers). Bigger trucks often use manual transmissions without synchronizers, saving bulk and weight, although synchromesh transmissions are used in larger trucks as well. Transmissions without synchronizers, known as "crash boxes", require double-clutching for each shift, (which can lead to repetitive motion injuries), or a technique known colloquially as "floating", a method of changing gears which doesnt use the clutch, except for starts and stops, due to the physical effort of double clutching, especially with non power assisted clutches, faster shifts, and less clutch wear.
+
+Double-clutching allows the driver to control the engine and transmission revolutions to synchronize, so that a smooth shift can be made; for example, when upshifting, the accelerator pedal is released and the clutch pedal is depressed while the gear lever is moved into neutral, the clutch pedal is then released and quickly pushed down again while the gear lever is moved to the next higher gear. Finally, the clutch pedal is released and the accelerator pedal pushed down to obtain required engine speed. Although this is a relatively fast movement, perhaps a second or so while transmission is in neutral, it allows the engine speed to drop and synchronize engine and transmission revol
