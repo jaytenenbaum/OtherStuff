@@ -1,0 +1,3 @@
+JSI_1:7:static is inserted
+JTD_1:11:this.numbers => numbers
+JTI_1:11:numbers  -->  this.numbers

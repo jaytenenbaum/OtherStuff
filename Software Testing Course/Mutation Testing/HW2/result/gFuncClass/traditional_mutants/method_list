@@ -1,0 +1,4 @@
+double_g(double)
+double_sqr(double)
+double_sqrt(double)
+double_abs(double)
